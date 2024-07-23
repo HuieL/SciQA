@@ -1,0 +1,28 @@
+Rank,Model,mAP@0.25,mAP@0.5,Paper Title,Paper URL
+1,V-DETR,77.8,65.9,V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection,/paper/v-detr-detr-with-vertex-relative-position
+2,OneFormer3D,76.9,65.3,OneFormer3D: One Transformer for Unified Point Cloud Segmentation,/paper/oneformer3d-one-transformer-for-unified-point
+3,Swin3D-L+CAGroup3D,76.4,63.2,Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding,/paper/swin3d-a-pretrained-transformer-backbone-for
+4,CAGroup3D,75.1,61.3,CAGroup3D: Class-Aware Grouping for 3D Object Detection on Point Clouds,/paper/cagroup3d-class-aware-grouping-for-3d-object
+5,SPGroup3D,74.3,59.6,SPGroup3D: Superpoint Grouping Network for Indoor 3D Object Detection,/paper/spgroup3d-superpoint-grouping-network-for
+6,Point-GCC+TR3D,73.1,59.6,Point-GCC: Universal Self-supervised 3D Scene Pre-training via Geometry-Color Contrast,/paper/point-gcc-universal-self-supervised-3d-scene
+7,TR3D,72.9,59.3,TR3D: Towards Real-Time Indoor 3D Object Detection,/paper/tr3d-towards-real-time-indoor-3d-object
+8,SoftGroup,71.6,59.4,SoftGroup for 3D Instance Segmentation on Point Clouds,/paper/softgroup-for-3d-instance-segmentation-on
+9,FCAF3D,71.5,57.3,FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection,/paper/fcaf3d-fully-convolutional-anchor-free-3d
+10,RepSurf-U,71.2,54.8,Surface Representation for Point Clouds,/paper/surface-representation-for-point-clouds
+11,TokenFusion,70.8,54.2,Multimodal Token Fusion for Vision Transformers,/paper/multimodal-token-fusion-for-vision
+12,RBGNet,70.6,55.2,RBGNet: Ray-based Grouping for 3D Object Detection,/paper/rbgnet-ray-based-grouping-for-3d-object
+13,PBNet,69.3,60.1,Divide and Conquer: 3D Point Cloud Instance Segmentation With Point-Wise Binarization,/paper/divide-and-conquer-3d-point-cloud-instance
+14,GroupFree3D,69.1,52.8,Group-Free 3D Object Detection via Transformers,/paper/group-free-3d-object-detection-via
+15,H3DNet,67.2,48.1,H3DNet: 3D Object Detection Using Hybrid Geometric Primitives,/paper/h3dnet-3d-object-detection-using-hybrid
+16,BRNet,66.1,50.9,Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds,/paper/back-tracing-representative-points-for-voting
+17,3DETR-m,65.0,47.0,An End-to-End Transformer Model for 3D Object Detection,/paper/an-end-to-end-transformer-model-for-3d-object
+18,3D-MPA,64.2,49.2,3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation,/paper/3d-mpa-multi-proposal-aggregation-for-3d
+19,VoteNet ,63.4,39.9,Point Cloud Pre-Training With Natural 3D Structures,/paper/point-cloud-pre-training-with-natural-3d
+20,GSDN,62.8,34.8,Generative Sparse Detection Networks for 3D Single-shot Object Detection,/paper/generative-sparse-detection-networks-for-3d
+21,HGNet,61.3,34.4,A Hierarchical Graph Network for 3D Object Detection on Point Clouds,/paper/a-hierarchical-graph-network-for-3d-object
+22,VoteNet,58.6,33.5,Deep Hough Voting for 3D Object Detection in Point Clouds,/paper/deep-hough-voting-for-3d-object-detection-in
+23,ImGeoNet ,54.8,28.4,ImGeoNet: Image-induced Geometry-aware Voxel Representation for Multi-view 3D Object Detection,/paper/imgeonet-image-induced-geometry-aware-voxel
+24,ImVoxelNet ,48.1,22.7,ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection,/paper/imvoxelnet-image-to-voxels-projection-for
+25,3D-SIS,40.2,22.5,3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans,/paper/3d-sis-3d-semantic-instance-segmentation-of
+26,GSPN,30.6,17.7,GSPN: Generative Shape Proposal Network for 3D Instance Segmentation in Point Cloud,/paper/gspn-generative-shape-proposal-network-for-3d
+27,SGPN,20.7,,SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation,/paper/sgpn-similarity-group-proposal-network-for-3d

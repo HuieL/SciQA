@@ -1,0 +1,228 @@
+Rank,Model,Validation mIoU,Params (M),Paper Title,Paper URL
+1,ONE-PEACE,63.0,1500.0,ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities,/paper/one-peace-exploring-one-general
+2,InternImage-H,62.9,1310.0,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+3,M3I Pre-training ,62.9,1310.0,Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information,/paper/towards-all-in-one-pre-training-via
+4,BEiT-3,62.8,1900.0,Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks,/paper/image-as-a-foreign-language-beit-pretraining
+5,EVA,62.3,1074.0,EVA: Exploring the Limits of Masked Visual Representation Learning at Scale,/paper/eva-exploring-the-limits-of-masked-visual
+6,ViT-Adapter-L ,61.5,571.0,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+7,FD-SwinV2-G,61.4,3000.0,Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation,/paper/contrastive-learning-rivals-masked-image
+8,RevCol-H ,61.0,2439.0,Reversible Column Networks,/paper/reversible-column-networks
+9,MasK DINO ,60.8,223.0,Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation,/paper/mask-dino-towards-a-unified-transformer-based-1
+10,ViT-Adapter-L ,60.5,571.0,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+11,DINOv2 ,60.2,1080.0,DINOv2: Learning Robust Visual Features without Supervision,/paper/dinov2-learning-robust-visual-features
+12,SwinV2-G,59.9,,Swin Transformer V2: Scaling Up Capacity and Resolution,/paper/swin-transformer-v2-scaling-up-capacity-and
+13,FocalNet-L ,58.5,,Focal Modulation Networks,/paper/focal-modulation-networks
+14,ViT-Adapter-L ,58.4,451.0,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+15,RSSeg-ViT-L ,58.4,330.0,Representation Separation for Semantic Segmentation with Vision Transformers,/paper/representation-separation-for-semantic
+16,SegViT-v2 ,58.2,,SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers,/paper/segvitv2-exploring-efficient-and-continual
+17,SeMask ,58.2,,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+18,SeMask ,58.2,,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+19,DiNAT-L ,58.1,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+20,HorNet-L ,57.9,,HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions,/paper/hornet-efficient-high-order-spatial
+21,Mask2Former ,57.7,,Masked-attention Mask Transformer for Universal Image Segmentation,/paper/masked-attention-mask-transformer-for
+22,FASeg ,57.7,,Dynamic Focus-aware Positional Queries for Semantic Segmentation,/paper/dynamic-focus-aware-positional-queries-for
+23,RR ,57.7,,Region Rebalance for Long-Tailed Semantic Segmentation,/paper/region-rebalance-for-long-tailed-semantic
+24,MOAT-4 ,57.6,496.0,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+25,"Frozen Backbone, SwinV2-G-ext22K ",57.6,,Could Giant Pretrained Image Models Extract Universal Representations?,/paper/could-giant-pretrained-image-models-extract
+26,SeMask ,57.5,,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+27,Mask2Former ,57.3,,Masked-attention Mask Transformer for Universal Image Segmentation,/paper/masked-attention-mask-transformer-for
+28,SenFormer ,57.1,,Efficient Self-Ensemble for Semantic Segmentation,/paper/efficient-self-ensemble-framework-for-1
+29,BEiT-L ,57.0,,BEiT: BERT Pre-Training of Image Transformers,/paper/beit-bert-pre-training-of-image-transformers
+30,SeMask,57.0,,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+31,MetaPrompt-SD,56.8,,Harnessing Diffusion Models for Visual Perception with Meta Prompts,/paper/harnessing-diffusion-models-for-visual
+32,FaPN ,56.7,,FaPN: Feature-aligned Pyramid Network for Dense Image Prediction,/paper/fapn-feature-aligned-pyramid-network-for
+33,MOAT-3 ,56.5,198.0,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+34,Mask2Former ,56.4,,Masked-attention Mask Transformer for Universal Image Segmentation,/paper/masked-attention-mask-transformer-for
+35,SeMask ,56.2,,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+36,dBOT ViT-L ,56.2,,Exploring Target Representations for Masked Autoencoders,/paper/exploring-target-representations-for-masked
+37,Mask2Former+CBL,56.1,,Conditional Boundary Loss for Semantic Segmentation,/paper/conditional-boundary-loss-for-semantic
+38,TADP,55.9,,Text-image Alignment for Diffusion-based Perception,/paper/text-image-alignment-for-diffusion-based
+39,CSWin-L ,55.7,,CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows,/paper/cswin-transformer-a-general-vision
+40,UniRepLKNet-XL,55.6,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+41,Focal-L ,55.4,,Focal Self-attention for Local-Global Interactions in Vision Transformers,/paper/focal-self-attention-for-local-global
+42,InternImage-XL,55.3,368.0,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+43,dBOT ViT-L,55.2,,Exploring Target Representations for Masked Autoencoders,/paper/exploring-target-representations-for-masked
+44,Mask2Former,55.1,,Masked-attention Mask Transformer for Universal Image Segmentation,/paper/masked-attention-mask-transformer-for
+45,ConvNeXt V2-H ,55.0,,ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders,/paper/convnext-v2-co-designing-and-scaling-convnets
+46,UniRepLKNet-L++,55.0,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+47,DiNAT-Large ,54.9,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+48,MaskFormer+CBL,54.9,,Conditional Boundary Loss for Semantic Segmentation,/paper/conditional-boundary-loss-for-semantic
+49,TransNeXt-Base ,54.7,109.0,TransNeXt: Robust Foveal Visual Perception for Vision Transformers,/paper/transnext-robust-foveal-visual-perception-for
+50,MOAT-2 ,54.7,81.0,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+51,CAE ,54.7,,Context Autoencoder for Self-Supervised Representation Learning,/paper/context-autoencoder-for-self-supervised
+52,VAN-B6,54.7,,Visual Attention Network,/paper/visual-attention-network
+53,DiNAT_s-Large ,54.6,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+54,DDP ,54.4,207.0,DDP: Diffusion Model for Dense Visual Prediction,/paper/ddp-diffusion-model-for-dense-visual
+55,PatchDiverse + Swin-L ,54.4,,Vision Transformers with Patch Diversification,/paper/improve-vision-transformers-training-by
+56,VOLO-D5,54.3,,VOLO: Vision Outlooker for Visual Recognition,/paper/volo-vision-outlooker-for-visual-recognition
+57,K-Net,54.3,,K-Net: Towards Unified Image Segmentation,/paper/k-net-towards-unified-image-segmentation
+58,GPaCo ,54.3,,Generalized Parametric Contrastive Learning,/paper/generalized-parametric-contrastive-learning
+59,SenFormer ,54.2,,Efficient Self-Ensemble for Semantic Segmentation,/paper/efficient-self-ensemble-framework-for-1
+60,Swin V2-H,54.2,,ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders,/paper/convnext-v2-co-designing-and-scaling-convnets
+61,InternImage-L,54.1,256.0,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+62,TransNeXt-Small ,54.1,69.0,TransNeXt: Robust Foveal Visual Perception for Vision Transformers,/paper/transnext-robust-foveal-visual-perception-for
+63,ConvNeXt-XL++,54.0,391.0,A ConvNet for the 2020s,/paper/a-convnet-for-the-2020s
+64,Sequential Ensemble ,54.0,216.3,Sequential Ensembling for Semantic Segmentation,/paper/sequential-ensembling-for-semantic
+65,MogaNet-XL ,54.0,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+66,UniRepLKNet-B++,53.9,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+67,MaskFormer,53.8,,Per-Pixel Classification is Not All You Need for Semantic Segmentation,/paper/per-pixel-classification-is-not-all-you-need
+68,ConvNeXt-L++,53.7,235.0,A ConvNet for the 2020s,/paper/a-convnet-for-the-2020s
+69,SwinV2-G-HTC++ Liu et al. ,53.7,,Swin Transformer V2: Scaling Up Capacity and Resolution,/paper/swin-transformer-v2-scaling-up-capacity-and
+70,ConvNeXt V2-L,53.7,,ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders,/paper/convnext-v2-co-designing-and-scaling-convnets
+71,Seg-L-Mask/16 ,53.63,,Segmenter: Transformer for Semantic Segmentation,/paper/segmenter-transformer-for-semantic
+72,MAE ,53.6,,Masked Autoencoders Are Scalable Vision Learners,/paper/masked-autoencoders-are-scalable-vision
+73,SeMask ,53.52,,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+74,Swin-L ,53.5,,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,/paper/swin-transformer-hierarchical-vision
+75,Swin-L,53.5,,ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders,/paper/convnext-v2-co-designing-and-scaling-convnets
+76,TransNeXt-Tiny ,53.4,47.5,TransNeXt: Robust Foveal Visual Perception for Vision Transformers,/paper/transnext-robust-foveal-visual-perception-for
+77,ConvNeXt-B++,53.1,122.0,A ConvNet for the 2020s,/paper/a-convnet-for-the-2020s
+78,PatchConvNet-L120 ,52.9,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+79,dBOT ViT-B ,52.9,,Exploring Target Representations for Masked Autoencoders,/paper/exploring-target-representations-for-masked
+80,"PatchConvNet-B120
+",52.8,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+81,Swin-B,52.8,,ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders,/paper/convnext-v2-co-designing-and-scaling-convnets
+82,UniRepLKNet-S++,52.7,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+83,ConvNeXt V2-B,52.1,,ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders,/paper/convnext-v2-co-designing-and-scaling-convnets
+84,LV-ViT-L ,51.8,209.0,All Tokens Matter: Token Labeling for Training Better Vision Transformers,/paper/token-labeling-training-a-85-5-top-1-accuracy
+85,SegFormer-B5,51.8,84.7,SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers,/paper/segformer-simple-and-efficient-design-for
+86,BiFormer-B ,51.7,,BiFormer: Vision Transformer with Bi-Level Routing Attention,/paper/biformer-vision-transformer-with-bi-level
+87,ConvNeXt V2-L ,51.6,,ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders,/paper/convnext-v2-co-designing-and-scaling-convnets
+88,Light-Ham ,51.5,61.1,Is Attention Better Than Matrix Decomposition?,/paper/is-attention-better-than-matrix-decomposition-1
+89,DAT-B++,51.5,,DAT++: Spatially Dynamic Vision Transformer with Deformable Attention,/paper/dat-spatially-dynamic-vision-transformer-with
+90,CrossFormer ,51.4,,CrossFormer: A Versatile Vision Transformer Hinging on Cross-scale Attention,/paper/crossformer-a-versatile-vision-transformer
+91,InternImage-B,51.3,128.0,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+92,DAT-S++,51.2,,DAT++: Spatially Dynamic Vision Transformer with Deformable Attention,/paper/dat-spatially-dynamic-vision-transformer-with
+93,ActiveMLP-L,51.1,108.0,Active Token Mixer,/paper/activemlp-an-mlp-like-architecture-with
+94,SegFormer-B4,51.1,64.1,SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers,/paper/segformer-simple-and-efficient-design-for
+95,PatchConvNet-B60 ,51.1,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+96,Light-Ham ,51.0,45.6,Is Attention Better Than Matrix Decomposition?,/paper/is-attention-better-than-matrix-decomposition-1
+97,TEC ,51.0,,Towards Sustainable Self-supervised Learning,/paper/towards-sustainable-self-supervised-learning
+98,UniRepLKNet-S,51.0,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+99,SeMask ,50.98,96.0,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+100,InternImage-S,50.9,80.0,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+101,MogaNet-L ,50.9,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+102,dBOT ViT-B,50.8,,Exploring Target Representations for Masked Autoencoders,/paper/exploring-target-representations-for-masked
+103,Upernet-BiFormer-S ,50.8,,BiFormer: Vision Transformer with Bi-Level Routing Attention,/paper/biformer-vision-transformer-with-bi-level
+104,UperNet Shuffle-B,50.5,,Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer,/paper/shuffle-transformer-rethinking-spatial
+105,ConvNeXt V1-L,50.5,,ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders,/paper/convnext-v2-co-designing-and-scaling-convnets
+106,DiNAT-Base ,50.4,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+107,ELSA-Swin-S,50.3,,ELSA: Enhanced Local Self-Attention for Vision Transformer,/paper/elsa-enhanced-local-self-attention-for-vision
+108,DAT-T++,50.3,,DAT++: Spatially Dynamic Vision Transformer with Deformable Attention,/paper/dat-spatially-dynamic-vision-transformer-with
+109,SETR-MLA ,50.28,,Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers,/paper/rethinking-semantic-segmentation-from-a
+110,VAN-Large ,50.2,55.0,Visual Attention Network,/paper/visual-attention-network
+111,HRViT-b3 ,50.2,28.7,Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation,/paper/hrvit-multi-scale-high-resolution-vision
+112,Twins-SVT-L ,50.2,,Twins: Revisiting the Design of Spatial Attention in Vision Transformers,/paper/twins-revisiting-spatial-attention-design-in
+113,MogaNet-B ,50.1,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+114,Seg-B-Mask/16,50.0,,Segmenter: Transformer for Semantic Segmentation,/paper/segmenter-transformer-for-semantic
+115,iBOT ,50.0,,iBOT: Image BERT Pre-Training with Online Tokenizer,/paper/ibot-image-bert-pre-training-with-online
+116,ConvNeXt-B,49.9,122.0,A ConvNet for the 2020s,/paper/a-convnet-for-the-2020s
+117,DiNAT-Small ,49.9,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+118,ConvNeXt V1-B,49.9,,ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders,/paper/convnext-v2-co-designing-and-scaling-convnets
+119,NAT-Base,49.7,123.0,Neighborhood Attention Transformer,/paper/neighborhood-attention-transformer
+120,Swin-B ,49.7,,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,/paper/swin-transformer-hierarchical-vision
+121,Seg-B/8 ,49.61,,Segmenter: Transformer for Semantic Segmentation,/paper/segmenter-transformer-for-semantic
+122,ConvNeXt-S,49.6,82.0,A ConvNet for the 2020s,/paper/a-convnet-for-the-2020s
+123,Light-Ham ,49.6,27.4,Is Attention Better Than Matrix Decomposition?,/paper/is-attention-better-than-matrix-decomposition-1
+124,NAT-Small,49.5,82.0,Neighborhood Attention Transformer,/paper/neighborhood-attention-transformer
+125,DaViT-B,49.4,,DaViT: Dual Attention Vision Transformers,/paper/davit-dual-attention-vision-transformers
+126,DAT-B ,49.38,121.0,Vision Transformer with Deformable Attention,/paper/vision-transformer-with-deformable-attention
+127,PatchConvNet-S60 ,49.3,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+128,MogaNet-S ,49.2,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+129,Shift-B ,49.2,,When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism,/paper/when-shift-operation-meets-vision-transformer
+130,UniRepLKNet-T,49.1,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+131,DPT-Hybrid,49.02,,Vision Transformers for Dense Prediction,/paper/vision-transformers-for-dense-prediction
+132,GC ViT-B,49.0,125.0,Global Context Vision Transformers,/paper/global-context-vision-transformers
+133,A2MIM ,49.0,,Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN,/paper/architecture-agnostic-masked-image-modeling
+134,EfficientViT-B3 ,49.0,,EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction,/paper/efficientvit-enhanced-linear-attention-for
+135,DiNAT-Tiny ,48.8,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+136,HRViT-b2 ,48.76,20.8,Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation,/paper/hrvit-multi-scale-high-resolution-vision
+137,NAT-Tiny,48.4,58.0,Neighborhood Attention Transformer,/paper/neighborhood-attention-transformer
+138,XCiT-M24/8 ,48.4,,XCiT: Cross-Covariance Image Transformers,/paper/xcit-cross-covariance-image-transformers
+139,ResNeSt-200,48.36,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+140,DAT-S ,48.31,81.0,Vision Transformer with Deformable Attention,/paper/vision-transformer-with-deformable-attention
+141,GC ViT-S,48.3,84.0,Global Context Vision Transformers,/paper/global-context-vision-transformers
+142,InternImage-T,48.1,59.0,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+143,VAN-Large,48.1,49.0,Visual Attention Network,/paper/visual-attention-network
+144,XCiT-S24/8 ,48.1,,XCiT: Cross-Covariance Image Transformers,/paper/xcit-cross-covariance-image-transformers
+145,MaskFormer,48.1,,Per-Pixel Classification is Not All You Need for Semantic Segmentation,/paper/per-pixel-classification-is-not-all-you-need
+146,MAE ,48.1,,Masked Autoencoders Are Scalable Vision Learners,/paper/masked-autoencoders-are-scalable-vision
+147,HRNetV2 + OCR + RMI ,47.98,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+148,Shift-B,47.9,,When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism,/paper/when-shift-operation-meets-vision-transformer
+149,Shift-S,47.8,,When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism,/paper/when-shift-operation-meets-vision-transformer
+150,MogaNet-S ,47.7,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+151,SeMask ,47.63,56.0,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+152,ResNeSt-269,47.6,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+153,UperNet Shuffle-T,47.6,,Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer,/paper/shuffle-transformer-rethinking-spatial
+154,CondNet,47.54,,CondNet: Conditional Classifier for Scene Segmentation,/paper/condnet-conditional-classifier-for-scene
+155,tiny-MOAT-3 ,47.5,24.0,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+156,CondNet,47.38,,CondNet: Conditional Classifier for Scene Segmentation,/paper/condnet-conditional-classifier-for-scene
+157,DiNAT-Mini ,47.2,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+158,DCNAS,47.12,,DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation,/paper/dcnas-densely-connected-neural-architecture
+159,XCiT-S24/8 ,47.1,,XCiT: Cross-Covariance Image Transformers,/paper/xcit-cross-covariance-image-transformers
+160,ResNeSt-101,46.91,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+161,XCiT-M24/8 ,46.9,,XCiT: Cross-Covariance Image Transformers,/paper/xcit-cross-covariance-image-transformers
+162,HamNet ,46.8,,Is Attention Better Than Matrix Decomposition?,/paper/is-attention-better-than-matrix-decomposition-1
+163,Sequential Ensemble ,46.8,,Sequential Ensembling for Semantic Segmentation,/paper/sequential-ensembling-for-semantic
+164,ConvNeXt-T,46.7,60.0,A ConvNet for the 2020s,/paper/a-convnet-for-the-2020s
+165,VAN-Base ,46.7,,Visual Attention Network,/paper/visual-attention-network
+166,XCiT-S12/8 ,46.6,,XCiT: Cross-Covariance Image Transformers,/paper/xcit-cross-covariance-image-transformers
+167,GC ViT-T,46.5,58.0,Global Context Vision Transformers,/paper/global-context-vision-transformers
+168,NAT-Mini,46.4,50.0,Neighborhood Attention Transformer,/paper/neighborhood-attention-transformer
+169,Shift-T,46.3,,When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism,/paper/when-shift-operation-meets-vision-transformer
+170,DaViT-T,46.3,,DaViT: Dual Attention Vision Transformers,/paper/davit-dual-attention-vision-transformers
+171,CPN,46.27,,Context Prior for Scene Segmentation,/paper/context-prior-for-scene-segmentation
+172,MultiMAE ,46.2,,MultiMAE: Multi-modal Multi-task Masked Autoencoders,/paper/multimae-multi-modal-multi-task-masked
+173,DRAN,46.18,,Scene Segmentation with Dual Relation-aware Attention Network,/paper/scene-segmentation-with-dual-relation-aware
+174,PyConvSegNet-152,45.99,,Pyramidal Convolution: Rethinking Convolutional Neural Networks for Visual Recognition,/paper/pyramidal-convolution-rethinking
+175,DNL,45.97,,Disentangled Non-Local Neural Networks,/paper/disentangled-non-local-neural-networks
+176,ACNet ,45.9,,Adaptive Context Network for Scene Parsing,/paper/adaptive-context-network-for-scene-parsing-1
+177,"ACNet
+",45.9,,Adaptive Context Network for Scene Parsing,/paper/adaptive-context-network-for-scene-parsing-1
+178,HRViT-b1 ,45.88,8.2,Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation,/paper/hrvit-multi-scale-high-resolution-vision
+179,OCR,45.66,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+180,SPNet ,45.6,,Strip Pooling: Rethinking Spatial Pooling for Scene Parsing,/paper/2003-13328
+181,Swin-T ,45.58,,Self-Supervised Learning with Swin Transformers,/paper/self-supervised-learning-with-swin
+182,DAT-T ,45.54,60.0,Vision Transformer with Deformable Attention,/paper/vision-transformer-with-deformable-attention
+183,iBOT ,45.4,,iBOT: Image BERT Pre-Training with Online Tokenizer,/paper/ibot-image-bert-pre-training-with-online
+184,"EANet
+",45.33,,Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks,/paper/beyond-self-attention-external-attention
+185,OCR ,45.28,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+186,Asymmetric ALNN,45.24,,Asymmetric Non-local Neural Networks for Semantic Segmentation,/paper/asymmetric-non-local-neural-networks-for
+187,Light-Ham ,45.2,13.8,Is Attention Better Than Matrix Decomposition?,/paper/is-attention-better-than-matrix-decomposition-1
+188,LaU-regression-loss,45.02,,Location-aware Upsampling for Semantic Segmentation,/paper/location-aware-upsampling-for-semantic
+189,PSPNet,44.94,,Pyramid Scene Parsing Network,/paper/pyramid-scene-parsing-network
+190,tiny-MOAT-2 ,44.9,13.0,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+191,CFNet,44.89,,Co-Occurrent Features in Semantic Segmentation,/paper/co-occurrent-features-in-semantic
+192,EncNet,44.65,,Context Encoding for Semantic Segmentation,/paper/context-encoding-for-semantic-segmentation
+193,LaU-offset-loss,44.55,,Location-aware Upsampling for Semantic Segmentation,/paper/location-aware-upsampling-for-semantic
+194,EncNet + JPU,44.34,,FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation,/paper/fastfcn-rethinking-dilated-convolution-in-the
+195,SGR ,44.32,,Symbolic Graph Reasoning Meets Convolutions,/paper/symbolic-graph-reasoning-meets-convolutions
+196,XCiT-S12/8 ,44.2,,XCiT: Cross-Covariance Image Transformers,/paper/xcit-cross-covariance-image-transformers
+197,Auto-DeepLab-L,43.98,,Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation,/paper/auto-deeplab-hierarchical-neural-architecture
+198,PSANet ,43.77,,PSANet: Point-wise Spatial Attention Network for Scene Parsing,/paper/psanet-point-wise-spatial-attention-network
+199,DSSPN ,43.68,,Dynamic-structured Semantic Propagation Network,/paper/dynamic-structured-semantic-propagation
+200,PSPNet ,43.51,,Pyramid Scene Parsing Network,/paper/pyramid-scene-parsing-network
+201,"PSPNet
+",43.29,,Pyramid Scene Parsing Network,/paper/pyramid-scene-parsing-network
+202,HRNetV2,43.2,,High-Resolution Representations for Labeling Pixels and Regions,/paper/high-resolution-representations-for-labeling
+203,SeMask ,43.16,35.0,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+204,tiny-MOAT-1 ,43.1,8.0,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+205,VAN-Small,42.9,18.0,Visual Attention Network,/paper/visual-attention-network
+206,PoolFormer-M48,42.7,,MetaFormer Is Actually What You Need for Vision,/paper/metaformer-is-actually-what-you-need-for
+207,UperNet ,42.66,,Unified Perceptual Parsing for Scene Understanding,/paper/unified-perceptual-parsing-for-scene
+208,tiny-MOAT-0 ,41.2,6.0,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+209,RefineNet,40.7,,RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation,/paper/refinenet-multi-path-refinement-networks-for
+210,FBNetV5,40.4,,FBNetV5: Neural Architecture Search for Multiple Tasks in One Run,/paper/fbnetv5-neural-architecture-search-for
+211,ConvMLP-L,40.0,,ConvMLP: Hierarchical Convolutional MLPs for Vision,/paper/convmlp-hierarchical-convolutional-mlps-for
+212,ConvMLP-M,38.6,,ConvMLP: Hierarchical Convolutional MLPs for Vision,/paper/convmlp-hierarchical-convolutional-mlps-for
+213,VAN-Tiny,38.5,8.0,Visual Attention Network,/paper/visual-attention-network
+214,A2MIM ,38.3,,Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN,/paper/architecture-agnostic-masked-image-modeling
+215,iBOT ,38.3,,iBOT: Image BERT Pre-Training with Online Tokenizer,/paper/ibot-image-bert-pre-training-with-online
+216,SegFormer-B0,37.4,3.8,SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers,/paper/segformer-simple-and-efficient-design-for
+217,MUXNet-m + PPM,35.8,,MUXConv: Information Multiplexing in Convolutional Neural Networks,/paper/muxconv-information-multiplexing-in
+218,ConvMLP-S,35.8,,ConvMLP: Hierarchical Convolutional MLPs for Vision,/paper/convmlp-hierarchical-convolutional-mlps-for
+219,MUXNet-m + C1,32.42,,MUXConv: Information Multiplexing in Convolutional Neural Networks,/paper/muxconv-information-multiplexing-in
+220,DilatedNet,32.31,,Multi-Scale Context Aggregation by Dilated Convolutions,/paper/multi-scale-context-aggregation-by-dilated
+221,FCN,29.39,,Fully Convolutional Networks for Semantic Segmentation,/paper/fully-convolutional-networks-for-semantic-1
+222,SegNet,21.64,,SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation,/paper/segnet-a-deep-convolutional-encoder-decoder
+223,InternImage-H ,,1310.0,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision

@@ -1,0 +1,37 @@
+Rank,Model,Accuracy,Paper Title,Paper URL
+1,VLAB,0.61,VLAB: Enhancing Video Language Pre-training by Feature Adapting and Blending,/paper/vlab-enhancing-video-language-pre-training-by
+2,MA-LMM,0.606,MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding,/paper/ma-lmm-memory-augmented-large-multimodal
+3,MaMMUT ,0.602,MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks,/paper/mammut-a-simple-architecture-for-joint
+4,VALOR,0.6,VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset,/paper/valor-vision-audio-language-omni-perception
+5,VAST,0.6,VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset,/paper/vast-a-vision-audio-subtitle-text-omni-1
+6,COSA,0.6,COSA: Concatenated Sample Pretrained Vision-Language Foundation Model,/paper/cosa-concatenated-sample-pretrained-vision
+7,mPLUG-2,0.581,"mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video",/paper/mplug-2-a-modularized-multi-modal-foundation
+8,VideoCoCa,0.569,VideoCoCa: Video-Text Modeling with Zero-Shot Transfer from Contrastive Captioners,/paper/video-text-modeling-with-zero-shot-transfer
+9,GIT,0.568,GIT: A Generative Image-to-text Transformer for Vision and Language,/paper/git-a-generative-image-to-text-transformer
+10,FrozenBiLM+,0.558,Open-vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models,/paper/open-vocabulary-video-question-answering-a
+11,HiTeA,0.556,HiTeA: Hierarchical Temporal-Aware Video-Language Pre-training,/paper/hitea-hierarchical-temporal-aware-video
+12,InternVideo,0.555,InternVideo: General Video Foundation Models via Generative and Discriminative Learning,/paper/internvideo-general-video-foundation-models
+13,UMT-L ,0.552,Unmasked Teacher: Towards Training-Efficient Video Foundation Models,/paper/unmasked-teacher-towards-training-efficient
+14,vid-TLDR ,0.549,vid-TLDR: Training Free Token merging for Light-weight Video Transformer,/paper/vid-tldr-training-free-token-merging-for
+15,VIOLETv2,0.547,An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling,/paper/an-empirical-study-of-end-to-end-video
+16,MuLTI,0.547,MuLTI: Efficient Video-and-Language Understanding with Text-Guided MultiWay-Sampler and Multiple Choice Modeling,/paper/multi-efficient-video-and-language
+17,X2-VLM ,0.546,X$^2$-VLM: All-In-One Pre-trained Model For Vision-Language Tasks,/paper/x-2-vlm-all-in-one-pre-trained-model-for
+18,X2-VLM ,0.528,X$^2$-VLM: All-In-One Pre-trained Model For Vision-Language Tasks,/paper/x-2-vlm-all-in-one-pre-trained-model-for
+19,Clover,0.524,Clover: Towards A Unified Video-Language Alignment and Fusion Model,/paper/clover-towards-a-unified-video-language
+20,VIOLET + MELTR,0.517,MELTR: Meta Loss Transformer for Learning to Fine-tune Video Foundation Models,/paper/meltr-meta-loss-transformer-for-learning-to
+21,OmniVL,0.51,OmniVL:One Foundation Model for Image-Language and Video-Language Tasks,/paper/omnivl-one-foundation-model-for-image
+22,VIOLET+,0.495,Open-vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models,/paper/open-vocabulary-video-question-answering-a
+23,Co-Tokenization,0.486,Video Question Answering with Iterative Video-Text Co-Tokenization,/paper/video-question-answering-with-iterative-video
+24,All-in-one-B,0.483,All in One: Exploring Unified Video-Language Pre-training,/paper/all-in-one-exploring-unified-video-language
+25,LRCE,0.478,Lightweight Recurrent Cross-modal Encoder for Video Question Answering,/paper/lightweight-recurrent-cross-modal-encoder-for
+26,JustAsk+,0.477,Open-vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models,/paper/open-vocabulary-video-question-answering-a
+27,GIT+MDF,0.469,Self-Adaptive Sampling for Efficient Video Question-Answering on Image--Text Models,/paper/sas-video-qa-self-adaptive-sampling-for
+28,AIO+MIF,0.467,Self-Adaptive Sampling for Efficient Video Question-Answering on Image--Text Models,/paper/sas-video-qa-self-adaptive-sampling-for
+29,ALPRO,0.459,Align and Prompt: Video-and-Language Pre-training with Entity Prompts,/paper/align-and-prompt-video-and-language-pre
+30,All-in-one+,0.438,Open-vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models,/paper/open-vocabulary-video-question-answering-a
+31,DualVGR,0.39,DualVGR: A Dual-Visual Graph Reasoning Unit for Video Question Answering,/paper/dualvgr-a-dual-visual-graph-reasoning-unit
+32,HCRN,0.361,Hierarchical Conditional Relation Networks for Video Question Answering,/paper/hierarchical-conditional-relation-networks
+33,SSML,0.351,Noise Estimation Using Density Estimation for Self-Supervised Multimodal Learning,/paper/noise-estimation-using-density-estimation-for
+34,HMEMA,0.337,Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering,/paper/heterogeneous-memory-enhanced-multimodal
+35,Co-Mem,0.317,Motion-Appearance Co-Memory Networks for Video Question Answering,/paper/motion-appearance-co-memory-networks-for
+36,ST-VQA,0.313,TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering,/paper/tgif-qa-toward-spatio-temporal-reasoning-in

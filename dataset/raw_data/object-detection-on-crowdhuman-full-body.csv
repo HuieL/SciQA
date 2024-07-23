@@ -1,0 +1,20 @@
+Rank,Model,AP,mMR,Recall,Paper Title,Paper URL
+1,InternImage-H,97.2,,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+2,MMPedestron,97.1,30.8,,When Pedestrian Detection Meets Multi-Modal Learning: Generalist Model and Benchmark Dataset,/paper/when-pedestrian-detection-meets-multi-modal
+3,Progressive DETR,94.1,37.7,,Progressive End-to-End Object Detection in Crowded Scenes,/paper/progressive-end-to-end-object-detection-in
+4,DDQ DETR ,93.8,39.7,98.7,Dense Distinct Query for End-to-End Object Detection,/paper/dense-distinct-query-for-end-to-end-object
+5,DDQ R-CNN ,93.5,40.4,98.6,Dense Distinct Query for End-to-End Object Detection,/paper/dense-distinct-query-for-end-to-end-object
+6,Hulk,93.0,36.5,,Hulk: A Universal Knowledge Translator for Human-Centric Tasks,/paper/hulk-a-universal-knowledge-translator-for
+7,DDQ FCN ,92.7,41.0,98.2,Dense Distinct Query for End-to-End Object Detection,/paper/dense-distinct-query-for-end-to-end-object
+8,UniHCP ,92.5,41.6,,UniHCP: A Unified Model for Human-Centric Perceptions,/paper/unihcp-a-unified-model-for-human-centric
+9,Hulk,92.4,40.7,,Hulk: A Universal Knowledge Translator for Human-Centric Tasks,/paper/hulk-a-universal-knowledge-translator-for
+10,V2F-Net,91.03,42.28,84.2,V2F-Net: Explicit Decomposition of Occluded Pedestrian Detection,/paper/v2f-net-explicit-decomposition-of-occluded
+11,CrowdDet,90.7,41.4,,"Detection in Crowded Scenes: One Proposal, Multiple Predictions",/paper/detection-in-crowded-scenes-one-proposal
+12,Beta R-CNN,89.6,40.3,,Beta R-CNN: Looking into Pedestrian Detection from Another Perspective,/paper/beta-r-cnn-looking-into-pedestrian-detection-1
+13,NOH-NMS,89.0,43.9,,NOH-NMS: Improving Pedestrian Detection by Nearby Objects Hallucination,/paper/noh-nms-improving-pedestrian-detection-by
+14,IterDet ,88.08,49.44,,IterDet: Iterative Scheme for Object Detection in Crowded Environments,/paper/iterdet-iterative-scheme-for-objectdetection
+15,PS-RCNN ,87.94,,,PS-RCNN: Detecting Secondary Human Instances in a Crowd via Primary Object Suppression,/paper/ps-rcnn-detecting-secondary-human-instances
+16,PS-RCNN ,86.05,,,PS-RCNN: Detecting Secondary Human Instances in a Crowd via Primary Object Suppression,/paper/ps-rcnn-detecting-secondary-human-instances
+17,Faster RCNN ,84.95,50.49,,CrowdHuman: A Benchmark for Detecting Human in a Crowd,/paper/crowdhuman-a-benchmark-for-detecting-human-in
+18,Adaptive NMS ,84.71,49.73,,Adaptive NMS: Refining Pedestrian Detection in a Crowd,/paper/adaptive-nms-refining-pedestrian-detection-in
+19,IterDet ,84.43,49.12,,IterDet: Iterative Scheme for Object Detection in Crowded Environments,/paper/iterdet-iterative-scheme-for-objectdetection

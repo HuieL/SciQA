@@ -1,0 +1,31 @@
+Rank,Model,mAP@0.25,mAP@0.5,Inference Speed (s),Paper Title,Paper URL
+1,Point-GCC+TR3D+FF,69.7,54.0,,Point-GCC: Universal Self-supervised 3D Scene Pre-training via Geometry-Color Contrast,/paper/point-gcc-universal-self-supervised-3d-scene
+2,TR3D+FF,69.4,53.4,,TR3D: Towards Real-Time Indoor 3D Object Detection,/paper/tr3d-towards-real-time-indoor-3d-object
+3,V-DETR,68.0,51.1,,V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection,/paper/v-detr-detr-with-vertex-relative-position
+4,Point-GCC+TR3D,67.7,51.0,,Point-GCC: Universal Self-supervised 3D Scene Pre-training via Geometry-Color Contrast,/paper/point-gcc-universal-self-supervised-3d-scene
+5,DeMF,67.4,51.2,,Boosting 3D Object Detection via Object-Focused Image Fusion,/paper/boosting-3d-object-detection-via-object
+6,TR3D ,67.1,50.4,,TR3D: Towards Real-Time Indoor 3D Object Detection,/paper/tr3d-towards-real-time-indoor-3d-object
+7,CAGroup3D,66.8,50.2,,CAGroup3D: Class-Aware Grouping for 3D Object Detection on Point Clouds,/paper/cagroup3d-class-aware-grouping-for-3d-object
+8,OctFormer,66.2,50.6,,OctFormer: Octree-based Transformers for 3D Point Clouds,/paper/octformer-octree-based-transformers-for-3d
+9,SPGroup3D,65.4,47.1,,SPGroup3D: Superpoint Grouping Network for Indoor 3D Object Detection,/paper/spgroup3d-superpoint-grouping-network-for
+10,TokenFusion,64.9,48.3,,Multimodal Token Fusion for Vision Transformers,/paper/multimodal-token-fusion-for-vision
+11,RepSurf-U,64.9,47.7,,Surface Representation for Point Clouds,/paper/surface-representation-for-point-clouds
+12,FCAF3D ,64.2,48.9,,FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection,/paper/fcaf3d-fully-convolutional-anchor-free-3d
+13,RBGNet,64.1,47.2,,RBGNet: Ray-based Grouping for 3D Object Detection,/paper/rbgnet-ray-based-grouping-for-3d-object
+14,LCPFormer,63.2,46.2,,LCPFormer: Towards Effective 3D Point Cloud Analysis via Local Context Propagation in Transformers,/paper/lcpformer-towards-effective-3d-point-cloud
+15,GroupFree3D,63.0,45.2,,Group-Free 3D Object Detection via Transformers,/paper/group-free-3d-object-detection-via
+16,HGNet ,61.6,,,A Hierarchical Graph Network for 3D Object Detection on Point Clouds,/paper/a-hierarchical-graph-network-for-3d-object
+17,BRNet,61.1,43.7,,Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds,/paper/back-tracing-representative-points-for-voting
+18,VoteNet ,60.2,35.2,,Point Cloud Pre-Training With Natural 3D Structures,/paper/point-cloud-pre-training-with-natural-3d
+19,H3DNet,60.1,39.0,,H3DNet: 3D Object Detection Using Hybrid Geometric Primitives,/paper/h3dnet-3d-object-detection-using-hybrid
+20,VoteNet ,59.1,35.8,,Deep Hough Voting for 3D Object Detection in Point Clouds,/paper/deep-hough-voting-for-3d-object-detection-in
+21,3DETR-m,59.1,32.7,,An End-to-End Transformer Model for 3D Object Detection,/paper/an-end-to-end-transformer-model-for-3d-object
+22,COG+surface+context,54.3,,,"Clouds of Oriented Gradients for 3D Detection of Objects, Surfaces, and Indoor Scene Layouts",/paper/clouds-of-oriented-gradients-for-3d-detection
+23,F-PointNet,54.0,,0.12,Frustum PointNets for 3D Object Detection from RGB-D Data,/paper/frustum-pointnets-for-3d-object-detection
+24,COG+surface,51.0,,,3D Object Detection With Latent Support Surfaces,/paper/3d-object-detection-with-latent-support
+25,COG,47.6,,,Three-Dimensional Object Detection and Layout Prediction Using Clouds of Oriented Gradients,/paper/three-dimensional-object-detection-and-layout
+26,2D-driven,45.1,,4.15,2D-Driven 3D Object Detection in RGB-D Images,/paper/2d-driven-3d-object-detection-in-rgb-d-images
+27,Frustum VoxNet v2 ,45.0,,0.24,3D Object Detection and Instance Segmentation from 3D Range and 2D Color Images,/paper/3d-object-detection-and-instance-segmentation
+28,Frustum VoxNet ,37.7,,0.16,Frustum VoxNet for 3D object detection from RGB-D or Depth images,/paper/frustum-voxnet-for-3d-object-detection-from
+29,Frustum VoxNet ,,,0.048,Frustum VoxNet for 3D object detection from RGB-D or Depth images,/paper/frustum-voxnet-for-3d-object-detection-from
+30,DSS,,,19.55,Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images,/paper/deep-sliding-shapes-for-amodal-3d-object

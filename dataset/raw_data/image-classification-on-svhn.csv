@@ -1,0 +1,63 @@
+Rank,Model,Percentage error,Percentage correct,Paper Title,Paper URL
+1,E2E-M3,1.0,,Rethinking Recurrent Neural Networks and Other Improvements for Image Classification,/paper/rethinking-recurrent-neural-networks-and
+2,Wide-ResNet-28-10 ,1.1,,Fast AutoAugment,/paper/fast-autoaugment
+3,Colornet,1.11,,ColorNet: Investigating the importance of color spaces for image classification,/paper/colornet-investigating-the-importance-of
+4,PBA [ho2019pba],1.2,,Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules,/paper/190505393
+5,WaveMixLite-144/15,1.27,,WaveMix: A Resource-efficient Neural Network for Image Analysis,/paper/wavemix-lite-a-resource-efficient-neural
+6,Cutout,1.3,,Improved Regularization of Convolutional Neural Networks with Cutout,/paper/improved-regularization-of-convolutional
+7,PyramidNet + AA ,1.35,,Regularizing Neural Networks via Adversarial Model Perturbation,/paper/regularizing-neural-networks-via-adversarial
+8,WRN + fixup init + mixup + cutout,1.4,,Fixup Initialization: Residual Learning Without Normalization,/paper/fixup-initialization-residual-learning
+9,Drop-Activation,1.46,,Drop-Activation: Implicit Parameter Reduction and Harmonic Regularization,/paper/drop-activation-implicit-parameter-reduction
+10,SOPCNN,1.5,,Stochastic Optimization of Plain Convolutional Neural Networks with Simple methods,/paper/stochastic-optimization-of-plain
+11,EraseReLU,1.54,,EraseReLU: A Simple Way to Ease the Training of Deep Convolution Neural Networks,/paper/eraserelu-a-simple-way-to-ease-the-training
+12,Wide Residual Networks,1.54,,Wide Residual Networks,/paper/wide-residual-networks
+13,CoPaNet-R-164,1.58,,Deep Competitive Pathway Networks,/paper/deep-competitive-pathway-networks
+14,WaveMixLite,1.58,,WaveMix-Lite: A Resource-efficient Neural Network for Image Analysis,/paper/wavemix-lite-a-resource-efficient-neural-1
+15,DenseNet,1.59,,Densely Connected Convolutional Networks,/paper/densely-connected-convolutional-networks
+16,Multilevel Residual Networks,1.59,,Residual Networks of Residual Networks: Multilevel Residual Networks,/paper/residual-networks-of-residual-networks
+17,VGG8B + LocalLearning + CO,1.65,,Training Neural Networks with Local Error Signals,/paper/training-neural-networks-with-local-error
+18,Tree+Max-Avg pooling,1.7,,"Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree",/paper/generalizing-pooling-functions-in
+19,Wide ResNet,1.7,,Wide Residual Networks,/paper/wide-residual-networks
+20,Stochastic Depth,1.75,,Deep Networks with Stochastic Depth,/paper/deep-networks-with-stochastic-depth
+21,RCNN-96,1.8,,,
+22,BNM NiN,1.8,,Batch-normalized Maxout Network in Network,/paper/batch-normalized-maxout-network-in-network
+23,CMsC,1.8,,Competitive Multi-scale Convolution,/paper/competitive-multi-scale-convolution
+24,Regularization of Neural Networks using DropConnect,1.9,,,
+25,DSN,1.9,,Deeply-Supervised Nets,/paper/deeply-supervised-nets
+26,MLR DNN,1.9,,,
+27,MIM,2.0,,On the Importance of Normalisation Layers in Deep Learning with Piecewise Linear Activation Units,/paper/on-the-importance-of-normalisation-layers-in
+28,FractalNet,2.01,,FractalNet: Ultra-Deep Neural Networks without Residuals,/paper/fractalnet-ultra-deep-neural-networks-without
+29,DCNN,2.2,,Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks,/paper/multi-digit-number-recognition-from-street
+30,BinaryConnect,2.2,,BinaryConnect: Training Deep Neural Networks with binary weights during propagations,/paper/binaryconnect-training-deep-neural-networks
+31,EXACT ,2.21,,EXACT: How to Train Your Accuracy,/paper/exact-how-to-train-your-accuracy
+32,EnAET,2.22,,EnAET: A Self-Trained framework for Semi-Supervised and Supervised Learning with Ensemble Transformations,/paper/enaet-self-trained-ensemble-autoencoding
+33,PreActResNet18 ,2.3,,Regularizing Neural Networks via Adversarial Model Perturbation,/paper/regularizing-neural-networks-via-adversarial
+34,Network in Network,2.35,,Network In Network,/paper/network-in-network
+35,ReNet,2.4,,ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks,/paper/renet-a-recurrent-neural-network-based
+36,Maxout,2.5,,Maxout Networks,/paper/maxout-networks
+37,MixMatch,2.59,,MixMatch: A Holistic Approach to Semi-Supervised Learning,/paper/mixmatch-a-holistic-approach-to-semi
+38,ResNet-18,2.65,,"Benchopt: Reproducible, efficient and collaborative optimization benchmarks",/paper/benchopt-reproducible-efficient-and
+39,Stochastic Pooling,2.8,,Stochastic Pooling for Regularization of Deep Convolutional Neural Networks,/paper/stochastic-pooling-for-regularization-of-deep
+40,Deep Complex,3.3,,Deep Complex Networks,/paper/deep-complex-networks
+41,FLSCNN,4.0,,Enhanced Image Classification With a Fast-Learning Shallow Convolutional Neural Network,/paper/enhanced-image-classification-with-a-fast
+42,Convolutional neural networks applied to house numbers digit classification,4.9,,,
+43,CLS-GAN,5.98,,Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities,/paper/loss-sensitive-generative-adversarial
+44,Improved GAN,8.11,,Improved Techniques for Training GANs,/paper/improved-techniques-for-training-gans
+45,Local Mixup LeNet,8.2,,Preventing Manifold Intrusion with Locality: Local Mixup,/paper/preventing-manifold-intrusion-with-locality
+46,Sign-symmetry,10.16,,How Important is Weight Symmetry in Backpropagation?,/paper/how-important-is-weight-symmetry-in
+47,SEER ,13.6,,Vision Models Are More Robust And Fair When Pretrained On Uncurated Images Without Supervision,/paper/vision-models-are-more-robust-and-fair-when
+48,ANODE,16.5,,Augmented Neural ODEs,/paper/augmented-neural-odes
+49,Skip DGN,16.61,,Auxiliary Deep Generative Models,/paper/auxiliary-deep-generative-models
+50,DCGAN,22.48,,Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks,/paper/unsupervised-representation-learning-with-1
+51,Auxiliary DGN,22.86,,Auxiliary Deep Generative Models,/paper/auxiliary-deep-generative-models
+52,Supervised CNN,28.87,,Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks,/paper/unsupervised-representation-learning-with-1
+53,M1+M2,36.02,,Semi-Supervised Learning with Deep Generative Models,/paper/semi-supervised-learning-with-deep-generative-1
+54,DGN,36.02,,Semi-Supervised Learning with Deep Generative Models,/paper/semi-supervised-learning-with-deep-generative-1
+55,M1+TSVM,54.33,,Semi-Supervised Learning with Deep Generative Models,/paper/semi-supervised-learning-with-deep-generative-1
+56,M1+KNN,65.63,,Semi-Supervised Learning with Deep Generative Models,/paper/semi-supervised-learning-with-deep-generative-1
+57,TSVM,66.55,,Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks,/paper/unsupervised-representation-learning-with-1
+58,KNN,77.93,,Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks,/paper/unsupervised-representation-learning-with-1
+59,Wide-ResNet-28-10,,98.15,Automatic Data Augmentation via Invariance-Constrained Learning,/paper/automatic-data-augmentation-via-invariance
+60,ShortNet2-43,,94.52,Connection Reduction of DenseNet for Image Recognition,/paper/connection-reduction-is-all-you-need
+61,TripleNet-B,,94.33,Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification,/paper/triplenet-a-low-computing-power-platform-of
+62,ThreshNet79,,94.32,ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections,/paper/threshnet-an-efficient-densenet-using

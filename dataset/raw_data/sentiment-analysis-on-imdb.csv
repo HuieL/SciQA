@@ -1,0 +1,47 @@
+Rank,Model,Accuracy,Paper Title,Paper URL
+1,RoBERTa-large with LlamBERT,96.68,LlamBERT: Large-scale low-cost data annotation in NLP,/paper/llambert-large-scale-low-cost-data-annotation
+2,RoBERTa-large,96.54,LlamBERT: Large-scale low-cost data annotation in NLP,/paper/llambert-large-scale-low-cost-data-annotation
+3,XLNet,96.21,XLNet: Generalized Autoregressive Pretraining for Language Understanding,/paper/xlnet-generalized-autoregressive-pretraining
+4,Heinsen Routing + RoBERTa Large,96.2,An Algorithm for Routing Vectors in Sequences,/paper/an-algorithm-for-routing-vectors-in-sequences
+5,RoBERTa-large 355M + Entailment as Few-shot Learner,96.1,Entailment as Few-Shot Learner,/paper/entailment-as-few-shot-learner
+6,GraphStar,96.0,Graph Star Net for Generalized Multi-Task Learning,/paper/graph-star-net-for-generalized-multi-task-1
+7,DV-ngrams-cosine with NB sub-sampling + RoBERTa.base,95.94,The Document Vectors Using Cosine Similarity Revisited,/paper/the-document-vectors-using-cosine-similarity-1
+8,DV-ngrams-cosine + RoBERTa.base,95.92,The Document Vectors Using Cosine Similarity Revisited,/paper/the-document-vectors-using-cosine-similarity-1
+9,BERT large finetune UDA,95.8,Unsupervised Data Augmentation for Consistency Training,/paper/unsupervised-data-augmentation-1
+10,BERT_large+ITPT,95.79,How to Fine-Tune BERT for Text Classification?,/paper/how-to-fine-tune-bert-for-text-classification
+11,RoBERTa.base,95.79,The Document Vectors Using Cosine Similarity Revisited,/paper/the-document-vectors-using-cosine-similarity-1
+12,L MIXED,95.68,Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function,/paper/revisiting-lstm-networks-for-semi-supervised-1
+13,BERT_base+ITPT,95.63,How to Fine-Tune BERT for Text Classification?,/paper/how-to-fine-tune-bert-for-text-classification
+14,BERT large,95.49,Unsupervised Data Augmentation for Consistency Training,/paper/unsupervised-data-augmentation-1
+15,ULMFiT,95.4,Universal Language Model Fine-tuning for Text Classification,/paper/universal-language-model-fine-tuning-for-text
+16,Llama-2-70b-chat ,95.39,LlamBERT: Large-scale low-cost data annotation in NLP,/paper/llambert-large-scale-low-cost-data-annotation
+17,FLAN 137B ,95.0,Finetuned Language Models Are Zero-Shot Learners,/paper/finetuned-language-models-are-zero-shot
+18,Block-sparse LSTM,94.99,GPU Kernels for Block-Sparse Weights,/paper/gpu-kernels-for-block-sparse-weights
+19,Space-XLNet,94.88,Breaking Free Transformer Models: Task-specific Context Attribution Promises Improved Generalizability Without Fine-tuning Pre-trained LLMs,/paper/breaking-free-transformer-models-task
+20,CEN-tpc,94.52,Contextual Explanation Networks,/paper/contextual-explanation-networks
+21,FLAN 137B ,94.3,Finetuned Language Models Are Zero-Shot Learners,/paper/finetuned-language-models-are-zero-shot
+22,oh-LSTM,94.1,Supervised and Semi-Supervised Text Categorization using LSTM for Region Embeddings,/paper/supervised-and-semi-supervised-text
+23,Virtual adversarial training,94.1,Adversarial Training Methods for Semi-Supervised Text Classification,/paper/adversarial-training-methods-for-semi
+24,DV-ngrams-cosine + NB-weighted BON ,93.68,The Document Vectors Using Cosine Similarity Revisited,/paper/the-document-vectors-using-cosine-similarity-1
+25,Nyströmformer,93.2,Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention,/paper/nystromformer-a-nystrom-based-algorithm-for
+26,Modified LMU ,93.2,Parallelizing Legendre Memory Unit Training,/paper/parallelizing-legendre-memory-unit-training
+27,DV-ngrams-cosine,93.13,Sentiment Classification Using Document Embeddings Trained with Cosine Similarity,/paper/sentiment-classification-using-document
+28,OCaTS ,93.06,Cache me if you Can: an Online Cost-aware Teacher-Student framework to Reduce the Calls to Large Language Models,/paper/cache-me-if-you-can-an-online-cost-aware
+29,DistilBERT 66M,92.82,"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",/paper/distilbert-a-distilled-version-of-bert
+30,seq2-bown-CNN,92.33,Effective Use of Word Order for Text Categorization with Convolutional Neural Networks,/paper/effective-use-of-word-order-for-text-1
+31,BP-Transformer + GloVe,92.12,BP-Transformer: Modelling Long-Range Context via Binary Partitioning,/paper/bp-transformer-modelling-long-range-context
+32,BCN+Char+CoVe,91.8,Learned in Translation: Contextualized Word Vectors,/paper/learned-in-translation-contextualized-word
+33,ToWE-SG,90.8,Task-oriented Word Embedding for Text Classification,/paper/task-oriented-word-embedding-for-text
+34,LSTM with dynamic skip,90.1,Long Short-Term Memory with Dynamic Skip Connections,/paper/long-short-term-memory-with-dynamic-skip
+35,CNN+LSTM,88.9,On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis,/paper/on-the-role-of-text-preprocessing-in-neural
+36,UnICORNN,88.4,UnICORNN: A recurrent model for learning very long time dependencies,/paper/unicornn-a-recurrent-model-for-learning-very
+37,CfC,88.4,Closed-form Continuous-time Neural Models,/paper/closed-form-continuous-depth-models
+38,Doc2VecC,88.3,Efficient Vector Representation for Documents through Corruption,/paper/efficient-vector-representation-for-documents
+39,Bert+ Wilson-Cowan model RNN,87.46,Learning in Wilson-Cowan model for metapopulation,/paper/learning-in-wilson-cowan-model-for
+40,coRNN,87.4,Coupled Oscillatory Recurrent Neural Network (coRNN): An accurate and (gradient) stable architecture for learning long time dependencies,/paper/coupled-oscillatory-recurrent-neural-network
+41,S-LSTM,87.15,Sentence-State LSTM for Text Representation,/paper/sentence-state-lstm-for-text-representation
+42,AlexNet [alexnet],87.0,Classifying Textual Data with Pre-trained Vision Models through Transfer Learning and Data Transformations,/paper/classifying-textual-data-with-pre-trained
+43,VGG16 [vgg16],86.0,Classifying Textual Data with Pre-trained Vision Models through Transfer Learning and Data Transformations,/paper/classifying-textual-data-with-pre-trained
+44,ResNext[resnext],85.0,Classifying Textual Data with Pre-trained Vision Models through Transfer Learning and Data Transformations,/paper/classifying-textual-data-with-pre-trained
+45,Standard DR-AGG,45.1,Information Aggregation via Dynamic Routing for Sequence Encoding,/paper/information-aggregation-via-dynamic-routing
+46,Reverse DR-AGG,44.5,Information Aggregation via Dynamic Routing for Sequence Encoding,/paper/information-aggregation-via-dynamic-routing

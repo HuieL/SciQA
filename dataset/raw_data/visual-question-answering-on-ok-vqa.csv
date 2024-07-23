@@ -1,0 +1,37 @@
+Rank,Model,Accuracy,Paper Title,Paper URL
+1,PaLI-X-VPD,66.8,Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models,/paper/visual-program-distillation-distilling-tools
+2,PaLM-E-562B,66.1,PaLM-E: An Embodied Multimodal Language Model,/paper/palm-e-an-embodied-multimodal-language-model
+3,PaLI-X ,66.1,PaLI-X: On Scaling up a Multilingual Vision and Language Model,/paper/pali-x-on-scaling-up-a-multilingual-vision
+4,PaLI 17B,64.5,PaLI: A Jointly-Scaled Multilingual Language-Image Model,/paper/pali-a-jointly-scaled-multilingual-language
+5,Prophet,62.5,Prophet: Prompting Large Language Models with Complementary Answer Heuristics for Knowledge-based Visual Question Answering,/paper/prompting-large-language-models-with-answer
+6,RA-VQA-v2 ,62.08,Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering,/paper/fine-grained-late-interaction-multi-modal-1
+7,A Simple Baseline for KB-VQA,61.2,A Simple Baseline for Knowledge-Based Visual Question Answering,/paper/a-simple-baseline-for-knowledge-based-visual
+8,PromptCap,60.4,PromptCap: Prompt-Guided Task-Aware Image Captioning,/paper/promptcap-prompt-guided-task-aware-image
+9,ReVeaL WIT + CC12M + Wikidata + VQA-2,59.1,REVEAL: Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory,/paper/reveal-retrieval-augmented-visual-language
+10,Lyrics,58.2,Lyrics: Boosting Fine-grained Language-Vision Alignment and Comprehension via Semantic-aware Visual Objects,/paper/lyrics-boosting-fine-grained-language-vision
+11,REVIVE ,58.0,REVIVE: Regional Visual Representation Matters in Knowledge-Based Visual Question Answering,/paper/revive-regional-visual-representation-matters
+12,REVIVE ,56.6,REVIVE: Regional Visual Representation Matters in Knowledge-Based Visual Question Answering,/paper/revive-regional-visual-representation-matters
+13,RA-VQA-v2 ,54.85,Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering,/paper/fine-grained-late-interaction-multi-modal-1
+14,RA-VQA ,54.48,Retrieval Augmented Visual Question Answering with Outside Knowledge,/paper/retrieval-augmented-visual-question-answering
+15,VK-OOD,52.4,Differentiable Outlier Detection Enable Robust Deep Multimodal Analysis,/paper/differentiable-outlier-detection-enable
+16,VK-OOD,52.4,Implicit Differentiable Outlier Detection Enable Robust Deep Multimodal Analysis,/paper/implicit-differentiable-outlier-detection
+17,RA-VQA-FrDPR ,51.22,Retrieval Augmented Visual Question Answering with Outside Knowledge,/paper/retrieval-augmented-visual-question-answering
+18,Flamingo80B,50.6,Flamingo: a Visual Language Model for Few-Shot Learning,/paper/flamingo-a-visual-language-model-for-few-shot-1
+19,TRiG ,50.5,Transform-Retrieve-Generate: Natural Language-Centric Outside-Knowledge Visual Question Answering,/paper/transform-retrieve-generate-natural-language
+20,PICa,48.0,An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA,/paper/an-empirical-study-of-gpt-3-for-few-shot
+21,LaKo,47.01,LaKo: Knowledge-driven Visual Question Answering via Late Knowledge-to-Text Injection,/paper/lako-knowledge-driven-visual-question
+22,BLIP-2 ViT-G FlanT5 XXL ,45.9,BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models,/paper/blip-2-bootstrapping-language-image-pre
+23,Flamingo9B,44.7,Flamingo: a Visual Language Model for Few-Shot Learning,/paper/flamingo-a-visual-language-model-for-few-shot-1
+24,VLC-BERT,43.1,VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge,/paper/vlc-bert-visual-question-answering-with
+25,T5,42.03,LaKo: Knowledge-driven Visual Question Answering via Late Knowledge-to-Text Injection,/paper/lako-knowledge-driven-visual-question
+26,Flamingo3B,41.2,Flamingo: a Visual Language Model for Few-Shot Learning,/paper/flamingo-a-visual-language-model-for-few-shot-1
+27,BLIP-2 ViT-G FlanT5 XL ,40.7,BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models,/paper/blip-2-bootstrapping-language-image-pre
+28,BLIP-2 ViT-L FlanT5 XL ,39.4,BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models,/paper/blip-2-bootstrapping-language-image-pre
+29,BLIP-2 ViT-G OPT 6.7B ,36.4,BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models,/paper/blip-2-bootstrapping-language-image-pre
+30,PNP-VQA,35.9,Plug-and-Play VQA: Zero-shot VQA by Conjoining Large Pretrained Models with Zero Training,/paper/plug-and-play-vqa-zero-shot-vqa-by-conjoining
+31,BLIP-2 ViT-G OPT 2.7B ,31.7,BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models,/paper/blip-2-bootstrapping-language-image-pre
+32,BLIP-2 ViT-L OPT 2.7B ,30.2,BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models,/paper/blip-2-bootstrapping-language-image-pre
+33,FewVLM,16.5,A Good Prompt Is Worth Millions of Parameters: Low-resource Prompt-based Learning for Vision-Language Models,/paper/a-good-prompt-is-worth-millions-of-parameters
+34,MetaLM,11.4,Language Models are General-Purpose Interfaces,/paper/language-models-are-general-purpose
+35,VLKD,10.5,Enabling Multimodal Generation on CLIP via Vision-Language Knowledge Distillation,/paper/enabling-multimodal-generation-on-clip-via
+36,Frozen,5.9,Multimodal Few-Shot Learning with Frozen Language Models,/paper/multimodal-few-shot-learning-with-frozen

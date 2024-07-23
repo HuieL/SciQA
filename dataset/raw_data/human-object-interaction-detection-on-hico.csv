@@ -1,0 +1,54 @@
+Rank,Model,mAP,Paper Title,Paper URL
+1,RLIPv2 ,45.09,RLIPv2: Fast Scaling of Relational Language-Image Pre-training,/paper/rlipv2-fast-scaling-of-relational-language
+2,PViC-SwinL,44.32,Exploring Predicate Visual Context in Detecting Human-Object Interactions,/paper/exploring-predicate-visual-context-in
+3,SOV-STG ,43.35,Focusing on what to decode and what to train: Efficient Training with HOI Split Decoders and Specific Target Guided DeNoising,/paper/focusing-on-what-to-decode-and-what-to-train
+4,DiffHOI,41.5,Boosting Human-Object Interaction Detection with Text-to-Image Diffusion Model,/paper/boosting-human-object-interaction-detection
+5,ViPLO,37.22,ViPLO: Vision Transformer based Pose-Conditioned Self-Loop Graph for Human-Object Interaction Detection,/paper/viplo-vision-transformer-based-pose
+6,FGAHOI,37.18,FGAHOI: Fine-Grained Anchors for Human-Object Interaction Detection,/paper/fgahoi-fine-grained-anchors-for-human-object
+7,ERNet,36.89,ERNet: Efficient and Reliable Human-Object Interaction Detection,/paper/ernet-efficient-and-reliable-human-object
+8,CQL+GEN-VLKT-L,36.03,Category Query Learning for Human-Object Interaction Classification,/paper/category-query-learning-for-human-object
+9,QAHOI ,35.78,QAHOI: Query-Based Anchors for Human-Object Interaction Detection,/paper/qahoi-query-based-anchors-for-human-object
+10,CQL+GEN-VLKT-B,35.36,Category Query Learning for Human-Object Interaction Classification,/paper/category-query-learning-for-human-object
+11,Body Part Interactiveness,35.15,Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection,/paper/mining-cross-person-cues-for-body-part
+12,GEN-VLKT-R101,34.95,GEN-VLKT: Simplify Association and Enhance Interaction Understanding for HOI Detection,/paper/gen-vlkt-simplify-association-and-enhance
+13,PViC-R50,34.69,Exploring Predicate Visual Context in Detecting Human-Object Interactions,/paper/exploring-predicate-visual-context-in
+14,HOICLIP,34.69,HOICLIP: Efficient Knowledge Transfer for HOI Detection with Vision-Language Models,/paper/hoiclip-efficient-knowledge-transfer-for-hoi
+15,MUREN,32.87,Relational Context Learning for Human-Object Interaction Detection,/paper/relational-context-learning-for-human-object
+16,RLIP-ParSe ,32.84,RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection,/paper/rlip-relational-language-image-pre-training
+17,ParSe ,32.76,RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection,/paper/rlip-relational-language-image-pre-training
+18,UPT-R101-DC5,32.62,Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer,/paper/efficient-two-stage-detection-of-human-object
+19,DEFR,32.35,The Overlooked Classifier in Human-Object Interaction Recognition,/paper/decoupling-object-detection-from-human-object-1
+20,UPT-R101,32.31,Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer,/paper/efficient-two-stage-detection-of-human-object
+21,STIP ,32.22,Exploring Structure-aware Transformer over Interaction Proposals for Human-Object Interaction Detection,/paper/exploring-structure-aware-transformer-over-1
+22,CDN ,32.07,Mining the Benefits of Two-stage and One-stage HOI Detection,/paper/mining-the-benefits-of-two-stage-and-one
+23,UPT-R50,31.66,Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer,/paper/efficient-two-stage-detection-of-human-object
+24,OCN ,31.43,Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics,/paper/detecting-human-object-interactions-with-2
+25,QPIC ,29.9,QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information,/paper/qpic-query-based-pairwise-human-object
+26,QPIC + CPC,29.63,Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection,/paper/consistency-learning-via-decoding-path
+27,SCG ,29.26,Spatially Conditioned Graphs for Detecting Human-Object Interactions,/paper/spatio-attentive-graphs-for-human-object
+28,QPIC ,29.07,QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information,/paper/qpic-query-based-pairwise-human-object
+29,AS-Net ,28.87,Reformulating HOI Detection as Adaptive Set Prediction,/paper/reformulating-hoi-detection-as-adaptive-set
+30,HOITrans,26.61,End-to-End Human Object Interaction Detection with HOI Transformer,/paper/end-to-end-human-object-interaction-detection
+31,IDN ,26.29,HOI Analysis: Integrating and Decomposing Human-Object Interaction,/paper/hoi-analysis-integrating-and-decomposing
+32,HOTR + CPC,26.16,Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection,/paper/consistency-learning-via-decoding-path
+33,ConsNet-F ,25.94,ConsNet: Learning Consistency Graph for Zero-Shot Human-Object Interaction Detection,/paper/consnet-learning-consistency-graph-for-zero
+34,DRG,24.53,DRG: Dual Relation Graph for Human-Object Interaction Detection,/paper/drg-dual-relation-graph-for-human-object
+35,HOITrans,23.46,End-to-End Human Object Interaction Detection with HOI Transformer,/paper/end-to-end-human-object-interaction-detection
+36,HOTR,23.46,HOTR: End-to-End Human-Object Interaction Detection with Transformers,/paper/hotr-end-to-end-human-object-interaction
+37,IDN ,23.36,HOI Analysis: Integrating and Decomposing Human-Object Interaction,/paper/hoi-analysis-integrating-and-decomposing
+38,PaStaNet,22.65,PaStaNet: Toward Human Activity Knowledge Engine,/paper/pastanet-toward-human-activity-knowledge
+39,PD-Net,22.37,Polysemy Deciphering Network for Robust Human-Object Interaction Detection,/paper/polysemy-deciphering-network-for-robust-human
+40,ConsNet ,22.15,ConsNet: Learning Consistency Graph for Zero-Shot Human-Object Interaction Detection,/paper/consnet-learning-consistency-graph-for-zero
+41,ACP++,22.11,ACP++: Action Co-occurrence Priors for Human-Object Interaction Detection,/paper/acp-action-co-occurrence-priors-for-human
+42,PPDM,21.92,PPDM: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection,/paper/ppdm-parallel-point-detection-and-matching
+43,DIRV,21.81,DIRV: Dense Interaction Region Voting for End-to-End Human-Object Interaction Detection,/paper/dirv-dense-interaction-region-voting-for-end
+44,DJ-RN,21.34,Detailed 2D-3D Joint Representation for Human-Object Interaction,/paper/detailed-2d-3d-joint-representation-for-human
+45,PMN,21.21,Pose-based Modular Network for Human-Object Interaction Detection,/paper/pose-based-modular-network-for-human-object
+46,TIN ,20.93,Transferable Interactiveness Knowledge for Human-Object Interaction Detection,/paper/transferable-interactiveness-knowledge-for
+47,ACP,20.59,Detecting Human-Object Interactions with Action Co-occurrence Priors,/paper/detecting-human-object-interactions-with-1
+48,VSGNet,19.8,VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions,/paper/vsgnet-spatial-attention-network-for
+49,TIN ,17.54,Transferable Interactiveness Knowledge for Human-Object Interaction Detection,/paper/transferable-interactiveness-prior-for-human
+50,TIN ,17.22,Transferable Interactiveness Knowledge for Human-Object Interaction Detection,/paper/transferable-interactiveness-prior-for-human
+51,iCAN,14.84,iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection,/paper/ican-instance-centric-attention-network-for
+52,GPNN,13.11,Learning Human-Object Interactions by Graph Parsing Neural Networks,/paper/learning-human-object-interactions-by-graph
+53,InteractNet,9.94,Detecting and Recognizing Human-Object Interactions,/paper/detecting-and-recognizing-human-object

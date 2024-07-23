@@ -1,0 +1,122 @@
+Rank,Model,Top-1 Accuracy,Top-5 Accuracy,Parameters,GFLOPs,Paper Title,Paper URL
+1,InternVideo2-6B,77.5,,,,InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding,/paper/internvideo2-scaling-video-foundation-models
+2,MVD ,77.3,95.7,633.0,1192.0,Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning,/paper/masked-video-distillation-rethinking-masked
+3,InternVideo,77.2,,,,InternVideo: General Video Foundation Models via Generative and Discriminative Learning,/paper/internvideo-general-video-foundation-models
+4,InternVideo2-1B,77.1,,,,InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding,/paper/internvideo2-scaling-video-foundation-models
+5,VideoMAE V2-g,77.0,95.9,1013.0,2544.0,VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking,/paper/videomae-v2-scaling-video-masked-autoencoders
+6,MVD ,76.7,95.5,305.0,597.0,Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning,/paper/masked-video-distillation-rethinking-masked
+7,Hiera-L ,76.5,,,,Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles,/paper/hiera-a-hierarchical-vision-transformer
+8,TubeViT-L,76.1,95.2,,,Rethinking Video ViTs: Sparse Video Tubes for Joint Image and Video Learning,/paper/rethinking-video-vits-sparse-video-tubes-for
+9,VideoMAE ,75.4,95.2,305.0,1436.0,VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training,/paper/videomae-masked-autoencoders-are-data-1
+10,Side4Video ,75.2,94.0,,,Side4Video: Spatial-Temporal Side Network for Memory-Efficient Image-to-Video Transfer Learning,/paper/side4video-spatial-temporal-side-network-for
+11,MaskFeat ,75.0,95.0,218.0,2828.0,Masked Feature Prediction for Self-Supervised Visual Pre-Training,/paper/masked-feature-prediction-for-self-supervised
+12,MAR ,74.7,94.9,311.0,276.0,MAR: Masked Autoencoders for Efficient Action Recognition,/paper/mar-masked-autoencoders-for-efficient-action
+13,ATM,74.6,94.4,,,What Can Simple Arithmetic Operations Do for Temporal Modeling?,/paper/what-can-simple-arithmetic-operations-do-for
+14,MAWS ,74.4,,,,The effectiveness of MAE pre-pretraining for billion-scale pretraining,/paper/the-effectiveness-of-mae-pre-pretraining-for
+15,VideoMAE ,74.3,94.6,305.0,597.0,VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training,/paper/videomae-masked-autoencoders-are-data-1
+16,MAR ,73.8,94.4,311.0,131.0,MAR: Masked Autoencoders for Efficient Action Recognition,/paper/mar-masked-autoencoders-for-efficient-action
+17,MVD ,73.7,94.0,87.0,180.0,Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning,/paper/masked-video-distillation-rethinking-masked
+18,ViC-MAE ,73.7,,,,ViC-MAE: Self-Supervised Representation Learning from Images and Video with Contrastive Masked Autoencoders,/paper/visual-representation-learning-from-unlabeled
+19,TAdaFormer-L/14,73.6,,,,Temporally-Adaptive Models for Efficient Video Understanding,/paper/temporally-adaptive-models-for-efficient
+20,MViTv2-L ,73.3,94.1,213.1,,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+21,AMD,73.3,94.0,87.0,180.0,Asymmetric Masked Distillation for Pre-Training Small Foundation Models,/paper/asymmetric-masked-distillation-for-pre
+22,UniFormerV2-L,73.0,94.5,,5154.0,UniFormerV2: Spatiotemporal Learning by Arming Image ViTs with Video UniFormer,/paper/uniformerv2-spatiotemporal-learning-by-arming
+23,ST-Adapter ,72.3,93.9,,8248.0,ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning,/paper/parameter-efficient-image-to-video-transfer
+24,ZeroI2V ViT-L/14,72.2,93.0,,,ZeroI2V: Zero-Cost Adaptation of Pre-trained Transformers from Image to Video,/paper/zeroi2v-zero-cost-adaptation-of-pre-trained
+25,MViT-B ,72.1,,,225.0,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+26,CAST-B/16,71.6,,,,CAST: Cross-Attention in Space and Time for Video Action Recognition,/paper/cast-cross-attention-in-space-and-time-for-1
+27,StructVit-B-4-1,71.5,,,,Learning Correlation Structures for Vision Transformers,/paper/learning-correlation-structures-for-vision
+28,OMNIVORE ,71.4,93.5,,,Omnivore: A Single Model for Many Visual Modalities,/paper/omnivore-a-single-model-for-many-visual
+29,BEVT ,71.4,0.0,89.0,321.0,BEVT: BERT Pretraining of Video Transformers,/paper/bevt-bert-pretraining-of-video-transformers
+30,UniFormer-B ,71.2,92.8,50.1,259.0,UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning,/paper/uniformer-unified-transformer-for-efficient
+31,TAdaConvNeXtV2-B,71.1,,,,Temporally-Adaptive Models for Efficient Video Understanding,/paper/temporally-adaptive-models-for-efficient
+32,MAR ,71.0,92.8,94.0,86.0,MAR: Masked Autoencoders for Efficient Action Recognition,/paper/mar-masked-autoencoders-for-efficient-action
+33,MVD ,70.9,92.8,22.0,57.0,Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning,/paper/masked-video-distillation-rethinking-masked
+34,CoVeR,70.9,92.5,,,Co-training Transformer with Videos and Images Improves Action Recognition,/paper/co-training-transformer-with-videos-and
+35,VideoMAE ,70.8,92.4,87.0,180.0,VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training,/paper/videomae-masked-autoencoders-are-data-1
+36,AMD,70.2,92.5,22.0,57.0,Asymmetric Masked Distillation for Pre-Training Small Foundation Models,/paper/asymmetric-masked-distillation-for-pre
+37,ILA ,70.2,91.8,,,Implicit Temporal Modeling with Learnable Alignment for Video Recognition,/paper/implicit-temporal-modeling-with-learnable
+38,MorphMLP-B ,70.1,92.8,68.5,197.0,MorphMLP: An Efficient MLP-Like Backbone for Spatial-Temporal Representation Learning,/paper/morphmlp-a-self-attention-free-mlp-like
+39,CoVeR,69.8,91.9,,,Co-training Transformer with Videos and Images Improves Action Recognition,/paper/co-training-transformer-with-videos-and
+40,TPS,69.8,,,,Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition,/paper/spatiotemporal-self-attention-modeling-with
+41,SIFA,69.8,,,,Stand-Alone Inter-Frame Attention in Video Models,/paper/stand-alone-inter-frame-attention-in-video-1
+42,Swin-B ,69.6,92.7,89.0,321.0,Video Swin Transformer,/paper/video-swin-transformer
+43,TDN ResNet101 ,69.6,92.2,,198.0,TDN: Temporal Difference Networks for Efficient Action Recognition,/paper/tdn-temporal-difference-networks-for
+44,MAR ,69.5,91.9,94.0,41.0,MAR: Masked Autoencoders for Efficient Action Recognition,/paper/mar-masked-autoencoders-for-efficient-action
+45,ORViT Mformer-L ,69.5,91.5,0.0,0.0,Object-Region Video Transformers,/paper/object-region-video-transformers-1
+46,UniFormer-S ,69.4,92.1,21.4,41.8,UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning,/paper/uniformer-unified-transformer-for-efficient
+47,MML ,69.02,92.7,,,Mutual Modality Learning for Video Action Classification,/paper/mutual-modality-learning-for-video-action
+48,"MViT-B-24, 32x3",68.7,91.5,53200000.0,236.0,Multiscale Vision Transformers,/paper/multiscale-vision-transformers
+49,MTV-B,68.5,90.4,,,Multiview Transformers for Video Recognition,/paper/multiview-transformers-for-video-recognition
+50,MLP-3D,68.5,,,,MLP-3D: A MLP-like 3D Architecture with Grouped Time Mixing,/paper/mlp-3d-a-mlp-like-3d-architecture-with-1
+51,TDN ResNet101 ,68.2,91.6,,198.0,TDN: Temporal Difference Networks for Efficient Action Recognition,/paper/tdn-temporal-difference-networks-for
+52,MSMA ,68.2,,,,Multi-scale Motion-Aware Module for Video Action Recognition,/paper/multi-scale-motion-aware-module-for-video
+53,Mformer-L,68.1,91.2,0.0,1181.0,Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers,/paper/keeping-your-eye-on-the-ball-trajectory
+54,VIMPAC,68.1,,,,VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning,/paper/vimpac-video-pre-training-via-masked-token
+55,ORViT Mformer ,67.9,90.5,0.0,0.0,Object-Region Video Transformers,/paper/object-region-video-transformers-1
+56,"MViT-B, 32x3",67.8,91.3,36.6,170.0,Multiscale Vision Transformers,/paper/multiscale-vision-transformers
+57,GC-TDN Ensemble ,67.8,91.2,27.4,110.1,Group Contextualization for Video Recognition,/paper/group-contextualization-for-video-recognition
+58,CT-Net Ensemble ,67.8,91.1,83.8,280.0,CT-Net: Channel Tensorization Network for Video Classification,/paper/ct-net-channel-tensorization-network-for-1
+59,TCM ,67.8,,,,Motion-driven Visual Tempo Learning for Video-based Action Recognition,/paper/slow-fast-visual-tempo-learning-for-video
+60,SELFYNet-TSM-R50En ,67.7,91.1,,,Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition,/paper/learning-self-similarity-in-space-and-time-as-1
+61,RSANet-R50 ,67.7,91.1,,,Relational Self-Attention: What's Missing in Attention for Video Understanding,/paper/relational-self-attention-what-s-missing-in
+62,GTDNet,67.6,,,,Global Temporal Difference Network for Action Recognition,/paper/global-temporal-difference-network-for-action
+63,SELFYNet-TSM-R50En ,67.4,91.0,,,Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition,/paper/learning-self-similarity-in-space-and-time-as-1
+64,VoV3D-L ,67.35,90.5,5800000.0,20.9,Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification,/paper/diverse-temporal-aggregation-and-depthwise
+65,PLAR,67.3,91.0,,,PLAR: Prompt Learning for Action Recognition,/paper/prompt-learning-for-action-recognition
+66,RSANet-R50 ,67.3,90.8,,,Relational Self-Attention: What's Missing in Attention for Video Understanding,/paper/relational-self-attention-what-s-missing-in
+67,X-Vit ,67.2,90.8,0.0,850.0,Space-time Mixing Attention for Video Transformer,/paper/space-time-mixing-attention-for-video
+68,TAda2D-En ,67.2,89.8,,,TAda! Temporally-Adaptive Convolutions for Video Understanding,/paper/tada-temporally-adaptive-convolutions-for-1
+69,Mformer-HR,67.1,90.6,0.0,958.8,Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers,/paper/keeping-your-eye-on-the-ball-trajectory
+70,TAdaConvNeXt-T,67.1,90.4,,,TAda! Temporally-Adaptive Convolutions for Video Understanding,/paper/tada-temporally-adaptive-convolutions-for-1
+71,MoDS ,67.1,,,,Action Recognition With Motion Diversification and Dynamic Selection,/paper/action-recognition-with-motion
+72,STPG ,67.0,,,,Spatial-Temporal Pyramid Graph Reasoning for Action Recognition,/paper/spatial-temporal-pyramid-graph-reasoning-for
+73,MML ,66.83,91.3,,,Mutual Modality Learning for Video Action Classification,/paper/mutual-modality-learning-for-video-action
+74,ILA ,66.8,90.3,,,Implicit Temporal Modeling with Learnable Alignment for Video Recognition,/paper/implicit-temporal-modeling-with-learnable
+75,TSM ,66.6,91.3,,,TSM: Temporal Shift Module for Efficient Video Understanding,/paper/temporal-shift-module-for-efficient-video
+76,MSNet-R50En ,66.6,90.6,,,MotionSqueeze: Neural Motion Feature Learning for Video Understanding,/paper/motionsqueeze-neural-motion-feature-learning
+77,PAN ResNet101 ,66.5,90.6,,,PAN: Towards Fast Action Recognition via Learning Persistence of Appearance,/paper/pan-towards-fast-action-recognition-via
+78,TSM+W3 ,66.5,90.4,,,"Knowing What, Where and When to Look: Efficient Video Action Modeling with Attention",/paper/knowing-what-where-and-when-to-look-efficient
+79,Mformer,66.5,90.1,,,Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers,/paper/keeping-your-eye-on-the-ball-trajectory
+80,MVFNet-ResNet50 ,66.3,,,,MVFNet: Multi-View Fusion Network for Efficient Video Recognition,/paper/mvfnet-multi-view-fusion-network-for
+81,"MViT-B, 16x4",66.2,90.2,,,Multiscale Vision Transformers,/paper/multiscale-vision-transformers
+82,RSANet-R50 ,66.0,89.8,,,Relational Self-Attention: What's Missing in Attention for Video Understanding,/paper/relational-self-attention-what-s-missing-in
+83,VoV3D-L ,65.8,89.5,5800000.0,20.9,Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification,/paper/diverse-temporal-aggregation-and-depthwise
+84,E3D-L,65.7,89.8,,18.3,Maximizing Spatio-Temporal Entropy of Deep 3D CNNs for Efficient Video Recognition,/paper/maximizing-spatio-temporal-entropy-of-deep-3d
+85,SELFYNet-TSM-R50 ,65.7,89.8,,,Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition,/paper/learning-self-similarity-in-space-and-time-as-1
+86,TAda2D ,65.6,89.2,,,TAda! Temporally-Adaptive Convolutions for Video Understanding,/paper/tada-temporally-adaptive-convolutions-for-1
+87,ViViT-L/16x2 Fact. encoder,65.4,89.8,,,ViViT: A Video Vision Transformer,/paper/2103-15691
+88,VoV3D-M ,65.24,89.48,3300000.0,11.5,Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification,/paper/diverse-temporal-aggregation-and-depthwise
+89,bLVNet,65.2,,,,More Is Less: Learning Efficient Video Representations by Big-Little Network and Depthwise Temporal Aggregation,/paper/more-is-less-learning-efficient-video-1
+90,DirecFormer,64.94,87.9,,,DirecFormer: A Directed Attention in Transformer Approach to Robust Action Recognition,/paper/direcformer-a-directed-attention-in
+91,RSANet-R50 ,64.8,89.1,,,Relational Self-Attention: What's Missing in Attention for Video Understanding,/paper/relational-self-attention-what-s-missing-in
+92,MSNet-R50 ,64.7,89.4,,,MotionSqueeze: Neural Motion Feature Learning for Video Understanding,/paper/motionsqueeze-neural-motion-feature-learning
+93,AK-Net,64.3,,,,Action Keypoint Network for Efficient Video Recognition,/paper/action-keypoint-network-for-efficient-video
+94,VoV3D-M ,64.2,88.8,3300000.0,11.5,Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification,/paper/diverse-temporal-aggregation-and-depthwise
+95,VoV3D-L ,64.1,88.6,5800000.0,9.3,Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification,/paper/diverse-temporal-aggregation-and-depthwise
+96,TAda2D ,64.0,88.0,,,TAda! Temporally-Adaptive Convolutions for Video Understanding,/paper/tada-temporally-adaptive-convolutions-for-1
+97,MoViNet-A2,63.5,89.0,4800000.0,10.3,MoViNets: Mobile Video Networks for Efficient Video Recognition,/paper/movinets-mobile-video-networks-for-efficient
+98,VoV3D-M ,63.2,88.2,3300000.0,5.7,Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification,/paper/diverse-temporal-aggregation-and-depthwise
+99,MSNet-R50 ,63.0,88.4,,,MotionSqueeze: Neural Motion Feature Learning for Video Understanding,/paper/motionsqueeze-neural-motion-feature-learning
+100,MoViNet-A1,62.7,89.0,4600000.0,6.0,MoViNets: Mobile Video Networks for Efficient Video Recognition,/paper/movinets-mobile-video-networks-for-efficient
+101,OmniVL,62.5,86.2,,,OmniVL:One Foundation Model for Image-Language and Video-Language Tasks,/paper/omnivl-one-foundation-model-for-image
+102,TimeSformer-HR,62.5,,,,Is Space-Time Attention All You Need for Video Understanding?,/paper/is-space-time-attention-all-you-need-for
+103,TimeSformer-L,62.3,,,,Is Space-Time Attention All You Need for Video Understanding?,/paper/is-space-time-attention-all-you-need-for
+104,TRG ,62.2,90.3,,,Temporal Reasoning Graph for Activity Recognition,/paper/temporal-reasoning-graph-for-activity
+105,TPN ,62.0,,,,Temporal Pyramid Network for Action Recognition,/paper/temporal-pyramid-network-for-action
+106,Multigrid,61.7,,,,A Multigrid Method for Efficiently Training Video Models,/paper/a-multigrid-method-for-efficiently-training
+107,SlowFast,61.7,,,,SlowFast Networks for Video Recognition,/paper/slowfast-networks-for-video-recognition
+108,TRG ,61.3,91.4,,,Temporal Reasoning Graph for Activity Recognition,/paper/temporal-reasoning-graph-for-activity
+109,MoViNet-A0,61.3,88.2,3100000.0,2.7,MoViNets: Mobile Video Networks for Efficient Video Recognition,/paper/movinets-mobile-video-networks-for-efficient
+110,CCS + two-stream + TRN,61.2,89.3,,,Cooperative Cross-Stream Network for Discriminative Action Representation,/paper/cooperative-cross-stream-network-for
+111,VidTr-L,60.2,,,,VidTr: Video Transformer Without Convolutions,/paper/vidtr-video-transformer-without-convolutions
+112,TimeSformer,59.5,,,,Is Space-Time Attention All You Need for Video Understanding?,/paper/is-space-time-attention-all-you-need-for
+113,SVT,59.2,,,,Self-supervised Video Transformer,/paper/self-supervised-video-transformer
+114,TAM ,52.3,,,,Few-Shot Video Classification via Temporal Alignment,/paper/few-shot-video-classification-via-temporal
+115,model3D_1 with left-right augmentation and fps jitter,51.33,80.46,,,"The ""something something"" video database for learning and evaluating visual common sense",/paper/the-something-something-video-database-for
+116,Prob-Distill,49.9,79.1,,,Attention Distillation for Learning Video Representations,/paper/paying-more-attention-to-motion-attention
+117,STM + TRNMultiscale,47.73,,,,Comparative Analysis of CNN-based Spatiotemporal Reasoning in Videos,/paper/comparative-analysis-of-cnn-based
+118,MViTv2-B ,,93.4,51.1,,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+119,RSANet-R50 ,,91.1,,,Relational Self-Attention: What's Missing in Attention for Video Understanding,/paper/relational-self-attention-what-s-missing-in
+120,MoViNet-A3,,,5300000.0,23.7,MoViNets: Mobile Video Networks for Efficient Video Recognition,/paper/movinets-mobile-video-networks-for-efficient
+121,MViT-L ,,,,2828.0,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for

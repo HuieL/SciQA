@@ -1,0 +1,40 @@
+Rank,Model,Mean IoU,Mean IoU (test),Paper Title,Paper URL
+1,GeminiFusion ,54.6,,GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer,/paper/geminifusion-efficient-pixel-wise-multimodal
+2,GeminiFusion ,53.3,,GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer,/paper/geminifusion-efficient-pixel-wise-multimodal
+3,TokenFusion ,53.0,,Multimodal Token Fusion for Vision Transformers,/paper/multimodal-token-fusion-for-vision
+4,DPLNet ,52.8,,Efficient Multimodal Semantic Segmentation via Dual-Prompt Learning,/paper/efficient-multimodal-semantic-segmentation
+5,GeminiFusion ,52.7,,GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer,/paper/geminifusion-efficient-pixel-wise-multimodal
+6,DFormer-L,52.5,,DFormer: Rethinking RGBD Representation Learning for Semantic Segmentation,/paper/dformer-rethinking-rgbd-representation
+7,CMX ,52.4,,CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers,/paper/cmx-cross-modal-fusion-for-rgb-x-semantic
+8,CMX ,52.1,,CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers,/paper/cmx-cross-modal-fusion-for-rgb-x-semantic
+9,TokenFusion ,51.4,,Multimodal Token Fusion for Vision Transformers,/paper/multimodal-token-fusion-for-vision
+10,DFormer-B,51.2,,DFormer: Rethinking RGBD Representation Learning for Semantic Segmentation,/paper/dformer-rethinking-rgbd-representation
+11,EMSANet ,50.86,,PanopticNDT: Efficient and Robust Panoptic Mapping,/paper/panopticndt-efficient-and-robust-panoptic
+12,FSFNet,50.6,,Deep feature selection-and-fusion for RGB-D semantic segmentation,/paper/deep-feature-selection-and-fusion-for-rgb-d
+13,PSD-ResNet50,50.6,,Pattern-Structure Diffusion for Multi-Task Learning,/paper/pattern-structure-diffusion-for-multi-task
+14,TokenFusion ,50.0,,DFormer: Rethinking RGBD Representation Learning for Semantic Segmentation,/paper/dformer-rethinking-rgbd-representation
+15,DPLNet ,49.7,,CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers,/paper/cmx-cross-modal-fusion-for-rgb-x-semantic
+16,DFormer-L,49.6,,Attention-based Dual Supervised Decoder for RGBD Semantic Segmentation,/paper/attention-based-dual-supervised-decoder-for
+17,CMX ,49.6,,DCANet: Differential Convolution Attention Network for RGB-D Semantic Segmentation,/paper/dcanet-differential-convolution-attention
+18,CMX ,49.6,,Pixel Difference Convolutional Network for RGB-D Semantic Segmentation,/paper/pixel-difference-convolutional-network-for
+19,TokenFusion ,49.4,,Bi-directional Cross-Modality Feature Propagation with Separation-and-Aggregation Gate for RGB-D Semantic Segmentation,/paper/bi-directional-cross-modality-feature
+20,DFormer-B,49.1,,AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation,/paper/asymformer-asymmetrical-cross-modal
+21,EMSANet ,48.82,,Efficient Multi-Task Scene Analysis with RGB-D Transformers,/paper/efficient-multi-task-scene-analysis-with-rgb
+22,FSFNet,48.8,,DFormer: Rethinking RGBD Representation Learning for Semantic Segmentation,/paper/dformer-rethinking-rgbd-representation
+23,PSD-ResNet50,48.6,,ShapeConv: Shape-aware Convolutional Layer for Indoor RGB-D Semantic Segmentation,/paper/shapeconv-shape-aware-convolutional-layer-for
+24,TokenFusion ,48.6,,Spatial Information Guided Convolution for Real-Time RGBD Semantic Segmentation,/paper/spatial-information-guided-convolution-for
+25,DPLNet ,48.47,,Efficient Multi-Task RGB-D Scene Analysis for Indoor Environments,/paper/efficient-multi-task-rgb-d-scene-analysis-for
+26,DFormer-L,48.3,,Attention-guided Chained Context Aggregation for Semantic Segmentation,/paper/attention-guided-chained-context-aggregation
+27,CMX ,48.17,,Efficient RGB-D Semantic Segmentation for Indoor Scene Analysis,/paper/efficient-rgb-d-semantic-segmentation-for
+28,CMX ,48.1,,ACNet: Attention Based Network to Exploit Complementary Features for RGBD Semantic Segmentation,/paper/acnet-attention-based-network-to-exploit
+29,TokenFusion ,47.8,,RedNet: Residual Encoder-Decoder Network for indoor RGB-D Semantic Segmentation,/paper/rednet-residual-encoder-decoder-network-for
+30,DFormer-B,47.7,,RDFNet: RGB-D Multi-Level Residual Feature Fusion for Indoor Semantic Segmentation,/paper/rdfnet-rgb-d-multi-level-residual-feature
+31,EMSANet ,47.1,,Context Contrasted Feature and Gated Multi-Scale Aggregation for Scene Segmentation,/paper/context-contrasted-feature-and-gated-multi
+32,FSFNet,47.0,,Multi-Modal Attention-based Fusion Model for Semantic Segmentation of RGB-Depth Images,/paper/multi-modal-attention-based-fusion-model-for
+33,PSD-ResNet50,45.9,,3D Graph Neural Networks for RGBD Semantic Segmentation,/paper/3d-graph-neural-networks-for-rgbd-semantic
+34,TokenFusion ,45.73,,Self-Supervised Model Adaptation for Multimodal Semantic Segmentation,/paper/self-supervised-model-adaptation-for
+35,DPLNet ,45.1,,Recurrent Scene Parsing with Perspective Understanding in the Loop,/paper/recurrent-scene-parsing-with-perspective
+36,DFormer-L,44.3,,CI-Net: Contextual Information for Joint Semantic Segmentation and Depth Estimation,/paper/ci-net-contextual-information-for-joint
+37,TokenFusion ,42.0,,Depth-aware CNN for RGB-D Segmentation,/paper/depth-aware-cnn-for-rgb-d-segmentation
+38,DPLNet ,38.4,,Self-Supervised Model Adaptation for Multimodal Semantic Segmentation,/paper/self-supervised-model-adaptation-for
+39,DFormer-L,,48.17,Missing Modality Robustness in Semi-Supervised Multi-Modal Semantic Segmentation,/paper/missing-modality-robustness-in-semi

@@ -1,0 +1,63 @@
+Rank,Model,Top-1 Accuracy,Number of params,Paper Title,Paper URL
+1,OmniVec2,94.6,,OmniVec2 - A Novel Transformer based Network for Large Scale Multimodal and Multitask Learning,/paper/omnivec2-a-novel-transformer-based-network
+2,OmniVec,93.8,,OmniVec: Learning robust representations with cross modal sharing,/paper/omnivec-learning-robust-representations-with
+3,InternImage-H,92.6,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+4,MAWS ,91.3,,The effectiveness of MAE pre-pretraining for billion-scale pretraining,/paper/the-effectiveness-of-mae-pre-pretraining-for
+5,"MetaFormer
+",88.7,,MetaFormer: A Unified Meta Framework for Fine-Grained Recognition,/paper/metaformer-a-unified-meta-framework-for-fine
+6,Hiera-H ,87.3,,Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles,/paper/hiera-a-hierarchical-vision-transformer
+7,MAE ,86.8,,Masked Autoencoders Are Scalable Vision Learners,/paper/masked-autoencoders-are-scalable-vision
+8,SWAG ,86.0,,Revisiting Weakly Supervised Pre-Training of Visual Perception Models,/paper/revisiting-weakly-supervised-pre-training-of
+9,SEER ,84.7,,Vision Models Are More Robust And Fair When Pretrained On Uncurated Images Without Supervision,/paper/vision-models-are-more-robust-and-fair-when
+10,"MetaFormer
+",84.3,,MetaFormer: A Unified Meta Framework for Fine-Grained Recognition,/paper/metaformer-a-unified-meta-framework-for-fine
+11,OMNIVORE ,84.1,,Omnivore: A Single Model for Many Visual Modalities,/paper/omnivore-a-single-model-for-many-visual
+12,RDNet-L ,81.8,186000000.0,DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs,/paper/densenets-reloaded-paradigm-shift-beyond
+13,RegNet-8GF,81.2,,Grafit: Learning fine-grained image representations with coarse labels,/paper/grafit-learning-fine-grained-image
+14,VL-LTR ,81.0,,VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition,/paper/vl-ltr-learning-class-wise-visual-linguistic
+15,µ2Net+ ,80.97,,A Continual Development Methodology for Large-scale Multitask Dynamic ML Systems,/paper/a-continual-development-methodology-for-large
+16,RDNet-B ,80.5,87000000.0,DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs,/paper/densenets-reloaded-paradigm-shift-beyond
+17,MixMIM-L,80.3,,MixMAE: Mixed and Masked Autoencoder for Efficient Pretraining of Hierarchical Vision Transformers,/paper/mixmim-mixed-and-masked-image-modeling-for
+18,DeiT-B,79.5,,Training data-efficient image transformers & distillation through attention,/paper/training-data-efficient-image-transformers
+19,CeiT-S ,79.4,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+20,RDNet-S ,79.1,50000000.0,DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs,/paper/densenets-reloaded-paradigm-shift-beyond
+21,GPaCo ,78.1,,Generalized Parametric Contrastive Learning,/paper/generalized-parametric-contrastive-learning
+22,CaiT-M-36 U 224,78.0,,Going deeper with Image Transformers,/paper/going-deeper-with-image-transformers
+23,MixMIM-B,77.5,,MixMAE: Mixed and Masked Autoencoder for Efficient Pretraining of Hierarchical Vision Transformers,/paper/mixmim-mixed-and-masked-image-modeling-for
+24,RDNet-T ,77.0,24000000.0,DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs,/paper/densenets-reloaded-paradigm-shift-beyond
+25,GPaCo ,75.4,,Generalized Parametric Contrastive Learning,/paper/generalized-parametric-contrastive-learning
+26,CBD-ENS ,75.3,,Class-Balanced Distillation for Long-Tailed Visual Recognition,/paper/class-balanced-distillation-for-long-tailed
+27,ViT-L ,75.3,,Three things everyone should know about Vision Transformers,/paper/three-things-everyone-should-know-about
+28,PaCo,75.2,,Parametric Contrastive Learning,/paper/parametric-contrastive-learning
+29,VL-LTR ,74.6,,VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition,/paper/vl-ltr-learning-class-wise-visual-linguistic
+30,BS-CMO ,74.0,,The Majority Can Help The Minority: Context-rich Minority Oversampling for Long-tailed Classification,/paper/the-majority-can-help-the-minority-context
+31,CBD-ENS ,73.6,,Class-Balanced Distillation for Long-Tailed Visual Recognition,/paper/class-balanced-distillation-for-long-tailed
+32,CeiT-S,73.3,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+33,TADE ,72.9,,Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition,/paper/test-agnostic-long-tailed-recognition-by-test
+34,CeiT-T ,72.2,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+35,RIDE ,72.2,,Long-tailed Recognition by Routing Diverse Distribution-Aware Experts,/paper/long-tailed-recognition-by-routing-diverse-1
+36,ResNeXt-101 ,70.54,,Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup,/paper/boosting-discriminative-visual-representation
+37,ResNeXt-101 ,70.49,,AutoMix: Unveiling the Power of Mixup for Stronger Classifiers,/paper/automix-unveiling-the-power-of-mixup
+38,LADE,70.0,,Disentangling Label Distribution for Long-tailed Visual Recognition,/paper/disentangling-label-distribution-for-long
+39,ResNet-50,69.8,,Grafit: Learning fine-grained image representations with coarse labels,/paper/grafit-learning-fine-grained-image
+40,ResNet-152,69.08,,Feature Space Augmentation for Long-Tailed Data,/paper/feature-space-augmentation-for-long-tailed
+41,ResNet-152,69.05,,Class-Balanced Loss Based on Effective Number of Samples,/paper/class-balanced-loss-based-on-effective-number
+42,MetaSAug,68.75,,MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition,/paper/metasaug-meta-semantic-augmentation-for-long
+43,ResNet-101,68.39,,Feature Space Augmentation for Long-Tailed Data,/paper/feature-space-augmentation-for-long-tailed
+44,ResNet-101,67.98,,Class-Balanced Loss Based on Effective Number of Samples,/paper/class-balanced-loss-based-on-effective-number
+45,LeViT-384,66.9,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+46,LeViT-256,66.2,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+47,ResNet-50,65.91,,Feature Space Augmentation for Long-Tailed Data,/paper/feature-space-augmentation-for-long-tailed
+48,ResNet-50 ,64.84,,Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup,/paper/boosting-discriminative-visual-representation
+49,ResNet-50 ,64.73,,AutoMix: Unveiling the Power of Mixup for Stronger Classifiers,/paper/automix-unveiling-the-power-of-mixup
+50,CeiT-T,64.3,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+51,ResMLP-24,64.3,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+52,ResNet-50,64.16,,Class-Balanced Loss Based on Effective Number of Samples,/paper/class-balanced-loss-based-on-effective-number
+53,LeViT-192,60.4,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+54,Inception-V3,60.2,,The iNaturalist Species Classification and Detection Dataset,/paper/the-inaturalist-species-classification-and
+55,ResMLP-12,60.2,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+56,LeViT-128S,55.2,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+57,LeViT-128,54.0,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+58,ResNet-50,49.7,,ClusterFit: Improving Generalization of Visual Representations,/paper/clusterfit-improving-generalization-of-visual
+59,ResNet-50,48.6,,Unsupervised Learning of Visual Features by Contrasting Cluster Assignments,/paper/unsupervised-learning-of-visual-features-by
+60,Barlow Twins ,46.5,,Barlow Twins: Self-Supervised Learning via Redundancy Reduction,/paper/barlow-twins-self-supervised-learning-via

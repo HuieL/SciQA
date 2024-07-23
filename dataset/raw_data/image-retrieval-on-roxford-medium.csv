@@ -1,0 +1,23 @@
+Rank,Model,mAP,Paper Title,Paper URL
+1,Hypergraph propagation+Community selection,88.4,Hypergraph Propagation and Community Selection for Objects Retrieval,/paper/hypergraph-propagation-and-community
+2,Token,82.28,Learning Token-based Representation for Image Retrieval,/paper/learning-token-based-representation-for-image
+3,FIRe,81.8,Learning Super-Features for Image Retrieval,/paper/learning-super-features-for-image-retrieval-1
+4,DELG+ α QE reranking + RRT reranking,80.4,Instance-level Image Retrieval using Reranking Transformers,/paper/instance-level-image-retrieval-using
+5,HOW,79.4,Learning and aggregating deep local descriptors for instance-level recognition,/paper/learning-and-aggregating-deep-local
+6,ResNet101+ArcFace GLDv2-train-clean,74.2,Google Landmarks Dataset v2 -- A Large-Scale Benchmark for Instance-Level Recognition and Retrieval,/paper/google-landmarks-dataset-v2-a-large-scale
+7,DELF–HQE+SP,73.4,Large-Scale Image Retrieval with Attentive Deep Local Features,/paper/large-scale-image-retrieval-with-attentive
+8,HesAff–rSIFT–HQE+SP,71.3,Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking,/paper/revisiting-oxford-and-paris-large-scale-image
+9,DELF–ASMK*+SP,67.8,Large-Scale Image Retrieval with Attentive Deep Local Features,/paper/large-scale-image-retrieval-with-attentive
+10,HesAff–rSIFT–HQE,66.3,Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking,/paper/revisiting-oxford-and-paris-large-scale-image
+11,HED-N-GAN,66.3,Dark Side Augmentation: Generating Diverse Night Examples for Metric Learning,/paper/dark-side-augmentation-generating-diverse-1
+12,R–GeM,64.7,Fine-tuning CNN Image Retrieval with No Human Annotation,/paper/fine-tuning-cnn-image-retrieval-with-no-human
+13,R–R-MAC,60.9,End-to-end Learning of Deep Visual Representations for Image Retrieval,/paper/end-to-end-learning-of-deep-visual
+14,HesAff–rSIFT–ASMK*+SP,60.6,Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking,/paper/revisiting-oxford-and-paris-large-scale-image
+15,HesAff–rSIFT–ASMK*,60.4,Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking,/paper/revisiting-oxford-and-paris-large-scale-image
+16,HesAff–rSIFT–SMK*+SP,59.8,Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking,/paper/revisiting-oxford-and-paris-large-scale-image
+17,HesAff–rSIFT–SMK*,59.4,Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking,/paper/revisiting-oxford-and-paris-large-scale-image
+18,Dino,51.5,Emerging Properties in Self-Supervised Vision Transformers,/paper/emerging-properties-in-self-supervised-vision
+19,R – [O] –CroW ,42.4,Cross-dimensional Weighting for Aggregated Deep Convolutional Features,/paper/cross-dimensional-weighting-for-aggregated
+20,R – [O] –MAC ,41.7,Particular object retrieval with integral max-pooling of CNN activations,/paper/particular-object-retrieval-with-integral-max
+21,R – [O] –SPoC,39.8,Aggregating Deep Convolutional Features for Image Retrieval,/paper/aggregating-deep-convolutional-features-for
+22,HesAff–rSIFT–VLAD ,33.9,Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking,/paper/revisiting-oxford-and-paris-large-scale-image

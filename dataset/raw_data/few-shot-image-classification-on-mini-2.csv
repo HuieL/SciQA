@@ -1,0 +1,102 @@
+Rank,Model,Accuracy,Paper Title,Paper URL
+1,CAML [Laion-2b],96.2,Context-Aware Meta-Learning,/paper/context-aware-meta-learning
+2,P>M>F ,95.3,Pushing the Limits of Simple Pipelines for Few-Shot Learning: External Data and Fine-Tuning Make a Difference,/paper/pushing-the-limits-of-simple-pipelines-for
+3,TRIDENT,86.11,Transductive Decoupled Variational Inference for Few-Shot Classification,/paper/transductive-decoupled-variational-inference
+4,PT+MAP+SF+SOT ,85.59,The Self-Optimal-Transport Feature Transform,/paper/the-self-optimal-transport-feature-transform
+5,PEMnE-BMS* ,85.54,Squeezing Backbone Feature Distributions to the Max for Efficient Few-Shot Learning,/paper/squeezing-backbone-feature-distributions-to
+6,PT+MAP ,84.81,Few-Shot Learning by Integrating Spatial and Frequency Representation,/paper/few-shot-learning-by-integrating-spatial-and
+7,BAVARDAGE,84.8,Adaptive Dimension Reduction and Variational Inference for Transductive Few-Shot Classification,/paper/adaptive-dimension-reduction-and-variational
+8,EASY 3xResNet12 ,84.04,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+9,Illumination Augmentation,82.99,Sill-Net: Feature Augmentation with Separated Illumination Representation,/paper/sill-net-feature-augmentation-with-separated
+10,PT+MAP ,82.92,Leveraging the Feature Distribution in Transfer-based Few-Shot Learning,/paper/leveraging-the-feature-distribution-in
+11,EASY 2xResNet12 1/√2 ,82.31,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+12,Transductive CNAPS + FETI,79.9,Enhancing Few-Shot Image Classification with Unlabelled Examples,/paper/improving-few-shot-visual-classification-with
+13,PrototypeCompletion,79.01,Prototype Completion for Few-Shot Learning,/paper/prototype-completion-for-few-shot-learning
+14,SemFew-Trans,78.94,Simple Semantic-Aided Few-Shot Learning,/paper/simple-semantic-aided-few-shot-learning
+15,MCT,78.55,Meta-Learned Confidence for Few-shot Learning,/paper/transductive-few-shot-learning-with-meta
+16,TIM-GD,77.8,Transductive Information Maximization For Few-Shot Learning,/paper/transductive-information-maximization-for-few
+17,Simple CNAPS + FETI,77.4,Improved Few-Shot Visual Classification,/paper/improved-few-shot-visual-classification
+18,EPNet,77.27,Embedding Propagation: Smoother Manifold for Few-Shot Classification,/paper/embedding-propagation-smoother-manifold-for
+19,BD-CSPN + ESFR ,76.84,Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classification,/paper/unsupervised-embedding-adaptation-via-early
+20,AmdimNet,76.82,Self-Supervised Learning For Few-Shot Image Classification,/paper/self-supervised-learning-for-few-shot-image
+21,LaplacianShot,75.57,Laplacian Regularized Few-Shot Learning,/paper/laplacian-regularized-few-shot-learning
+22,HCTransformers,74.74,Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning,/paper/attribute-surrogates-learning-and-spectral
+23,BD-CSPN + ESFR ,73.98,Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classification,/paper/unsupervised-embedding-adaptation-via-early
+24,pseudo-shots,73.35,Extended Few-Shot Learning: Exploiting Existing Resources for Novel Tasks,/paper/pseudo-shots-few-shot-learning-with-auxiliary
+25,FewTURE,72.4,Rethinking Generalization in Few-Shot Classification,/paper/rethinking-generalization-in-few-shot-1
+26,CPEA,71.97,Class-Aware Patch Embedding Adaptation for Few-Shot Image Classification,/paper/class-aware-patch-embedding-adaptation-for
+27,DAPNA,71.88,Few-Shot Learning as Domain Adaptation: Algorithm and Analysis,/paper/few-shot-learning-as-domain-adaptation
+28,EASY 3xResNet12 ,71.75,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+29,OSLO,71.73,Open-Set Likelihood Maximization for Few-Shot Learning,/paper/open-set-likelihood-maximization-for-few-shot
+30,WRN + Self-Organizing Map,71.5,GPU-based Self-Organizing Maps for Post-Labeled Few-Shot Unsupervised Learning,/paper/gpu-based-self-organizing-maps-for-post
+31,EASY 2xResNet12 1/√2 ,70.63,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+32,LST,70.1,Learning to Self-Train for Semi-Supervised Few-Shot Classification,/paper/190600562
+33,SIB,70.0,Empirical Bayes Transductive Meta-Learning with Synthetic Gradients,/paper/empirical-bayes-transductive-meta-learning-1
+34,ICI,69.66,Instance Credibility Inference for Few-Shot Learning,/paper/instance-credibility-inference-for-few-shot
+35,COSOC ,69.28,Rectifying the Shortcut Learning of Background for Few-Shot Learning,/paper/rectifying-the-shortcut-learning-of
+36,PEMbE-NCM ,68.43,Squeezing Backbone Feature Distributions to the Max for Efficient Few-Shot Learning,/paper/squeezing-backbone-feature-distributions-to
+37,ESPT,68.36,ESPT: A Self-Supervised Episodic Spatial Pretext Task for Improving Few-Shot Learning,/paper/espt-a-self-supervised-episodic-spatial
+38,MergedNet-Max,68.05,MergedNET: A simple approach for one-shot learning in siamese networks based on similarity layers,/paper/mergednet-a-simple-approach-for-one-shot
+39,LLS-ProtoNet,68.01,Enhancing Prototypical Few-Shot Learning by Leveraging the Local-Level Strategy,/paper/enhancing-prototypical-few-shot-learning-by
+40,STL DeepBDC ,67.83,Joint Distribution Matters: Deep Brownian Distance Covariance for Few-Shot Classification,/paper/joint-distribution-matters-deep-brownian
+41,MetaQDA,67.83,Shallow Bayesian Meta Learning for Real-World Few-Shot Recognition,/paper/shallow-bayesian-meta-learning-for-real-world
+42,RENet,67.6,Relational Embedding for Few-Shot Classification,/paper/relational-embedding-for-few-shot
+43,Meta DeepBDC  ,67.34,Joint Distribution Matters: Deep Brownian Distance Covariance for Few-Shot Classification,/paper/joint-distribution-matters-deep-brownian
+44,Invariance-Equivariance,67.28,Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning,/paper/exploring-complementary-strengths-of
+45,SSFormers,67.25,Sparse Spatial Transformers for Few-Shot Learning,/paper/sparse-spatial-transformers-for-few-shot
+46,TRAML,67.1,Boosting Few-Shot Learning With Adaptive Margin Loss,/paper/boosting-few-shot-learning-with-adaptive
+47,Adaptive Subspace Network,67.09,Adaptive Subspaces for Few-Shot Learning,/paper/adaptive-subspaces-for-few-shot-learning
+48,SKD,67.04,Self-supervised Knowledge Distillation for Few-shot Learning,/paper/self-supervised-knowledge-distillation-for
+49,R2-D2+Task Aug,65.95,Task Augmentation by Rotating for Meta-Learning,/paper/task-augmentation-by-rotating-for-meta
+50,DiffKendall ,65.56,DiffKendall: A Novel Approach for Few-Shot Learning with Differentiable Kendall's Rank Correlation,/paper/diffkendall-a-novel-approach-for-few-shot
+51,UniSiam,65.55,Self-Supervision Can Be a Good Few-Shot Learner,/paper/self-supervision-can-be-a-good-few-shot
+52,MetaOptNet-SVM+Task Aug,65.38,Task Augmentation by Rotating for Meta-Learning,/paper/task-augmentation-by-rotating-for-meta
+53,RS-FSL,65.33,Rich Semantics Improve Few-shot Learning,/paper/rich-semantics-improve-few-shot-learning
+54,AM3-TADAM,65.3,Adaptive Cross-Modal Few-Shot Learning,/paper/adaptive-cross-modal-few-shot-learning
+55,S2M2R,64.93,Charting the Right Manifold: Manifold Mixup for Few-shot Learning,/paper/charting-the-right-manifold-manifold-mixup
+56,ConstellationNets,64.89,Constellation Nets for Few-Shot Learning,/paper/constellation-nets-for-few-shot-learning
+57,SimpleShot ,64.29,SimpleShot: Revisiting Nearest-Neighbor Classification for Few-Shot Learning,/paper/simpleshot-revisiting-nearest-neighbor
+58,MetaFun-Attention,64.13,MetaFun: Meta-Learning with Iterative Functional Updates,/paper/metafun-meta-learning-with-iterative
+59,MetaOptNet-SVM-trainval,64.09,Meta-Learning with Differentiable Convex Optimization,/paper/meta-learning-with-differentiable-convex
+60,DKT + BNCosSim,62.96,Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels,/paper/deep-kernel-transfer-in-gaussian-processes
+61,Deep Comparison Network,62.88,RelationNet2: Deep Comparison Columns for Few-Shot Learning,/paper/deep-comparison-relation-columns-for-few-shot
+62,Self-Critique and Adapt + High-End MAML++,62.86,Learning to learn via Self-Critique,/paper/learning-to-learn-by-self-critique
+63,MCRNet-SVM,62.53,Complementing Representation Deficiency in Few-shot Image Classification: A Meta-Learning Approach,/paper/complementing-representation-deficiency-in
+64,ACC + Amphibian,62.21,Generalized Adaptation for Few-Shot Learning,/paper/fast-and-generalized-adaptation-for-few-shot
+65,ProtoNet MTM SPSA-Track,61.94,Simultaneous Perturbation Method for Multi-Task Weight Optimization in One-Shot Meta-Learning,/paper/multi-task-meta-learning-modification-with
+66,feat+ ,61.72,Few-Shot Learning via Embedding Adaptation with Set-to-Set Functions,/paper/learning-embedding-adaptation-for-few-shot
+67,TapNet,61.65,TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Learning,/paper/tapnet-neural-network-augmented-with-task
+68,MCRNet-RR,61.32,Complementing Representation Deficiency in Few-shot Image Classification: A Meta-Learning Approach,/paper/complementing-representation-deficiency-in
+69,MTL,61.2,Meta-Transfer Learning for Few-Shot Learning,/paper/meta-transfer-learning-for-few-shot-learning
+70,Delta-encoder,59.9,Delta-encoder: an effective sample synthesis method for few-shot object recognition,/paper/delta-encoder-an-effective-sample-synthesis
+71,Multi-Task Learning,59.84,Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation,/paper/bridging-multi-task-learning-and-meta
+72,Category-agnostic mapping WRN,59.6,Few-Shot Image Recognition by Predicting Parameters from Activations,/paper/few-shot-image-recognition-by-predicting
+73,IDeMe-Net,59.14,Image Deformation Meta-Networks for One-Shot Learning,/paper/190511641
+74,TADAM,58.5,TADAM: Task dependent adaptive metric for improved few-shot learning,/paper/tadam-task-dependent-adaptive-metric-for
+75,RCN - ResNet12,57.4,Region Comparison Network for Interpretable Few-shot Image Classification,/paper/region-comparison-network-for-interpretable
+76,adaResNet ,56.88,Rapid Adaptation with Conditionally Shifted Neurons,/paper/rapid-adaptation-with-conditionally-shifted
+77,Cosine similarity function + C64F feature extractor,56.2,Dynamic Few-Shot Visual Learning without Forgetting,/paper/dynamic-few-shot-visual-learning-without
+78,MTUNet+WRN,56.12,Match Them Up: Visually Explainable Few-shot Image Classification,/paper/match-them-up-visually-explainable-few-shot
+79,MC2+,55.73,Meta-Curvature,/paper/meta-curvature
+80,Transductive CNAPS,55.6,Enhancing Few-Shot Image Classification with Unlabelled Examples,/paper/improving-few-shot-visual-classification-with
+81,MTUNet+ResNet-18,55.03,Match Them Up: Visually Explainable Few-shot Image Classification,/paper/match-them-up-visually-explainable-few-shot
+82,GAP,54.86,Meta-Learning with a Geometry-Adaptive Preconditioner,/paper/meta-learning-with-a-geometry-adaptive
+83,MATANet,53.63,Multi-scale Adaptive Task Attention Network for Few-Shot Learning,/paper/multi-scale-adaptive-task-attention-network
+84,RCN - Conv4-64,53.57,Region Comparison Network for Interpretable Few-shot Image Classification,/paper/region-comparison-network-for-interpretable
+85,Approximate GAP,53.52,Meta-Learning with a Geometry-Adaptive Preconditioner,/paper/meta-learning-with-a-geometry-adaptive
+86,Simple CNAPS,53.2,Improved Few-Shot Visual Classification,/paper/improved-few-shot-visual-classification
+87,MAML++,52.4,How to train your MAML,/paper/how-to-train-your-maml
+88,SImPa,52.11,PAC-Bayes meta-learning with implicit task-specific posteriors,/paper/pac-bayesian-meta-learning-with-implicit
+89,MT-Net,51.7,Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace,/paper/gradient-based-meta-learning-with-learned
+90,Hyperbolic ProtoNet,51.57,Hyperbolic Image Embeddings,/paper/hyperbolic-image-embeddings
+91,VAMPIRE,51.54,Uncertainty in Model-Agnostic Meta-Learning using Variational Inference,/paper/uncertainty-in-model-agnostic-meta-learning
+92,DN4 ,51.24,Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning,/paper/revisiting-local-descriptor-based-image-to
+93,VNE ,50.95,VNE: An Effective Method for Improving Deep Representation by Manipulating Eigenvalue Distribution,/paper/vne-an-effective-method-for-improving-deep
+94,Relation Net ,50.4,Learning to Compare: Relation Network for Few-Shot Learning,/paper/learning-to-compare-relation-network-for-few
+95,HSML,50.38,Hierarchically Structured Meta-learning,/paper/hierarchically-structured-meta-learning
+96,Reptile + Transduction,49.97,On First-Order Meta-Learning Algorithms,/paper/on-first-order-meta-learning-algorithms
+97,Prototypical Networks,49.42,Prototypical Networks for Few-shot Learning,/paper/prototypical-networks-for-few-shot-learning
+98,iMAML HF,49.3,Meta-Learning with Implicit Gradients,/paper/meta-learning-with-implicit-gradients
+99,MAML,48.7,Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks,/paper/model-agnostic-meta-learning-for-fast
+100,Matching Nets ,46.6,Matching Networks for One Shot Learning,/paper/matching-networks-for-one-shot-learning
+101,ABML,45.0,Amortized Bayesian Meta-Learning,/paper/amortized-bayesian-meta-learning

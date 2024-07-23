@@ -1,0 +1,79 @@
+Rank,Model,Average mAP,Effective Robustness,Paper Title,Paper URL
+1,EVA,57.8,28.86,EVA: Exploring the Limits of Masked Visual Representation Learning at Scale,/paper/eva-exploring-the-limits-of-masked-visual
+2,"DETA
+",48.5,20.15,NMS Strikes Back,/paper/nms-strikes-back
+3,"GLIP-L
+",48.0,24.89,Grounded Language-Image Pre-training,/paper/grounded-language-image-pre-training
+4,"GRiT
+",42.9,15.72,GRiT: A Generative Region-to-text Transformer for Object Understanding,/paper/grit-a-generative-region-to-text-transformer
+5,"DINO
+",42.1,,DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection,/paper/dino-detr-with-improved-denoising-anchor-1
+6,"CBNetV2
+",39.0,12.36,CBNet: A Composite Backbone Network Architecture for Object Detection,/paper/cbnetv2-a-composite-backbone-network
+7,"ConvNeXt-XL
+",37.5,12.68,A ConvNet for the 2020s,/paper/a-convnet-for-the-2020s
+8,InternImage-L ,37.0,11.72,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+9,"DyHead
+",35.3,10.0,Dynamic Head: Unifying Object Detection Heads with Attentions,/paper/dynamic-head-unifying-object-detection-heads
+10,ViTDet ,34.3,,Exploring Plain Vision Transformer Backbones for Object Detection,/paper/exploring-plain-vision-transformer-backbones
+11,ViT-Adapter ,34.25,7.79,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+12,"FIBER-B
+",33.7,11.43,Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone,/paper/coarse-to-fine-vision-language-pre-training
+13,"QueryInst
+",33.2,8.26,Instances as Queries,/paper/queryinst-parallelly-supervised-mask-query
+14,YOLOv6-L6,32.5,6.73,YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications,/paper/yolov6-a-single-stage-object-detection
+15,YOLOv7-E6E,32.0,6.42,YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors,/paper/yolov7-trainable-bag-of-freebies-sets-new
+16,"MViTV2-H
+",30.9,5.62,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+17,"Det-AdvProp
+",30.8,7.34,Robust and Accurate Object Detection via Adversarial Learning,/paper/robust-and-accurate-object-detection-via
+18,YOLOv4-P6,30.4,5.89,YOLOv4: Optimal Speed and Accuracy of Object Detection,/paper/yolov4-optimal-speed-and-accuracy-of-object
+19,YOLOX-X,30.3,7.26,YOLOX: Exceeding YOLO Series in 2021,/paper/yolox-exceeding-yolo-series-in-2021
+20,"CenterNet2
+",29.5,4.29,Probabilistic two-stage detection,/paper/probabilistic-two-stage-detection
+21,"GLIP-T
+",29.1,8.11,Grounded Language-Image Pre-training,/paper/grounded-language-image-pre-training
+22,"EfficientDet-D5
+",28.5,5.44,EfficientDet: Scalable and Efficient Object Detection,/paper/efficientdet-scalable-and-efficient-object
+23,"PVTv2-B5
+",28.2,6.85,PVT v2: Improved Baselines with Pyramid Vision Transformer,/paper/pvtv2-improved-baselines-with-pyramid-vision
+24,"VFNet
+",28.0,5.27,VarifocalNet: An IoU-aware Dense Object Detector,/paper/varifocalnet-an-iou-aware-dense-object
+25,"GCNet
+",26.0,4.38,GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond,/paper/gcnet-non-local-networks-meet-squeeze
+26,"GFLv2
+",25.1,2.6,Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection,/paper/generalized-focal-loss-v2-learning-reliable
+27,"RepPointsV2
+",24.9,2.7,RepPoints V2: Verification Meets Regression for Object Detection,/paper/reppoints-v2-verification-meets-regression
+28,"UniverseNet
+",24.8,1.86,USB: Universal-Scale Object Detection Benchmark,/paper/usb-universal-scale-object-detection
+29,YOLOX-S,20.6,2.48,YOLOX: Exceeding YOLO Series in 2021,/paper/yolox-exceeding-yolo-series-in-2021
+30,"YOLOS-B
+",20.0,1.05,You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection,/paper/you-only-look-at-one-sequence-rethinking
+31,"DyHead
+",19.3,0.16,Dynamic Head: Unifying Object Detection Heads with Attentions,/paper/dynamic-head-unifying-object-detection-heads
+32,"HTC
+",19.1,0.08,Hybrid Task Cascade for Instance Segmentation,/paper/hybrid-task-cascade-for-instance-segmentation
+33,"Deformable-DETR
+",18.5,-1.49,Deformable DETR: Deformable Transformers for End-to-End Object Detection,/paper/deformable-detr-deformable-transformers-for-1
+34,"Cascade R-CNN
+",18.2,0.02,Cascade R-CNN: High Quality Object Detection and Instance Segmentation,/paper/cascade-r-cnn-high-quality-object-detection
+35,"Mask R-CNN
+",17.1,-0.11,Mask R-CNN,/paper/mask-r-cnn
+36,"DETR
+",17.1,-1.82,End-to-End Object Detection with Transformers,/paper/end-to-end-object-detection-with-transformers
+37,"ATSS
+",16.8,-0.91,Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection,/paper/bridging-the-gap-between-anchor-based-and
+38,"FCOS
+",16.7,0.25,FCOS: Fully Convolutional One-Stage Object Detection,/paper/fcos-fully-convolutional-one-stage-object
+39,"RetinaNet
+",16.6,0.18,Focal Loss for Dense Object Detection,/paper/focal-loss-for-dense-object-detection
+40,"Faster R-CNN
+",16.4,,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks,/paper/faster-r-cnn-towards-real-time-object
+41,"YOLOv3
+",14.8,-0.37,YOLOv3: An Incremental Improvement,/paper/yolov3-an-incremental-improvement
+42,SSD ,13.6,0.36,SSD: Single Shot MultiBox Detector,/paper/ssd-single-shot-multibox-detector
+43,DINO ,,15.76,DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection,/paper/dino-detr-with-improved-denoising-anchor-1
+44,"ViTDet
+",,7.89,Exploring Plain Vision Transformer Backbones for Object Detection,/paper/exploring-plain-vision-transformer-backbones
+45,Faster R-CNN ,,-0.41,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks,/paper/faster-r-cnn-towards-real-time-object

@@ -1,0 +1,44 @@
+Rank,Model,test mIoU,val mIoU,mIoU-1%,Paper Title,Paper URL
+1,PTv3 + PPT,75.5,72.3,,"Point Transformer V3: Simpler, Faster, Stronger",/paper/point-transformer-v3-simpler-faster-stronger
+2,UniSeg,75.2,71.3,,UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase,/paper/uniseg-a-unified-multi-modal-lidar
+3,SphereFormer,74.8,67.8,,Spherical Transformer for LiDAR-based 3D Recognition,/paper/spherical-transformer-for-lidar-based-3d
+4,FRNet,73.3,68.7,,FRNet: Frustum-Range Networks for Scalable LiDAR Segmentation,/paper/frnet-frustum-range-networks-for-scalable
+5,RangeFormer,73.3,67.6,,Rethinking Range View Representation for LiDAR Segmentation,/paper/rethinking-range-view-representation-for
+6,2DPASS,72.9,69.3,,2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds,/paper/2dpass-2d-priors-assisted-semantic
+7,PTv2,72.6,70.3,,Point Transformer V2: Grouped Vector Attention and Partition-based Pooling,/paper/point-transformer-v2-grouped-vector-attention
+8,PVKD,71.2,,,Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation,/paper/point-to-voxel-knowledge-distillation-for-1
+9,AF2S3Net,70.8,74.2,,(AF)2-S3Net: Attentive Feature Fusion with Adaptive Feature Selection for Sparse Semantic Segmentation Network,/paper/af-2-s3net-attentive-feature-fusion-with
+10,WaffleIron,70.8,68.0,,Using a Waffle Iron for Automotive Point Cloud Semantic Segmentation,/paper/using-a-waffle-iron-for-automotive-point
+11,Cylinder3D,68.9,64.3,,Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR Segmentation,/paper/cylindrical-and-asymmetrical-3d-convolution
+12,SPVNAS,66.4,64.7,,Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution,/paper/searching-efficient-3d-architectures-with
+13,JS3C-Net,66.0,,,Sparse Single Sweep LiDAR Point Cloud Segmentation via Learning Contextual Shape Priors from Scene Completion,/paper/sparse-single-sweep-lidar-point-cloud
+14,GFNet,65.4,,,GFNet: Geometric Flow Network for 3D Point Cloud Semantic Segmentation,/paper/gfnet-geometric-flow-network-for-3d-point
+15,KPRNet,63.1,,,KPRNet: Improving projection-based LiDAR semantic segmentation,/paper/kprnet-improving-projection-based-lidar
+16,TORNADONet-HiRes,63.1,,,TORNADO-Net: mulTiview tOtal vaRiatioN semAntic segmentation with Diamond inceptiOn module,/paper/tornado-net-multiview-total-variation
+17,NAPL,61.6,,,Number-Adaptive Prototype Learning for 3D Point Cloud Semantic Segmentation,/paper/number-adaptive-prototype-learning-for-3d
+18,Meta-RangeSeg,61.0,,,Meta-RangeSeg: LiDAR Sequence Semantic Segmentation Using Multiple Feature Aggregation,/paper/meta-rangeseg-lidar-sequence-semantic
+19,BAAF-Net,59.9,,,Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion,/paper/semantic-segmentation-for-real-point-cloud
+20,SalsaNext,59.5,,,"SalsaNext: Fast, Uncertainty-aware Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving",/paper/salsanext-fast-semantic-segmentation-of-lidar
+21,KPConv,58.8,,,KPConv: Flexible and Deformable Convolution for Point Clouds,/paper/kpconv-flexible-and-deformable-convolution
+22,PolarNet,57.2,,,PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation,/paper/polarnet-an-improved-grid-representation-for
+23,FPS-Net,57.1,,,FPS-Net: A Convolutional Fusion Network for Large-Scale LiDAR Point Cloud Segmentation,/paper/fps-net-a-convolutional-fusion-network-for
+24,SqueezeSegV3,55.9,,,SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation,/paper/squeezesegv3-spatially-adaptive-convolution
+25,3D-MiniNet,55.8,,,3D-MiniNet: Learning a 2D Representation from Point Clouds for Fast and Efficient 3D LIDAR Semantic Segmentation,/paper/3d-mininet-learning-a-2d-representation-from
+26,MPF,55.5,,,Multi Projection Fusion for Real-time Semantic Segmentation of 3D LiDAR Point Clouds,/paper/multi-projection-fusion-for-real-time
+27,MINet,55.2,,,Multi-scale Interaction for Real-time LiDAR Data Segmentation on an Embedded Platform,/paper/multi-scale-interaction-for-real-time-lidar
+28,RandLA-Net,53.9,,,RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds,/paper/191111236
+29,FG-Net,53.8,,,FG-Net: Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Correlated Feature Mining and Geometric-Aware Modelling,/paper/fg-net-fast-large-scale-lidar-point
+30,LatticeNet,52.9,,,LatticeNet: Fast Point Cloud Segmentation Using Permutohedral Lattices,/paper/latticenet-fast-point-cloud-segmentation
+31,RangeNet++,52.2,,,RangeNet++: Fast and Accurate LiDAR Semantic Segmentation,/paper/rangenet-fast-and-accurate-lidar-semantic
+32,Darknet53,49.9,,,SemanticKITTI: A Dataset for Semantic Scene Understanding of LiDAR Sequences,/paper/a-dataset-for-semantic-segmentation-of-point
+33,SqueezeSegV2,39.7,,,SqueezeSegV2: Improved Model Structure and Unsupervised Domain Adaptation for Road-Object Segmentation from a LiDAR Point Cloud,/paper/squeezesegv2-improved-model-structure-and
+34,TangentConv,35.9,,,Tangent Convolutions for Dense Prediction in 3D,/paper/tangent-convolutions-for-dense-prediction-in
+35,SqueezeSeg,29.5,,,SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud,/paper/squeezeseg-convolutional-neural-nets-with
+36,PointNet++,20.1,,,PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space,/paper/pointnet-deep-hierarchical-feature-learning
+37,SPLATNet,18.4,,,SPLATNet: Sparse Lattice Networks for Point Cloud Processing,/paper/splatnet-sparse-lattice-networks-for-point
+38,SPGraph,17.4,,,Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs,/paper/large-scale-point-cloud-semantic-segmentation
+39,PointNet,14.6,,,PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation,/paper/pointnet-deep-learning-on-point-sets-for-3d
+40,PPT+SparseUNet,,71.4,,Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training,/paper/towards-large-scale-3d-representation
+41,OA-CNNs,,70.6,,OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation,/paper/oa-cnns-omni-adaptive-sparse-cnns-for-3d
+42,LiM3D,,,58.4,Less is More: Reducing Task and Model Complexity for 3D Point Cloud Semantic Segmentation,/paper/less-is-more-reducing-task-and-model
+43,LiM3D+SDSC,,,57.2,Less is More: Reducing Task and Model Complexity for 3D Point Cloud Semantic Segmentation,/paper/less-is-more-reducing-task-and-model

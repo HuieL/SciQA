@@ -1,0 +1,107 @@
+Rank,Model,Top-1 Accuracy,Top-5 Accuracy,Paper Title,Paper URL
+1,CoCa,82.7,,CoCa: Contrastive Captioners are Image-Text Foundation Models,/paper/coca-contrastive-captioners-are-image-text
+2,LiT,82.5,,LiT: Zero-Shot Transfer with Locked-image text Tuning,/paper/lit-zero-shot-transfer-with-locked-image-text
+3,BASIC,82.3,,Combined Scaling for Zero-shot Transfer Learning,/paper/combined-scaling-for-zero-shot-transfer
+4,EVA-02-CLIP-E/14+,79.6,,EVA-CLIP: Improved Training Techniques for CLIP at Scale,/paper/eva-clip-improved-training-techniques-for
+5,Baseline ,79.03,,Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time,/paper/model-soups-averaging-weights-of-multiple
+6,Model soups ,78.52,,Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time,/paper/model-soups-averaging-weights-of-multiple
+7,MAWS ,77.9,,The effectiveness of MAE pre-pretraining for billion-scale pretraining,/paper/the-effectiveness-of-mae-pre-pretraining-for
+8,MAWS ,75.8,,The effectiveness of MAE pre-pretraining for billion-scale pretraining,/paper/the-effectiveness-of-mae-pre-pretraining-for
+9,MAWS ,72.6,,The effectiveness of MAE pre-pretraining for billion-scale pretraining,/paper/the-effectiveness-of-mae-pre-pretraining-for
+10,CLIP,72.3,,Learning Transferable Visual Models From Natural Language Supervision,/paper/learning-transferable-visual-models-from
+11,ALIGN,72.2,,Combined Scaling for Zero-shot Transfer Learning,/paper/combined-scaling-for-zero-shot-transfer
+12,WiSE-FT,72.1,,Robust fine-tuning of zero-shot models,/paper/robust-fine-tuning-of-zero-shot-models
+13,ViT-e,72.0,,PaLI: A Jointly-Scaled Multilingual Language-Image Model,/paper/pali-a-jointly-scaled-multilingual-language
+14,ViT-G/14,70.53,,Scaling Vision Transformers,/paper/scaling-vision-transformers
+15,SWAG ,69.5,,Revisiting Weakly Supervised Pre-Training of Visual Perception Models,/paper/revisiting-weakly-supervised-pre-training-of
+16,NS ,68.5,,Scaling Vision Transformers,/paper/scaling-vision-transformers
+17,RegNetY 128GF ,64.3,,Revisiting Weakly Supervised Pre-Training of Visual Perception Models,/paper/revisiting-weakly-supervised-pre-training-of
+18,LLE ,60.78,,A Whac-A-Mole Dilemma: Shortcuts Come in Multiples Where Mitigating One Amplifies Others,/paper/a-whac-a-mole-dilemma-shortcuts-come-in
+19,SEER ,60.2,,Vision Models Are More Robust And Fair When Pretrained On Uncurated Images Without Supervision,/paper/vision-models-are-more-robust-and-fair-when
+20,ViT H/14 ,60.0,,Revisiting Weakly Supervised Pre-Training of Visual Perception Models,/paper/revisiting-weakly-supervised-pre-training-of
+21,BiT-L ,58.7,80.0,Big Transfer (BiT): General Visual Representation Learning,/paper/large-scale-learning-of-general-visual
+22,ViT L/16 ,57.3,,Revisiting Weakly Supervised Pre-Training of Visual Perception Models,/paper/revisiting-weakly-supervised-pre-training-of
+23,Vit B/16 ,53.9,,Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy,/paper/bamboo-building-mega-scale-vision-dataset
+24,AR-L ,52.0,73.5,Optimizing Relevance Maps of Vision Transformers Improves Robustness,/paper/optimizing-relevance-maps-of-vision
+25,ALIGN-MRL,51.6,,Matryoshka Representation Learning,/paper/matryoshka-representations-for-adaptive
+26,ViT-B/16 ,50.7,,Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations,/paper/billion-scale-pretraining-with-vision
+27,ViT-B/16 ,49.39,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+28,ResNet-101 ,49.1,,Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations,/paper/billion-scale-pretraining-with-vision
+29,ViT B/16,48.9,,Revisiting Weakly Supervised Pre-Training of Visual Perception Models,/paper/revisiting-weakly-supervised-pre-training-of
+30,ViT-B/32,48.4,,Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations,/paper/billion-scale-pretraining-with-vision
+31,ViT-B/16 ,47.53,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+32,AR-B ,47.1,70.0,Optimizing Relevance Maps of Vision Transformers Improves Robustness,/paper/optimizing-relevance-maps-of-vision
+33,BiT-M ,47.0,69.0,Big Transfer (BiT): General Visual Representation Learning,/paper/large-scale-learning-of-general-visual
+34,ViT-B/16 ,46.68,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+35,ViT-B ,46.62,,Discrete Representations Strengthen Vision Transformer Robustness,/paper/discrete-representations-strengthen-vision-1
+36,AR-L,46.5,68.3,Optimizing Relevance Maps of Vision Transformers Improves Robustness,/paper/optimizing-relevance-maps-of-vision
+37,ViT-L ,43.2,65.8,Optimizing Relevance Maps of Vision Transformers Improves Robustness,/paper/optimizing-relevance-maps-of-vision
+38,CLIP L,42.8,,Optimal Representations for Covariate Shift,/paper/optimal-representations-for-covariate-shift-1
+39,ResNet-50 ,42.5,,Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations,/paper/billion-scale-pretraining-with-vision
+40,ViT-B ,42.2,65.1,Optimizing Relevance Maps of Vision Transformers Improves Robustness,/paper/optimizing-relevance-maps-of-vision
+41,CLIP L ,42.1,,Optimal Representations for Covariate Shift,/paper/optimal-representations-for-covariate-shift-1
+42,AR-B,41.4,63.7,Optimizing Relevance Maps of Vision Transformers Improves Robustness,/paper/optimizing-relevance-maps-of-vision
+43,RegViT on 384x384 + Adv Pyramid,39.79,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+44,ResNet-152 + GenInt with Transfer,39.38,61.43,Generative Interventions for Causal Learning,/paper/generative-interventions-for-causal-learning
+45,AR-S ,39.3,61.7,Optimizing Relevance Maps of Vision Transformers Improves Robustness,/paper/optimizing-relevance-maps-of-vision
+46,ResNet-50 ,38.8,,Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy,/paper/bamboo-building-mega-scale-vision-dataset
+47,RegViT on 384x384 + Adv Pixel,37.41,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+48,ViT-L,37.4,59.5,Optimizing Relevance Maps of Vision Transformers Improves Robustness,/paper/optimizing-relevance-maps-of-vision
+49,DeiT-L ,36.3,56.6,Optimizing Relevance Maps of Vision Transformers Improves Robustness,/paper/optimizing-relevance-maps-of-vision
+50,BiT-S ,36.0,57.0,Big Transfer (BiT): General Visual Representation Learning,/paper/large-scale-learning-of-general-visual
+51,NASNet-A,35.77,56.05,ObjectNet: A large-scale bias-controlled dataset for pushing the limits of object recognition models,/paper/objectnet-a-large-scale-bias-controlled
+52,PNASNet-5L,35.63,54.95,ObjectNet: A large-scale bias-controlled dataset for pushing the limits of object recognition models,/paper/objectnet-a-large-scale-bias-controlled
+53,RegViT on 384x384,35.59,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+54,ViT-B,35.1,56.4,Optimizing Relevance Maps of Vision Transformers Improves Robustness,/paper/optimizing-relevance-maps-of-vision
+55,RegViT on 384x384 + Random Pyramid,34.83,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+56,AR-S,34.3,55.8,Optimizing Relevance Maps of Vision Transformers Improves Robustness,/paper/optimizing-relevance-maps-of-vision
+57,RegViT on 384x384 + Random Pixel,34.12,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+58,RegViT ,32.92,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+59,Inception-v4,32.24,51.98,ObjectNet: A large-scale bias-controlled dataset for pushing the limits of object recognition models,/paper/objectnet-a-large-scale-bias-controlled
+60,DeiT-S ,31.6,53.0,Optimizing Relevance Maps of Vision Transformers Improves Robustness,/paper/optimizing-relevance-maps-of-vision
+61,ResNet-50 + CGC,31.53,50.16,Context-Gated Convolution,/paper/context-gated-convolution
+62,DeiT-L,31.4,48.5,Optimizing Relevance Maps of Vision Transformers Improves Robustness,/paper/optimizing-relevance-maps-of-vision
+63,Discrete ViT + Pixel,30.98,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+64,Discrete ViT + Pyramid,30.28,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+65,RegViT ,30.11,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+66,Discrete ViT,29.95,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+67,ResNet-152,29.59,49.4,ObjectNet: A large-scale bias-controlled dataset for pushing the limits of object recognition models,/paper/objectnet-a-large-scale-bias-controlled
+68,RegViT ,29.41,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+69,RegViT ,29.3,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+70,ResNet-50 + GroupNorm,29.2,50.2,Improving robustness against common corruptions by covariate shift adaptation,/paper/improving-robustness-against-common
+71,ResNet-50 + RoHL,29.2,,Improving robustness against common corruptions by covariate shift adaptation,/paper/improving-robustness-against-common
+72,RegViT ,28.72,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+73,MLP-Mixer + Pyramid,28.6,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+74,ResNet-50 + FixUp,28.5,48.6,Improving robustness against common corruptions by covariate shift adaptation,/paper/improving-robustness-against-common
+75,ResNet-50 + MixUp ,28.37,,On Mixup Regularization,/paper/on-mixup-regularization
+76,DeiT-S,28.3,47.3,Optimizing Relevance Maps of Vision Transformers Improves Robustness,/paper/optimizing-relevance-maps-of-vision
+77,ResNet-18 + GenInt with Transfer,27.03,48.02,Generative Interventions for Causal Learning,/paper/generative-interventions-for-causal-learning
+78,MLP-Mixer,25.9,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+79,RELICv2,25.9,,Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?,/paper/pushing-the-limits-of-self-supervised-resnets
+80,ViT + MixUp,25.65,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+81,C-BYOL,25.5,,Compressive Visual Representations,/paper/compressive-visual-representations
+82,MLP-Mixer + Pixel,24.75,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+83,BYOL ,23.9,,Characterizing and Improving the Robustness of Self-Supervised Learning through Background Augmentations,/paper/leveraging-background-augmentations-to
+84,RELIC,23.8,,Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?,/paper/pushing-the-limits-of-self-supervised-resnets
+85,BYOL,23.0,,Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?,/paper/pushing-the-limits-of-self-supervised-resnets
+86,SwAV ,21.9,,Characterizing and Improving the Robustness of Self-Supervised Learning through Background Augmentations,/paper/leveraging-background-augmentations-to
+87,ViT + CutMix,21.61,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+88,MoCo-v2 ,20.8,,Characterizing and Improving the Robustness of Self-Supervised Learning through Background Augmentations,/paper/leveraging-background-augmentations-to
+89,C-SimCLR,20.8,,Compressive Visual Representations,/paper/compressive-visual-representations
+90,SeLa,20.61,48.83,Measuring the Interpretability of Unsupervised Representations via Quantized Reversed Probing,/paper/measuring-the-interpretability-of
+91,DILEMMA,20.51,,Representation Learning by Detecting Incorrect Location Embeddings,/paper/dilemma-self-supervised-shape-and-texture
+92,DeepCluster,19.73,46.81,Measuring the Interpretability of Unsupervised Representations via Quantized Reversed Probing,/paper/measuring-the-interpretability-of
+93,VGG-14,19.13,37.15,ObjectNet: A large-scale bias-controlled dataset for pushing the limits of object recognition models,/paper/objectnet-a-large-scale-bias-controlled
+94,ResNet-50 ,18.7,,Data Determines Distributional Robustness in Contrastive Language Image Pre-training (CLIP),/paper/data-determines-distributional-robustness-in
+95,SwAV ,17.71,43.64,Measuring the Interpretability of Unsupervised Representations via Quantized Reversed Probing,/paper/measuring-the-interpretability-of
+96,ViT,17.36,,Pyramid Adversarial Training Improves ViT Performance,/paper/pyramid-adversarial-training-improves-vit
+97,ResNet34-RPG,16.5,,Compact and Optimal Deep Learning with Recurrent Parameter Generators,/paper/recurrent-parameter-generators
+98,CLIP ,15.24,,Robust Cross-Modal Representation Learning with Progressive Self-Distillation,/paper/robust-cross-modal-representation-learning
+99,SimCLR,14.6,,Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?,/paper/pushing-the-limits-of-self-supervised-resnets
+100,ResNet-152 ,13.2,29.7,Class-agnostic Object Detection,/paper/class-agnostic-object-detection
+101,MoCo,12.67,31.45,Measuring the Interpretability of Unsupervised Representations via Quantized Reversed Probing,/paper/measuring-the-interpretability-of
+102,MoCHi  ,12.64,31.71,Measuring the Interpretability of Unsupervised Representations via Quantized Reversed Probing,/paper/measuring-the-interpretability-of
+103,OBoW ,12.23,31.72,Measuring the Interpretability of Unsupervised Representations via Quantized Reversed Probing,/paper/measuring-the-interpretability-of
+104,AlexNet,6.78,17.6,ObjectNet: A large-scale bias-controlled dataset for pushing the limits of object recognition models,/paper/objectnet-a-large-scale-bias-controlled
+105,BigBiGAN ,4.92,,Self-Supervised Learning for Large-Scale Unsupervised Image Clustering,/paper/self-supervised-learning-for-large-scale
+106,ViT-H/14,,82.1,An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,/paper/an-image-is-worth-16x16-words-transformers-1

@@ -1,0 +1,119 @@
+Rank,Model,Percentage correct,FLOPS,PARAMS,Accuracy,Paper Title,Paper URL
+1,VIT-L/16 ,99.71,,,,Reduction of Class Activation Uncertainty with Background Information,/paper/reduction-of-class-activation-uncertainty
+2,µ2Net+ ,99.64,,,,A Continual Development Methodology for Large-scale Multitask Dynamic ML Systems,/paper/a-continual-development-methodology-for-large
+3,kNN-CLIP,99.6,,,,Revisiting a kNN-based Image Classification System with High-capacity Storage,/paper/revisiting-a-knn-based-image-classification
+4,Wide-ResNet-101 ,98.66,,,,SpinalNet: Deep Neural Network with Gradual Input,/paper/spinalnet-deep-neural-network-with-gradual-1
+5,CN,98.45,,,,Toward Understanding Supervised Representation Learning with RKHS and GAN,/paper/toward-understanding-supervised
+6,CN,98.36,,,,Toward Understanding Supervised Representation Learning with RKHS and GAN,/paper/toward-understanding-supervised
+7,NSRL+CN,98.36,,,,Toward Understanding Supervised Representation Learning with RKHS and GAN,/paper/toward-understanding-supervised
+8,NSRL+CN,98.34,,,,Toward Understanding Supervised Representation Learning with RKHS and GAN,/paper/toward-understanding-supervised
+9,NSRL+CN,98.24,,,,Toward Understanding Supervised Representation Learning with RKHS and GAN,/paper/toward-understanding-supervised
+10,CN,98.17,,,,Toward Understanding Supervised Representation Learning with RKHS and GAN,/paper/toward-understanding-supervised
+11,NAT-M4,97.9,573000000.0,7500000.0,,Neural Architecture Transfer,/paper/neural-architecture-transfer
+12,NAT-M3,97.8,436000000.0,7500000.0,,Neural Architecture Transfer,/paper/neural-architecture-transfer
+13,SEER ,97.3,,10000000000.0,,Vision Models Are More Robust And Fair When Pretrained On Uncurated Images Without Supervision,/paper/vision-models-are-more-robust-and-fair-when
+14,NAT-M2,97.2,303000000.0,5100000.0,,Neural Architecture Transfer,/paper/neural-architecture-transfer
+15,iGPT-L,97.1,,,,Generative Pretraining from Pixels,/paper/generative-pretraining-from-pixels
+16,NAT-M1,96.7,240000000.0,4400000.0,,Neural Architecture Transfer,/paper/neural-architecture-transfer
+17,EnAET,95.48,,,,EnAET: A Self-Trained framework for Semi-Supervised and Supervised Learning with Ensemble Transformations,/paper/enaet-self-trained-ensemble-autoencoding
+18,VGG-19bn,95.44,,,,SpinalNet: Deep Neural Network with Gradual Input,/paper/spinalnet-deep-neural-network-with-gradual-1
+19,Diffusion Classifier ,95.4,,,,Your Diffusion Model is Secretly a Zero-Shot Classifier,/paper/your-diffusion-model-is-secretly-a-zero-shot
+20,FixMatch ,94.83,,,,FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence,/paper/fixmatch-simplifying-semi-supervised-learning-1
+21,ReMixMatch,94.77,,,,FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence,/paper/fixmatch-simplifying-semi-supervised-learning-1
+22,AMDIM,94.5,,,,Learning Representations by Maximizing Mutual Information Across Views,/paper/190600910
+23,MixMatch,94.41,,,,MixMatch: A Holistic Approach to Semi-Supervised Learning,/paper/mixmatch-a-holistic-approach-to-semi
+24,AMDIM-L,94.2,,,,Generative Pretraining from Pixels,/paper/generative-pretraining-from-pixels
+25,ReMixMatch ,93.82,,,,ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring,/paper/remixmatch-semi-supervised-learning-with-1
+26,AMDIM,93.8,,,,A Framework For Contrastive Self-Supervised Learning And Designing A New Approach,/paper/a-framework-for-contrastive-self-supervised
+27,ReMixMatch ,93.23,,,,ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring,/paper/remixmatch-semi-supervised-learning-with-1
+28,MP*,93.19,,,,Increasing Trustworthiness of Deep Neural Networks via Accuracy Monitoring,/paper/increasing-trustworthiness-of-deep-neural
+29,UDA,92.34,,,,FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence,/paper/fixmatch-simplifying-semi-supervised-learning-1
+30,YADIM,92.15,,,,A Framework For Contrastive Self-Supervised Learning And Designing A New Approach,/paper/a-framework-for-contrastive-self-supervised
+31,FixMatch ,92.02,,,,FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence,/paper/fixmatch-simplifying-semi-supervised-learning-1
+32,NSGANetV2,92.0,,,,NSGANetV2: Evolutionary Multi-Objective Surrogate-Assisted Neural Architecture Search,/paper/nsganetv2-evolutionary-multi-objective
+33,SESN,91.49,,,,Scale-Equivariant Steerable Networks,/paper/scale-equivariant-steerable-networks-1
+34,Harmonic WRN-16-8,90.45,,,,Harmonic Networks with Limited Training Samples,/paper/harmonic-networks-with-limited-training
+35,wrn16/8 D8 D4 D1,90.2,,,,General $E(2)$-Equivariant Steerable CNNs,/paper/general-e2-equivariant-steerable-cnns-1
+36,DLME ,90.1,,,,DLME: Deep Local-flatness Manifold Embedding,/paper/dlme-deep-local-flatness-manifold-embedding
+37,MixMatch,89.82,,,,ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring,/paper/remixmatch-semi-supervised-learning-with-1
+38,MixMatch,89.59,,,,FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence,/paper/fixmatch-simplifying-semi-supervised-learning-1
+39,wrn16/8* D8 D4 D1,89.43,,,,General $E(2)$-Equivariant Steerable CNNs,/paper/general-e2-equivariant-steerable-cnns-1
+40,wrn16/8* D1 D1 D1,88.95,,,,General $E(2)$-Equivariant Steerable CNNs,/paper/general-e2-equivariant-steerable-cnns-1
+41,wrn16/8 D1 D1 D1,88.83,,,,General $E(2)$-Equivariant Steerable CNNs,/paper/general-e2-equivariant-steerable-cnns-1
+42,IIC,88.8,,,,Invariant Information Clustering for Unsupervised Image Classification and Segmentation,/paper/invariant-information-distillation-for
+43,IIC,88.8,,,,MixMatch: A Holistic Approach to Semi-Supervised Learning,/paper/mixmatch-a-holistic-approach-to-semi
+44,SOPCNN,88.08,,,,Stochastic Optimization of Plain Convolutional Neural Networks with Simple methods,/paper/stochastic-optimization-of-plain
+45,TS,88.03,,,,Increasing Trustworthiness of Deep Neural Networks via Accuracy Monitoring,/paper/increasing-trustworthiness-of-deep-neural
+46,CutOut,87.36,,,,MixMatch: A Holistic Approach to Semi-Supervised Learning,/paper/mixmatch-a-holistic-approach-to-semi
+47,Cutout,87.26,,,,Improved Regularization of Convolutional Neural Networks with Cutout,/paper/improved-regularization-of-convolutional
+48,wrn16/8,87.26,,,,General $E(2)$-Equivariant Steerable CNNs,/paper/general-e2-equivariant-steerable-cnns-1
+49,Hamiltonian,85.5,,,,Reversible Architectures for Arbitrarily Deep Residual Neural Networks,/paper/reversible-architectures-for-arbitrarily-deep
+50,ResNet-18+MM+FRL,85.42,,,,Learning Class Unique Features in Fine-Grained Visual Classification,/paper/towards-class-specific-unit
+51,MidPoint,84.6,,,,Reversible Architectures for Arbitrarily Deep Residual Neural Networks,/paper/reversible-architectures-for-arbitrarily-deep
+52,cosine function,84.38,,,,Image Augmentation for Object Image Classification Based On Combination of PreTrained CNN and SVM,/paper/image-augmentation-for-object-image
+53,HybridNet,84.1,,,,HybridNet: Classification and Reconstruction Cooperation for Semi-Supervised Learning,/paper/hybridnet-classification-and-reconstruction
+54,Leapfrog,83.7,,,,Reversible Architectures for Arbitrarily Deep Residual Neural Networks,/paper/reversible-architectures-for-arbitrarily-deep
+55,skewing,83.47,,,,Image Augmentation for Object Image Classification Based On Combination of PreTrained CNN and SVM,/paper/image-augmentation-for-object-image
+56,elastic distortion,83.45,,,,Image Augmentation for Object Image Classification Based On Combination of PreTrained CNN and SVM,/paper/image-augmentation-for-object-image
+57,PSLR-knn,83.2,,,,Probabilistic Structural Latent Representation for Unsupervised Embedding,/paper/probabilistic-structural-latent
+58,elastic distortion,83.0,,,,Image Augmentation for Object Image Classification Based On Combination of PreTrained CNN and SVM,/paper/image-augmentation-for-object-image
+59,ResNet baseline,82.0,,,,HybridNet: Classification and Reconstruction Cooperation for Semi-Supervised Learning,/paper/hybridnet-classification-and-reconstruction
+60,Greedy InfoMax ,81.9,,,,Putting An End to End-to-End: Gradient-Isolated Learning of Representations,/paper/greedy-infomax-for-biologically-plausible
+61,rotation,81.45,,,,Image Augmentation for Object Image Classification Based On Combination of PreTrained CNN and SVM,/paper/image-augmentation-for-object-image
+62,ResNet18,81.04,,,,Extended Batch Normalization,/paper/extended-batch-normalization
+63,VGG8B + LocalLearning + CO,80.75,,,,Training Neural Networks with Local Error Signals,/paper/training-neural-networks-with-local-error
+64,ResNet18,79.3,,,,Extended Batch Normalization,/paper/extended-batch-normalization
+65,PSLR-Linear,78.8,,,,Probabilistic Structural Latent Representation for Unsupervised Embedding,/paper/probabilistic-structural-latent
+66,ResNet18,78.65,,,,Extended Batch Normalization,/paper/extended-batch-normalization
+67,Mean Teacher,78.57,,,,FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence,/paper/fixmatch-simplifying-semi-supervised-learning-1
+68,CPC†,78.36,,,,A Framework For Contrastive Self-Supervised Learning And Designing A New Approach,/paper/a-framework-for-contrastive-self-supervised
+69,Hamiltonian,78.3,,,,Deep Neural Networks Motivated by Partial Differential Equations,/paper/deep-neural-networks-motivated-by-partial
+70,CC-GAN²,77.8,,,,Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks,/paper/semi-supervised-learning-with-context
+71,CC-GAN,77.8,,,,ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring,/paper/remixmatch-semi-supervised-learning-with-1
+72,Parabolic,77.0,,,,Deep Neural Networks Motivated by Partial Differential Equations,/paper/deep-neural-networks-motivated-by-partial
+73,Scat + WRN 20-8,76.6,,,,Scaling the Scattering Transform: Deep Hybrid Networks,/paper/scaling-the-scattering-transform-deep-hybrid
+74,ResNet18,76.49,,,,Extended Batch Normalization,/paper/extended-batch-normalization
+75,Exemplar CNN,75.7,,,,Scaling the Scattering Transform: Deep Hybrid Networks,/paper/scaling-the-scattering-transform-deep-hybrid
+76,ResNet18,75.57,,,,Extended Batch Normalization,/paper/extended-batch-normalization
+77,Stacked what-where AE,74.33,,,,Scaling the Scattering Transform: Deep Hybrid Networks,/paper/scaling-the-scattering-transform-deep-hybrid
+78,SWWAE,74.33,,,,HybridNet: Classification and Reconstruction Cooperation for Semi-Supervised Learning,/paper/hybridnet-classification-and-reconstruction
+79,SWWAE,74.3,,,,ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring,/paper/remixmatch-semi-supervised-learning-with-1
+80,SWWAE,74.3,,,,Stacked What-Where Auto-encoders,/paper/stacked-what-where-auto-encoders
+81,Second-order,74.3,,,,Deep Neural Networks Motivated by Partial Differential Equations,/paper/deep-neural-networks-motivated-by-partial
+82,Convolutional Clustering,74.1,,,,Convolutional Clustering for Unsupervised Learning,/paper/convolutional-clustering-for-unsupervised
+83,Π-Model,73.77,,,,FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence,/paper/fixmatch-simplifying-semi-supervised-learning-1
+84,Discriminative Unsupervised Feature Learning with Convolutional Neural Networks,72.8,,,,Discriminative Unsupervised Feature Learning with Convolutional Neural Networks,/paper/discriminative-unsupervised-feature-learning-1
+85,ResNet18,72.66,,,,Extended Batch Normalization,/paper/extended-batch-normalization
+86,Pseudo-Labeling,72.01,,,,FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence,/paper/fixmatch-simplifying-semi-supervised-learning-1
+87,Entropy,71.65,,,,Increasing Trustworthiness of Deep Neural Networks via Accuracy Monitoring,/paper/increasing-trustworthiness-of-deep-neural
+88,BDW,71.12,,,,"Don’t Wait, Just Weight: Improving Unsupervised Representations by Learning Goal-Driven Instance Weights",/paper/dont-wait-just-weight-improving-unsupervised
+89,MP,71.05,,,,Increasing Trustworthiness of Deep Neural Networks via Accuracy Monitoring,/paper/increasing-trustworthiness-of-deep-neural
+90,WaveMixLite-256/7,70.88,,,,WaveMix: A Resource-efficient Neural Network for Image Analysis,/paper/wavemix-lite-a-resource-efficient-neural
+91,CNN,70.7,,,,Scaling the Scattering Transform: Deep Hybrid Networks,/paper/scaling-the-scattering-transform-deep-hybrid
+92,An Analysis of Unsupervised Pre-training in Light of Recent Advances,70.2,,,,An Analysis of Unsupervised Pre-training in Light of Recent Advances,/paper/an-analysis-of-unsupervised-pre-training-in
+93,Multi-Task Bayesian Optimization,70.1,,,,Multi-Task Bayesian Optimization,/paper/multi-task-bayesian-optimization
+94,NN-Weighter,69.15,,,,"Don’t Wait, Just Weight: Improving Unsupervised Representations by Learning Goal-Driven Instance Weights",/paper/dont-wait-just-weight-improving-unsupervised
+95,Accuracy Monitoring,68.62,,,,Increasing Trustworthiness of Deep Neural Networks via Accuracy Monitoring,/paper/increasing-trustworthiness-of-deep-neural
+96,C-SVDDNet,68.2,,,,Unsupervised Feature Learning with C-SVDDNet,/paper/unsupervised-feature-learning-with-c-svddnet
+97,RotNet,68.19,,,,"Don’t Wait, Just Weight: Improving Unsupervised Representations by Learning Goal-Driven Instance Weights",/paper/dont-wait-just-weight-improving-unsupervised
+98,DFF Committees,68.0,,,,Committees of deep feedforward networks trained with few data,/paper/committees-of-deep-feedforward-networks
+99,Hierarchical Matching Pursuit ,64.6,,,,Scaling the Scattering Transform: Deep Hybrid Networks,/paper/scaling-the-scattering-transform-deep-hybrid
+100,L2RW,63.13,,,,"Don’t Wait, Just Weight: Improving Unsupervised Representations by Learning Goal-Driven Instance Weights",/paper/dont-wait-just-weight-improving-unsupervised
+101,Discriminative Learning of Sum-Product Networks,62.3,,,,Discriminative Learning of Sum-Product Networks,/paper/discriminative-learning-of-sum-product
+102,CKN,62.3,,,,Convolutional Kernel Networks,/paper/convolutional-kernel-networks
+103,S-CNN,61.94,,,,Selective Unsupervised Feature Learning with Convolutional Neural Network (S-CNN),/paper/selective-unsupervised-feature-learning-with
+104,Simulated Fixations,61.0,,,,A Framework For Contrastive Self-Supervised Learning And Designing A New Approach,/paper/a-framework-for-contrastive-self-supervised
+105,No more meta-parameter tuning in unsupervised sparse feature learning,61.0,,,,No more meta-parameter tuning in unsupervised sparse feature learning,/paper/no-more-meta-parameter-tuning-in-unsupervised
+106,Convolutional K-means Network,60.2,,,,Scaling the Scattering Transform: Deep Hybrid Networks,/paper/scaling-the-scattering-transform-deep-hybrid
+107,Receptive Fields,60.1,,,,Receptive Fields without Spike-Triggering,/paper/receptive-fields-without-spike-triggering
+108,PWD,59.45,,,,Effective Version Space Reduction for Convolutional Neural Networks,/paper/effective-version-space-reduction-for
+109,GVD,59.33,,,,Effective Version Space Reduction for Convolutional Neural Networks,/paper/effective-version-space-reduction-for
+110,VR,59.13,,,,Effective Version Space Reduction for Convolutional Neural Networks,/paper/effective-version-space-reduction-for
+111,Core SET,58.93,,,,Effective Version Space Reduction for Convolutional Neural Networks,/paper/effective-version-space-reduction-for
+112,GE,58.84,,,,Effective Version Space Reduction for Convolutional Neural Networks,/paper/effective-version-space-reduction-for
+113,DFAL,58.81,,,,Effective Version Space Reduction for Convolutional Neural Networks,/paper/effective-version-space-reduction-for
+114,Random,58.15,,,,Effective Version Space Reduction for Convolutional Neural Networks,/paper/effective-version-space-reduction-for
+115,BALD-MCD,57.35,,,,Effective Version Space Reduction for Convolutional Neural Networks,/paper/effective-version-space-reduction-for
+116,Sign-symmetry,57.32,,,,How Important is Weight Symmetry in Backpropagation?,/paper/how-important-is-weight-symmetry-in
+117,M2-PWD,57.31,,,,Effective Version Space Reduction for Convolutional Neural Networks,/paper/effective-version-space-reduction-for
+118,soft ica,52.9,,,,ICA with Reconstruction Cost for Efficient Overcomplete Feature Learning,/paper/ica-with-reconstruction-cost-for-efficient

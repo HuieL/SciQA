@@ -1,0 +1,114 @@
+Rank,Model,Mean IoU,Mean Accuracy,Paper Title,Paper URL
+1,GeminiFusion ,60.9,,GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer,/paper/geminifusion-efficient-pixel-wise-multimodal
+2,OmniVec,60.8,,OmniVec: Learning robust representations with cross modal sharing,/paper/omnivec-learning-robust-representations-with
+3,GeminiFusion ,60.2,,GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer,/paper/geminifusion-efficient-pixel-wise-multimodal
+4,DPLNet,59.3,,Efficient Multimodal Semantic Segmentation via Dual-Prompt Learning,/paper/efficient-multimodal-semantic-segmentation
+5,EMSANet ,59.02,,PanopticNDT: Efficient and Robust Panoptic Mapping,/paper/panopticndt-efficient-and-robust-panoptic
+6,SwinMTL,58.14,,SwinMTL: A Shared Architecture for Simultaneous Depth Estimation and Semantic Segmentation from Monocular Camera Images,/paper/swinmtl-a-shared-architecture-for
+7,PolyMaX,58.08,,PolyMaX: General Dense Prediction with Mask Transformer,/paper/polymax-general-dense-prediction-with-mask
+8,GeminiFusion ,57.7,,GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer,/paper/geminifusion-efficient-pixel-wise-multimodal
+9,DFormer-L,57.2,,DFormer: Rethinking RGBD Representation Learning for Semantic Segmentation,/paper/dformer-rethinking-rgbd-representation
+10,CMX ,56.9,,CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers,/paper/cmx-cross-modal-fusion-for-rgb-x-semantic
+11,CMNeXt ,56.9,,Delivering Arbitrary-Modal Semantic Segmentation,/paper/delivering-arbitrary-modal-semantic
+12,OMNIVORE ,56.8,,Omnivore: A Single Model for Many Visual Modalities,/paper/omnivore-a-single-model-for-many-visual
+13,GeminiFusion ,56.8,,GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer,/paper/geminifusion-efficient-pixel-wise-multimodal
+14,CMX ,56.3,,CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers,/paper/cmx-cross-modal-fusion-for-rgb-x-semantic
+15,MultiMAE ,56.0,,MultiMAE: Multi-modal Multi-task Masked Autoencoders,/paper/multimae-multi-modal-multi-task-masked
+16,SMMCL ,55.8,,Understanding Dark Scenes by Contrasting Multi-Modal Observations,/paper/understanding-dark-scenes-by-contrasting
+17,DFormer-B,55.6,,DFormer: Rethinking RGBD Representation Learning for Semantic Segmentation,/paper/dformer-rethinking-rgbd-representation
+18,ComPtr ,55.5,,ComPtr: Towards Diverse Bi-source Dense Prediction Tasks via A Simple yet General Complementary Transformer,/paper/comptr-towards-diverse-bi-source-dense
+19,OMNIVORE ,55.1,,Omnivore: A Single Model for Many Visual Modalities,/paper/omnivore-a-single-model-for-many-visual
+20,HAPNet,55.0,68.8,"HAPNet: Toward Superior RGB-Thermal Scene Parsing via Hybrid, Asymmetric, and Progressive Heterogeneous Feature Fusion",/paper/hapnet-toward-superior-rgb-thermal-scene
+21,CMX ,54.4,,CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers,/paper/cmx-cross-modal-fusion-for-rgb-x-semantic
+22,TokenFusion ,54.2,,Multimodal Token Fusion for Vision Transformers,/paper/multimodal-token-fusion-for-vision
+23,AsymFormer,54.1,,AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation,/paper/asymformer-asymmetrical-cross-modal
+24,SMMCL ,53.7,,Understanding Dark Scenes by Contrasting Multi-Modal Observations,/paper/understanding-dark-scenes-by-contrasting
+25,DFormer-S,53.6,,DFormer: Rethinking RGBD Representation Learning for Semantic Segmentation,/paper/dformer-rethinking-rgbd-representation
+26,InvPT,53.56,,InvPT: Inverted Pyramid Multi-task Transformer for Dense Scene Understanding,/paper/inverted-pyramid-multi-task-transformer-for
+27,HS3-Fuse ,53.5,,HS3: Learning with Proper Task Complexity in Hierarchically Supervised Semantic Segmentation,/paper/hs3-learning-with-proper-task-complexity-in
+28,PDCNet ,53.5,,Pixel Difference Convolutional Network for RGB-D Semantic Segmentation,/paper/pixel-difference-convolutional-network-for
+29,EMSANet ,53.34,,Efficient Multi-Task RGB-D Scene Analysis for Indoor Environments,/paper/efficient-multi-task-rgb-d-scene-analysis-for
+30,DCANet ,53.3,,DCANet: Differential Convolution Attention Network for RGB-D Semantic Segmentation,/paper/dcanet-differential-convolution-attention
+31,TokenFusion ,53.3,,Multimodal Token Fusion for Vision Transformers,/paper/multimodal-token-fusion-for-vision
+32,InverseForm ,53.1,,InverseForm: A Loss Function for Structured Boundary-Aware Segmentation,/paper/inverseform-a-loss-function-for-structured
+33,CAINet ,52.6,,Context-Aware Interaction Network for RGB-T Semantic Segmentation,/paper/context-aware-interaction-network-for-rgb-t
+34,CEN-PSPNet ,52.5,,Channel Exchanging Networks for Multimodal and Multitask Dense Image Prediction,/paper/channel-exchanging-networks-for-multimodal
+35,AMF ,52.5,,Attention-based Dual Supervised Decoder for RGBD Semantic Segmentation,/paper/attention-based-dual-supervised-decoder-for
+36,SMMCL ,52.5,,Understanding Dark Scenes by Contrasting Multi-Modal Observations,/paper/understanding-dark-scenes-by-contrasting
+37,SA-Gate,52.4,,Bi-directional Cross-Modality Feature Propagation with Separation-and-Aggregation Gate for RGB-D Semantic Segmentation,/paper/bi-directional-cross-modality-feature
+38,Warp-Refine,52.2,,Warp-Refine Propagation: Semi-Supervised Auto-labeling via Cycle-consistency,/paper/warp-refine-propagation-semi-supervised-auto
+39,FSFNet,52.0,,Deep feature selection-and-fusion for RGB-D semantic segmentation,/paper/deep-feature-selection-and-fusion-for-rgb-d
+40,VCD+ACNet ,51.9,,Variational Context-Deformable ConvNets for Indoor Scene Parsing,/paper/variational-context-deformable-convnets-for
+41,MIPANet ,51.9,,Optimizing rgb-d semantic segmentation through multi-modal interaction and pooling attention,/paper/optimizing-rgb-d-semantic-segmentation
+42,DFormer-T,51.8,,DFormer: Rethinking RGBD Representation Learning for Semantic Segmentation,/paper/dformer-rethinking-rgbd-representation
+43,ShapeConv ,51.3,,ShapeConv: Shape-aware Convolutional Layer for Indoor RGB-D Semantic Segmentation,/paper/shapeconv-shape-aware-convolutional-layer-for
+44,EMSAFormer ,51.26,,Efficient Multi-Task Scene Analysis with RGB-D Transformers,/paper/efficient-multi-task-scene-analysis-with-rgb
+45,Z-ACN ,51.24,,Depth-Adapted CNNs for RGB-D Semantic Segmentation,/paper/depth-adapted-cnns-for-rgb-d-semantic
+46,AsymFusion ,51.2,,Learning Deep Multimodal Feature Representation with Asymmetric Multi-layer Fusion,/paper/learning-deep-multimodal-feature
+47,DynMM ,51.0,,Dynamic Multimodal Fusion,/paper/dynamic-multimodal-fusion
+48,SGNet ,51.0,,Spatial Information Guided Convolution for Real-Time RGBD Semantic Segmentation,/paper/spatial-information-guided-convolution-for
+49,PSD-ResNet50,51.0,,Pattern-Structure Diffusion for Multi-Task Learning,/paper/pattern-structure-diffusion-for-multi-task
+50,Malleable 2.5D ,50.9,,Malleable 2.5D Convolution: Learning Receptive Fields along the Depth-axis for RGB-D Scene Parsing,/paper/malleable-2-5d-convolution-learning-receptive
+51,ICM,50.7,,Scene Parsing via Integrated Classification Model and Variance-Based Regularization,/paper/scene-parsing-via-integrated-classification
+52,SANet,50.7,,Multi-layer Feature Aggregation for Deep Scene Parsing Models,/paper/multi-layer-feature-aggregation-for-deep
+53,VCD+RedNet ,50.7,,Variational Context-Deformable ConvNets for Indoor Scene Parsing,/paper/variational-context-deformable-convnets-for
+54,HaarNet,50.7,,HaarNet: Large-scale Linear-Morphological Hybrid Network for RGB-D Semantic Segmentation,/paper/haarnet-large-scale-linear-morphological
+55,PAP ,50.4,,"Pattern-Affinitive Propagation across Depth, Surface Normal and Semantic Segmentation",/paper/pattern-affinitive-propagation-across-depth-1
+56,Cerberus,50.4,,"Cerberus Transformer: Joint Semantic, Affordance and Attribute Parsing",/paper/cerberus-transformer-joint-semantic
+57,ESANet ,50.3,,Efficient RGB-D Semantic Segmentation for Indoor Scene Analysis,/paper/efficient-rgb-d-semantic-segmentation-for
+58,Z-ACN ,50.05,,Depth-Adapted CNNs for RGB-D Semantic Segmentation,/paper/depth-adapted-cnns-for-rgb-d-semantic
+59,Malleable 2.5D ,49.7,,Malleable 2.5D Convolution: Learning Receptive Fields along the Depth-axis for RGB-D Scene Parsing,/paper/malleable-2-5d-convolution-learning-receptive
+60,MMANet,49.62,,MMANet: Margin-aware Distillation and Modality-aware Regularization for Incomplete Multimodal Learning,/paper/mmanet-margin-aware-distillation-and-modality
+61,SGACNet ,49.4,,Spatial-information Guided Adaptive Context-aware Network for Efficient RGB-D Semantic Segmentation,/paper/spatial-information-guided-adaptive-context
+62,ComPtr ,49.2,,ComPtr: Towards Diverse Bi-source Dense Prediction Tasks via A Simple yet General Complementary Transformer,/paper/comptr-towards-diverse-bi-source-dense
+63,Z-ACN ,49.15,,Depth-Adapted CNNs for RGB-D Semantic Segmentation,/paper/depth-adapted-cnns-for-rgb-d-semantic
+64,UMT,49.14,,Improving Multi-Modal Learning with Uni-Modal Teachers,/paper/improving-multi-modal-learning-with-uni-modal
+65,MTI-Net ,49.0,,MTI-Net: Multi-Scale Task Interaction Networks for Multi-Task Learning,/paper/mti-net-multi-scale-task-interaction-networks
+66,ShapeConv ,49.0,,ShapeConv: Shape-aware Convolutional Layer for Indoor RGB-D Semantic Segmentation,/paper/shapeconv-shape-aware-convolutional-layer-for
+67,MKE,48.88,,Multimodal Knowledge Expansion,/paper/multimodal-knowledge-expansion
+68,ShapeConv ,48.8,,ShapeConv: Shape-aware Convolutional Layer for Indoor RGB-D Semantic Segmentation,/paper/shapeconv-shape-aware-convolutional-layer-for
+69,mmFormer,48.45,,mmFormer: Multimodal Medical Transformer for Incomplete Multimodal Learning of Brain Tumor Segmentation,/paper/mmformer-multimodal-medical-transformer-for
+70,ACNet,48.3,,ACNet: Attention Based Network to Exploit Complementary Features for RGBD Semantic Segmentation,/paper/acnet-attention-based-network-to-exploit
+71,SGACNet ,48.2,,Spatial-information Guided Adaptive Context-aware Network for Efficient RGB-D Semantic Segmentation,/paper/spatial-information-guided-adaptive-context
+72,ESANet ,48.17,,Efficient RGB-D Semantic Segmentation for Indoor Scene Analysis,/paper/efficient-rgb-d-semantic-segmentation-for
+73,RFNet,48.13,,RFNet: Region-Aware Fusion Network for Incomplete Multi-Modal Brain Tumor Segmentation,/paper/rfnet-region-aware-fusion-network-for
+74,TupleInfoNCE,48.1,,Contrastive Multimodal Fusion with TupleInfoNCE,/paper/contrastive-multimodal-fusion-with
+75,DDSC ,48.1,,Dense Decoder Shortcut Connections for Single-Pass Semantic Segmentation,/paper/dense-decoder-shortcut-connections-for-single
+76,CFN,47.7,,Cascaded Feature Network for Semantic Segmentation of RGB-D Images,/paper/cascaded-feature-network-for-semantic
+77,FDNet ,47.4,,Learning Fully Dense Neural Networks for Image Semantic Segmentation,/paper/learning-fully-dense-neural-networks-for
+78,RedNet,47.2,,RedNet: Residual Encoder-Decoder Network for indoor RGB-D Semantic Segmentation,/paper/rednet-residual-encoder-decoder-network-for
+79,Z-ACN ,47.02,,Depth-Adapted CNNs for RGB-D Semantic Segmentation,/paper/depth-adapted-cnns-for-rgb-d-semantic
+80,TRL ,46.8,,Joint Task-Recursive Learning for Semantic Segmentation and Depth Estimation,/paper/joint-task-recursive-learning-for-semantic
+81,RefineNet ,46.5,,RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation,/paper/refinenet-multi-path-refinement-networks-for
+82,PGT ,46.43,,Prompt Guided Transformer for Multi-Task Dense Prediction,/paper/prompt-guided-transformer-for-multi-task
+83,ATRC,46.33,,Exploring Relational Context for Multi-Task Dense Prediction,/paper/exploring-relational-context-for-multi-task
+84,LS-DeconvNet,45.9,,Locality-Sensitive Deconvolution Networks With Gated Fusion for RGB-D Indoor Semantic Segmentation,/paper/locality-sensitive-deconvolution-networks
+85,VCD+DeepLab ,45.3,,Variational Context-Deformable ConvNets for Indoor Scene Parsing,/paper/variational-context-deformable-convnets-for
+86,SOSD-Net,45.0,,SOSD-Net: Joint Semantic Object Segmentation and Depth Estimation from Monocular images,/paper/sosd-net-joint-semantic-object-segmentation
+87,MMAF-Net-152,44.8,,Multi-Modal Attention-based Fusion Model for Semantic Segmentation of RGB-Depth Images,/paper/multi-modal-attention-based-fusion-model-for
+88,RecurrentSceneParsing,44.5,,Recurrent Scene Parsing with Perspective Understanding in the Loop,/paper/recurrent-scene-parsing-with-perspective
+89,Light-Weight-RefineNet-152,44.4,,Light-Weight RefineNet for Real-Time Semantic Segmentation,/paper/light-weight-refinenet-for-real-time-semantic
+90,Depth-aware CNN,43.9,,Depth-aware CNN for RGB-D Segmentation,/paper/depth-aware-cnn-for-rgb-d-segmentation
+91,Light-Weight-RefineNet-101,43.6,,Light-Weight RefineNet for Real-Time Semantic Segmentation,/paper/light-weight-refinenet-for-real-time-semantic
+92,TD2-PSP50,43.5,,Temporally Distributed Networks for Fast Video Semantic Segmentation,/paper/temporally-distributed-networks-for-fast
+93,NDDR-CNN,43.3,,NDDR-CNN: Layerwise Feature Fusing in Multi-Task CNNs by Neural Discriminative Dimensionality Reduction,/paper/nddr-cnn-layer-wise-feature-fusing-in-multi
+94,3DGNN,43.1,,3D Graph Neural Networks for RGBD Semantic Segmentation,/paper/3d-graph-neural-networks-for-rgbd-semantic
+95,CI-Net,42.6,,CI-Net: Contextual Information for Joint Semantic Segmentation and Depth Estimation,/paper/ci-net-contextual-information-for-joint
+96,Multi-Task Light-Weight-RefineNet,42.0,,Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations,/paper/real-time-joint-semantic-segmentation-and
+97,Light-Weight-RefineNet-50,41.7,,Light-Weight RefineNet for Real-Time Semantic Segmentation,/paper/light-weight-refinenet-for-real-time-semantic
+98,PGT ,41.61,,Prompt Guided Transformer for Multi-Task Dense Prediction,/paper/prompt-guided-transformer-for-multi-task
+99,MTML,41.51,,Multi-Task Meta Learning: learn how to adapt to unseen tasks,/paper/multi-task-meta-learning-learn-how-to-adapt
+100,RAN,41.2,,Semantic Segmentation with Reverse Attention,/paper/semantic-segmentation-with-reverse-attention
+101,DenseMTL,40.84,,Cross-task Attention Mechanism for Dense Multi-task Learning,/paper/cross-task-attention-mechanism-for-dense
+102,STD2P,40.1,,STD2P: RGBD Semantic Segmentation Using Spatio-Temporal Data-Driven Pooling,/paper/std2p-rgbd-semantic-segmentation-using-spatio
+103,MaskSup,39.31,,Masked Supervised Learning for Semantic Segmentation,/paper/masked-supervised-learning-for-semantic
+104,HeMIS,37.77,,HeMIS: Hetero-Modal Image Segmentation,/paper/hemis-hetero-modal-image-segmentation
+105,TD4-PSP18,37.4,,Temporally Distributed Networks for Fast Video Semantic Segmentation,/paper/temporally-distributed-networks-for-fast
+106,Bayesian DenseNet,37.3,,What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?,/paper/what-uncertainties-do-we-need-in-bayesian
+107,HN-network,33.49,,RGB-based Semantic Segmentation Using Self-Supervised Depth Pre-Training,/paper/rgb-based-semantic-segmentation-using-self
+108,CompL,33.48,,Composite Learning for Robust and Effective Dense Predictions,/paper/composite-learning-for-robust-and-effective
+109,Dilated FCN-2s RGB,32.3,,Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation,/paper/efficient-yet-deep-convolutional-neural
+110,AdaShare,29.6,,AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning,/paper/adashare-learning-what-to-share-for-efficient
+111,EDNAS+JAReD,22.1,,Toward Edge-Efficient Dense Predictions with Synergistic Multi-Task Neural Architecture Search,/paper/toward-edge-efficient-dense-predictions-with
+112,Cross-stitch,19.3,,Cross-stitch Networks for Multi-task Learning,/paper/cross-stitch-networks-for-multi-task-learning
+113,FCN-32s RGB-HHA,,44.0,Fully Convolutional Networks for Semantic Segmentation,/paper/fully-convolutional-networks-for-semantic

@@ -1,0 +1,121 @@
+Rank,Model,Detection AUROC,Segmentation AUPRO,Segmentation AUROC,Segmentation AP,FPS,Paper Title,Paper URL
+1,GLASS,99.9,96.8,99.3,,,A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization,/paper/a-unified-anomaly-synthesis-strategy-with
+2,EfficientAD,99.8,96.6,,,,EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies,/paper/efficientad-accurate-visual-anomaly-detection
+3,DDAD,99.8,,98.1,,,Anomaly Detection with Conditioned Denoising Diffusion Models,/paper/anomaly-detection-with-conditioned-denoising
+4,ReConPatch Ensemble ,99.72,,99.2,,,ReConPatch : Contrastive Patch Representation Learning for Industrial Anomaly Detection,/paper/reconpatch-contrastive-patch-representation
+5,ReConPatch WRN-50 ,99.71,,98.62,,,ReConPatch : Contrastive Patch Representation Learning for Industrial Anomaly Detection,/paper/reconpatch-contrastive-patch-representation
+6,ADClick,99.7,97.8,99.2,82.9,,Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization,/paper/towards-efficient-pixel-labeling-for
+7,CPR,99.7,97.8,99.2,82.7,113.0,Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval,/paper/target-before-shooting-accurate-anomaly
+8,CPR-fast,99.7,97.7,99.2,82.3,245.0,Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval,/paper/target-before-shooting-accurate-anomaly
+9,MSFlow,99.7,97.1,98.8,,,MSFlow: Multi-Scale Flow-based Framework for Unsupervised Anomaly Detection,/paper/msflow-multi-scale-flow-based-framework-for
+10,DiffusionAD,99.7,95.7,98.7,76.1,23.5,DiffusionAD: Norm-guided One-step Denoising Diffusion for Anomaly Detection,/paper/diffusionad-denoising-diffusion-for-anomaly
+11,PNI Ensemble,99.63,96.55,99.06,,,PNI : Industrial Anomaly Detection using Position and Neighborhood Information,/paper/image-anomaly-detection-and-localization-with
+12,ReConPatch WRN-101,99.62,,98.53,,,ReConPatch : Contrastive Patch Representation Learning for Industrial Anomaly Detection,/paper/reconpatch-contrastive-patch-representation
+13,WeakREST-Un,99.6,97.6,99.3,83.0,25.2,Industrial Anomaly Detection and Localization Using Weakly-Supervised Residual Transformers,/paper/efficient-anomaly-detection-with-budget
+14,PatchCore Large,99.6,93.5,98.2,,5.88,Towards Total Recall in Industrial Anomaly Detection,/paper/towards-total-recall-in-industrial-anomaly
+15,RememberingNormality,99.6,,98.2,,,Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection,/paper/remembering-normality-memory-guided-knowledge
+16,SimpleNet,99.6,,98.1,,77.0,SimpleNet: A Simple Network for Image Anomaly Detection and Localization,/paper/simplenet-a-simple-network-for-image-anomaly
+17,PNI,99.56,96.05,98.98,,,PNI : Industrial Anomaly Detection using Position and Neighborhood Information,/paper/image-anomaly-detection-and-localization-with
+18,MemSeg,99.56,,98.84,,31.3,MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities,/paper/memseg-a-semi-supervised-method-for-image
+19,ReConPatch WRN-50,99.56,,98.18,,,ReConPatch : Contrastive Patch Representation Learning for Industrial Anomaly Detection,/paper/reconpatch-contrastive-patch-representation
+20,ReContrast,99.5,95.2,98.4,,,,
+21,POUTA,99.5,,98.8,,,"Produce Once, Utilize Twice for Anomaly Detection",/paper/produce-once-utilize-twice-for-anomaly
+22,DMAD,99.5,,98.2,,,Diversity-Measurable Anomaly Detection,/paper/diversity-measurable-anomaly-detection
+23,Reverse Distillation ++,99.44,94.99,98.25,,,Revisiting Reverse Distillation for Anomaly Detection,/paper/revisiting-reverse-distillation-for-anomaly
+24,CPR-faster,99.4,97.3,99.0,80.6,478.0,Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval,/paper/target-before-shooting-accurate-anomaly
+25,Fastflow,99.4,,98.5,,21.8,FastFlow: Unsupervised Anomaly Detection and Localization via 2D Normalizing Flows,/paper/fastflow-unsupervised-anomaly-detection-and
+26,CFLOW-AD+AltUB,99.4,,98.5,,,AltUB: Alternating Training Method to Update Base Distribution of Normalizing Flow for Anomaly Detection,/paper/altub-alternating-training-method-to-update
+27,N-pad,99.37,95.1,98.75,,,N-pad : Neighboring Pixel-based Industrial Anomaly Detection,/paper/n-pad-neighboring-pixel-based-industrial
+28,GLAD,99.3,95.3,98.6,70.9,,GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection,/paper/glad-towards-better-reconstruction-with
+29,CFA,99.3,,98.2,,,CFA: Coupled-hypersphere-based Feature Adaptation for Target-Oriented Anomaly Localization,/paper/cfa-coupled-hypersphere-based-feature
+30,THFR,99.2,95.0,98.2,,,Template-guided Hierarchical Feature Restoration for Anomaly Detection,/paper/template-guided-hierarchical-feature
+31,TransFusion,99.2,94.3,,,,TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection,/paper/transfusion-a-transparency-based-diffusion
+32,PatchCore,99.2,,98.4,,,Towards Total Recall in Industrial Anomaly Detection,/paper/towards-total-recall-in-industrial-anomaly
+33,AST,99.2,,95.0,,,Asymmetric Student-Teacher Networks for Industrial Anomaly Detection,/paper/asymmetric-student-teacher-networks-for
+34,FAPM,99.0,,98.0,,44.1,FAPM: Fast Adaptive Patch Memory for Real-time Industrial Anomaly Detection,/paper/fapm-fast-adaptive-patch-memory-for-real-time
+35,DRAEM+SSPCAB,98.9,,97.2,69.9,,Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection,/paper/self-supervised-predictive-convolutional
+36,AD-CLSCNFs,98.85,96.01,98.74,74.32,,Anomaly Detection Using Normalizing Flow-Based Density Estimation and Synthetic Defect Classification,/paper/anomaly-detection-using-normalizing-flow
+37,EfficientAD-S,98.8,96.5,96.8,65.9,614.0,EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies,/paper/efficientad-accurate-visual-anomaly-detection
+38,RSTPM,98.7,95.1,98.5,,,Reconstructed Student-Teacher and Discriminative Networks for Anomaly Detection,/paper/reconstructed-student-teacher-and
+39,GRAD,98.7,,97.3,,,Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection,/paper/generating-and-reweighting-dense-contrastive
+40,DRAEM+SSMCTB,98.7,,97.2,,,Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection,/paper/self-supervised-masked-convolutional
+41,CS-Flow,98.7,,,,,Fully Convolutional Cross-Scale-Flows for Image-based Defect Detection,/paper/fully-convolutional-cross-scale-flows-for
+42,FAIR,98.6,94.0,98.2,,,FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection,/paper/fair-frequency-aware-image-restoration-for
+43,DeSTSeg,98.6,,97.9,75.8,,DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection,/paper/destseg-segmentation-guided-denoising-student
+44,Reverse Distillation,98.5,93.9,97.8,,,Anomaly Detection via Reverse Distillation from One-Class Embedding,/paper/anomaly-detection-via-reverse-distillation
+45,MMR,98.4,92.6,97.2,,,Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction,/paper/industrial-anomaly-detection-with-domain
+46,OCR-GAN,98.3,,,,,Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection,/paper/omni-frequency-channel-selection
+47,CFLOW-AD,98.26,94.6,98.62,,27.0,CFLOW-AD: Real-Time Unsupervised Anomaly Detection with Localization via Conditional Normalizing Flows,/paper/cflow-ad-real-time-unsupervised-anomaly
+48,ProbabilisticPatchCore,98.2,,97.6,,,A Probabilistic Transformation of Distance-Based Outliers,/paper/probabilistic-distance-based-outlier
+49,DSR,98.2,,,70.2,,DSR -- A dual subspace re-projection network for surface anomaly detection,/paper/dsr-a-dual-subspace-re-projection-network-for
+50,MSPBA,98.1,95.5,98.1,,,Multi-Scale Patch-Based Representation Learning for Image Anomaly Detection and Segmentation,/paper/multi-scale-patch-based-representation
+51,TASAD,98.0,,98.2,74.6,142.0,Two-stage coarse-to-fine image anomaly segmentation and detection model,/paper/two-stage-coarse-to-fine-image-anomaly
+52,DRAEM,98.0,,97.3,68.4,,DRAEM -- A discriminatively trained reconstruction embedding for surface anomaly detection,/paper/draem-a-discriminatively-trained
+53,SOMAD,97.9,93.3,97.8,,,Anomaly Detection via Self-organizing Map,/paper/anomaly-detection-via-self-organizing-map
+54,PaDiM,97.9,,,,,PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization,/paper/padim-a-patch-distribution-modeling-framework
+55,MuSc ,97.8,93.8,97.3,62.7,,MuSc: Zero-Shot Industrial Anomaly Classification and Segmentation with Mutual Scoring of the Unlabeled Images,/paper/musc-zero-shot-industrial-anomaly
+56,EdgRec,97.8,92.1,97.7,,,Reconstruction from edge image combined with color and gradient difference for industrial surface anomaly detection,/paper/reconstruction-from-edge-image-combined-with
+57,FYD,97.7,,98.2,,,Focus Your Distribution: Coarse-to-Fine Non-Contrastive Learning for Anomaly Detection and Localization,/paper/focus-your-distribution-coarse-to-fine-non
+58,NSA+SSMCTB,97.7,,96.7,,,Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection,/paper/self-supervised-masked-convolutional
+59,PFM,97.5,93.0,97.3,,,Unsupervised Image Anomaly Detection and Segmentation Based on Pre-trained Feature Mapping,/paper/unsupervised-image-anomaly-detection-and
+60,NSA,97.2,91.0,96.3,,,Natural Synthetic Anomalies for Self-Supervised Anomaly Detection and Localization,/paper/self-supervised-out-of-distribution-detection-1
+61,Gaussian-AD+DFS,96.6,,,,,Deep Feature Selection for Anomaly Detection Based on Pretrained Network and Gaussian Discriminative Analysis,/paper/deep-feature-selection-for-anomaly-detection
+62,DualModel,96.2,,,,,Exploring Dual Model Knowledge Distillation for Anomaly Detection,/paper/exploring-dual-model-knowledge-distillation
+63,CutPaste+SSPCAB,96.1,,,,,Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection,/paper/self-supervised-predictive-convolutional
+64,CutPaste ,96.1,,,,,CutPaste: Self-Supervised Learning for Anomaly Detection and Localization,/paper/cutpaste-self-supervised-learning-for-anomaly
+65,AnoSeg,96.0,,97.0,,,AnoSeg: Anomaly Segmentation Network Using Self-Supervised Learning,/paper/anoseg-anomaly-segmentation-network-using
+66,SCL-VI,95.81,,96.76,,,SCL-VI: Self-supervised Context Learning for Visual Inspection of Industrial Defects,/paper/self-supervised-context-learning-for-visual
+67,Gaussian-AD,95.8,,,,,Modeling the Distribution of Normal Data in Pre-Trained Deep Features for Anomaly Detection,/paper/modeling-the-distribution-of-normal-data-in
+68,STPM,95.5,,97.0,,,Student-Teacher Feature Pyramid Matching for Anomaly Detection,/paper/student-teacher-feature-pyramid-matching-for
+69,PatchCore,95.4,,,,,Towards Total Recall in Industrial Anomaly Detection,/paper/towards-total-recall-in-industrial-anomaly
+70,PaDiM-WR50-Rd550,95.3,,97.5,,4.4,PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization,/paper/padim-a-patch-distribution-modeling-framework
+71,CutPaste ,95.2,,88.3,,,CutPaste: Self-Supervised Learning for Anomaly Detection and Localization,/paper/cutpaste-self-supervised-learning-for-anomaly
+72,RFS Energy,95.1,,,,,Anomaly Detection of Defect using Energy of Point Pattern Features within Random Finite Set Framework,/paper/anomaly-detection-of-defect-using-energy-of
+73,InTra,95.0,,96.6,,,Inpainting Transformer for Anomaly Detection,/paper/inpainting-transformer-for-anomaly-detection
+74,DifferNet,94.9,,,,2.0,Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows,/paper/same-same-but-differnet-semi-supervised
+75,EAR,94.2,,,,5.1,Excision And Recovery: Visual Defect Obfuscation Based Self-Supervised Anomaly Detection Strategy,/paper/excision-and-recovery-enhancing-surface
+76,DFR,93.8,,95.5,,20.0,DFR: Deep Feature Reconstruction for Unsupervised Anomaly Segmentation,/paper/dfr-deep-feature-reconstruction-for
+77,IGD ,93.4,,93.0,,,Deep One-Class Classification via Interpolated Gaussian Descriptor,/paper/unsupervised-anomaly-detection-and
+78,IGD,93.4,,,,,Deep One-Class Classification via Interpolated Gaussian Descriptor,/paper/unsupervised-anomaly-detection-and
+79,GCPF,93.1,,96.86,,,Industrial Image Anomaly Localization Based on Gaussian Clustering of Pretrained Feature,/paper/industrial-image-anomaly-localization-based
+80,PEDENet,92.8,,95.9,,,PEDENet: Image Anomaly Localization via Patch Embedding and Density Estimation,/paper/pedenet-image-anomaly-localization-via-patch
+81,RegAD ,92.7,,96.6,,,Registration based Few-Shot Anomaly Detection,/paper/registration-based-few-shot-anomaly-detection
+82,IGD ,92.6,,91.0,,,Deep One-Class Classification via Interpolated Gaussian Descriptor,/paper/unsupervised-anomaly-detection-and
+83,Patch-SVDD,92.1,,95.7,,2.1,Patch SVDD: Patch-level SVDD for Anomaly Detection and Segmentation,/paper/patch-svdd-patch-level-svdd-for-anomaly
+84,RIAD,91.7,,94.2,,,Reconstruction by Inpainting for Visual Anomaly Detection,/paper/reconstruction-by-inpainting-for-visual
+85,AutoEncoder,91.5,,,,,,
+86,RegAD ,91.2,,96.7,,,Registration based Few-Shot Anomaly Detection,/paper/registration-based-few-shot-anomaly-detection
+87,UTAD,90.0,,,,,Unsupervised Two-Stage Anomaly Detection,/paper/unsupervised-two-stage-anomaly-detection
+88,RFS Energy ,89.02,,,,,Anomaly Detection of Defect using Energy of Point Pattern Features within Random Finite Set Framework,/paper/anomaly-detection-of-defect-using-energy-of
+89,RegAD ,88.2,,95.8,,,Registration based Few-Shot Anomaly Detection,/paper/registration-based-few-shot-anomaly-detection
+90,MOCCA,87.5,,,,,MOCCA: Multi-Layer One-Class ClassificAtion for Anomaly Detection,/paper/mocca-multi-layer-one-class-classification
+91,Mean-Shifted Contrastive Loss,87.2,,,,,Mean-Shifted Contrastive Loss for Anomaly Detection,/paper/mean-shifted-contrastive-loss-for-anomaly
+92,DisAug CLR,86.5,,90.4,,,Learning and Evaluating Representations for Deep One-class Classification,/paper/learning-and-evaluating-representations-for-1
+93,RotNet ,86.3,,93.0,,,Learning and Evaluating Representations for Deep One-class Classification,/paper/learning-and-evaluating-representations-for-1
+94,ACR ,85.8,,92.5,,,Zero-Shot Anomaly Detection via Batch Normalization,/paper/zero-shot-anomaly-detection-via-batch-1
+95,RFS Energy ,85.61,,,,,Anomaly Detection of Defect using Energy of Point Pattern Features within Random Finite Set Framework,/paper/anomaly-detection-of-defect-using-energy-of
+96,SPADE,85.5,,96.5,,1.5,Sub-Image Anomaly Detection with Deep Pyramid Correspondences,/paper/sub-image-anomaly-detection-with-deep-pyramid
+97,CDO,,96.5,98.7,,79.6,Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization,/paper/collaborative-discrepancy-optimization-for-1
+98,PyramidFlow ,,96.5,97.1,,,PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow,/paper/pyramidflow-high-resolution-defect
+99,PEFM,,95.52,98.3,,,Position Encoding Enhanced Feature Mapping for Image Anomaly Detection,/paper/position-encoding-enhanced-feature-mapping
+100,PyramidFlow ,,94.5,96.0,,,PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow,/paper/pyramidflow-high-resolution-defect
+101,IKD,,92.55,97.81,,,Informative knowledge distillation for image anomaly segmentation,/paper/informative-knowledge-distillation-for-image
+102,Student–Teacher AD ,,91.4,,45.5,,Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings,/paper/uninformed-students-student-teacher-anomaly
+103,Student–Teacher AD ,,90.0,,,,Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings,/paper/uninformed-students-student-teacher-anomaly
+104,Student–Teacher AD ,,85.7,,,,Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings,/paper/uninformed-students-student-teacher-anomaly
+105,FastFlow+AltUB,,,98.83,,,AltUB: Alternating Training Method to Update Base Distribution of Normalizing Flow for Anomaly Detection,/paper/altub-alternating-training-method-to-update
+106,ReConPatch Ensemble,,,98.67,,,ReConPatch : Contrastive Patch Representation Learning for Industrial Anomaly Detection,/paper/reconpatch-contrastive-patch-representation
+107,Semi-orthogonal,,,98.2,,,Semi-orthogonal Embedding for Efficient Unsupervised Anomaly Segmentation,/paper/semi-orthogonal-embedding-for-efficient
+108,PaDiM-R18-Rd100,,,96.7,,,PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization,/paper/padim-a-patch-distribution-modeling-framework
+109,CutPaste ,,,96.0,,,CutPaste: Self-Supervised Learning for Anomaly Detection and Localization,/paper/cutpaste-self-supervised-learning-for-anomaly
+110,FAVAE,,,95.3,,,Anomaly localization by modeling perceptual features,/paper/anomaly-localization-by-modeling-perceptual
+111,FCDD ,,,94.0,,,Explainable Deep One-Class Classification,/paper/explainable-deep-one-class-classification
+112,CAVGA-R ,,,93.0,,,Attention Guided Anomaly Localization in Images,/paper/attention-guided-anomaly-detection-and
+113,CAVGA-D ,,,92.0,,,Attention Guided Anomaly Localization in Images,/paper/attention-guided-anomaly-detection-and
+114,VAE-grad,,,89.2,,,Iterative energy-based projection on a normal data manifold for anomaly localization,/paper/iterative-energy-based-projection-on-a-normal-1
+115,CAVGA-R ,,,89.0,,,Attention Guided Anomaly Localization in Images,/paper/attention-guided-anomaly-detection-and
+116,FCDD ,,,88.0,,,Explainable Deep One-Class Classification,/paper/explainable-deep-one-class-classification
+117,CAVGA-D ,,,85.0,,,Attention Guided Anomaly Localization in Images,/paper/attention-guided-anomaly-detection-and
+118,CPR-faster,,,,,1016.0,Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval,/paper/target-before-shooting-accurate-anomaly
+119,CPR-fast,,,,,362.0,Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval,/paper/target-before-shooting-accurate-anomaly
+120,CPR,,,,,130.0,Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval,/paper/target-before-shooting-accurate-anomaly

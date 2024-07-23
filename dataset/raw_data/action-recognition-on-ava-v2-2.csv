@@ -1,0 +1,39 @@
+Rank,Model,mAP,Paper Title,Paper URL
+1,LART ,45.1,On the Benefits of 3D Pose and Tracking for Human Action Recognition,/paper/on-the-benefits-of-3d-pose-and-tracking-for
+2,Hiera-H ,43.3,Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles,/paper/hiera-a-hierarchical-vision-transformer
+3,VideoMAE V2-g,42.6,VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking,/paper/videomae-v2-scaling-video-masked-autoencoders
+4,STAR/L,41.7,End-to-End Spatio-Temporal Action Localisation with Video Transformers,/paper/end-to-end-spatio-temporal-action
+5,MVD ,41.1,Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning,/paper/masked-video-distillation-rethinking-masked
+6,InternVideo,41.01,InternVideo: General Video Foundation Models via Generative and Discriminative Learning,/paper/internvideo-general-video-foundation-models
+7,MVD ,40.1,Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning,/paper/masked-video-distillation-rethinking-masked
+8,MaskFeat ,39.8,Masked Feature Prediction for Self-Supervised Visual Pre-Training,/paper/masked-feature-prediction-for-self-supervised
+9,UMT-L ,39.8,Unmasked Teacher: Towards Training-Efficient Video Foundation Models,/paper/unmasked-teacher-towards-training-efficient
+10,VideoMAE ,39.5,VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training,/paper/videomae-masked-autoencoders-are-data-1
+11,VideoMAE ,39.3,VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training,/paper/videomae-masked-autoencoders-are-data-1
+12,MVD ,38.7,Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning,/paper/masked-video-distillation-rethinking-masked
+13,VideoMAE ,37.8,VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training,/paper/videomae-masked-autoencoders-are-data-1
+14,MVD ,37.7,Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning,/paper/masked-video-distillation-rethinking-masked
+15,VideoMAE ,36.5,VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training,/paper/videomae-masked-autoencoders-are-data-1
+16,VideoMAE ,36.1,VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training,/paper/videomae-masked-autoencoders-are-data-1
+17,MeMViT-24,35.4,MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition,/paper/memvit-memory-augmented-multiscale-vision
+18,MViTv2-L ,34.4,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+19,VideoMAE ,34.3,VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training,/paper/videomae-masked-autoencoders-are-data-1
+20,MVD ,34.2,Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning,/paper/masked-video-distillation-rethinking-masked
+21,AMD,33.5,Asymmetric Masked Distillation for Pre-Training Small Foundation Models,/paper/asymmetric-masked-distillation-for-pre
+22,HIT,32.6,Holistic Interaction Transformer Network for Action Detection,/paper/holistic-interaction-transformer-network-for
+23,VideoMAE ,31.8,VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training,/paper/videomae-masked-autoencoders-are-data-1
+24,"ACAR-Net, SlowFast R-101 ",31.72,Actor-Context-Actor Relation Network for Spatio-Temporal Action Localization,/paper/actor-context-actor-relation-network-for
+25,MVD ,31.1,Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning,/paper/masked-video-distillation-rethinking-masked
+26,Object Transformer,31.0,Towards Long-Form Video Understanding,/paper/towards-long-form-video-understanding-1
+27,"MViT-B-24, 32x3 ",28.7,Multiscale Vision Transformers,/paper/multiscale-vision-transformers
+28,"MViT-B, 32x3 ",27.5,Multiscale Vision Transformers,/paper/multiscale-vision-transformers
+29,"SlowFast, 16x8 R101+NL ",27.5,SlowFast Networks for Video Recognition,/paper/slowfast-networks-for-video-recognition
+30,"MViT-B, 64x3 ",27.3,Multiscale Vision Transformers,/paper/multiscale-vision-transformers
+31,"SlowFast, 8x8 R101+NL ",27.1,SlowFast Networks for Video Recognition,/paper/slowfast-networks-for-video-recognition
+32,"MViT-B, 32x3 ",26.8,Multiscale Vision Transformers,/paper/multiscale-vision-transformers
+33,VideoMAE ,26.7,VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training,/paper/videomae-masked-autoencoders-are-data-1
+34,"ORViT MViT-B, 16x4 ",26.6,Object-Region Video Transformers,/paper/object-region-video-transformers-1
+35,"MViT-B, 16x4 ",26.1,Multiscale Vision Transformers,/paper/multiscale-vision-transformers
+36,"MViT-B, 16x4 ",24.5,Multiscale Vision Transformers,/paper/multiscale-vision-transformers
+37,"SlowFast, 8x8, R101 ",23.8,SlowFast Networks for Video Recognition,/paper/slowfast-networks-for-video-recognition
+38,"SlowFast, 4x16, R50 ",21.9,SlowFast Networks for Video Recognition,/paper/slowfast-networks-for-video-recognition

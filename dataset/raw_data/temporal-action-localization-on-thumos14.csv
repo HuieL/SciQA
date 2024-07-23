@@ -1,0 +1,43 @@
+Rank,Model,Avg mAP (0.3:0.7),mAP IOU@0.3,mAP IOU@0.4,mAP IOU@0.5,Paper Title,Paper URL
+1,AdaTAD ,76.9,89.7,86.7,80.9,End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames,/paper/end-to-end-temporal-action-detection-with-1b
+2,RDFA-S6 ,74.2,88.7,84.6,78.2,Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism,/paper/enhancing-temporal-action-localization
+3,ActionMamba,72.72,86.89,83.09,76.9,Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding,/paper/video-mamba-suite-state-space-model-as-a
+4,InternVideo2-6B,72.0,,,,InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding,/paper/internvideo2-scaling-video-foundation-models
+5,ActionFormer ,71.58,,,,InternVideo: General Video Foundation Models via Generative and Discriminative Learning,/paper/internvideo-general-video-foundation-models
+6,TriDet ,70.1,84.8,80.0,73.3,Temporal Action Localization with Enhanced Instant Discriminability,/paper/temporal-action-localization-with-enhanced
+7,InternVideo2-1B,69.8,,,,InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding,/paper/internvideo2-scaling-video-foundation-models
+8,ActionFormer ,69.6,84.0,79.6,73.0,VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking,/paper/videomae-v2-scaling-video-masked-autoencoders
+9,TriDet ,69.3,83.6,80.1,72.9,TriDet: Temporal Action Detection with Relative Boundary Modeling,/paper/tridet-temporal-action-detection-with
+10,ASL,67.9,83.1,79.0,71.7,Action Sensitivity Learning for Temporal Action Localization,/paper/action-sensitivity-learning-for-temporal
+11,TemporalMaxer ,67.7,82.8,78.9,71.8,TemporalMaxer: Maximize Temporal Context with only Max Pooling for Temporal Action Localization,/paper/temporalmaxer-maximize-temporal-context-with
+12,DualDETR ,66.8,82.9,78.0,70.4,Dual DETRs for Multi-Label Temporal Action Detection,/paper/dual-detrs-for-multi-label-temporal-action
+13,ActionFormer ,66.8,82.1,77.8,71.0,ActionFormer: Localizing Moments of Actions with Transformers,/paper/actionformer-localizing-moments-of-actions
+14,TadML,59.7,73.29,69.73,62.53,TadML: A fast temporal action detection with Mechanics-MLP,/paper/tadml-a-fast-temporal-action-detection-with
+15,BasicTAD  ,59.6,75.5,70.8,63.5,BasicTAD: an Astounding RGB-Only Baseline for Temporal Action Detection,/paper/basictad-an-astounding-rgb-only-baseline-for
+16,TadTR,56.7,74.8,69.1,60.1,End-to-end Temporal Action Detection with Transformer,/paper/end-to-end-temporal-action-detection-with
+17,ReAct ,55.0,69.2,65.0,57.1,ReAct: Temporal Action Detection with Relational Queries,/paper/react-temporal-action-detection-with
+18,BasicTAD  ,54.9,68.4,65.0,58.6,BasicTAD: an Astounding RGB-Only Baseline for Temporal Action Detection,/paper/basictad-an-astounding-rgb-only-baseline-for
+19,E2E-TAD ,54.2,69.4,64.3,56.0,An Empirical Study of End-to-End Temporal Action Detection,/paper/an-empirical-study-of-end-to-end-temporal
+20,TadML,53.46,68.78,64.66,56.61,TadML: A fast temporal action detection with Mechanics-MLP,/paper/tadml-a-fast-temporal-action-detection-with
+21,MUSES,53.4,68.9,64.0,56.9,Multi-shot Temporal Event Localization: a Benchmark,/paper/multi-shot-temporal-event-localization-a
+22,AVFusion,53.3,70.1,64.9,57.1,Hear Me Out: Fusional Approaches for Audio Augmented Temporal Action Localization,/paper/hear-me-out-fusional-approaches-for-audio
+23,TAGS ,52.8,68.6,63.8,57.0,Proposal-Free Temporal Action Detection via Global Segmentation Mask Learning,/paper/temporal-action-detection-with-global
+24,DCAN ,52.3,68.2,62.7,54.1,DCAN: Improving Temporal Action Detection via Dual Context Aggregation,/paper/dcan-improving-temporal-action-detection-via
+25,TSP,50.46,69.1,63.3,53.5,TSP: Temporally-Sensitive Pretraining of Video Encoders for Localization Tasks,/paper/tsp-temporally-sensitive-pretraining-of-video
+26,VSGN,50.2,66.7,60.4,52.4,Video Self-Stitching Graph Network for Temporal Action Localization,/paper/video-self-stitching-graph-network-for
+27,DaoTAD,50.0,62.8,59.5,53.8,RGB Stream Is Enough for Temporal Action Detection,/paper/rgb-stream-is-enough-for-temporal-action
+28,Decouple-SSAD,42.0,60.2,54.1,44.2,Decoupling Localization and Classification in Single Shot Temporal Action Detection,/paper/decoupling-localization-and-classification-in
+29,TAL-Net,39.8,53.2,48.5,42.8,Rethinking the Faster R-CNN Architecture for Temporal Action Localization,/paper/rethinking-the-faster-r-cnn-architecture-for
+30,GCM,,66.5,60.8,51.9,Graph Convolutional Module for Temporal Action Localization in Videos,/paper/graph-convolutional-module-for-temporal
+31,AGT ,,65.0,58.1,50.2,Activity Graph Transformer for Temporal Action Localization,/paper/activity-graph-transformer-for-temporal
+32,P-GCN,,63.6,57.8,49.1,Graph Convolutional Networks for Temporal Action Localization,/paper/graph-convolutional-networks-for-temporal
+33,DeepMetricLearner,,46.8,,29.6,Weakly Supervised Temporal Action Localization Using Deep Metric Learning,/paper/weakly-supervised-temporal-action-1
+34,CBR-TS,,50.1,41.3,31.0,Cascaded Boundary Regression for Temporal Action Detection,/paper/cascaded-boundary-regression-for-temporal
+35,R-C3D,,44.8,35.6,28.9,R-C3D: Region Convolutional 3D Network for Temporal Activity Detection,/paper/r-c3d-region-convolutional-3d-network-for
+36,TURN-FL-16 + S-CNN,,44.1,34.9,25.6,TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals,/paper/turn-tap-temporal-unit-regression-network-for
+37,Yeung et al.,,36.0,26.4,17.1,End-to-end Learning of Action Detection from Frame Glimpses in Videos,/paper/end-to-end-learning-of-action-detection-from
+38,S-CNN,,36.3,28.7,19.0,Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs,/paper/temporal-action-localization-in-untrimmed
+39,BSN UNet,,53.5,45.0,36.9,BSN: Boundary Sensitive Network for Temporal Action Proposal Generation,/paper/bsn-boundary-sensitive-network-for-temporal
+40,CDC,,40.1,29.4,23.3,CDC: Convolutional-De-Convolutional Networks for Precise Temporal Action Localization in Untrimmed Videos,/paper/cdc-convolutional-de-convolutional-networks
+41,G-TAD,,,,40.2,G-TAD: Sub-Graph Localization for Temporal Action Detection,/paper/g-tad-sub-graph-localization-for-temporal
+42,BMN,,,,32.2,BMN: Boundary-Matching Network for Temporal Action Proposal Generation,/paper/bmn-boundary-matching-network-for-temporal

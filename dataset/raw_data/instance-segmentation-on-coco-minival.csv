@@ -1,0 +1,92 @@
+Rank,Model,mask AP,AP50,AP75,APS,APM,APL,Paper Title,Paper URL
+1,InternImage-H,55.4,80.1,61.5,37.9,58.4,74.4,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+2,EVA,55.0,79.4,60.9,37.6,58.4,72.0,EVA: Exploring the Limits of Masked Visual Representation Learning at Scale,/paper/eva-exploring-the-limits-of-masked-visual
+3,Mask Frozen-DETR,54.9,78.9,60.8,37.2,58.4,72.9,Mask Frozen-DETR: High Quality Instance Segmentation with One GPU,/paper/mask-frozen-detr-high-quality-instance
+4,MasK DINO ,54.5,,,,,,Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation,/paper/mask-dino-towards-a-unified-transformer-based-1
+5,ViT-Adapter-L ,54.2,,,,,,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+6,GLEE-Pro,54.2,,,,,,General Object Foundation Model for Images and Videos at Scale,/paper/general-object-foundation-model-for-images
+7,SwinV2-G ,53.7,,,,,,Swin Transformer V2: Scaling Up Capacity and Resolution,/paper/swin-transformer-v2-scaling-up-capacity-and
+8,"ViTDet, ViT-H Cascade ",53.1,,,,,,Exploring Plain Vision Transformer Backbones for Object Detection,/paper/exploring-plain-vision-transformer-backbones
+9,GLEE-Plus,53.0,,,,,,General Object Foundation Model for Images and Videos at Scale,/paper/general-object-foundation-model-for-images
+10,Mask DINO ,52.6,,,,,,Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation,/paper/mask-dino-towards-a-unified-transformer-based-1
+11,Soft Teacher + Swin-L,52.5,,,,,,End-to-End Semi-Supervised Object Detection with Soft Teacher,/paper/end-to-end-semi-supervised-object-detection
+12,ViT-Adapter-L ,52.5,,,,,,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+13,ViT-Adapter-L ,52.2,,,,,,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+14,"ViTDet, ViT-H Cascade",52.0,,,,,,Exploring Plain Vision Transformer Backbones for Object Detection,/paper/exploring-plain-vision-transformer-backbones
+15,Soft Teacher + Swin-L,51.9,,,,,,End-to-End Semi-Supervised Object Detection with Soft Teacher,/paper/end-to-end-semi-supervised-object-detection
+16,CBNetV2 ,51.8,,,,,,CBNet: A Composite Backbone Network Architecture for Object Detection,/paper/cbnetv2-a-composite-backbone-network
+17,"Frozen Backbone, SwinV2-G-ext22K ",51.6,,,,,,Could Giant Pretrained Image Models Extract Universal Representations?,/paper/could-giant-pretrained-image-models-extract
+18,CBNetV2 ,51.0,,,,,,CBNet: A Composite Backbone Network Architecture for Object Detection,/paper/cbnetv2-a-composite-backbone-network
+19,Focal-L ,50.9,,,,,,Focal Self-attention for Local-Global Interactions in Vision Transformers,/paper/focal-self-attention-for-local-global
+20,DiNAT-L ,50.8,75.0,,,,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+21,MViTv2-L ,50.5,,,,,,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+22,Swin-L ,50.4,,,,,,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,/paper/swin-transformer-hierarchical-vision
+23,MOAT-3 ,50.3,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+24,Mask2Former ,50.1,,,,,,Masked-attention Mask Transformer for Universal Image Segmentation,/paper/masked-attention-mask-transformer-for
+25,Swin-L ,49.5,,,,,,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,/paper/swin-transformer-hierarchical-vision
+26,MOAT-2 ,49.3,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+27,MOAT-1 ,49.0,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+28,QueryInst ,48.9,74.0,53.9,30.8,52.6,68.3,Instances as Queries,/paper/queryinst-parallelly-supervised-mask-query
+29,Cascade Eff-B7 NAS-FPN ,48.9,,,,,,Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation,/paper/simple-copy-paste-is-a-strong-data
+30,InternImage-XL,48.8,,,,,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+31,CenterNet2 ,48.8,,,,,,X-Paste: Revisiting Scalable Copy-Paste for Instance Segmentation using CLIP and StableDiffusion,/paper/x-paste-revisit-copy-paste-at-scale-with-clip
+32,Heira-L,48.6,,,,,,Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles,/paper/hiera-a-hierarchical-vision-transformer
+33,InternImage-L,48.5,,,,,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+34,MViTv2-H ,48.5,,,,,,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+35,GLEE-Lite,48.4,,,,,,General Object Foundation Model for Images and Videos at Scale,/paper/general-object-foundation-model-for-images
+36,MOAT-0 ,47.4,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+37,MViTv2-L ,47.1,,,,,,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+38,MPViT-B ,47.0,,,,,,MPViT: Multi-Path Vision Transformer for Dense Prediction,/paper/mpvit-multi-path-vision-transformer-for-dense
+39,tiny-MOAT-3 ,47.0,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+40,Cascade Eff-B7 NAS-FPN ,46.8,,,,,,Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation,/paper/simple-copy-paste-is-a-strong-data
+41,ResNeSt-200 ,46.25,,,,,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+42,MViT-L ,46.2,,,,,,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+43,RetinaNet ,46.1,,,,,,SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization,/paper/spinenet-learning-scale-permuted-backbone-for
+44,MPViT-B ,45.8,,,,,,MPViT: Multi-Path Vision Transformer for Dense Prediction,/paper/mpvit-multi-path-vision-transformer-for-dense
+45,Mask R-CNN ,45.7,,49.9,,,,Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding,/paper/2103-15358
+46,Mask R-CNN ,45.1,67.2,49.3,,,,Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding,/paper/2103-15358
+47,tiny-MOAT-2 ,45.0,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+48,GCNet ,44.7,67.9,48.4,,,,Global Context Networks,/paper/global-context-networks
+49,tiny-MOAT-1 ,44.6,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+50,InternImage-S,44.5,,,,,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+51,ResNeSt-200-DCN ,44.5,,,,,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+52,ELSA-S ,44.4,67.8,47.8,,,,ELSA: Enhanced Local Self-Attention for Vision Transformer,/paper/elsa-enhanced-local-self-attention-for-vision
+53,BoTNet 200 ,44.4,,,,,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+54,DaViT-T ,44.3,,,,,,DaViT: Dual Attention Vision Transformers,/paper/davit-dual-attention-vision-transformers
+55,ResNeSt-200 ,44.21,,,,,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+56,InternImage-T,43.7,,,,,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+57,BoTNet 152 ,43.7,,,,,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+58,XCiT-M24/8,43.7,,,,,,XCiT: Cross-Covariance Image Transformers,/paper/xcit-cross-covariance-image-transformers
+59,tiny-MOAT-0 ,43.3,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+60,ELSA-S ,43.0,67.3,46.4,,,,ELSA: Enhanced Local Self-Attention for Vision Transformer,/paper/elsa-enhanced-local-self-attention-for-vision
+61,XCiT-S24/8,43.0,,,,,,XCiT: Cross-Covariance Image Transformers,/paper/xcit-cross-covariance-image-transformers
+62,CenterMask-VoVNetV2-99 ,42.5,,,,,,CenterMask : Real-Time Anchor-Free Instance Segmentation,/paper/centermask-real-time-anchor-free-instance-1
+63,ResNeSt-101 ,41.56,,,,,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+64,SIW,41.4,,,,,,Scaling up Multi-domain Semantic Segmentation with Sentence Embeddings,/paper/the-devil-is-in-the-labels-semantic
+65,Res2Net-101+HTC,41.3,,,,,,Res2Net: A New Multi-scale Backbone Architecture,/paper/res2net-a-new-multi-scale-backbone
+66,HTC ,41.0,,,,,,Deep High-Resolution Representation Learning for Human Pose Estimation,/paper/deep-high-resolution-representation-learning
+67,HTC ,41.0,,,,,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+68,GCNet ,40.9,,,,,,GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond,/paper/gcnet-non-local-networks-meet-squeeze
+69,BoTNet 50 ,40.7,,,,,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+70,R3-CNN ,40.4,61.3,44.0,22.3,43.6,56.1,Recursively Refined R-CNN: Instance Segmentation with Self-RoI Rebalancing,/paper/recursively-refined-r-cnn-instance
+71,Mask R-CNN ,40.3,,,,,,Non-local Neural Networks,/paper/non-local-neural-networks
+72,Mask R-CNN-FPN ,40.2,63.2,43.3,,,,Attentive Normalization,/paper/attentive-normalization
+73,R3-CNN ,40.2,61.1,43.5,22.6,42.8,,Recursively Refined R-CNN: Instance Segmentation with Self-RoI Rebalancing,/paper/recursively-refined-r-cnn-instance
+74,CenterMask-VoVNetV2-99-3x,40.2,,,,,,CenterMask : Real-Time Anchor-Free Instance Segmentation,/paper/centermask-real-time-anchor-free-instance-1
+75,R3-CNN ,39.1,58.8,42.3,20.7,42.1,54.3,Recursively Refined R-CNN: Instance Segmentation with Self-RoI Rebalancing,/paper/recursively-refined-r-cnn-instance
+76,Mask Scoring R-CNN ,39.1,,,,,,Mask Scoring R-CNN,/paper/mask-scoring-r-cnn
+77,Mask R-CNN-FPN ,38.34,61.07,40.82,18.32,41.73,56.08,Micro-Batch Training with Batch-Channel Normalization and Weight Standardization,/paper/weight-standardization
+78,R3-CNN ,38.2,58.0,41.4,20.4,41.0,52.8,Recursively Refined R-CNN: Instance Segmentation with Self-RoI Rebalancing,/paper/recursively-refined-r-cnn-instance
+79,HTC ,38.2,,,,,,Hybrid Task Cascade for Instance Segmentation,/paper/hybrid-task-cascade-for-instance-segmentation
+80,Mask Scoring R-CNN ,38.2,,,,,,Mask Scoring R-CNN,/paper/mask-scoring-r-cnn
+81,PANet ,37.8,,,,,,Path Aggregation Network for Instance Segmentation,/paper/path-aggregation-network-for-instance
+82,GCnet ,37.2,59.3,39.8,20.2,41.0,51.2,A novel Region of Interest Extraction Layer for Instance Segmentation,/paper/a-novel-region-of-interest-extraction-layer
+83,Mask R-CNN ,37.2,,,19.2,40.0,53.1,X-volution: On the unification of convolution and self-attention,/paper/x-volution-on-the-unification-of-convolution
+84,Mask R-CNN ,37.1,,,,,,Non-local Neural Networks,/paper/non-local-neural-networks
+85,Mask Scoring R-CNN ,36.0,,,,,,Mask Scoring R-CNN,/paper/mask-scoring-r-cnn
+86,Mask R-CNN ,35.8,57.1,38.0,19.1,39.0,48.7,A novel Region of Interest Extraction Layer for Instance Segmentation,/paper/a-novel-region-of-interest-extraction-layer
+87,Faster R-CNN ,35.6,57.6,,15.7,37.9,53.7,Res2Net: A New Multi-scale Backbone Architecture,/paper/res2net-a-new-multi-scale-backbone
+88,Mask R-CNN ,35.5,,,,,,Non-local Neural Networks,/paper/non-local-neural-networks
+89,Mask R-CNN ,35.2,,,,,,Adaptively Connected Neural Networks,/paper/adaptively-connected-neural-networks
+90,YOLACT-550 ,29.9,,,,,,YOLACT: Real-time Instance Segmentation,/paper/yolact-real-time-instance-segmentation
+91,InternImage-B,,,,,,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision

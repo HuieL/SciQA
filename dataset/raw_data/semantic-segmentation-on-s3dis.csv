@@ -1,0 +1,53 @@
+Rank,Model,Mean IoU,mAcc,oAcc,FLOPs,Params (M),Paper Title,Paper URL
+1,PTv3 + PPT,80.8,87.7,92.6,,,"Point Transformer V3: Simpler, Faster, Stronger",/paper/point-transformer-v3-simpler-faster-stronger
+2,PonderV2 + SparseUNet,79.9,86.5,92.5,,,PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm,/paper/ponderv2-pave-the-way-for-3d-foundataion
+3,Swin3D-L,79.8,88.0,92.4,,,Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding,/paper/swin3d-a-pretrained-transformer-backbone-for
+4,PointVector-XL,78.4,86.1,91.9,,24.1,PointVector: A Vector Representation In Point Cloud Analysis,/paper/point-is-a-vector-a-feature-representation-in
+5,PPT + SparseUNet,78.1,85.4,92.2,,,Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training,/paper/towards-large-scale-3d-representation
+6,WindowNorm+StratifiedTransformer,77.6,85.8,91.7,,8.2,Window Normalization: Enhancing Point Cloud Understanding by Unifying Inconsistent Point Densities,/paper/window-normalization-enhancing-point-cloud
+7,EQ-Net,77.5,,,,,A Unified Query-based Paradigm for Point Cloud Understanding,/paper/a-unified-query-based-paradigm-for-point
+8,PointMetaBase-XXL,77.0,,91.3,11.0,19.7,Meta Architecture for Point Cloud Analysis,/paper/meta-architecure-for-point-cloud-analysis
+9,Superpoint Transformer,76.0,85.8,90.4,,0.212,Efficient 3D Semantic Segmentation with Superpoint Transformer,/paper/efficient-3d-semantic-segmentation-with-1
+10,SuperCluster,75.3,,,,0.21,Scalable 3D Panoptic Segmentation As Superpoint Graph Clustering,/paper/scalable-3d-panoptic-segmentation-with
+11,PointNeXt-XL,74.9,83.0,90.3,84.8,41.6,PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies,/paper/pointnext-revisiting-pointnet-with-improved
+12,DeepViewAgg,74.7,83.8,90.1,,41.2,Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation,/paper/learning-multi-view-aggregation-in-the-wild
+13,RepSurf-U,74.3,82.6,90.8,1.04,0.97,Surface Representation for Point Clouds,/paper/surface-representation-for-point-clouds
+14,WindowNorm+PointTransformer,74.1,82.5,90.2,,8.0,Window Normalization: Enhancing Point Cloud Understanding by Unifying Inconsistent Point Densities,/paper/window-normalization-enhancing-point-cloud
+15,PointNeXt-L,73.9,82.2,89.9,15.2,7.1,PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies,/paper/pointnext-revisiting-pointnet-with-improved
+16,PointTransformer,73.5,81.9,90.2,,7.8,Point Transformer,/paper/point-transformer-1
+17,CBL,73.1,79.4,89.6,,,Contrastive Boundary Learning for Point Cloud Segmentation,/paper/contrastive-boundary-learning-for-point-cloud
+18,BAAF-Net,72.2,83.1,88.9,,,Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion,/paper/semantic-segmentation-for-real-point-cloud
+19,SCF-Net,71.6,82.7,88.4,,,SCF-Net: Learning Spatial Contextual Features for Large-Scale Point Cloud Segmentation,/paper/scf-net-learning-spatial-contextual-features
+20,Feature Geometric Net ,70.8,82.9,88.2,,,FG-Net: Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Correlated Feature Mining and Geometric-Aware Modelling,/paper/fg-net-fast-large-scale-lidar-point
+21,RPNet,70.8,,,,,Learning Inner-Group Relations on Point Clouds,/paper/learning-inner-group-relations-on-point
+22,KPConv,70.6,79.1,,,14.1,KPConv: Flexible and Deformable Convolution for Point Clouds,/paper/kpconv-flexible-and-deformable-convolution
+23,KPConv,70.6,,,,14.1,Point Transformer,/paper/point-transformer-1
+24,FastPointTrans. ,70.3,,,,,Fast Point Transformer,/paper/fast-point-transformer
+25,RandLA-Net,70.0,81.5,87.1,,1.2,RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds,/paper/191111236
+26,MuGNet,69.8,,88.5,,,MuGNet: Multi-Resolution Graph Neural Network for Large-Scale Pointcloud Segmentation,/paper/mugnet-multi-resolution-graph-neural-network
+27,PointASNL,68.7,79.0,88.8,,,PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling,/paper/pointasnl-robust-point-clouds-processing
+28,SSP+SPG,68.4,78.3,87.9,,0.29,Point Cloud Oversegmentation with Graph-Structured Deep Metric Learning,/paper/point-cloud-oversegmentation-with-graph
+29,FKAConv,68.4,,,,,FKAConv: Feature-Kernel Alignment for Point Cloud Convolution,/paper/lightconvpoint-convolution-for-points
+30,ConvPoint,68.2,,88.8,,4.1,ConvPoint: Continuous Convolutions for Point Cloud Processing,/paper/generalizing-discrete-convolutions-for
+31,JSENet,67.7,,,,,JSENet: Joint Semantic Segmentation and Edge Detection Network for 3D Point Clouds,/paper/jsenet-joint-semantic-segmentation-and-edge
+32,CT2,67.4,,,,,Cloud Transformers: A Universal Approach To Point Cloud Processing Tasks,/paper/cloud-transformers
+33,ShellNet,66.8,,,,,ShellNet: Efficient Point Cloud Convolutional Neural Networks using Concentric Shells Statistics,/paper/shellnet-efficient-point-cloud-convolutional
+34,PointWeb,66.7,76.2,87.3,,,PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing,/paper/pointweb-enhancing-local-neighborhood
+35,PointCNN,65.4,,88.1,,,A-CNN: Annularly Convolutional Neural Networks on Point Clouds,/paper/190408017
+36,PointCNN,65.4,,,,,Point Transformer,/paper/point-transformer-1
+37,MinkowskiNet,65.4,,,,37.9,4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks,/paper/4d-spatio-temporal-convnets-minkowski
+38,DSPoint,63.3,70.9,,,,DSPoint: Dual-scale Point Cloud Recognition with High-frequency Fusion,/paper/dspoint-dual-scale-point-cloud-recognition
+39,A-CNN,62.9,,87.3,,,A-CNN: Annularly Convolutional Neural Networks on Point Clouds,/paper/190408017
+40,SPG,62.1,73.0,85.5,,0.29,Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs,/paper/large-scale-point-cloud-semantic-segmentation
+41,SPGraph,62.1,,85.5,,,A-CNN: Annularly Convolutional Neural Networks on Point Clouds,/paper/190408017
+42,SPGraph,62.1,,,,,Point Transformer,/paper/point-transformer-1
+43,JSNet,61.7,71.7,88.7,,,JSNet: Joint Instance and Semantic Segmentation of 3D Point Clouds,/paper/191209654
+44,DeepGCN,60.0,,85.9,,,DeepGCNs: Making GCNs Go as Deep as CNNs,/paper/deepgcns-making-gcns-go-as-deep-as-cnns
+45,ASIS,59.3,,,,,Associatively Segmenting Instances and Semantics in Point Clouds,/paper/associatively-segmenting-instances-and
+46,RSNet,56.5,66.5,,,,Recurrent Slice Networks for 3D Segmentation of Point Clouds,/paper/recurrent-slice-networks-for-3d-segmentation
+47,3P-RNN,56.3,,86.9,,,A-CNN: Annularly Convolutional Neural Networks on Point Clouds,/paper/190408017
+48,Point-PlaneNet,54.8,,83.9,,,Point-PlaneNet: Plane kernel based convolutional neural network for point clouds analysis,/paper/point-planenet-plane-kernel-based
+49,SMS,51.74,,,,,Self-supervised Point Cloud Representation Learning via Separating Mixed Shapes,/paper/point-cloud-pre-training-by-mixing-and
+50,PointNet,47.6,,78.5,,,A-CNN: Annularly Convolutional Neural Networks on Point Clouds,/paper/190408017
+51,PointNet,47.6,,,,,Point Transformer,/paper/point-transformer-1
+52,PointNet,,66.2,,,,PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation,/paper/pointnet-deep-learning-on-point-sets-for-3d

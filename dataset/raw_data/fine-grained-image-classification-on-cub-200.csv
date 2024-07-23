@@ -1,0 +1,67 @@
+Rank,Model,Accuracy,Paper Title,Paper URL
+1,HERBS,93.1,Fine-grained Visual Classification with High-temperature Refinement and Background Suppression,/paper/fine-grained-visual-classification-with-high-1
+2,"MetaFormer
+",92.9,MetaFormer: A Unified Meta Framework for Fine-Grained Recognition,/paper/metaformer-a-unified-meta-framework-for-fine
+3,PIM,92.8,A Novel Plug-in Module for Fine-Grained Visual Classification,/paper/a-novel-plug-in-module-for-fine-grained-1
+4,CSQA-Net,92.6,Context-Semantic Quality Awareness Network for Fine-Grained Visual Categorization,/paper/context-semantic-quality-awareness-network
+5,Inception-v3,92.3,The Unreasonable Effectiveness of Noisy Data for Fine-Grained Recognition,/paper/the-unreasonable-effectiveness-of-noisy-data
+6,DCAL,92.0,Dual Cross-Attention Learning for Fine-Grained Visual Categorization and Object Re-Identification,/paper/dual-cross-attention-learning-for-fine
+7,SR-GNN,91.9,SR-GNN: Spatial Relation-aware Graph Neural Network for Fine-Grained Image Categorization,/paper/sr-gnn-spatial-relation-aware-graph-neural
+8,ViT-SAC,91.8,Fine-Grained Visual Classification using Self Assessment Classifier,/paper/fine-grained-visual-classification-using-self
+9,SIM-Trans,91.8,SIM-Trans: Structure Information Modeling Transformer for Fine-grained Visual Categorization,/paper/sim-trans-structure-information-modeling
+10,IELT,91.8,Fine-Grained Visual Classification via Internal Ensemble Learning Transformer,/paper/fine-grained-visual-classification-via-2
+11,CAP,91.8,Context-aware Attentional Pooling (CAP) for Fine-grained Visual Classification,/paper/context-aware-attentional-pooling-cap-for
+12,MP-MGVC,91.8,Delving into Multimodal Prompting for Fine-grained Visual Classification,/paper/delving-into-multimodal-prompting-for-fine
+13,TransFG,91.7,TransFG: A Transformer Architecture for Fine-grained Recognition,/paper/transfg-a-transformer-architecture-for-fine
+14,ViT-NeT ,91.7,ViT-NeT: Interpretable Vision Transformers with Neural Tree Decoder,/paper/vit-net-interpretable-vision-transformers
+15,FFVT,91.6,Feature Fusion Vision Transformer for Fine-Grained Visual Categorization,/paper/feature-fusion-vision-transformer-fine
+16,AFTrans,91.5,A free lunch from ViT:Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition,/paper/a-free-lunch-from-vit-adaptive-attention
+17,TPSKG,91.3,Transformer with Peak Suppression and Knowledge Guidance for Fine-grained Image Recognition,/paper/transformer-with-peak-suppression-and
+18,RAMS-Trans,91.3,RAMS-Trans: Recurrent Attention Multi-scale Transformer forFine-grained Image Recognition,/paper/rams-trans-recurrent-attention-multi-scale
+19,CCFR,91.1,Re-rank Coarse Classification with Local Region Enhanced Features for Fine-Grained Image Recognition,/paper/re-rank-coarse-classification-with-local
+20,TransIFC,91.0,TransIFC: Invariant Cues-aware Feature Concentration Learning for Efficient Fine-grained Bird Image Classification,/paper/transifc-invariant-cues-aware-feature
+21,DeepFVE,90.95,End-to-end Learning of a Fisher Vector Encoding for Part Features in Fine-grained Recognition,/paper/end-to-end-learning-of-a-fisher-vector
+22,Stacked LSTM,90.4,Weakly Supervised Complementary Parts Models for Fine-Grained Image Classification from the Bottom Up,/paper/weakly-supervised-complementary-parts-models
+23,Mix+,90.2,Attribute Mix: Semantic Data Augmentation for Fine Grained Recognition,/paper/attribute-mix-semantic-data-augmentation-for
+24,PART,90.1,Part-guided Relational Transformers for Fine-grained Visual Recognition,/paper/part-guided-relational-transformers-for-fine
+25,API-Net,90.0,Learning Attentive Pairwise Interaction for Fine-Grained Classification,/paper/learning-attentive-pairwise-interaction-for
+26,AENet,90.0,Alignment Enhancement Network for Fine-grained Visual Categorization,/paper/alignment-enhancement-network-for-fine
+27,Multi Granularity,89.9,"Your ""Flamingo"" is My ""Bird"": Fine-Grained, or Not",/paper/your-labrador-is-my-dog-fine-grained-or-not
+28,M2B,89.8,Penalizing the Hard Example But Not Too Much: A Strong Baseline for Fine-Grained Visual Classification,/paper/penalizing-the-hard-example-but-not-too-much
+29,Inception-V3,89.6,Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning,/paper/large-scale-fine-grained-categorization-and
+30,PMG,89.6,Fine-Grained Visual Classification via Progressive Multi-Granularity Training of Jigsaw Patches,/paper/fine-grained-visual-classification-via
+31,Graph-Based High-Order Relationship,89.6,Graph-Based High-Order Relation Discovery for Fine-Grained Recognition,/paper/graph-based-high-order-relation-discovery-for
+32,SnapMix,89.58,SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data,/paper/snapmix-semantically-proportional-mixing-for
+33,CS-Parts,89.5,Classification-Specific Parts for Improving Fine-Grained Visual Categorization,/paper/classification-specific-parts-for-improving
+34,MGE-CNN,89.4,Learning a Mixture of Granularity-Specific Experts for Fine-Grained Categorization,/paper/learning-a-mixture-of-granularity-specific
+35,PAIRS,89.2,"Aligned to the Object, not to the Image: A Unified Pose-aligned Representation for Fine-grained Recognition",/paper/aligned-to-the-object-not-to-the-image-a
+36,BCN,89.2,Fine-Grained Visual Classification with Batch Confusion Norm,/paper/fine-grained-visual-classification-with-batch
+37,Knowledge Transfer,89.1,Knowledge Transfer Based Fine-grained Visual Classification,/paper/knowledge-transfer-based-fine-grained-visual
+38,AttNet & AffNet,88.9,Fine-Grained Visual Classification with Efficient End-to-end Localization,/paper/fine-grained-visual-classification-with
+39,PCA-Net,88.9,Progressive Co-Attention Network for Fine-grained Visual Classification,/paper/progressive-co-attention-network-for-fine
+40,DF-GMM,88.8,Weakly Supervised Fine-Grained Image Classification via Guassian Mixture Model Oriented Discriminative Learning,/paper/weakly-supervised-fine-grained-image-1
+41,MPN-COV,88.7,Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization,/paper/towards-faster-training-of-global-covariance
+42,GAT,88.66,Human Attention in Fine-grained Classification,/paper/human-attention-in-fine-grained
+43,DB,88.6,Fine-grained Recognition: Accounting for Subtle Differences between Similar Classes,/paper/fine-grained-recognition-accounting-for
+44,S3N,88.5,Selective Sparse Sampling for Fine-Grained Image Recognition,/paper/selective-sparse-sampling-for-fine-grained
+45,ELoPE,88.5,"ELoPE: Fine-Grained Visual Classification with Efficient Localization, Pooling and Embedding",/paper/elope-fine-grained-visual-classification-with
+46,Grad-CAM,88.45,Grad-CAM guided channel-spatial attention module for fine-grained visual classification,/paper/grad-cam-guided-channel-spatial-attention
+47,CIN,88.3,Channel Interaction Networks for Fine-Grained Image Categorization,/paper/channel-interaction-networks-for-fine-grained-1
+48,GCL,88.3,Graph-propagation based Correlation Learning for Weakly Supervised Fine-grained Image Classification,/paper/graph-propagation-based-correlation-learning
+49,CRA-CNN,88.3,Contrastively-reinforced Attention Convolutional Neural Network for Fine-grained Image Recognition,/paper/contrastively-reinforced-attention
+50,CMN,88.2,Fine-grained Classification via Categorical Memory Networks,/paper/fine-grained-classification-via-categorical
+51,MHEM ,88.2,Penalizing the Hard Example But Not Too Much: A Strong Baseline for Fine-Grained Visual Classification,/paper/penalizing-the-hard-example-but-not-too-much
+52,Hierarchical Semantic Embedding,88.1,Fine-Grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding,/paper/fine-grained-representation-learning-and
+53,ACNet,88.1,Attention Convolutional Binary Neural Tree for Fine-Grained Visual Categorization,/paper/attention-convolutional-binary-neural-tree
+54,Cross-X,87.7,Cross-X Learning for Fine-Grained Visual Categorization,/paper/cross-x-learning-for-fine-grained-visual
+55,NTS-Net ,87.5,Learning to Navigate for Fine-grained Classification,/paper/learning-to-navigate-for-fine-grained
+56,DFB,87.4,Learning a Discriminative Filter Bank within a CNN for Fine-grained Recognition,/paper/learning-a-discriminative-filter-bank-within
+57,MC Loss ,87.3,The Devil is in the Channels: Mutual-Channel Loss for Fine-Grained Image Classification,/paper/the-devil-is-in-the-channels-mutual-channel
+58,SEF,87.3,Learning Semantically Enhanced Feature for Fine-Grained Image Classification,/paper/learning-semantically-enhanced-feature-for
+59,PC-DenseNet-161,86.87,Pairwise Confusion for Fine-Grained Visual Classification,/paper/pairwise-confusion-for-fine-grained-visual
+60,MC Loss ,86.4,The Devil is in the Channels: Mutual-Channel Loss for Fine-Grained Image Classification,/paper/the-devil-is-in-the-channels-mutual-channel
+61,A3M,86.2,Attribute-Aware Attention Model for Fine-grained Representation Learning,/paper/attribute-aware-attention-model-for-fine
+62,Bilinear-CNN,85.1,Bilinear CNN Models for Fine-Grained Visual Recognition,/paper/bilinear-cnn-models-for-fine-grained-visual
+63,PS-CNN,76.6,Part-Stacked CNN for Fine-Grained Visual Categorization,/paper/part-stacked-cnn-for-fine-grained-visual
+64,Part RCNN,76.4,Part-based R-CNNs for Fine-grained Category Detection,/paper/part-based-r-cnns-for-fine-grained-category
+65,Deformable Part Descriptors,50.98,Deformable Part Descriptors for Fine-grained Recognition and Attribute Prediction,/paper/deformable-part-descriptors-for-fine-grained

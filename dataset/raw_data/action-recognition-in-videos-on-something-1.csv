@@ -1,0 +1,74 @@
+Rank,Model,Top 1 Accuracy,Top 5 Accuracy,Param,GFLOPs,Paper Title,Paper URL
+1,InternVideo,70.0,,,,InternVideo: General Video Foundation Models via Generative and Discriminative Learning,/paper/internvideo-general-video-foundation-models
+2,VideoMAE V2-g,68.7,91.9,,,VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking,/paper/videomae-v2-scaling-video-masked-autoencoders
+3,Side4Video ,67.3,88.8,,,Side4Video: Spatial-Temporal Side Network for Memory-Efficient Image-to-Video Transfer Learning,/paper/side4video-spatial-temporal-side-network-for
+4,ATM,65.6,88.6,,,What Can Simple Arithmetic Operations Do for Temporal Modeling?,/paper/what-can-simple-arithmetic-operations-do-for
+5,TAdaFormer-L/14,63.7,,,,Temporally-Adaptive Models for Efficient Video Understanding,/paper/temporally-adaptive-models-for-efficient
+6,UniFormerV2-L,62.7,88.0,,,UniFormerV2: Spatiotemporal Learning by Arming Image ViTs with Video UniFormer,/paper/uniformerv2-spatiotemporal-learning-by-arming
+7,StructVit-B-4-1,61.3,,,,Learning Correlation Structures for Vision Transformers,/paper/learning-correlation-structures-for-vision
+8,UniFormer-B ,60.9,87.3,,259.0,UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning,/paper/uniformer-unified-transformer-for-efficient
+9,TAdaConvNeXtV2-B,60.7,,,,Temporally-Adaptive Models for Efficient Video Understanding,/paper/temporally-adaptive-models-for-efficient
+10,TPS,58.3,,,,Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition,/paper/spatiotemporal-self-attention-modeling-with
+11,MSMA ,57.9,,,,Multi-scale Motion-Aware Module for Video Action Recognition,/paper/multi-scale-motion-aware-module-for-video
+12,UniFormer-B ,57.6,84.9,,41.8,UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning,/paper/uniformer-unified-transformer-for-efficient
+13,SIFA,57.3,,,,Stand-Alone Inter-Frame Attention in Video Models,/paper/stand-alone-inter-frame-attention-in-video-1
+14,EAN ResNet50 ,57.2,83.9,,,EAN: Event Adaptive Network for Enhanced Action Recognition,/paper/ean-event-adaptive-network-for-enhanced
+15,TCM ,57.2,,,,Motion-driven Visual Tempo Learning for Video-based Action Recognition,/paper/slow-fast-visual-tempo-learning-for-video
+16,BQNEn ,57.1,84.2,,,Busy-Quiet Video Disentangling for Video Classification,/paper/video-classification-with-finecoarse-networks
+17,TDN ResNet101 ,56.8,84.1,,,TDN: Temporal Difference Networks for Efficient Action Recognition,/paper/tdn-temporal-difference-networks-for
+18,SELFYNet-TSM-R50En ,56.6,84.4,,,Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition,/paper/learning-self-similarity-in-space-and-time-as-1
+19,CT-Net Ensemble ,56.6,,,,CT-Net: Channel Tensorization Network for Video Classification,/paper/ct-net-channel-tensorization-network-for-1
+20,MoDS ,56.6,,,,Action Recognition With Motion Diversification and Dynamic Selection,/paper/action-recognition-with-motion
+21,MLP-3D,56.5,,,,MLP-3D: A MLP-like 3D Architecture with Grouped Time Mixing,/paper/mlp-3d-a-mlp-like-3d-architecture-with-1
+22,RSANet-R50 ,56.1,82.8,,,Relational Self-Attention: What's Missing in Attention for Video Understanding,/paper/relational-self-attention-what-s-missing-in
+23,SELFYNet-TSM-R50En ,55.8,83.9,,,Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition,/paper/learning-self-similarity-in-space-and-time-as-1
+24,RSANet-R50 ,55.5,82.6,,,Relational Self-Attention: What's Missing in Attention for Video Understanding,/paper/relational-self-attention-what-s-missing-in
+25,PAN ResNet101 ,55.3,82.8,,,PAN: Towards Fast Action Recognition via Learning Persistence of Appearance,/paper/pan-towards-fast-action-recognition-via
+26,GSM Ensemble InceptionV3 ,55.16,,,,Gate-Shift Networks for Video Action Recognition,/paper/gate-shift-networks-for-video-action
+27,MSNet-R50En ,55.1,,,,MotionSqueeze: Neural Motion Feature Learning for Video Understanding,/paper/motionsqueeze-neural-motion-feature-learning
+28,AE-Net ,55.0,,,,AE-Net:Adjoint Enhancement Network for Efficient Action Recognition in Video Understanding,/paper/ae-net-adjoint-enhancement-network-for
+29,VoV3D-L ,54.59,82.3,,20.9,Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification,/paper/diverse-temporal-aggregation-and-depthwise
+30,MSNet-R50En ,54.4,83.8,,,MotionSqueeze: Neural Motion Feature Learning for Video Understanding,/paper/motionsqueeze-neural-motion-feature-learning
+31,SELFYNet-TSM-R50 ,54.3,82.9,,,Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition,/paper/learning-self-similarity-in-space-and-time-as-1
+32,RNL+TSM Ensemble,54.1,82.2,,,Region-based Non-local Operation for Video Classification,/paper/region-based-non-local-operation-for-video
+33,RSANet-R50 ,54.0,81.1,,,Relational Self-Attention: What's Missing in Attention for Video Understanding,/paper/relational-self-attention-what-s-missing-in
+34,MVFNet-R50EN,54.0,,,,MVFNet: Multi-View Fusion Network for Efficient Video Recognition,/paper/mvfnet-multi-view-fusion-network-for
+35,STPG ,53.5,,,,Spatial-Temporal Pyramid Graph Reasoning for Action Recognition,/paper/spatial-temporal-pyramid-graph-reasoning-for
+36,GB + DF + LB ,53.4,,,,Action recognition with spatial-temporal discriminative filter banks,/paper/190807625
+37,ip-CSN-152 ,53.3,,,,Video Classification with Channel-Separated Convolutional Networks,/paper/video-classification-with-channel-separated
+38,MARS+RGB+Flow ,53.0,,,,MARS: Motion-Augmented RGB Stream for Action Recognition,/paper/mars-motion-augmented-rgb-stream-for-action
+39,RNL+TSM Ensemble,52.7,81.5,,,Region-based Non-local Operation for Video Classification,/paper/region-based-non-local-operation-for-video
+40,VoV3D-M ,52.68,80.43,,11.5,Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification,/paper/diverse-temporal-aggregation-and-depthwise
+41,TSM+W3 ,52.6,81.3,,,"Knowing What, Where and When to Look: Efficient Video Action Modeling with Attention",/paper/knowing-what-where-and-when-to-look-efficient
+42,AK-Net,52.5,,,,Action Keypoint Network for Efficient Video Recognition,/paper/action-keypoint-network-for-efficient-video
+43,MSNet-R50 ,52.1,82.3,,,MotionSqueeze: Neural Motion Feature Learning for Video Understanding,/paper/motionsqueeze-neural-motion-feature-learning
+44,ir-CSN-152 ,52.1,,,,Video Classification with Channel-Separated Convolutional Networks,/paper/video-classification-with-channel-separated
+45,RSANet-R50 ,51.9,79.6,,,Relational Self-Attention: What's Missing in Attention for Video Understanding,/paper/relational-self-attention-what-s-missing-in
+46,GSM InceptionV3 ,51.68,,,,Gate-Shift Networks for Video Action Recognition,/paper/gate-shift-networks-for-video-action
+47,R,51.6,,,,Video Classification with Channel-Separated Convolutional Networks,/paper/video-classification-with-channel-separated
+48,MSNet-R50 ,50.9,80.3,,,MotionSqueeze: Neural Motion Feature Learning for Video Understanding,/paper/motionsqueeze-neural-motion-feature-learning
+49,TSM ,50.7,,,,TSM: Temporal Shift Module for Efficient Video Understanding,/paper/temporal-shift-module-for-efficient-video
+50,VoV3D-L ,50.6,78.7,,20.9,Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification,/paper/diverse-temporal-aggregation-and-depthwise
+51,ResNet50 I3D ,50.0,,,,Moments in Time Dataset: one million videos for event understanding,/paper/moments-in-time-dataset-one-million-videos
+52,VoV3D-M ,49.8,78.0,,11.5,Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification,/paper/diverse-temporal-aggregation-and-depthwise
+53,TSMEn,49.7,78.5,,,TSM: Temporal Shift Module for Efficient Video Understanding,/paper/temporal-shift-module-for-efficient-video
+54,TRG ,49.7,,,,Temporal Reasoning Graph for Activity Recognition,/paper/temporal-reasoning-graph-for-activity
+55,TRG ,49.5,86.1,,,Temporal Reasoning Graph for Activity Recognition,/paper/temporal-reasoning-graph-for-activity
+56,VoV3D-L ,49.5,78.0,,9.3,Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification,/paper/diverse-temporal-aggregation-and-depthwise
+57,ir-CSN-152,49.3,,,,Video Classification with Channel-Separated Convolutional Networks,/paper/video-classification-with-channel-separated
+58,RSTG ,49.2,,,,Recurrent Space-time Graph Neural Networks,/paper/recurrent-space-time-graphs-for-video
+59,ResNet50 I3D ,48.6,,,,Moments in Time Dataset: one million videos for event understanding,/paper/moments-in-time-dataset-one-million-videos
+60,ir-CSN-101,48.4,,,,Video Classification with Channel-Separated Convolutional Networks,/paper/video-classification-with-channel-separated
+61,S3D-G ,48.2,78.7,,,Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification,/paper/rethinking-spatiotemporal-feature-learning
+62,VoV3D-M ,48.1,76.9,,5.7,Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification,/paper/diverse-temporal-aggregation-and-depthwise
+63,S3D,47.3,78.1,,,Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification,/paper/rethinking-spatiotemporal-feature-learning
+64,TSM,47.2,77.1,,,TSM: Temporal Shift Module for Efficient Video Understanding,/paper/temporal-shift-module-for-efficient-video
+65,ECO-Net ,46.4,,,,ECO: Efficient Convolutional Network for Online Video Understanding,/paper/eco-efficient-convolutional-network-for
+66,ECO-Net,46.4,,,,ECO: Efficient Convolutional Network for Online Video Understanding,/paper/eco-efficient-convolutional-network-for
+67,NL I3D + GCN,46.1,,,,Videos as Space-Time Region Graphs,/paper/videos-as-space-time-region-graphs
+68,NL I3D,44.4,,,,Non-local Neural Networks,/paper/non-local-neural-networks
+69,Motion Feature Net,43.9,,,,Motion Feature Network: Fixed Motion Filter for Action Recognition,/paper/motion-feature-network-fixed-motion-filter
+70,2-Stream TRN,42.01,,,,Temporal Relational Reasoning in Videos,/paper/temporal-relational-reasoning-in-videos
+71,HF-TSN ,41.97,,,,Hierarchical Feature Aggregation Networks for Video Action Recognition,/paper/hierarchical-feature-aggregation-networks-for
+72,MARS+RGB+Flow ,40.4,,,,MARS: Motion-Augmented RGB Stream for Action Recognition,/paper/mars-motion-augmented-rgb-stream-for-action
+73,M-TRN,34.4,,,,Temporal Relational Reasoning in Videos,/paper/temporal-relational-reasoning-in-videos

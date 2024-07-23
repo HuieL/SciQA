@@ -1,0 +1,37 @@
+Rank,Model,Accuracy,Paper Title,Paper URL
+1,PT+MAP+SF+SOT ,89.94,The Self-Optimal-Transport Feature Transform,/paper/the-self-optimal-transport-feature-transform
+2,PEMnE-BMS*,88.44,Squeezing Backbone Feature Distributions to the Max for Efficient Few-Shot Learning,/paper/squeezing-backbone-feature-distributions-to
+3,LST+MAP,87.79,Transfer learning based few-shot classification using optimal transport mapping from preprocessed latent space of backbone neural network,/paper/transfer-learning-based-few-shot
+4,Illumination Augmentation,87.73,Sill-Net: Feature Augmentation with Separated Illumination Representation,/paper/sill-net-feature-augmentation-with-separated
+5,PT+MAP,87.69,Leveraging the Feature Distribution in Transfer-based Few-Shot Learning,/paper/leveraging-the-feature-distribution-in
+6,BAVARDAGE,87.35,Adaptive Dimension Reduction and Variational Inference for Transductive Few-Shot Classification,/paper/adaptive-dimension-reduction-and-variational
+7,EASY 3xResNet12 ,87.16,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+8,EASY 2xResNet12 1/√2 ,86.99,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+9,P>M>F ,84.3,Pushing the Limits of Simple Pipelines for Few-Shot Learning: External Data and Fine-Tuning Make a Difference,/paper/pushing-the-limits-of-simple-pipelines-for
+10,CAML [Laion-2b],83.3,Context-Aware Meta-Learning,/paper/context-aware-meta-learning
+11,pseudo-shots,81.87,Extended Few-Shot Learning: Exploiting Existing Resources for Novel Tasks,/paper/pseudo-shots-few-shot-learning-with-auxiliary
+12,SIB,80.0,Empirical Bayes Transductive Meta-Learning with Synthetic Gradients,/paper/empirical-bayes-transductive-meta-learning-1
+13,HCTransformers,78.89,Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning,/paper/attribute-surrogates-learning-and-spectral
+14,Adaptive Subspace Network,78.0,Adaptive Subspaces for Few-Shot Learning,/paper/adaptive-subspaces-for-few-shot-learning
+15,Invariance-Equivariance,77.87,Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning,/paper/exploring-complementary-strengths-of
+16,FewTURE,77.76,Rethinking Generalization in Few-Shot Classification,/paper/rethinking-generalization-in-few-shot-1
+17,R2-D2+Task Aug,77.66,Task Augmentation by Rotating for Meta-Learning,/paper/task-augmentation-by-rotating-for-meta
+18,SKD,76.9,Self-supervised Knowledge Distillation for Few-shot Learning,/paper/self-supervised-knowledge-distillation-for
+19,MetaOptNet-SVM+Task Aug,76.75,Task Augmentation by Rotating for Meta-Learning,/paper/task-augmentation-by-rotating-for-meta
+20,ICI,76.51,Instance Credibility Inference for Few-Shot Learning,/paper/instance-credibility-inference-for-few-shot
+21,EASY 3xResNet12 ,76.2,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+22,MetaQDA,75.83,Shallow Bayesian Meta Learning for Real-World Few-Shot Recognition,/paper/shallow-bayesian-meta-learning-for-real-world
+23,ConstellationNets,75.4,Constellation Nets for Few-Shot Learning,/paper/constellation-nets-for-few-shot-learning
+24,EASY 2xResNet12 1/√2 ,75.24,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+25,S2M2R,74.81,Charting the Right Manifold: Manifold Mixup for Few-shot Learning,/paper/charting-the-right-manifold-manifold-mixup
+26,MCRNet-SVM,74.7,Complementing Representation Deficiency in Few-shot Image Classification: A Meta-Learning Approach,/paper/complementing-representation-deficiency-in
+27,RENet,74.51,Relational Embedding for Few-Shot Classification,/paper/relational-embedding-for-few-shot
+28,SSFormers,74.5,Sparse Spatial Transformers for Few-Shot Learning,/paper/sparse-spatial-transformers-for-few-shot
+29,MCRNet-RR,73.8,Complementing Representation Deficiency in Few-shot Image Classification: A Meta-Learning Approach,/paper/complementing-representation-deficiency-in
+30,ACC + Amphibian,73.1,Generalized Adaptation for Few-Shot Learning,/paper/fast-and-generalized-adaptation-for-few-shot
+31,MetaOptNet-SVM-trainval,72.8,Meta-Learning with Differentiable Convex Optimization,/paper/meta-learning-with-differentiable-convex
+32,Multi-Task Learning,69.5,Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation,/paper/bridging-multi-task-learning-and-meta
+33,RCN - ResNet12,69.02,Region Comparison Network for Interpretable Few-shot Image Classification,/paper/region-comparison-network-for-interpretable
+34,MTUNet+WRN,68.34,Match Them Up: Visually Explainable Few-shot Image Classification,/paper/match-them-up-visually-explainable-few-shot
+35,MTUNet+ResNet-18,66.31,Match Them Up: Visually Explainable Few-shot Image Classification,/paper/match-them-up-visually-explainable-few-shot
+36,RCN - Conv4-64,61.61,Region Comparison Network for Interpretable Few-shot Image Classification,/paper/region-comparison-network-for-interpretable

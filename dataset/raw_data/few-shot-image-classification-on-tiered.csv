@@ -1,0 +1,49 @@
+Rank,Model,Accuracy,Paper Title,Paper URL
+1,CAML [Laion-2b],96.8,Context-Aware Meta-Learning,/paper/context-aware-meta-learning
+2,TRIDENT,86.97,Transductive Decoupled Variational Inference for Few-Shot Classification,/paper/transductive-decoupled-variational-inference
+3,PEMnE-BMS*,86.07,Squeezing Backbone Feature Distributions to the Max for Efficient Few-Shot Learning,/paper/squeezing-backbone-feature-distributions-to
+4,PT+MAP,85.41,Leveraging the Feature Distribution in Transfer-based Few-Shot Learning,/paper/leveraging-the-feature-distribution-in
+5,BAVARDAGE,85.2,Adaptive Dimension Reduction and Variational Inference for Transductive Few-Shot Classification,/paper/adaptive-dimension-reduction-and-variational
+6,EASY 3xResNet12 ,84.29,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+7,ICI,84.01,Instance Credibility Inference for Few-Shot Learning,/paper/instance-credibility-inference-for-few-shot
+8,ASY ResNet12 ,83.98,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+9,TIM-GD,82.1,Transductive Information Maximization For Few-Shot Learning,/paper/transductive-information-maximization-for-few
+10,BD-CSPN + ESFR ,81.77,Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classification,/paper/unsupervised-embedding-adaptation-via-early
+11,LaplacianShot,80.3,Laplacian Regularized Few-Shot Learning,/paper/laplacian-regularized-few-shot-learning
+12,BD-CSPN + ESFR ,80.13,Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classification,/paper/unsupervised-embedding-adaptation-via-early
+13,HCTransformers,79.67,Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning,/paper/attribute-surrogates-learning-and-spectral
+14,EPNet,78.5,Embedding Propagation: Smoother Manifold for Few-Shot Classification,/paper/embedding-propagation-smoother-manifold-for
+15,LST,77.7,Learning to Self-Train for Semi-Supervised Few-Shot Classification,/paper/190600562
+16,OSLO,76.64,Open-Set Likelihood Maximization for Few-Shot Learning,/paper/open-set-likelihood-maximization-for-few-shot
+17,pseudo-shots,76.55,Extended Few-Shot Learning: Exploiting Existing Resources for Novel Tasks,/paper/pseudo-shots-few-shot-learning-with-auxiliary
+18,FewTURE,76.32,Rethinking Generalization in Few-Shot Classification,/paper/rethinking-generalization-in-few-shot-1
+19,EASY 3xResNet12 ,74.71,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+20,MetaQDA,74.33,Shallow Bayesian Meta Learning for Real-World Few-Shot Recognition,/paper/shallow-bayesian-meta-learning-for-real-world
+21,ASY ResNet12 ,74.31,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+22,Transductive CNAPS + FETI,73.8,Enhancing Few-Shot Image Classification with Unlabelled Examples,/paper/improving-few-shot-visual-classification-with
+23,S2M2R,73.71,Charting the Right Manifold: Manifold Mixup for Few-shot Learning,/paper/charting-the-right-manifold-manifold-mixup
+24,ESPT,72.68,ESPT: A Self-Supervised Episodic Spatial Pretext Task for Improving Few-Shot Learning,/paper/espt-a-self-supervised-episodic-spatial
+25,SSFormers,72.52,Sparse Spatial Transformers for Few-Shot Learning,/paper/sparse-spatial-transformers-for-few-shot
+26,Invariance-Equivariance,72.21,Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning,/paper/exploring-complementary-strengths-of
+27,SKD,72.03,Self-supervised Knowledge Distillation for Few-shot Learning,/paper/self-supervised-knowledge-distillation-for
+28,RENet,71.61,Relational Embedding for Few-Shot Classification,/paper/relational-embedding-for-few-shot
+29,Simple CNAPS + FETI,71.4,Improved Few-Shot Visual Classification,/paper/improved-few-shot-visual-classification
+30,SImPa,70.82,PAC-Bayes meta-learning with implicit task-specific posteriors,/paper/pac-bayesian-meta-learning-with-implicit
+31,DiffKendall ,70.76,DiffKendall: A Novel Approach for Few-Shot Learning with Differentiable Kendall's Rank Correlation,/paper/diffkendall-a-novel-approach-for-few-shot
+32,VAMPIRE,69.87,Uncertainty in Model-Agnostic Meta-Learning using Variational Inference,/paper/uncertainty-in-model-agnostic-meta-learning
+33,UniSiam,69.6,Self-Supervision Can Be a Good Few-Shot Learner,/paper/self-supervision-can-be-a-good-few-shot
+34,DAPNA,69.14,Few-Shot Learning as Domain Adaptation: Algorithm and Analysis,/paper/few-shot-learning-as-domain-adaptation
+35,AM3-TADAM,69.08,Adaptive Cross-Modal Few-Shot Learning,/paper/adaptive-cross-modal-few-shot-learning
+36,Deep Comparison Network,68.83,RelationNet2: Deep Comparison Columns for Few-Shot Learning,/paper/deep-comparison-relation-columns-for-few-shot
+37,ACC + Amphibian,68.77,Generalized Adaptation for Few-Shot Learning,/paper/fast-and-generalized-adaptation-for-few-shot
+38,Adaptive Subspace Network,68.44,Adaptive Subspaces for Few-Shot Learning,/paper/adaptive-subspaces-for-few-shot-learning
+39,MetaFun-Attention,67.72,MetaFun: Meta-Learning with Iterative Functional Updates,/paper/metafun-meta-learning-with-iterative
+40,Multi-Task Learning,67.11,Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation,/paper/bridging-multi-task-learning-and-meta
+41,Transductive CNAPS,65.9,Enhancing Few-Shot Image Classification with Unlabelled Examples,/paper/improving-few-shot-visual-classification-with
+42,MetaOptNet-SVM-trainval,65.81,Meta-Learning with Differentiable Convex Optimization,/paper/meta-learning-with-differentiable-convex
+43,TapNet,63.08,TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Learning,/paper/tapnet-neural-network-augmented-with-task
+44,Simple CNAPS,63.0,Improved Few-Shot Visual Classification,/paper/improved-few-shot-visual-classification
+45,MTUNet+WRN,62.42,Match Them Up: Visually Explainable Few-shot Image Classification,/paper/match-them-up-visually-explainable-few-shot
+46,MTUNet+ResNet-18,61.27,Match Them Up: Visually Explainable Few-shot Image Classification,/paper/match-them-up-visually-explainable-few-shot
+47,GAP,57.6,Meta-Learning with a Geometry-Adaptive Preconditioner,/paper/meta-learning-with-a-geometry-adaptive
+48,Approximate GAP,56.86,Meta-Learning with a Geometry-Adaptive Preconditioner,/paper/meta-learning-with-a-geometry-adaptive

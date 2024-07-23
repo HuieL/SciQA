@@ -1,0 +1,104 @@
+Rank,Model,Mean IoU (class),Category mIoU,Paper Title,Paper URL
+1,VLTSeg,86.4,,VLTSeg: Simple Transfer of CLIP-Based Vision-Language Representations for Domain Generalized Semantic Segmentation,/paper/vltseg-simple-transfer-of-clip-based-vision
+2,MetaPrompt-SD,86.2,,Harnessing Diffusion Models for Visual Perception with Meta Prompts,/paper/harnessing-diffusion-models-for-visual
+3,InternImage-H,86.1,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+4,HS3-Fuse,85.8,,HS3: Learning with Proper Task Complexity in Hierarchically Supervised Semantic Segmentation,/paper/hs3-learning-with-proper-task-complexity-in
+5,InverseForm,85.6,,InverseForm: A Loss Function for Structured Boundary-Aware Segmentation,/paper/inverseform-a-loss-function-for-structured
+6,ViT-Adapter-L ,85.2,,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+7,SERNet-Former,84.83,,SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks,/paper/sernet-former-semantic-segmentation-by
+8,Depth Anything,84.8,,Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data,/paper/depth-anything-unleashing-the-power-of-large
+9,HRNetV2 + OCR +,84.5,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+10,EfficientPS,84.21,,EfficientPS: Efficient Panoptic Segmentation,/paper/efficientps-efficient-panoptic-segmentation
+11,Panoptic-DeepLab,84.2,,"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation",/paper/panoptic-deeplab-a-simple-strong-and-fast
+12,HRNetV2 + OCR ,83.7,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+13,DCNAS,83.6,,DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation,/paper/dcnas-densely-connected-neural-architecture
+14,Euclidean Frank-Wolfe CRFs ,83.6,,Regularized Frank-Wolfe for Dense CRFs: Generalizing Mean Field and Beyond,/paper/regularized-frank-wolfe-for-dense-crfs
+15,GALDNet,83.3,,Global Aggregation then Local Distribution in Fully Convolutional Networks,/paper/global-aggregation-then-local-distribution-in
+16,ResNeSt200 ,83.3,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+17,HANet ,83.2,,Cars Can't Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks,/paper/cars-cant-fly-up-in-the-sky-improving-urban
+18,kMaX-DeepLab ,83.2,,kMaX-DeepLab: k-means Mask Transformer,/paper/k-means-mask-transformer
+19,SegFormer ,83.1,,SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers,/paper/segformer-simple-and-efficient-design-for
+20,OCR ,83.0,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+21,MRFM,83.0,,Multi Receptive Field Network for Semantic Segmentation,/paper/multi-receptive-field-network-for-semantic
+22,DNL ,83.0,,Disentangled Non-Local Neural Networks,/paper/disentangled-non-local-neural-networks
+23,DRAN,82.9,,Scene Segmentation with Dual Relation-aware Attention Network,/paper/scene-segmentation-with-dual-relation-aware
+24,Gated-SCNN,82.8,,Gated-SCNN: Gated Shape CNNs for Semantic Segmentation,/paper/gated-scnn-gated-shape-cnns-for-semantic
+25,Dense Prediction Cell,82.7,,Searching for Efficient Multi-Scale Architectures for Dense Image Prediction,/paper/searching-for-efficient-multi-scale
+26,CAA ,82.6,,Channelized Axial Attention for Semantic Segmentation -- Considering Channel Relation within Spatial Attention for Semantic Segmentation,/paper/caa-channelized-axial-attention-for-semantic
+27,OCR ,82.4,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+28,DDRNet-39 1.5x,82.4,,Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Road Scenes,/paper/deep-dual-resolution-networks-for-real-time
+29,SSMA,82.3,,Self-Supervised Model Adaptation for Multimodal Semantic Segmentation,/paper/self-supervised-model-adaptation-for
+30,Gated Fully Fusion,82.3,,GFF: Gated Fully Fusion for Semantic Segmentation,/paper/gff-gated-fully-fusion-for-semantic
+31,Auto-DeepLab-L,82.1,,Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation,/paper/auto-deeplab-hierarchical-neural-architecture
+32,DGCNet ,82.0,,Dual Graph Convolutional Network for Semantic Segmentation,/paper/dual-graph-convolutional-network-for-semantic
+33,SPNet ,82.0,,Strip Pooling: Rethinking Spatial Pooling for Scene Parsing,/paper/2003-13328
+34,OCR ,81.8,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+35,OCNet,81.7,,OCNet: Object Context Network for Scene Parsing,/paper/ocnet-object-context-network-for-scene
+36,SETR-PUP++,81.64,,Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers,/paper/rethinking-semantic-segmentation-from-a
+37,HRNet ,81.6,,High-Resolution Representations for Labeling Pixels and Regions,/paper/high-resolution-representations-for-labeling
+38,HRNetV2 ,81.6,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+39,DANet ,81.5,,Dual Attention Network for Scene Segmentation,/paper/dual-attention-network-for-scene-segmentation
+40,CCNet,81.4,,CCNet: Criss-Cross Attention for Semantic Segmentation,/paper/ccnet-criss-cross-attention-for-semantic
+41,BFP,81.4,,Boundary-Aware Feature Propagation for Scene Segmentation,/paper/boundary-aware-feature-propagation-for-scene
+42,DeepLabv3 ,81.3,,Rethinking Atrous Convolution for Semantic Image Segmentation,/paper/rethinking-atrous-convolution-for-semantic
+43,CPN,81.3,,Context Prior for Scene Segmentation,/paper/context-prior-for-scene-segmentation
+44,Asymmetric ALNN,81.3,,Asymmetric Non-local Neural Networks for Semantic Segmentation,/paper/asymmetric-non-local-neural-networks-for
+45,AdapNet++,81.24,,Self-Supervised Model Adaptation for Multimodal Semantic Segmentation,/paper/self-supervised-model-adaptation-for
+46,SVCNet ,81.0,,Semantic Correlation Promoted Shape-Variant Context for Segmentation,/paper/semantic-correlation-promoted-shape-variant-1
+47,D3Net-L,80.8,,Densely connected multidilated convolutional networks for dense prediction tasks,/paper/densely-connected-multidilated-convolutional
+48,DenseASPP ,80.6,,DenseASPP for Semantic Segmentation in Street Scenes,/paper/denseaspp-for-semantic-segmentation-in-street
+49,Smooth Network with Channel Attention Block,80.3,,Learning a Discriminative Feature Network for Semantic Segmentation,/paper/learning-a-discriminative-feature-network-for
+50,PSPNet++,80.2,,Pyramid Scene Parsing Network,/paper/pyramid-scene-parsing-network
+51,PSANet ,80.1,,PSANet: Point-wise Spatial Attention Network for Scene Parsing,/paper/psanet-point-wise-spatial-attention-network
+52,ESANet-R34-NBt1D,80.09,,Efficient RGB-D Semantic Segmentation for Indoor Scene Analysis,/paper/efficient-rgb-d-semantic-segmentation-for
+53,DeepLabV3 with R-101,79.9,,Resolution-Aware Design of Atrous Rates for Semantic Segmentation Networks,/paper/resolution-aware-design-of-atrous-rates-for
+54,DFN ,79.3,,Learning a Discriminative Feature Network for Semantic Segmentation,/paper/learning-a-discriminative-feature-network-for
+55,AAF ,79.1,,Adaptive Affinity Fields for Semantic Segmentation,/paper/adaptive-affinity-fields-for-semantic
+56,ShelfNet-34,79.0,,ShelfNet for Fast Semantic Segmentation,/paper/multi-path-segmentation-network
+57,BiSeNet ,78.9,,BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation,/paper/bisenet-bilateral-segmentation-network-for
+58,ResNet-38,78.4,,Wider or Deeper: Revisiting the ResNet Model for Visual Recognition,/paper/wider-or-deeper-revisiting-the-resnet-model
+59,PSPNet,78.4,,Pyramid Scene Parsing Network,/paper/pyramid-scene-parsing-network
+60,DepthSeg ,78.2,,Recurrent Scene Parsing with Perspective Understanding in the Loop,/paper/recurrent-scene-parsing-with-perspective
+61,DSSPN ,77.8,,Dynamic-structured Semantic Propagation Network,/paper/dynamic-structured-semantic-propagation
+62,DUC-HDC ,77.6,,Understanding Convolution for Semantic Segmentation,/paper/understanding-convolution-for-semantic
+63,SaGe,76.9,,Semantic-Aware Generation for Self-Supervised Visual Representation Learning,/paper/semantic-aware-generation-for-self-supervised
+64,SwiftNetRN-18,75.5,,In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images,/paper/in-defense-of-pre-trained-imagenet
+65,RefineNet ,73.6,,RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation,/paper/refinenet-multi-path-refinement-networks-for
+66,MobileNet V3-Large 1.0,72.6,,Searching for MobileNetV3,/paper/searching-for-mobilenetv3
+67,SqueezeNAS ,72.5,,SqueezeNAS: Fast neural architecture search for faster semantic segmentation,/paper/squeezenas-fast-neural-architecture-search
+68,Multi Scale Spatial Attention,72.4,,Semantic Segmentation With Multi Scale Spatial Attention For Self Driving Cars,/paper/semantic-segmentation-with-multi-scale
+69,FRRN,71.8,,Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes,/paper/full-resolution-residual-networks-for
+70,LRR-4x,71.8,,Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation,/paper/laplacian-pyramid-reconstruction-and
+71,Context,71.6,,Efficient piecewise training of deep structured models for semantic segmentation,/paper/efficient-piecewise-training-of-deep
+72,FasterSeg,71.5,,FasterSeg: Searching for Faster Real-time Semantic Segmentation,/paper/fasterseg-searching-for-faster-real-time-1
+73,DFANet A,71.3,,DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation,/paper/dfanet-deep-feature-aggregation-for-real-time
+74,LDFNet,71.3,,"Incorporating Luminance, Depth and Color Information by a Fusion-based Network for Semantic Segmentation",/paper/incorporating-luminance-depth-and-color
+75,LightSeg-DarkNet19,70.75,88.29,LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation,/paper/liteseg-a-novel-lightweight-convnet-for
+76,ESNet,70.7,,ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation,/paper/esnet-an-efficient-symmetric-network-for-real
+77,ICNet,70.6,,ICNet for Real-Time Semantic Segmentation on High-Resolution Images,/paper/icnet-for-real-time-semantic-segmentation-on
+78,LEDNet,70.6,,LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation,/paper/lednet-a-lightweight-encoder-decoder-network
+79,WASPnet ,70.5,,Waterfall Atrous Spatial Pooling Architecture for Efficient Semantic Segmentation,/paper/waterfall-atrous-spatial-pooling-architecture
+80,DeepLab-CRF ,70.4,,"DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs",/paper/deeplab-semantic-image-segmentation-with-deep
+81,ERFNet ,69.8,,ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation,/paper/erfnet-efficient-residual-factorized-convnet
+82,Fast-SCNN,68.0,,Fast-SCNN: Fast Semantic Segmentation Network,/paper/fast-scnn-fast-semantic-segmentation-network
+83,LightSeg-MobileNet,67.81,86.79,LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation,/paper/liteseg-a-novel-lightweight-convnet-for
+84,LiteSeg-MobileNet,67.81,,LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation,/paper/liteseg-a-novel-lightweight-convnet-for
+85,Template-Based NAS-arch1,67.8,,Template-Based Automatic Search of Compact Semantic Segmentation Architectures,/paper/template-based-automatic-search-of-compact
+86,Template-Based NAS-arch0,67.7,,Template-Based Automatic Search of Compact Semantic Segmentation Architectures,/paper/template-based-automatic-search-of-compact
+87,EDANet,67.3,,Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation,/paper/efficient-dense-modules-of-asymmetric
+88,Dilation10,67.1,,Multi-Scale Context Aggregation by Dilated Convolutions,/paper/multi-scale-context-aggregation-by-dilated
+89,DPN,66.8,,Semantic Image Segmentation via Deep Parsing Network,/paper/semantic-image-segmentation-via-deep-parsing
+90,SqueezeNAS ,66.8,,SqueezeNAS: Fast neural architecture search for faster semantic segmentation,/paper/squeezenas-fast-neural-architecture-search
+91,SINet,66.5,,SINet: Extreme Lightweight Portrait Segmentation Networks with Spatial Squeeze Modules and Information Blocking Decoder,/paper/sinet-extreme-lightweight-portrait
+92,ESPNetv2,66.2,,"ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network",/paper/espnetv2-a-light-weight-power-efficient-and
+93,FCN,65.3,,Fully Convolutional Networks for Semantic Segmentation,/paper/fully-convolutional-networks-for-semantic
+94,LightSeg-ShuffleNet,65.17,85.39,LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation,/paper/liteseg-a-novel-lightweight-convnet-for
+95,LiteSeg-ShuffleNet,65.17,,LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation,/paper/liteseg-a-novel-lightweight-convnet-for
+96,DeepLab,63.1,,Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs,/paper/semantic-image-segmentation-with-deep
+97,ENet + Lovász-Softmax,63.06,,The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks,/paper/the-lovasz-softmax-loss-a-tractable-surrogate
+98,ESPNet,60.3,,ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation,/paper/espnet-efficient-spatial-pyramid-of-dilated
+99,ENet,58.3,,ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation,/paper/enet-a-deep-neural-network-architecture-for
+100,SegNet,57.0,,SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation,/paper/segnet-a-deep-convolutional-encoder-decoder
+101,IkshanaNet-1,54.82,82.22,The Ikshana Hypothesis of Human Scene Understanding,/paper/ikshana-a-theory-of-human-scene-understanding
+102,IkshanaNet-2,45.02,76.73,The Ikshana Hypothesis of Human Scene Understanding,/paper/ikshana-a-theory-of-human-scene-understanding
+103,IkshanaNet-3,42.07,75.61,The Ikshana Hypothesis of Human Scene Understanding,/paper/ikshana-a-theory-of-human-scene-understanding

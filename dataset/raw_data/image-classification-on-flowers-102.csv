@@ -1,0 +1,51 @@
+Rank,Model,Accuracy,FLOPS,PARAMS,Per-Class Accuracy,Paper Title,Paper URL
+1,CCT-14/7x2,99.76,,,,Escaping the Big Data Paradigm with Compact Transformers,/paper/escaping-the-big-data-paradigm-with-compact
+2,VIT-L/16 ,99.75,,,,Reduction of Class Activation Uncertainty with Background Information,/paper/reduction-of-class-activation-uncertainty
+3,CvT-W24,99.72,,,,CvT: Introducing Convolutions to Vision Transformers,/paper/cvt-introducing-convolutions-to-vision
+4,Bamboo ,99.7,,,,Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy,/paper/bamboo-building-mega-scale-vision-dataset
+5,EffNet-L2 ,99.65,,,,Sharpness-Aware Minimization for Efficiently Improving Generalization,/paper/sharpness-aware-minimization-for-efficiently-1
+6,ALIGN,99.65,,,,Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision,/paper/scaling-up-visual-and-vision-language
+7,BiT-L ,99.63,,,,Big Transfer (BiT): General Visual Representation Learning,/paper/large-scale-learning-of-general-visual
+8,ConvMLP-S,99.5,,,,ConvMLP: Hierarchical Convolutional MLPs for Vision,/paper/convmlp-hierarchical-convolutional-mlps-for
+9,ConvMLP-L,99.5,,,,ConvMLP: Hierarchical Convolutional MLPs for Vision,/paper/convmlp-hierarchical-convolutional-mlps-for
+10,ResNet-152x4-AGC ,99.49,,,,Effect of Pre-Training Scale on Intra- and Inter-Domain Full and Few-Shot Transfer Learning for Natural and Medical X-Ray Chest Images,/paper/effect-of-large-scale-pre-training-on-full
+11,BiT-M ,99.3,,,,Big Transfer (BiT): General Visual Representation Learning,/paper/large-scale-learning-of-general-visual
+12,Wide-ResNet-101 ,99.3,,,,SpinalNet: Deep Neural Network with Gradual Input,/paper/spinalnet-deep-neural-network-with-gradual-1
+13,TResNet-L,99.1,,,,TResNet: High Performance GPU-Dedicated Architecture,/paper/tresnet-high-performance-gpu-dedicated
+14,Grafit ,99.1,,,,Grafit: Learning fine-grained image representations with coarse labels,/paper/grafit-learning-fine-grained-image
+15,CaiT-M-36 U 224,99.1,,,,Going deeper with Image Transformers,/paper/going-deeper-with-image-transformers
+16,DAT,98.9,,,,Domain Adaptive Transfer Learning on Visual Attention Aware Data Augmentation for Fine-grained Visual Categorization,/paper/domain-adaptive-transfer-learning-on-visual
+17,EfficientNet-B7,98.8,,,,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,/paper/efficientnet-rethinking-model-scaling-for
+18,EfficientNetV2-L,98.8,,,,EfficientNetV2: Smaller Models and Faster Training,/paper/efficientnetv2-smaller-models-and-faster
+19,GFNet-H-B,98.8,,54000000.0,,Global Filter Networks for Image Classification,/paper/global-filter-networks-for-image
+20,DeiT-B,98.8,,86000000.0,,Training data-efficient image transformers & distillation through attention,/paper/training-data-efficient-image-transformers
+21,CeiT-S ,98.6,,,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+22,EfficientNetV2-M,98.5,,,,EfficientNetV2: Smaller Models and Faster Training,/paper/efficientnetv2-smaller-models-and-faster
+23,ViT-B ,98.5,,,,Three things everyone should know about Vision Transformers,/paper/three-things-everyone-should-know-about
+24,LeViT-384,98.3,,,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+25,NAT-M4,98.3,400000000.0,4200000.0,,Neural Architecture Transfer,/paper/neural-architecture-transfer
+26,ResNet-50x1-ACG ,98.21,,,,Effect of Pre-Training Scale on Intra- and Inter-Domain Full and Few-Shot Transfer Learning for Natural and Medical X-Ray Chest Images,/paper/effect-of-large-scale-pre-training-on-full
+27,CeiT-S,98.2,,,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+28,NAT-M3,98.1,250000000.0,3700000.0,,Neural Architecture Transfer,/paper/neural-architecture-transfer
+29,ResNet50 ,97.9,4.1,25000000.0,,ResNet strikes back: An improved training procedure in timm,/paper/resnet-strikes-back-an-improved-training
+30,EfficientNetV2-S,97.9,,,,EfficientNetV2: Smaller Models and Faster Training,/paper/efficientnetv2-smaller-models-and-faster
+31,ResMLP24,97.9,,,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+32,NAT-M2,97.9,195000000.0,3400000.0,,Neural Architecture Transfer,/paper/neural-architecture-transfer
+33,TransBoost-ResNet50,97.85,,,,TransBoost: Improving the Best ImageNet Performance using Deep Transduction,/paper/transboost-improving-the-best-imagenet
+34,CeiT-T ,97.8,,,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+35,LeViT-192,97.8,,,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+36,LeViT-256,97.7,,,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+37,ResMLP12,97.4,,,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+38,CS-Parts,96.9,,,,Classification-Specific Parts for Improving Fine-Grained Visual Categorization,/paper/classification-specific-parts-for-improving
+39,CeiT-T,96.9,,,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+40,LeViT-128S,96.8,,,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+41,SEER ,96.3,,,,Vision Models Are More Robust And Fair When Pretrained On Uncurated Images Without Supervision,/paper/vision-models-are-more-robust-and-fair-when
+42,NNCLR,95.1,,,,With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations,/paper/with-a-little-help-from-my-friends-nearest
+43,ViT-B/16- SAM,91.8,,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+44,ViT-S/16- SAM,91.5,,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+45,ResNet-152-SAM,91.1,,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+46,ResNet-50-SAM,90.0,,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+47,Mixer-B/16- SAM,90.0,,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+48,Mixer-S/16- SAM,87.9,,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+49,Diffusion Classifier ,,,,66.3,Your Diffusion Model is Secretly a Zero-Shot Classifier,/paper/your-diffusion-model-is-secretly-a-zero-shot
+50,NAT-M1,,152000000.0,3300000.0,,Neural Architecture Transfer,/paper/neural-architecture-transfer

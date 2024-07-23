@@ -1,0 +1,27 @@
+Rank,Model,Accuracy,Paper Title,Paper URL
+1,RCL,90.0,Empowering Source-Free Domain Adaptation with MLLM-driven Curriculum Learning,/paper/empowering-source-free-domain-adaptation-with
+2,SKD,89.2,Combining inherent knowledge of vision-language models with unsupervised domain adaptation through self-knowledge distillation,/paper/combining-inherent-knowledge-of-vision
+3,PMTrans,89.0,Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective,/paper/patch-mix-transformer-for-unsupervised-domain
+4,CMKD,89.0,Unsupervised Domain Adaption Harnessing Vision-Language Pre-training,/paper/unsupervised-domain-adaption-harnessing
+5,MIC,86.2,MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation,/paper/mic-masked-image-consistency-for-context
+6,ELS,84.6,Free Lunch for Domain Adversarial Training: Environment Label Smoothing,/paper/free-lunch-for-domain-adversarial-training-1
+7,SDAT ,84.3,A Closer Look at Smoothness in Domain Adversarial Training,/paper/a-closer-look-at-smoothness-in-domain-1
+8,CDTrans ,80.5,CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation,/paper/cdtrans-cross-domain-transformer-for
+9,PCL,74.5,Probabilistic Contrastive Learning for Domain Adaptation,/paper/semantic-aware-representation-learning-via-1
+10,EvoADA,73.9,On Evolving Attention Towards Domain Adaptation,/paper/on-evolving-attention-towards-domain
+11,GSDE,73.6,Gradual Source Domain Expansion for Unsupervised Domain Adaptation,/paper/gradual-source-domain-expansion-for
+12,CoVi,73.1,Contrastive Vicinal Space for Unsupervised Domain Adaptation,/paper/contrastive-vicinal-space-for-unsupervised
+13,FixBi,72.7,FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation,/paper/fixbi-bridging-domain-spaces-for-unsupervised
+14,MCC+NWD,72.6,Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation,/paper/reusing-the-task-specific-classifier-as-a
+15,SENTRY ,72.2,SENTRY: Selective Entropy Optimization via Committee Consistency for Unsupervised Domain Adaptation,/paper/sentry-selective-entropy-optimization-via
+16,SHOT,71.8,Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation,/paper/do-we-really-need-to-access-the-source-data
+17,CPGA,71.6,Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation,/paper/source-free-domain-adaptation-via-avatar
+18,BIWAA,71.5,Backprop Induced Feature Weighting for Adversarial Domain Adaptation with Iterative Label Distribution Alignment,/paper/backprop-induced-feature-weighting-for
+19,SPL,71.0,Unsupervised Domain Adaptation via Structured Prediction Based Selective Pseudo-Labeling,/paper/unsupervised-domain-adaptation-via-structured
+20,CADA,70.2,Attending to Discriminative Certainty for Domain Adaptation,/paper/attending-to-discriminative-certainty-for-1
+21,DAOD,69.8,Open Set Domain Adaptation: Theoretical Bound and Algorithm,/paper/open-set-domain-adaptation-theoretical-bound
+22,MEDM,69.5,Entropy Minimization vs. Diversity Maximization for Domain Adaptation,/paper/entropy-minimization-vs-diversity
+23,ASAN,68.6,Bridging Adversarial and Statistical Domain Transfer via Spectral Adaptation Networks,/paper/bridging-adversarial-and-statistical-domain
+24,MEDA ,67.6,Transfer Learning with Dynamic Distribution Adaptation,/paper/transfer-learning-with-dynamic-distribution
+25,IDDA,49.46,Looking back at Labels: A Class based Domain Adaptation Technique,/paper/looking-back-at-labels-a-class-based-domain
+26,CAADA,48.19,Correlation-aware Adversarial Domain Adaptation and Generalization,/paper/correlation-aware-adversarial-domain

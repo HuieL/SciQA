@@ -1,0 +1,26 @@
+Rank,Model,Accuracy (mean),Paper Title,Paper URL
+1,ProMix,97.39,ProMix: Combating Label Noise via Maximizing Clean Sample Utility,/paper/promix-combating-label-noise-via-maximizing
+2,PGDF,96.11,Sample Prior Guided Robust Model Learning to Suppress Noisy Labels,/paper/sample-prior-guided-robust-model-learning-to
+3,SOP+,95.61,Robust Training under Label Noise by Over-parameterization,/paper/robust-training-under-label-noise-by-over
+4,ILL,95.47,Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations,/paper/imprecise-label-learning-a-unified-framework
+5,CORES*,95.25,Learning with Instance-Dependent Label Noise: A Sample Sieve Approach,/paper/learning-with-instance-dependent-label-noise-1
+6,Divide-Mix,95.01,DivideMix: Learning with Noisy Labels as Semi-supervised Learning,/paper/dividemix-learning-with-noisy-labels-as-semi-1
+7,ELR+,94.83,Early-Learning Regularization Prevents Memorization of Noisy Labels,/paper/early-learning-regularization-prevents
+8,PES ,94.66,Understanding and Improving Early Stopping for Learning with Noisy Labels,/paper/understanding-and-improving-early-stopping
+9,GNL,92.57,Partial Label Supervision for Agnostic Generative Noisy Label Learning,/paper/generative-noisy-label-learning-by-implicit
+10,ELR,92.38,Early-Learning Regularization Prevents Memorization of Noisy Labels,/paper/early-learning-regularization-prevents
+11,CAL,91.97,Clusterability as an Alternative to Anchor Points When Learning with Noisy Labels,/paper/clusterability-as-an-alternative-to-anchor
+12,Negative-LS,91.97,To Smooth or Not? When Label Smoothing Meets Noisy Labels,/paper/understanding-generalized-label-smoothing
+13,F-div,91.64,When Optimizing $f$-divergence is Robust with Label Noise,/paper/when-optimizing-f-divergence-is-robust-with-1
+14,Positive-LS,91.57,Does label smoothing mitigate label noise?,/paper/does-label-smoothing-mitigate-label-noise
+15,JoCoR,91.44,Combating noisy labels by agreement: A joint training method with co-regularization,/paper/combating-noisy-labels-by-agreement-a-joint
+16,CORES,91.23,Learning with Instance-Dependent Label Noise: A Sample Sieve Approach,/paper/learning-with-instance-dependent-label-noise-1
+17,Co-Teaching,91.2,Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels,/paper/co-teaching-robust-training-of-deep-neural
+18,Peer Loss,90.75,Peer Loss Functions: Learning from Noisy Labels without Knowing Noise Rates,/paper/peer-loss-functions-learning-from-noisy
+19,Co-Teaching+,90.61,How does Disagreement Help Generalization against Label Corruption?,/paper/how-does-disagreement-help-generalization
+20,VolMinNet,89.7,Provably End-to-end Label-Noise Learning without Anchor Points,/paper/provably-end-to-end-label-noise-learning
+21,T-Revision,88.52,Are Anchor Points Really Indispensable in Label-Noise Learning?,/paper/190600189
+22,Forward-T,88.24,Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach,/paper/making-deep-neural-networks-robust-to-label
+23,Backward-T,88.13,Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach,/paper/making-deep-neural-networks-robust-to-label
+24,GCE,87.85,Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels,/paper/generalized-cross-entropy-loss-for-training
+25,CE,87.77,,

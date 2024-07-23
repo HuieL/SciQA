@@ -1,0 +1,92 @@
+Rank,Model,mIoU,FPS,Validation mIoU,Paper Title,Paper URL
+1,SERNet-Former,87.35,,87.35,SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks,/paper/sernet-former-semantic-segmentation-by
+2,MetaPrompt-SD,87.1,,,Harnessing Diffusion Models for Visual Perception with Meta Prompts,/paper/harnessing-diffusion-models-for-visual
+3,InternImage-H,87.0,,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+4,HRNetV2-OCR+PSA,86.93,,,Polarized Self-Attention: Towards High-quality Pixel-wise Regression,/paper/polarized-self-attention-towards-high-quality-1
+5,InternImage-XL,86.4,,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+6,HRNet-OCR,86.3,,,Hierarchical Multi-Scale Attention for Semantic Segmentation,/paper/hierarchical-multi-scale-attention-for
+7,Depth Anything,86.2,,,Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data,/paper/depth-anything-unleashing-the-power-of-large
+8,OneFormer ,85.8,,,OneFormer: One Transformer to Rule Universal Image Segmentation,/paper/oneformer-one-transformer-to-rule-universal
+9,ViT-Adapter-L,85.8,,,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+10,SeMask ,84.98,,,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+11,Sequential Ensemble ,84.8,,,Sequential Ensembling for Semantic Segmentation,/paper/sequential-ensembling-for-semantic
+12,Soft Labells ,84.8,,,Soft labelling for semantic segmentation: Bringing coherence to label down-sampling,/paper/soft-labelling-for-semantic-segmentation
+13,OneFormer ,84.6,,,OneFormer: One Transformer to Rule Universal Image Segmentation,/paper/oneformer-one-transformer-to-rule-universal
+14,DiNAT-L ,84.5,,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+15,OneFormer ,84.4,,,OneFormer: One Transformer to Rule Universal Image Segmentation,/paper/oneformer-one-transformer-to-rule-universal
+16,VOLO-D4 ,84.3,,,VOLO: Vision Outlooker for Visual Recognition,/paper/volo-vision-outlooker-for-visual-recognition
+17,Mask2Former ,84.3,,,Masked-attention Mask Transformer for Universal Image Segmentation,/paper/masked-attention-mask-transformer-for
+18,SegFormer ,84.0,,,SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers,/paper/segformer-simple-and-efficient-design-for
+19,DDP ,83.9,,,DDP: Diffusion Model for Dense Visual Prediction,/paper/ddp-diffusion-model-for-dense-visual
+20,HRNetV2 + OCR + RMI ,83.6,,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+21,PatchDiverse + Swin-L ,83.6,,,Vision Transformers with Patch Diversification,/paper/improve-vision-transformers-training-by
+22,SynBoost,83.5,,,Pixel-wise Anomaly Detection in Complex Driving Scenes,/paper/pixel-wise-anomaly-detection-in-complex
+23,HRNetV2+OCR+CBL,83.4,,,Conditional Boundary Loss for Semantic Segmentation,/paper/conditional-boundary-loss-for-semantic
+24,EfficientViT-B3 ,83.2,,,EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction,/paper/efficientvit-enhanced-linear-attention-for
+25,HRViT-b3 ,83.16,,,Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation,/paper/hrvit-multi-scale-high-resolution-vision
+26,SpineNet-S143+ ,83.04,,,Dilated SpineNet for Semantic Segmentation,/paper/dilated-spinenet-for-semantic-segmentation
+27,HRViT-b2 ,82.81,,,Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation,/paper/hrvit-multi-scale-high-resolution-vision
+28,FAN-L-Hybrid+STL,82.8,,,Fully Attentional Networks with Self-emerging Token Labeling,/paper/fully-attentional-networks-with-self-emerging-1
+29,ResNeSt-200,82.7,,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+30,WaveMix,82.7,,,WaveMix: A Resource-efficient Neural Network for Image Analysis,/paper/wavemix-lite-a-resource-efficient-neural
+31,CMX ,82.6,,,CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers,/paper/cmx-cross-modal-fusion-for-rgb-x-semantic
+32,WaveMix-256/16 ,82.6,,,WaveMix: A Resource-efficient Neural Network for Image Analysis,/paper/wavemix-lite-a-resource-efficient-neural
+33,FAN-L-Hybrid,82.3,,,Understanding The Robustness in Vision Transformers,/paper/understanding-the-robustness-in-vision
+34,SETR-PUP ,82.15,,,Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers,/paper/rethinking-semantic-segmentation-from-a
+35,DSNet-Base,82.0,,,DSNet: A Novel Way to Use Atrous Convolutions in Semantic Segmentation,/paper/dsnet-a-novel-way-to-use-atrous-convolutions
+36,EANet,81.7,,,Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks,/paper/beyond-self-attention-external-attention
+37,HRViT-b1 ,81.63,,,Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation,/paper/hrvit-multi-scale-high-resolution-vision
+38,CMX ,81.6,,,CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers,/paper/cmx-cross-modal-fusion-for-rgb-x-semantic
+39,Trans4Trans,81.54,,,Trans4Trans: Efficient Transformer for Transparent Object and Semantic Scene Segmentation in Real-World Navigation Assistance,/paper/trans4trans-efficient-transformer-for-1
+40,Panoptic-DeepLab,81.5,,,"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation",/paper/panoptic-deeplab-a-simple-strong-and-fast
+41,Soft Labells ,81.5,,,,
+42,HRNetV2 ,81.1,,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+43,Trans4PASS ,81.1,,,Bending Reality: Distortion-aware Transformers for Adapting to Panoramic Semantic Segmentation,/paper/bending-reality-distortion-aware-transformers
+44,OCR ,80.6,,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+45,RepVGG-B2,80.57,,,RepVGG: Making VGG-style ConvNets Great Again,/paper/repvgg-making-vgg-style-convnets-great-again
+46,DSNet,80.4,81.9,,DSNet: A Novel Way to Use Atrous Convolutions in Semantic Segmentation,/paper/dsnet-a-novel-way-to-use-atrous-convolutions
+47,SeMask ,80.39,,,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+48,Auto-DeepLab-L,80.33,,,Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation,/paper/auto-deeplab-hierarchical-neural-architecture
+49,SML,80.33,,,Standardized Max Logits: A Simple yet Effective Approach for Identifying Unexpected Road Obstacles in Urban-Scene Segmentation,/paper/standardized-max-logits-a-simple-yet
+50,Multiscale DEQ ,80.3,,,Multiscale Deep Equilibrium Models,/paper/multiscale-deep-equilibrium-models
+51,HRNetV2 ,80.2,,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+52,PSPNet ,79.7,,,Pyramid Scene Parsing Network,/paper/pyramid-scene-parsing-network
+53,DeepLabv3+ ,79.6,,,Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation,/paper/encoder-decoder-with-atrous-separable
+54,Trans4PASS ,79.1,,,Bending Reality: Distortion-aware Transformers for Adapting to Panoramic Semantic Segmentation,/paper/bending-reality-distortion-aware-transformers
+55,SemanticFPN P2-P5 + PointRend,78.6,,,PointRend: Image Segmentation as Rendering,/paper/pointrend-image-segmentation-as-rendering
+56,DeepLabv3 ,78.5,,,Rethinking Atrous Convolution for Semantic Image Segmentation,/paper/rethinking-atrous-convolution-for-semantic
+57,StreamDEQ ,78.2,1.1,,Representation Recycling for Streaming Video Analysis,/paper/streaming-multiscale-deep-equilibrium-models
+58,Multiscale DEQ ,77.8,,,Multiscale Deep Equilibrium Models,/paper/multiscale-deep-equilibrium-models
+59,HALO,77.8,,,Hyperbolic Active Learning for Semantic Segmentation under Domain Shift,/paper/hyperbolic-active-learning-for-semantic
+60,DetCon_B,77.0,,,Efficient Visual Pretraining with Contrastive Detection,/paper/efficient-visual-pretraining-with-contrastive
+61,EEEA-Net-C2 ,76.8,,,EEEA-Net: An Early Exit Evolutionary Neural Architecture Search,/paper/eeea-net-an-early-exit-evolutionary-neural
+62,WaveMixLite-256/16,76.79,,,WaveMix-Lite: A Resource-efficient Neural Network for Image Analysis,/paper/wavemix-lite-a-resource-efficient-neural-1
+63,CSFNet-2,76.36,72.3,,CSFNet: A Cosine Similarity Fusion Network for Real-Time RGB-X Semantic Segmentation of Driving Scenes,/paper/csfnet-a-cosine-similarity-fusion-network-for
+64,RepMLPNet-D256,76.27,,,RepMLPNet: Hierarchical Vision MLP with Re-parameterized Locality,/paper/repmlpnet-hierarchical-vision-mlp-with-re
+65,Dilated-ResNet ,75.7,,,Deep Residual Learning for Image Recognition,/paper/deep-residual-learning-for-image-recognition
+66,UNet++ ,75.5,,,UNet++: A Nested U-Net Architecture for Medical Image Segmentation,/paper/unet-a-nested-u-net-architecture-for-medical
+67,SqueezeNAS ,75.2,,,SqueezeNAS: Fast neural architecture search for faster semantic segmentation,/paper/squeezenas-fast-neural-architecture-search
+68,ReLICv2,75.2,,,Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?,/paper/pushing-the-limits-of-self-supervised-resnets
+69,CSFNet-1,74.73,106.1,,CSFNet: A Cosine Similarity Fusion Network for Real-Time RGB-X Semantic Segmentation of Driving Scenes,/paper/csfnet-a-cosine-similarity-fusion-network-for
+70,GSCNN ,74.7,,,Gated-SCNN: Gated Shape CNNs for Semantic Segmentation,/paper/gated-scnn-gated-shape-cnns-for-semantic
+71,BYOL,74.6,,,Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?,/paper/pushing-the-limits-of-self-supervised-resnets
+72,WASPnet ,74.0,,,Waterfall Atrous Spatial Pooling Architecture for Efficient Semantic Segmentation,/paper/waterfall-atrous-spatial-pooling-architecture
+73,SqueezeNAS ,73.6,,,SqueezeNAS: Fast neural architecture search for faster semantic segmentation,/paper/squeezenas-fast-neural-architecture-search
+74,FasterSeg,73.1,,,FasterSeg: Searching for Faster Real-time Semantic Segmentation,/paper/fasterseg-searching-for-faster-real-time-1
+75,GSCNN ,73.0,,,Gated-SCNN: Gated Shape CNNs for Semantic Segmentation,/paper/gated-scnn-gated-shape-cnns-for-semantic
+76,Aerial-PASS ,72.8,,,Aerial-PASS: Panoramic Annular Scene Segmentation in Drone Videos,/paper/aerial-pass-panoramic-annular-scene
+77,RFNet ,72.5,,,Real-time Fusion Network for RGB-D Semantic Segmentation Incorporating Unexpected Obstacle Detection for Road-driving Images,/paper/real-time-fusion-network-for-rgb-d-semantic
+78,ERFNet ,72.1,,,ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation,/paper/erfnet-efficient-residual-factorized-convnet
+79,SwaftNet ,72.1,,,DS-PASS: Detail-Sensitive Panoramic Annular Semantic Segmentation through SwaftNet for Surrounding Sensing,/paper/ds-pass-detail-sensitive-panoramic-annular
+80,StreamDEQ ,71.5,1.9,,Representation Recycling for Streaming Video Analysis,/paper/streaming-multiscale-deep-equilibrium-models
+81,Template-Based NAS-arch1,69.5,,,Template-Based Automatic Search of Compact Semantic Segmentation Architectures,/paper/template-based-automatic-search-of-compact
+82,Fast-SCNN + Coarse + ImageNet,69.19,,,Fast-SCNN: Fast Semantic Segmentation Network,/paper/fast-scnn-fast-semantic-segmentation-network
+83,LDFNet,68.48,,,"Incorporating Luminance, Depth and Color Information by a Fusion-based Network for Semantic Segmentation",/paper/incorporating-luminance-depth-and-color
+84,Template-Based NAS-arch0,68.1,,,Template-Based Automatic Search of Compact Semantic Segmentation Architectures,/paper/template-based-automatic-search-of-compact
+85,SqueezeNAS ,68.0,,,SqueezeNAS: Fast neural architecture search for faster semantic segmentation,/paper/squeezenas-fast-neural-architecture-search
+86,ContextNet,65.9,,,ContextNet: Exploring Context and Detail for Semantic Segmentation in Real-time,/paper/contextnet-exploring-context-and-detail-for
+87,DiCENet,63.4,,,DiCENet: Dimension-wise Convolutions for Efficient Networks,/paper/dicenet-dimension-wise-convolutions-for
+88,DCT-EDANet,61.6,,,Exploring Semantic Segmentation on the DCT Representation,/paper/exploring-semantic-segmentation-on-the-dct
+89,StreamDEQ ,57.9,2.9,,Representation Recycling for Streaming Video Analysis,/paper/streaming-multiscale-deep-equilibrium-models
+90,StreamDEQ ,45.5,4.3,,Representation Recycling for Streaming Video Analysis,/paper/streaming-multiscale-deep-equilibrium-models
+91,SegFormer-B0,,,76.2,SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers,/paper/segformer-simple-and-efficient-design-for

@@ -1,0 +1,25 @@
+Rank,Model,AP,Paper Title,Paper URL
+1,3D Dual-Fusion,79.39,3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection,/paper/3d-dual-fusion-dual-domain-dual-query-camera-1
+2,GLENet-VR,78.43,GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation,/paper/glenet-boosting-3d-object-detectors-with
+3,PV-RCNN++,77.15,PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection,/paper/pv-rcnn-point-voxel-feature-set-abstraction-1
+4,SE-SSD,77.15,SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud,/paper/se-ssd-self-ensembling-single-stage-object
+5,Voxel R-CNN,77.06,Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection,/paper/voxel-r-cnn-towards-high-performance-voxel
+6,M3DeTR,76.96,"M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers",/paper/m3detr-multi-representation-multi-scale
+7,PV-RCNN,76.82,PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection,/paper/pv-rcnn-point-voxel-feature-set-abstraction
+8,STD,76.06,STD: Sparse-to-Dense 3D Object Detector for Point Cloud,/paper/std-sparse-to-dense-3d-object-detector-for
+9,PC-RGNN,75.54,PC-RGNN: Point Cloud Completion and Graph Neural Network for 3D Object Detection,/paper/pc-rgnn-point-cloud-completion-and-graph
+10,SVGA-Net,74.63,SVGA-Net: Sparse Voxel-Graph Attention Network for 3D Object Detection from Point Clouds,/paper/svga-net-sparse-voxel-graph-attention-network
+11,Joint,74.3,Joint 3D Instance Segmentation and Object Detection for Autonomous Driving,/paper/joint-3d-instance-segmentation-and-object
+12,CIA-SSD,72.87,CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud,/paper/cia-ssd-confident-iou-aware-single-stage
+13,SA-SSD+EBM,72.78,Accurate 3D Object Detection using Energy-Based Models,/paper/accurate-3d-object-detection-using-energy
+14,PointRGCN,70.6,PointRGCN: Graph Convolution Networks for 3D Vehicles Detection Refinement,/paper/pointrgcn-graph-convolution-networks-for-3d
+15,UberATG-MMF,68.41,Multi-Task Multi-Sensor Fusion for 3D Object Detection,/paper/multi-task-multi-sensor-fusion-for-3d-object-1
+16,F-ConvNet,68.08,Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection,/paper/frustum-convnet-sliding-frustums-to-aggregate
+17,PointRCNN,67.86,PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud,/paper/pointrcnn-3d-object-proposal-generation-and
+18,AVOD + Feature Pyramid,66.38,Joint 3D Proposal Generation and Object Detection from View Aggregation,/paper/joint-3d-proposal-generation-and-object
+19,IPOD,66.33,IPOD: Intensive Point-based Object Detector for Point Cloud,/paper/ipod-intensive-point-based-object-detector
+20,PC-CNN-V2,64.83,A General Pipeline for 3D Detection of Vehicles,/paper/a-general-pipeline-for-3d-detection-of
+21,Frustum PointNets,62.19,Frustum PointNets for 3D Object Detection from RGB-D Data,/paper/frustum-pointnets-for-3d-object-detection
+22,RoarNet,59.16,RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement,/paper/roarnet-a-robust-3d-object-detection-based-on
+23,VoxelNet,57.73,VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection,/paper/voxelnet-end-to-end-learning-for-point-cloud
+24,PGD,9.39,Probabilistic and Geometric Depth: Detecting Objects in Perspective,/paper/probabilistic-and-geometric-depth-detecting

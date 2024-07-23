@@ -1,0 +1,104 @@
+Rank,Model,Overall Accuracy,Mean Accuracy,Number of params,FLOPs,Mean class accuracy,Paper Title,Paper URL
+1,PointView-GCN,95.4,,,,,POINTVIEW-GCN: 3D SHAPE CLASSIFICATION WITH MULTI-VIEW POINT CLOUDS,/paper/pointview-gcn-3d-shape-classification-with
+2,Mamba3D + Point-MAE,95.1,,16900000.0,3.9,,Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model,/paper/mamba3d-enhancing-local-features-for-3d-point
+3,ReCon++,95.0,,,,,ShapeLLM: Universal 3D Object Understanding for Embodied Interaction,/paper/shapellm-universal-3d-object-understanding
+4,PointGPT,94.9,,,,,,
+5,point2vec,94.8,92.0,,,,Point2Vec for Self-Supervised Representation Learning on Point Clouds,/paper/point2vec-for-self-supervised-representation
+6,ULIP + PointMLP,94.7,92.4,,,,"ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding",/paper/ulip-learning-unified-representation-of
+7,ReCon,94.7,,,,,Contrast with Reconstruct: Contrastive 3D Representation Learning Guided by Generative Pretraining,/paper/contrast-with-reconstruct-contrastive-3d
+8,RepSurf-U,94.7,,1480000.0,0.81,,Surface Representation for Point Clouds,/paper/surface-representation-for-point-clouds
+9,PointMLP+HyCoRe,94.5,91.9,,,,Rethinking the compositionality of point clouds through regularization in the hyperbolic space,/paper/rethinking-the-compositionality-of-point
+10,PointMLP,94.5,91.4,,,,Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework,/paper/rethinking-network-design-and-local-geometry-1
+11,Point-FEMAE,94.5,,,,,Towards Compact 3D Representations via Point Feature Enhancement Masked Autoencoders,/paper/towards-compact-3d-representations-via-point
+12,PointNet2+PointCMT,94.4,91.2,1620000.0,,,Let Images Give You More:Point Cloud Cross-Modal Training for Shape Analysis,/paper/let-images-give-you-more-point-cloud-cross
+13,IDPT,94.4,,,,,Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models,/paper/instance-aware-dynamic-prompt-tuning-for-pre
+14,IAE + DGCNN,94.2,91.6,,,,Implicit Autoencoder for Point-Cloud Self-Supervised Representation Learning,/paper/implicit-autoencoder-for-point-cloud-self
+15,PTv2,94.2,91.6,,,,Point Transformer V2: Grouped Vector Attention and Partition-based Pooling,/paper/point-transformer-v2-grouped-vector-attention
+16,CurveNet,94.2,,,,,Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis,/paper/walk-in-the-cloud-learning-curves-for-point
+17,ExpPoint-MAE,94.2,,,,,ExpPoint-MAE: Better interpretability and performance for self-supervised point cloud transformers,/paper/a-deep-dive-into-explainable-self-supervised
+18,RPNet,94.1,,,,,Learning Inner-Group Relations on Point Clouds,/paper/learning-inner-group-relations-on-point
+19,ULIP + PointBERT,94.1,,,,,"ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding",/paper/ulip-learning-unified-representation-of
+20,Point-RAE,94.1,,,,,Regress Before Construct: Regress Autoencoder for Point Cloud Self-supervised Learning,/paper/regress-before-construct-regress-autoencoder
+21,Point-JEPA ,94.1,,,,,Point-JEPA: A Joint Embedding Predictive Architecture for Self-Supervised Learning on Point Cloud,/paper/point-jepa-a-joint-embedding-predictive
+22,DeLA,94.0,92.2,5300000.0,1.44,,Decoupled Local Aggregation for Point Cloud Learning,/paper/decoupled-local-aggregation-for-point-cloud
+23,P2P,94.0,91.6,,,,P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting,/paper/p2p-tuning-pre-trained-image-models-for-point
+24,PointNeXt,94.0,91.1,4500000.0,6.5,,PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies,/paper/pointnext-revisiting-pointnet-with-improved
+25,Point Voxel Transformer,94.0,,,,,PVT: Point-Voxel Transformer for Point Cloud Learning,/paper/point-voxel-transformer-an-efficient-approach
+26,Point-MAE,94.0,,,,,Masked Autoencoders for Point Cloud Self-supervised Learning,/paper/masked-autoencoders-for-point-cloud-self
+27,Point-M2AE,94.0,,,,,Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training,/paper/point-m2ae-multi-scale-masked-autoencoders
+28,MKConv,94.0,,5630000.0,,,MKConv: Multidimensional Feature Representation for Point Cloud Analysis,/paper/ckconv-learning-feature-voxelization-for
+29,SimpleView,93.9,91.8,,,,Revisiting Point Cloud Classification with a Simple and Effective Baseline,/paper/revisiting-point-cloud-classification-with-a
+30,PAConv,93.9,,,,,PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds,/paper/paconv-position-adaptive-convolution-with
+31,SimpleView-DGCNN,93.9,,,,,Revisiting Point Cloud Shape Classification with a Simple and Effective Baseline,/paper/revisiting-point-cloud-shape-classification
+32,MVTN,93.8,92.2,,,,MVTN: Multi-View Transformation Network for 3D Shape Recognition,/paper/mvtn-multi-view-transformation-network-for-3d
+33,Feature Geometric Net ,93.8,91.1,,,,FG-Net: Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Correlated Feature Mining and Geometric-Aware Modelling,/paper/fg-net-fast-large-scale-lidar-point
+34,GBNet,93.8,91.0,,,,Geometric Back-projection Network for Point Cloud Classification,/paper/geometric-feedback-network-for-point-cloud
+35,DeltaConv,93.8,,,,91.2,DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds,/paper/deltaconv-anisotropic-point-cloud-learning
+36,GDANet,93.8,,,,,Learning Geometry-Disentangled Representation for Complementary Understanding of 3D Object Point Cloud,/paper/learning-geometry-disentangled-representation
+37,Point-BERT,93.8,,,,,Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling,/paper/point-bert-pre-training-3d-point-cloud
+38,APES ,93.8,,,,,Attention-based Point Cloud Edge Sampling,/paper/attention-based-point-cloud-edge-sampling
+39,Point-JEPA ,93.8,,,,,Point-JEPA: A Joint Embedding Predictive Architecture for Self-Supervised Learning on Point Cloud,/paper/point-jepa-a-joint-embedding-predictive
+40,Point-PN,93.8,,800000.0,,,Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis,/paper/parameter-is-not-all-you-need-starting-from
+41,PointSCNet,93.7,91.4,,,,PointSCNet: Point Cloud Structure and Correlation Learning Based on Space Filling Curve-Guided Sampling,/paper/pointscnet-point-cloud-structure-and
+42,PRA-Net,93.7,91.2,,,,PRA-Net: Point Relation-Aware Network for 3D Point Cloud Analysis,/paper/pra-net-point-relation-aware-network-for-3d
+43,PointTransformer,93.7,90.6,,,,Point Transformer,/paper/point-transformer-1
+44,DualMLP,93.7,,,,,DualMLP: a two-stream fusion model for 3D point cloud classification,/paper/dualmlp-a-two-stream-fusion-model-for-3d
+45,PointMixer,93.6,91.4,6500000.0,,,PointMixer: MLP-Mixer for Point Cloud Understanding,/paper/pointmixer-mlp-mixer-for-point-cloud
+46,DeepGCN,93.6,90.9,2200000.0,,,DeepGCNs: Making GCNs Go as Deep as CNNs,/paper/deepgcns-making-gcns-go-as-deep-as-cnns
+47,LCPFormer,93.6,90.7,,,,LCPFormer: Towards Effective 3D Point Cloud Analysis via Local Context Propagation in Transformers,/paper/lcpformer-towards-effective-3d-point-cloud
+48,DGCNN + SageMix,93.6,,,,,SageMix: Saliency-Guided Mixup for Point Clouds,/paper/sagemix-saliency-guided-mixup-for-point
+49,PointVector-S,93.5,91.0,,,,PointVector: A Vector Representation In Point Cloud Analysis,/paper/point-is-a-vector-a-feature-representation-in
+50,RSMix,93.5,,,,,Regularization Strategy for Point Cloud via Rigidly Mixed Sample,/paper/regularization-strategy-for-point-cloud-via
+51,PointConT,93.5,,,,,Point Cloud Classification Using Content-based Transformer via Clustering in Feature Space,/paper/point-cloud-classification-using-content
+52,APES ,93.5,,,,,Attention-based Point Cloud Edge Sampling,/paper/attention-based-point-cloud-edge-sampling
+53,DSPoint,93.5,,1160000.0,,,DSPoint: Dual-scale Point Cloud Recognition with High-frequency Fusion,/paper/dspoint-dual-scale-point-cloud-recognition
+54,ULIP + PointNet++,93.4,91.2,,,,"ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding",/paper/ulip-learning-unified-representation-of
+55,PointCutmix,93.4,,,,,PointCutMix: Regularization Strategy for Point Cloud Classification,/paper/pointcutmix-regularization-strategy-for-point
+56,3DMedPT,93.4,,1540000.0,,,3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis,/paper/3d-medical-point-transformer-introducing
+57,DGCNN + MD,93.39,89.88,,,,Self-supervised Point Cloud Representation Learning via Separating Mixed Shapes,/paper/point-cloud-pre-training-by-mixing-and
+58,OGNet + MD,93.31,90.71,,,,Self-supervised Point Cloud Representation Learning via Separating Mixed Shapes,/paper/point-cloud-pre-training-by-mixing-and
+59,OG-Net-Small,93.3,90.5,1220000.0,,,Parameter-Efficient Person Re-identification in the 3D Space,/paper/person-re-identification-in-the-3d-space
+60,PointStack,93.3,89.6,,,,Advanced Feature Learning on Point Clouds using Multi-resolution Features and Learnable Pooling,/paper/advanced-feature-learning-on-point-clouds
+61,PointNet++ + SageMix,93.3,,,,,SageMix: Saliency-Guided Mixup for Point Clouds,/paper/sagemix-saliency-guided-mixup-for-point
+62,PointASNL,93.2,,,,,PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling,/paper/pointasnl-robust-point-clouds-processing
+63,Point Cloud Transformer,93.2,,2880000.0,,,PCT: Point cloud transformer,/paper/pct-point-cloud-transformer
+64,DRNet,93.1,,,,,Dense-Resolution Network for Point Cloud Classification and Segmentation,/paper/dense-resolution-network-for-point-cloud
+65,ShellNet,93.1,,,,,ShellNet: Efficient Point Cloud Convolutional Neural Networks using Concentric Shells Statistics,/paper/shellnet-efficient-point-cloud-convolutional
+66,STRL + DGCNN,93.1,,,,,Spatio-temporal Self-Supervised Representation Learning for 3D Point Clouds,/paper/spatio-temporal-self-supervised
+67,PatchAugment+DGCNN,93.1,,,,,,
+68,PointManifold,93.0,90.4,,,,PointManifold: Using Manifold Learning for Point Cloud Classification,/paper/manifold-net-using-manifold-learning-for
+69,InterpCNN,93.0,,,,,Interpolated Convolutional Networks for 3D Point Cloud Understanding,/paper/interpolated-convolutional-networks-for-3d
+70,DGCNN,92.9,90.2,1810000.0,,,Dynamic Graph CNN for Learning on Point Clouds,/paper/dynamic-graph-cnn-for-learning-on-point
+71,KPConv,92.9,,,,,KPConv: Flexible and Deformable Convolution for Point Clouds,/paper/kpconv-flexible-and-deformable-convolution
+72,RS-CNN,92.9,,,,,Relation-Shape Convolutional Neural Network for Point Cloud Analysis,/paper/relation-shape-convolutional-neural-network
+73,ASSANet,92.9,,,,,ASSANet: An Anisotropic Separable Set Abstraction for Efficient Point Cloud Representation Learning,/paper/anisotropic-separable-set-abstraction-for
+74,Point-M2AE-SVM,92.9,,,,,Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training,/paper/point-m2ae-multi-scale-masked-autoencoders
+75,Point Transformer,92.8,,,,,Point Transformer,/paper/point-transformer
+76,A-CNN,92.6,,,,,A-CNN: Annularly Convolutional Neural Networks on Point Clouds,/paper/190408017
+77,P2Sequence,92.6,,,,,Point2Sequence: Learning the Shape Representation of 3D Point Clouds with an Attention-based Sequence to Sequence Network,/paper/point2sequence-learning-the-shape
+78,Point-TnT,92.6,,3900000.0,,,Points to Patches: Enabling the Use of Self-Attention for 3D Shape Recognition,/paper/points-to-patches-enabling-the-use-of-self
+79,PointConv,92.5,,,,,PointConv: Deep Convolutional Networks on 3D Point Clouds,/paper/pointconv-deep-convolutional-networks-on-3d
+80,PolyNet,92.42,,,,,PolyNet: Polynomial Neural Network for 3D Shape Recognition with PolyShape Representation,/paper/polynet-polynomial-neural-network-for-3d
+81,SpiderCNN,92.4,,,,,SpiderCNN: Deep Learning on Point Sets with Parameterized Convolutional Filters,/paper/spidercnn-deep-learning-on-point-sets-with
+82,PCNN,92.3,,,,,Point Convolutional Neural Networks by Extension Operators,/paper/point-convolutional-neural-networks-by
+83,PointCNN,92.2,,,,,PointCNN: Convolution On X-Transformed Points,/paper/pointcnn-convolution-on-x-transformed-points
+84,Point-PlaneNet,92.1,90.5,,,,Point-PlaneNet: Plane kernel based convolutional neural network for point clouds analysis,/paper/point-planenet-plane-kernel-based
+85,SpecGCN,92.1,,,,,Local Spectral Graph Convolution for Point Set Feature Learning,/paper/local-spectral-graph-convolution-for-point
+86,DynamicScale,92.1,,,,,Dynamic Local Geometry Capture in 3D PointCloud Classification,/paper/dynamic-local-geometry-capture-in-3d
+87,PointGrid,92.0,,,,,PointGrid: A Deep Network for 3D Shape Understanding,/paper/pointgrid-a-deep-network-for-3d-shape
+88,Kd-Net,91.8,,,,,Escape from Cells: Deep Kd-Networks for the Recognition of 3D Point Cloud Models,/paper/escape-from-cells-deep-kd-networks-for-the
+89,"G3DNet-18 MLP, Fine-Tuned, Vote",91.7,,,,,General-Purpose Deep Point Cloud Feature Extractor,/paper/general-purpose-deep-point-cloud-feature
+90,3DMFV-Net,91.6,,,,,3D Point Cloud Classification and Segmentation using 3D Modified Fisher Vector Representation for Convolutional Neural Networks,/paper/3d-point-cloud-classification-and
+91,CrossMoCo,91.49,,,,,CrossMoCo: Multi-modal Momentum Contrastive Learning for Point Cloud,/paper/crossmoco-multi-modal-momentum-contrastive
+92,SO-Net,90.9,,,,,SO-Net: Self-Organizing Network for Point Cloud Analysis,/paper/so-net-self-organizing-network-for-point
+93,PointNet++,90.7,,1740000.0,,,PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space,/paper/pointnet-deep-hierarchical-feature-learning
+94,Kd-net,90.6,,,,,Escape from Cells: Deep Kd-Networks for the Recognition of 3D Point Cloud Models,/paper/escape-from-cells-deep-kd-networks-for-the
+95,PointNet + SageMix,90.3,,,,,SageMix: Saliency-Guided Mixup for Point Clouds,/paper/sagemix-saliency-guided-mixup-for-point
+96,MVCNN,90.1,,,,,Multi-view Convolutional Neural Networks for 3D Shape Recognition,/paper/multi-view-convolutional-neural-networks-for
+97,PointNet,89.2,86.0,3470000.0,,,PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation,/paper/pointnet-deep-learning-on-point-sets-for-3d
+98,Subvolume,89.2,,,,,Volumetric and Multi-View CNNs for Object Classification on 3D Data,/paper/volumetric-and-multi-view-cnns-for-object
+99,ECC,87.4,83.2,,,,Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs,/paper/dynamic-edge-conditioned-filters-in
+100,VRN ,,91.33,,,,Generative and Discriminative Voxel Modeling with Convolutional Neural Networks,/paper/generative-and-discriminative-voxel-modeling
+101,VRN ,,88.98,,,,Generative and Discriminative Voxel Modeling with Convolutional Neural Networks,/paper/generative-and-discriminative-voxel-modeling
+102,3DShapeNets,,77.3,,,,3D ShapeNets: A Deep Representation for Volumetric Shapes,/paper/3d-shapenets-a-deep-representation-for
+103,Perceiver,,14.3,,,,Perceiver: General Perception with Iterative Attention,/paper/perceiver-general-perception-with-iterative

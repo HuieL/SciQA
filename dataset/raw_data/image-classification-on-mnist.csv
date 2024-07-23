@@ -1,0 +1,74 @@
+Rank,Model,Percentage error,Accuracy,Trainable Parameters,Paper Title,Paper URL
+1,Branching/Merging CNN + Homogeneous Vector Capsules,0.13,99.87,1514187.0,No Routing Needed Between Capsules,/paper/a-branching-and-merging-convolutional-network
+2,EnsNet ,0.16,99.84,,Ensemble learning in CNN augmented with fully connected subnetworks,/paper/ensemble-learning-in-cnn-augmented-with-fully
+3,Efficient-CapsNet,0.16,99.84,161824.0,Efficient-CapsNet: Capsule Network with Self-Attention Routing,/paper/efficient-capsnet-capsule-network-with-self
+4,SOPCNN ,0.17,99.83,1400000.0,Stochastic Optimization of Plain Convolutional Neural Networks with Simple methods,/paper/stochastic-optimization-of-plain
+5,RMDL ,0.18,99.82,,RMDL: Random Multimodel Deep Learning for Classification,/paper/rmdl-random-multimodel-deep-learning-for
+6,DropConnect,0.21,99.77,,Regularization of Neural Networks using DropConnect,/paper/regularization-of-neural-networks-using
+7,MCDNN,0.23,,,Multi-column Deep Neural Networks for Image Classification,/paper/multi-column-deep-neural-networks-for-image
+8,APAC,0.23,,,APAC: Augmented PAttern Classification with Neural Networks,/paper/apac-augmented-pattern-classification-with
+9,BNM NiN,0.24,,,Batch-normalized Maxout Network in Network,/paper/batch-normalized-maxout-network-in-network
+10,SimpleNetv1,0.25,,,"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures",/paper/lets-keep-it-simple-using-simple
+11,CapsNet,0.25,,,Dynamic Routing Between Capsules,/paper/dynamic-routing-between-capsules
+12,VGG8B + LocalLearning + CO,0.26,,,Training Neural Networks with Local Error Signals,/paper/training-neural-networks-with-local-error
+13,VGG-5 ,0.28,99.72,,SpinalNet: Deep Neural Network with Gradual Input,/paper/spinalnet-deep-neural-network-with-gradual-1
+14,TextCaps,0.29,99.71,,TextCaps : Handwritten Character Recognition with Very Small Datasets,/paper/textcaps-handwritten-character-recognition
+15,ExquisiteNetV2,0.29,99.71,518230.0,"A Novel lightweight Convolutional Neural Network, ExquisiteNetV2",/paper/a-novel-lightweight-convolutional-neural
+16,WaveMix-128/7,0.29,,,WaveMix: Resource-efficient Token Mixing for Images,/paper/wavemix-resource-efficient-token-mixing-for
+17,Fractional MP,0.3,,,Fractional Max-Pooling,/paper/fractional-max-pooling
+18,Tree+Max-Avg pooling,0.3,,,"Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree",/paper/generalizing-pooling-functions-in
+19,CMsC,0.3,,,Competitive Multi-scale Convolution,/paper/competitive-multi-scale-convolution
+20,EXACT ,0.33,,,EXACT: How to Train Your Accuracy,/paper/exact-how-to-train-your-accuracy
+21,Second Order Neural Ordinary Differential Equation,0.37,99.63,,On Second Order Behaviour in Augmented Neural ODEs,/paper/on-second-order-behaviour-in-augmented-neural
+22,Augmented Neural Ordinary Differential Equation,0.37,99.63,,Augmented Neural ODEs,/paper/augmented-neural-odes
+23,DSN,0.4,,,Deeply-Supervised Nets,/paper/deeply-supervised-nets
+24,CKN,0.4,,,Convolutional Kernel Networks,/paper/convolutional-kernel-networks
+25,C-SVDDNet,0.4,,,Unsupervised Feature Learning with C-SVDDNet,/paper/unsupervised-feature-learning-with-c-svddnet
+26,HOPE,0.4,,,Hybrid Orthogonal Projection and Estimation (HOPE): A New Framework to Probe and Learn Neural Networks,/paper/hybrid-orthogonal-projection-and-estimation
+27,FLSCNN,0.4,,,Enhanced Image Classification With a Fast-Learning Shallow Convolutional Neural Network,/paper/enhanced-image-classification-with-a-fast
+28,MIM,0.4,,,On the Importance of Normalisation Layers in Deep Learning with Piecewise Linear Activation Units,/paper/on-the-importance-of-normalisation-layers-in
+29,Fitnet-LSUV-SVM,0.4,,,All you need is a good init,/paper/all-you-need-is-a-good-init
+30,Maxout Networks,0.5,,,Maxout Networks,/paper/maxout-networks
+31,NiN,0.5,,,Network In Network,/paper/network-in-network
+32,ReNet,0.5,,,ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks,/paper/renet-a-recurrent-neural-network-based
+33,DCNN+GFE,0.5,,,Deep Convolutional Neural Networks as Generic Feature Extractors,/paper/deep-convolutional-neural-networks-as-generic
+34,VDN,0.5,,,Training Very Deep Networks,/paper/training-very-deep-networks
+35,NeuPDE,0.51,,,NeuPDE: Neural Network Based Ordinary and Partial Differential Equations for Modeling Time-Dependent Data,/paper/neupde-neural-network-based-ordinary-and
+36,Simple CNN with BaikalCMA loss,0.53,,,"Improved Training Speed, Accuracy, and Data Utilization Through Loss Function Optimization",/paper/improved-training-speed-accuracy-and-data
+37,SEER ,0.58,99.42,,Vision Models Are More Robust And Fair When Pretrained On Uncurated Images Without Supervision,/paper/vision-models-are-more-robust-and-fair-when
+38,Convolutional Tsetlin Machine,0.6,99.4,,The Convolutional Tsetlin Machine,/paper/the-convolutional-tsetlin-machine
+39,PCANet,0.6,,,PCANet: A Simple Deep Learning Baseline for Image Classification?,/paper/pcanet-a-simple-deep-learning-baseline-for
+40,DiffPrune ,0.6,,,DiffPrune: Neural Network Pruning with Deterministic Approximate Binary Gates and $L_0$ Regularization,/paper/diffprune-neural-network-pruning-with
+41,Deep Fried Convnets,0.7,,,Deep Fried Convnets,/paper/deep-fried-convnets
+42,Sparse Activity and Sparse Connectivity in Supervised Learning,0.8,,,Sparse Activity and Sparse Connectivity in Supervised Learning,/paper/sparse-activity-and-sparse-connectivity-in
+43,Explaining and Harnessing Adversarial Examples,0.8,,,Explaining and Harnessing Adversarial Examples,/paper/explaining-and-harnessing-adversarial
+44,BinaryConnect,1.0,,,BinaryConnect: Training Deep Neural Networks with binary weights during propagations,/paper/binaryconnect-training-deep-neural-networks
+45,Convolutional PMM ,1.01,98.99,129416.0,Parametric Matrix Models,/paper/parametric-matrix-models
+46,LeNet 300-100 ,1.26,,,Sparse Networks from Scratch: Faster Training without Losing Performance,/paper/sparse-networks-from-scratch-faster-training
+47,Convolutional Clustering,1.4,,,Convolutional Clustering for Unsupervised Learning,/paper/convolutional-clustering-for-unsupervised
+48,CNN Model by Som,1.41,98.59,,Convolutional Sequence to Sequence Learning,/paper/convolutional-sequence-to-sequence-learning
+49,Weighted Tsetlin Machine,1.5,98.5,,The Weighted Tsetlin Machine: Compressed Representations with Weighted Clauses,/paper/the-weighted-tsetlin-machine-compressed
+50,Perceptron with a tensor train layer,1.8,98.2,,Tensorizing Neural Networks,/paper/tensorizing-neural-networks
+51,ANODE,1.8,98.2,,Augmented Neural ODEs,/paper/augmented-neural-odes
+52,Tsetlin Machine,1.8,98.2,,The Tsetlin Machine - A Game Theoretic Bandit Driven Approach to Optimal Pattern Recognition with Propositional Logic,/paper/the-tsetlin-machine-a-game-theoretic-bandit
+53,GECCO,1.96,98.04,,A Single Graph Convolution Is All You Need: Efficient Grayscale Image Classification,/paper/a-single-graph-convolution-is-all-you-need
+54,PMM ,2.62,97.38,4990.0,Parametric Matrix Models,/paper/parametric-matrix-models
+55,DNN-5 ,2.8,97.2,575051.0,Trainable Activations for Image Classification,/paper/trainable-activations-for-image
+56,DNN-3 ,3.0,97.0,386719.0,Trainable Activations for Image Classification,/paper/trainable-activations-for-image
+57,DNN-2 ,3.6,96.4,311651.0,Trainable Activations for Image Classification,/paper/trainable-activations-for-image
+58,Zhao et al. ,4.76,,,Stacked What-Where Auto-encoders,/paper/stacked-what-where-auto-encoders
+59,ProjectionNet,5.0,95.0,,ProjectionNet: Learning Efficient On-Device Deep Networks Using Neural Projections,/paper/projectionnet-learning-efficient-on-device
+60,µ2Net ,,99.75,,An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems,/paper/an-evolutionary-approach-to-dynamic
+61,MobileNet_XnODR,,99.68,,XnODR and XnIDR: Two Accurate and Fast Fully Connected Layers For Convolutional Neural Networks,/paper/xnodr-and-xnidr-two-accurate-and-fast-fully
+62,ResNet-9,,99.68,,CNN Filter DB: An Empirical Investigation of Trained Convolutional Filters,/paper/cnn-filter-db-an-empirical-investigation-of
+63,LR-Net,,99.47,,LR-Net: A Block-based Convolutional Neural Network for Low-Resolution Image Classification,/paper/a-block-based-convolutional-neural-network
+64,CNN+ Wilson-Cowan model RNN,,99.31,,Learning in Wilson-Cowan model for metapopulation,/paper/learning-in-wilson-cowan-model-for
+65,FastSNN ,,99.3,,Robust and accelerated single-spike spiking neural network training with applicability to challenging temporal tasks,/paper/accelerating-spiking-neural-network-training
+66,rKAN,,99.293,,rKAN: Rational Kolmogorov-Arnold Networks,/paper/rkan-rational-kolmogorov-arnold-networks
+67,CNN-5 Layer,,99.27,,Robust Training in High Dimensions via Block Coordinate Geometric Median Descent,/paper/robust-training-in-high-dimensions-via-block
+68,fKAN,,99.228,,fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions,/paper/fkan-fractional-kolmogorov-arnold-networks
+69,StiDi-BP in R-CSNN,,99.2,,Spike time displacement based error backpropagation in convolutional spiking neural networks,/paper/spike-time-displacement-based-error
+70,Wilson-Cowan model RNN,,98.13,,Learning in Wilson-Cowan model for metapopulation,/paper/learning-in-wilson-cowan-model-for
+71,FastSNN ,,97.91,,Robust and accelerated single-spike spiking neural network training with applicability to challenging temporal tasks,/paper/accelerating-spiking-neural-network-training
+72,Binarized MLP with on-chip spiking backpropagation ,,96.2,,The Backpropagation Algorithm Implemented on Spiking Neuromorphic Hardware,/paper/the-backpropagation-algorithm-implemented-on
+73,pFedBreD_ns_mg,,92.47,,Personalized Federated Learning with Hidden Information on Personalized Prior,/paper/personalized-federated-learning-with-hidden
