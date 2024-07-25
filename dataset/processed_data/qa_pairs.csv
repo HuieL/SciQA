@@ -1,0 +1,151 @@
+Dataset,Question,Answer
+3d-point-cloud-classification-on-scanobjectnn,What is the highest Overall Accuracy for the 3d-point-cloud-classification-on-scanobjectnn dataset?,95.25
+3d-point-cloud-classification-on-scanobjectnn,Which model achieves the highest Overall Accuracy on the 3d-point-cloud-classification-on-scanobjectnn dataset?,ReCon++
+3d-point-cloud-classification-on-scanobjectnn,What is the Paper Title for the model with the highest Overall Accuracy on the 3d-point-cloud-classification-on-scanobjectnn dataset?,ShapeLLM: Universal 3D Object Understanding for Embodied Interaction
+3d-point-cloud-classification-on-scanobjectnn,What are the top 3 models in terms of Overall Accuracy for the 3d-point-cloud-classification-on-scanobjectnn dataset?,"ReCon++, PointGPT, GPSFormer-elite"
+3d-point-cloud-classification-on-scanobjectnn,How many models have an Overall Accuracy above 90 for the 3d-point-cloud-classification-on-scanobjectnn dataset?,11
+3d-point-cloud-classification-on-scanobjectnn,What is the Overall Accuracy of the second-best model for the 3d-point-cloud-classification-on-scanobjectnn dataset?,93.4
+3d-point-cloud-classification-on-scanobjectnn,Which model has the lowest Overall Accuracy on the 3d-point-cloud-classification-on-scanobjectnn dataset?,ExpPoint-MAE
+3d-point-cloud-classification-on-scanobjectnn,What is the Overall Accuracy of the 5th ranked model for the 3d-point-cloud-classification-on-scanobjectnn dataset?,91.81
+3d-point-cloud-classification-on-scanobjectnn,How many models are listed in the leaderboard for the 3d-point-cloud-classification-on-scanobjectnn dataset?,67
+3d-point-cloud-classification-on-scanobjectnn,What is the difference in Overall Accuracy between the top two models for the 3d-point-cloud-classification-on-scanobjectnn dataset?,1.85
+action-recognition-in-videos-on-ucf101,What is the highest 3-fold Accuracy for the action-recognition-in-videos-on-ucf101 dataset?,99.6
+action-recognition-in-videos-on-ucf101,Which model achieves the highest 3-fold Accuracy on the action-recognition-in-videos-on-ucf101 dataset?,VideoMAE V2-g
+action-recognition-in-videos-on-ucf101,What is the Paper Title for the model with the highest 3-fold Accuracy on the action-recognition-in-videos-on-ucf101 dataset?,VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking
+action-recognition-in-videos-on-ucf101,What are the top 3 models in terms of 3-fold Accuracy for the action-recognition-in-videos-on-ucf101 dataset?,"VideoMAE V2-g, OmniVec, BIKE"
+action-recognition-in-videos-on-ucf101,How many models have a 3-fold Accuracy above 95 for the action-recognition-in-videos-on-ucf101 dataset?,47
+action-recognition-in-videos-on-ucf101,What is the 3-fold Accuracy of the second-best model for the action-recognition-in-videos-on-ucf101 dataset?,99.6
+action-recognition-in-videos-on-ucf101,Which model has the lowest 3-fold Accuracy on the action-recognition-in-videos-on-ucf101 dataset?,R3D-18
+action-recognition-in-videos-on-ucf101,What is the 3-fold Accuracy of the 5th ranked model for the action-recognition-in-videos-on-ucf101 dataset?,98.6
+action-recognition-in-videos-on-ucf101,How many models are listed in the leaderboard for the action-recognition-in-videos-on-ucf101 dataset?,87
+action-recognition-in-videos-on-ucf101,What is the difference in 3-fold Accuracy between the top two models for the action-recognition-in-videos-on-ucf101 dataset?,0.0
+few-shot-image-classification-on-mini-2,What is the highest Accuracy for the few-shot-image-classification-on-mini-2 dataset?,96.2
+few-shot-image-classification-on-mini-2,Which model achieves the highest Accuracy on the few-shot-image-classification-on-mini-2 dataset?,CAML [Laion-2b]
+few-shot-image-classification-on-mini-2,What is the Paper Title for the model with the highest Accuracy on the few-shot-image-classification-on-mini-2 dataset?,Context-Aware Meta-Learning
+few-shot-image-classification-on-mini-2,What are the top 3 models in terms of Accuracy for the few-shot-image-classification-on-mini-2 dataset?,"CAML [Laion-2b], P>M>F , TRIDENT"
+few-shot-image-classification-on-mini-2,How many models have an Accuracy above 90 for the few-shot-image-classification-on-mini-2 dataset?,2
+few-shot-image-classification-on-mini-2,What is the Accuracy of the second-best model for the few-shot-image-classification-on-mini-2 dataset?,95.3
+few-shot-image-classification-on-mini-2,Which model has the lowest Accuracy on the few-shot-image-classification-on-mini-2 dataset?,ABML
+few-shot-image-classification-on-mini-2,What is the Accuracy of the 5th ranked model for the few-shot-image-classification-on-mini-2 dataset?,85.54
+few-shot-image-classification-on-mini-2,How many models are listed in the leaderboard for the few-shot-image-classification-on-mini-2 dataset?,101
+few-shot-image-classification-on-mini-2,What is the difference in Accuracy between the top two models for the few-shot-image-classification-on-mini-2 dataset?,0.9
+few-shot-object-detection-on-ms-coco-10-shot,What is the highest AP for the few-shot-object-detection-on-ms-coco-10-shot dataset?,35.3
+few-shot-object-detection-on-ms-coco-10-shot,Which model achieves the highest AP on the few-shot-object-detection-on-ms-coco-10-shot dataset?,CD-ViTO
+few-shot-object-detection-on-ms-coco-10-shot,What is the Paper Title for the model with the highest AP on the few-shot-object-detection-on-ms-coco-10-shot dataset?,Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector
+few-shot-object-detection-on-ms-coco-10-shot,What are the top 3 models in terms of AP for the few-shot-object-detection-on-ms-coco-10-shot dataset?,"CD-ViTO, DE-ViT, BIOT"
+few-shot-object-detection-on-ms-coco-10-shot,How many models have an AP above 20 for the few-shot-object-detection-on-ms-coco-10-shot dataset?,9
+few-shot-object-detection-on-ms-coco-10-shot,What is the AP of the second-best model for the few-shot-object-detection-on-ms-coco-10-shot dataset?,34.0
+few-shot-object-detection-on-ms-coco-10-shot,Which model has the lowest AP on the few-shot-object-detection-on-ms-coco-10-shot dataset?,LSTD
+few-shot-object-detection-on-ms-coco-10-shot,What is the AP of the 5th ranked model for the few-shot-object-detection-on-ms-coco-10-shot dataset?,25.0
+few-shot-object-detection-on-ms-coco-10-shot,How many models are listed in the leaderboard for the few-shot-object-detection-on-ms-coco-10-shot dataset?,32
+few-shot-object-detection-on-ms-coco-10-shot,What is the difference in AP between the top two models for the few-shot-object-detection-on-ms-coco-10-shot dataset?,1.3
+fine-grained-image-classification-on-stanford,What is the highest Accuracy for the fine-grained-image-classification-on-stanford dataset?,97.1
+fine-grained-image-classification-on-stanford,Which model achieves the highest Accuracy on the fine-grained-image-classification-on-stanford dataset?,CMAL-Net
+fine-grained-image-classification-on-stanford,What is the Paper Title for the model with the highest Accuracy on the fine-grained-image-classification-on-stanford dataset?,Learn from Each Other to Classify Better: Cross-layer Mutual Attention Learning for Fine-grained Visual Classification
+fine-grained-image-classification-on-stanford,What are the top 3 models in terms of Accuracy for the fine-grained-image-classification-on-stanford dataset?,"CMAL-Net, TResNet-L + ML-Decoder, DAT"
+fine-grained-image-classification-on-stanford,How many models have an Accuracy above 95 for the fine-grained-image-classification-on-stanford dataset?,14
+fine-grained-image-classification-on-stanford,What is the Accuracy of the second-best model for the fine-grained-image-classification-on-stanford dataset?,96.41
+fine-grained-image-classification-on-stanford,Which model has the lowest Accuracy on the fine-grained-image-classification-on-stanford dataset?,SEER
+fine-grained-image-classification-on-stanford,What is the Accuracy of the 5th ranked model for the fine-grained-image-classification-on-stanford dataset?,96.1
+fine-grained-image-classification-on-stanford,How many models are listed in the leaderboard for the fine-grained-image-classification-on-stanford dataset?,78
+fine-grained-image-classification-on-stanford,What is the difference in Accuracy between the top two models for the fine-grained-image-classification-on-stanford dataset?,0.69
+human-object-interaction-detection-on-hico,What is the highest mAP for the human-object-interaction-detection-on-hico dataset?,45.09
+human-object-interaction-detection-on-hico,Which model achieves the highest mAP on the human-object-interaction-detection-on-hico dataset?,RLIPv2 
+human-object-interaction-detection-on-hico,What is the Paper Title for the model with the highest mAP on the human-object-interaction-detection-on-hico dataset?,RLIPv2: Fast Scaling of Relational Language-Image Pre-training
+human-object-interaction-detection-on-hico,What are the top 3 models in terms of mAP for the human-object-interaction-detection-on-hico dataset?,"RLIPv2 , PViC-SwinL, SOV-STG "
+human-object-interaction-detection-on-hico,How many models have an mAP above 30 for the human-object-interaction-detection-on-hico dataset?,16
+human-object-interaction-detection-on-hico,What is the mAP of the second-best model for the human-object-interaction-detection-on-hico dataset?,44.32
+human-object-interaction-detection-on-hico,Which model has the lowest mAP on the human-object-interaction-detection-on-hico dataset?,InteractNet
+human-object-interaction-detection-on-hico,What is the mAP of the 5th ranked model for the human-object-interaction-detection-on-hico dataset?,37.22
+human-object-interaction-detection-on-hico,How many models are listed in the leaderboard for the human-object-interaction-detection-on-hico dataset?,53
+human-object-interaction-detection-on-hico,What is the difference in mAP between the top two models for the human-object-interaction-detection-on-hico dataset?,0.77
+image-classification-on-svhn,What is the lowest Percentage error for the image-classification-on-svhn dataset?,1.0
+image-classification-on-svhn,Which model achieves the lowest Percentage error on the image-classification-on-svhn dataset?,E2E-M3
+image-classification-on-svhn,What is the Paper Title for the model with the lowest Percentage error on the image-classification-on-svhn dataset?,Rethinking Recurrent Neural Networks and Other Improvements for Image Classification
+image-classification-on-svhn,What are the top 3 models in terms of lowest Percentage error for the image-classification-on-svhn dataset?,"E2E-M3, Wide-ResNet-28-10 , Colornet"
+image-classification-on-svhn,How many models have a Percentage error below 2 for the image-classification-on-svhn dataset?,9
+image-classification-on-svhn,What is the Percentage error of the second-best model for the image-classification-on-svhn dataset?,1.1
+image-classification-on-svhn,Which model has the highest Percentage error on the image-classification-on-svhn dataset?,KNN
+image-classification-on-svhn,What is the Percentage error of the 5th ranked model for the image-classification-on-svhn dataset?,1.27
+image-classification-on-svhn,How many models are listed in the leaderboard for the image-classification-on-svhn dataset?,62
+image-classification-on-svhn,What is the difference in Percentage error between the top two models for the image-classification-on-svhn dataset?,0.1
+object-detection-on-coco-o,What is the highest Average mAP for the object-detection-on-coco-o dataset?,57.8
+object-detection-on-coco-o,Which model achieves the highest Average mAP on the object-detection-on-coco-o dataset?,EVA
+object-detection-on-coco-o,What is the Paper Title for the model with the highest Average mAP on the object-detection-on-coco-o dataset?,EVA: Exploring the Limits of Masked Visual Representation Learning at Scale
+object-detection-on-coco-o,What are the top 3 models in terms of Average mAP for the object-detection-on-coco-o dataset?,"EVA, DETA, GLIP-L"
+object-detection-on-coco-o,How many models have an Average mAP above 40 for the object-detection-on-coco-o dataset?,6
+object-detection-on-coco-o,What is the Average mAP of the second-best model for the object-detection-on-coco-o dataset?,48.5
+object-detection-on-coco-o,Which model has the lowest Average mAP on the object-detection-on-coco-o dataset?,SSD 
+object-detection-on-coco-o,What is the Average mAP of the 5th ranked model for the object-detection-on-coco-o dataset?,37.0
+object-detection-on-coco-o,How many models are listed in the leaderboard for the object-detection-on-coco-o dataset?,45
+object-detection-on-coco-o,What is the difference in Average mAP between the top two models for the object-detection-on-coco-o dataset?,9.3
+object-detection-on-coco,What is the highest box mAP for the object-detection-on-coco dataset?,66.0
+object-detection-on-coco,Which model achieves the highest box mAP on the object-detection-on-coco dataset?,Co-DETR
+object-detection-on-coco,What is the Paper Title for the model with the highest box mAP on the object-detection-on-coco dataset?,DETRs with Collaborative Hybrid Assignments Training
+object-detection-on-coco,What are the top 3 models in terms of box mAP for the object-detection-on-coco dataset?,"Co-DETR, InternImage-H, M3I Pre-training "
+object-detection-on-coco,How many models have a box mAP above 60 for the object-detection-on-coco dataset?,17
+object-detection-on-coco,What is the box mAP of the second-best model for the object-detection-on-coco dataset?,65.4
+object-detection-on-coco,Which model has the lowest box mAP on the object-detection-on-coco dataset?,MobileNet
+object-detection-on-coco,What is the box mAP of the 5th ranked model for the object-detection-on-coco dataset?,64.8
+object-detection-on-coco,How many models are listed in the leaderboard for the object-detection-on-coco dataset?,261
+object-detection-on-coco,What is the difference in box mAP between the top two models for the object-detection-on-coco dataset?,0.6
+semantic-segmentation-on-ade20k,What is the highest Validation mIoU for the semantic-segmentation-on-ade20k dataset?,63.0
+semantic-segmentation-on-ade20k,Which model achieves the highest Validation mIoU on the semantic-segmentation-on-ade20k dataset?,ONE-PEACE
+semantic-segmentation-on-ade20k,What is the Paper Title for the model with the highest Validation mIoU on the semantic-segmentation-on-ade20k dataset?,ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities
+semantic-segmentation-on-ade20k,What are the top 3 models in terms of Validation mIoU for the semantic-segmentation-on-ade20k dataset?,"ONE-PEACE, InternImage-H, M3I Pre-training "
+semantic-segmentation-on-ade20k,How many models have a Validation mIoU above 60 for the semantic-segmentation-on-ade20k dataset?,7
+semantic-segmentation-on-ade20k,What is the Validation mIoU of the second-best model for the semantic-segmentation-on-ade20k dataset?,62.9
+semantic-segmentation-on-ade20k,Which model has the lowest Validation mIoU on the semantic-segmentation-on-ade20k dataset?,SegNet
+semantic-segmentation-on-ade20k,What is the Validation mIoU of the 5th ranked model for the semantic-segmentation-on-ade20k dataset?,62.3
+semantic-segmentation-on-ade20k,How many models are listed in the leaderboard for the semantic-segmentation-on-ade20k dataset?,223
+semantic-segmentation-on-ade20k,What is the difference in Validation mIoU between the top two models for the semantic-segmentation-on-ade20k dataset?,0.1
+semantic-segmentation-on-nyu-depth-v2,What is the highest Mean IoU for the semantic-segmentation-on-nyu-depth-v2 dataset?,60.9
+semantic-segmentation-on-nyu-depth-v2,Which model achieves the highest Mean IoU on the semantic-segmentation-on-nyu-depth-v2 dataset?,GeminiFusion 
+semantic-segmentation-on-nyu-depth-v2,What is the Paper Title for the model with the highest Mean IoU on the semantic-segmentation-on-nyu-depth-v2 dataset?,GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer
+semantic-segmentation-on-nyu-depth-v2,What are the top 3 models in terms of Mean IoU for the semantic-segmentation-on-nyu-depth-v2 dataset?,"GeminiFusion , OmniVec, GeminiFusion "
+semantic-segmentation-on-nyu-depth-v2,How many models have a Mean IoU above 55 for the semantic-segmentation-on-nyu-depth-v2 dataset?,17
+semantic-segmentation-on-nyu-depth-v2,What is the Mean IoU of the second-best model for the semantic-segmentation-on-nyu-depth-v2 dataset?,60.8
+semantic-segmentation-on-nyu-depth-v2,Which model has the lowest Mean IoU on the semantic-segmentation-on-nyu-depth-v2 dataset?,Cross-stitch
+semantic-segmentation-on-nyu-depth-v2,What is the Mean IoU of the 5th ranked model for the semantic-segmentation-on-nyu-depth-v2 dataset?,59.02
+semantic-segmentation-on-nyu-depth-v2,How many models are listed in the leaderboard for the semantic-segmentation-on-nyu-depth-v2 dataset?,113
+semantic-segmentation-on-nyu-depth-v2,What is the difference in Mean IoU between the top two models for the semantic-segmentation-on-nyu-depth-v2 dataset?,0.1
+weakly-supervised-object-detection-on-pascal-1,What is the highest MAP for the weakly-supervised-object-detection-on-pascal-1 dataset?,58.1
+weakly-supervised-object-detection-on-pascal-1,Which model achieves the highest MAP on the weakly-supervised-object-detection-on-pascal-1 dataset?,wetectron 
+weakly-supervised-object-detection-on-pascal-1,What is the Paper Title for the model with the highest MAP on the weakly-supervised-object-detection-on-pascal-1 dataset?,"Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection"
+weakly-supervised-object-detection-on-pascal-1,What are the top 3 models in terms of MAP for the weakly-supervised-object-detection-on-pascal-1 dataset?,"wetectron , CASD, OD-WSCL"
+weakly-supervised-object-detection-on-pascal-1,How many models have a MAP above 50 for the weakly-supervised-object-detection-on-pascal-1 dataset?,16
+weakly-supervised-object-detection-on-pascal-1,What is the MAP of the second-best model for the weakly-supervised-object-detection-on-pascal-1 dataset?,56.8
+weakly-supervised-object-detection-on-pascal-1,Which model has the lowest MAP on the weakly-supervised-object-detection-on-pascal-1 dataset?,Cover + SLSVM
+weakly-supervised-object-detection-on-pascal-1,What is the MAP of the 5th ranked model for the weakly-supervised-object-detection-on-pascal-1 dataset?,54.5
+weakly-supervised-object-detection-on-pascal-1,How many models are listed in the leaderboard for the weakly-supervised-object-detection-on-pascal-1 dataset?,35
+weakly-supervised-object-detection-on-pascal-1,What is the difference in MAP between the top two models for the weakly-supervised-object-detection-on-pascal-1 dataset?,1.3
+semantic-segmentation-on-ade20k,What is the highest Validation mIoU for the semantic-segmentation-on-ade20k dataset?,63.0
+semantic-segmentation-on-ade20k,Which model achieves the highest Validation mIoU on the semantic-segmentation-on-ade20k dataset?,ONE-PEACE
+semantic-segmentation-on-ade20k,What is the Paper Title for the model with the highest Validation mIoU on the semantic-segmentation-on-ade20k dataset?,ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities
+semantic-segmentation-on-ade20k,What are the top 3 models in terms of Validation mIoU for the semantic-segmentation-on-ade20k dataset?,"ONE-PEACE, InternImage-H, M3I Pre-training "
+semantic-segmentation-on-ade20k,How many models have a Validation mIoU above 60 for the semantic-segmentation-on-ade20k dataset?,7
+semantic-segmentation-on-ade20k,What is the Validation mIoU of the second-best model for the semantic-segmentation-on-ade20k dataset?,62.9
+semantic-segmentation-on-ade20k,Which model has the lowest Validation mIoU on the semantic-segmentation-on-ade20k dataset?,SegNet
+semantic-segmentation-on-ade20k,What is the Validation mIoU of the 5th ranked model for the semantic-segmentation-on-ade20k dataset?,62.3
+semantic-segmentation-on-ade20k,How many models are listed in the leaderboard for the semantic-segmentation-on-ade20k dataset?,223
+semantic-segmentation-on-ade20k,What is the difference in Validation mIoU between the top two models for the semantic-segmentation-on-ade20k dataset?,0.1
+semantic-segmentation-on-nyu-depth-v2,What is the highest Mean IoU for the semantic-segmentation-on-nyu-depth-v2 dataset?,60.9
+semantic-segmentation-on-nyu-depth-v2,Which model achieves the highest Mean IoU on the semantic-segmentation-on-nyu-depth-v2 dataset?,GeminiFusion 
+semantic-segmentation-on-nyu-depth-v2,What is the Paper Title for the model with the highest Mean IoU on the semantic-segmentation-on-nyu-depth-v2 dataset?,GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer
+semantic-segmentation-on-nyu-depth-v2,What are the top 3 models in terms of Mean IoU for the semantic-segmentation-on-nyu-depth-v2 dataset?,"GeminiFusion , OmniVec, GeminiFusion "
+semantic-segmentation-on-nyu-depth-v2,How many models have a Mean IoU above 55 for the semantic-segmentation-on-nyu-depth-v2 dataset?,17
+semantic-segmentation-on-nyu-depth-v2,What is the Mean IoU of the second-best model for the semantic-segmentation-on-nyu-depth-v2 dataset?,60.8
+semantic-segmentation-on-nyu-depth-v2,Which model has the lowest Mean IoU on the semantic-segmentation-on-nyu-depth-v2 dataset?,Cross-stitch
+semantic-segmentation-on-nyu-depth-v2,What is the Mean IoU of the 5th ranked model for the semantic-segmentation-on-nyu-depth-v2 dataset?,59.02
+semantic-segmentation-on-nyu-depth-v2,How many models are listed in the leaderboard for the semantic-segmentation-on-nyu-depth-v2 dataset?,113
+semantic-segmentation-on-nyu-depth-v2,What is the difference in Mean IoU between the top two models for the semantic-segmentation-on-nyu-depth-v2 dataset?,0.1
+weakly-supervised-object-detection-on-pascal-1,What is the highest MAP for the weakly-supervised-object-detection-on-pascal-1 dataset?,58.1
+weakly-supervised-object-detection-on-pascal-1,Which model achieves the highest MAP on the weakly-supervised-object-detection-on-pascal-1 dataset?,wetectron 
+weakly-supervised-object-detection-on-pascal-1,What is the Paper Title for the model with the highest MAP on the weakly-supervised-object-detection-on-pascal-1 dataset?,"Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection"
+weakly-supervised-object-detection-on-pascal-1,What are the top 3 models in terms of MAP for the weakly-supervised-object-detection-on-pascal-1 dataset?,"wetectron , CASD, OD-WSCL"
+weakly-supervised-object-detection-on-pascal-1,How many models have a MAP above 50 for the weakly-supervised-object-detection-on-pascal-1 dataset?,16
+weakly-supervised-object-detection-on-pascal-1,What is the MAP of the second-best model for the weakly-supervised-object-detection-on-pascal-1 dataset?,56.8
+weakly-supervised-object-detection-on-pascal-1,Which model has the lowest MAP on the weakly-supervised-object-detection-on-pascal-1 dataset?,Cover + SLSVM
+weakly-supervised-object-detection-on-pascal-1,What is the MAP of the 5th ranked model for the weakly-supervised-object-detection-on-pascal-1 dataset?,54.5
+weakly-supervised-object-detection-on-pascal-1,How many models are listed in the leaderboard for the weakly-supervised-object-detection-on-pascal-1 dataset?,35
+weakly-supervised-object-detection-on-pascal-1,What is the difference in MAP between the top two models for the weakly-supervised-object-detection-on-pascal-1 dataset?,1.3
