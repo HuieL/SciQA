@@ -1,4 +1,4 @@
-dataset,question,answer
+graph,question,answer
 3d-point-cloud-classification-on-scanobjectnn,"In 3D point cloud classification for ScanObjectNN, what method does the DeLA paper introduce?",Decoupled Local Aggregation for Point Cloud Learning
 3d-point-cloud-classification-on-scanobjectnn,"Which recent paper uses Point Feature Enhancement Masked Autoencoders for ScanObjectNN classification?",Towards Compact 3D Representations via Point Feature Enhancement Masked Autoencoders
 3d-point-cloud-classification-on-scanobjectnn,"What's the highest reported Overall Accuracy for 3D point cloud classification on ScanObjectNN?",90.4
