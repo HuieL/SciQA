@@ -14,7 +14,7 @@ We have some duties to do, you can pick one and leave your name behind the item;
 - [ ] Generator;
 
 #### 4. Baselines:
-- [ ] COT ...
+- [ ] COT, ToG, RoG ...
 
 
 ### Paper Writing
