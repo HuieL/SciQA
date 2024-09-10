@@ -10,7 +10,7 @@ We have some duties to do, you can pick one and leave your name behind the item;
 - [ ] Convert paper's content to a pyg graph; 
 
 #### 3. LLM Generation:
-- [ ] Strutured prompt;
+- [ ] Strutured prompt design;
 - [ ] Generator;
 
 #### 4. Baselines:
