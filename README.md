@@ -2,7 +2,7 @@ We have some duties to do, you can pick one and leave your name behind the item;
 
 ### Codes
 #### 1. Graph Retrieval:
-- [ ] Hybrid embedding; (Yuntong)
+- [ ] Hybrid embedding; 
 - [x] GNNs for retrieval; (Yuntong)
 - [ ] Projection layer; (Yuntong)
 
