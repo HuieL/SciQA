@@ -14,7 +14,7 @@ documents = [
 ]
 
 def get_hybrid_emb(docs):
-    n_components = 1536
+    n_components = min(1536, len(docs)-1)
     
     pca_sparse = PCA(n_components=n_components)
     pca_dense = PCA(n_components=n_components)
@@ -51,11 +51,8 @@ def get_tfidf_embeddings(docs):
 client = OpenAI()
 
 def get_openai_embeddings(texts, model="text-embedding-3-small"):
-   text = text.replace("\n", " ")
+#    text = text.replace("\n", " ")
    return client.embeddings.create(input = texts, model=model).data[0].embedding
 
-
-
-
 combined_embeddings = get_hybrid_emb(documents)
-print(f"Combined Embeddings Shape: {combined_embeddings.shape}")
+print(f"Combined Embeddings Shape: {combined_embeddings}")
