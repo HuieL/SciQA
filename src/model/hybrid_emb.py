@@ -3,6 +3,9 @@ from sentence_transformers import SentenceTransformer
 from rank_bm25 import BM25Okapi
 import nltk
 from openai import OpenAI
+import numpy as np
+from sklearn.decomposition import PCA
+from scipy.sparse import csr_matrix
 
 # 
 documents = [
@@ -11,6 +14,29 @@ documents = [
     "And this is the third one.",
     "Is this the first document?"
 ]
+def get_hybrid_emb(docs):
+    n_components = 1536
+    pca_sparse = PCA(n_components=n_components)
+    pca_dense = PCA(n_components=n_components)
+
+    combined_embeddings_list = []
+
+    for doc in docs:
+        sparse=get_tfidf_embeddings(doc)
+        dense=get_openai_embeddings(doc, model="text-embedding-3-small")
+
+        sparse = sparse.reshape(1, -1) if len(sparse.shape) == 1 else sparse
+        dense = dense.reshape(1, -1) if len(dense.shape) == 1 else dense
+
+        sparse_reduced = pca_sparse.fit_transform(sparse)
+        dense_reduced = pca_dense.fit_transform(dense)
+        combined_embeddings = np.hstack((sparse_reduced, dense_reduced))
+        combined_embeddings_list.append(combined_embeddings)
+    
+    combined_embeddings_array = np.vstack(combined_embeddings_list)
+    return combined_embeddings_array
+
+
 
 # 1.TF-IDF
 def get_tfidf_embeddings(docs):
@@ -40,12 +66,11 @@ def get_openai_embeddings(text, model="text-embedding-3-small"):
 
 dense_embeddings = get_openai_embeddings(documents)
 
-# 打印密集嵌入
+
 print("Dense Embeddings Shape:", len(dense_embeddings), "x", len(dense_embeddings[0])) 
 print("Dense Embeddings (Sample):", dense_embeddings[0])  
 
 print(f"Dense Embeddings Shape: {dense_embeddings.shape}")
 
-# 只显示非零值的部分
 print("Sparse Embeddings (Sample):", sparse_embeddings[0])
 
