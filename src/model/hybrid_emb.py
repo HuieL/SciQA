@@ -13,6 +13,7 @@ documents = [
     "Is this the first document?"
 ]
 
+#using PCA to combine embs, 
 def get_hybrid_emb(docs):
     n_components = min(1536, len(docs)-1)
     

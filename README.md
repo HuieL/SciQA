@@ -2,7 +2,8 @@ We have some duties to do, you can pick one and leave your name behind the item;
 
 ### Codes
 #### 1. Graph Retrieval:
-- [ ] Hybrid embedding; 
+- [x] Hybrid embedding; (Zhihan)
+    > Sparse=TFIDF, Dense=OpenAI (sparse can be switched to bm25, I wrote the code for bm25 as well, just that bm25 only generates a score and needs a query as input)
 - [x] GNNs for retrieval; (Yuntong)
 - [ ] Projection layer; (Yuntong)
 
