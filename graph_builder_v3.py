@@ -1,3 +1,8 @@
+'''
+this graph builder takes an arxiv id, and outputs the corresponding graph built from the paper
+method: named entity recognition
+alternatives: tfidf or cosine similarity
+'''
 import os
 import re
 import tarfile
