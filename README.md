@@ -8,7 +8,8 @@ We have some duties to do, you can pick one and leave your name behind the item;
 - [ ] Projection layer; (Yuntong)
 
 #### 2. Paper to Graph:
-- [ ] Convert paper's content to a pyg graph; 
+- [x] Convert paper's content to a pyg graph; (Zhihan)
+    > take an arxiv id and convert it to a graph using NER.
 
 #### 3. LLM Generation:
 - [ ] Strutured prompt design; 
