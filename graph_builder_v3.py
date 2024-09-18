@@ -30,21 +30,30 @@ def download_arxiv_latex(arxiv_id, save_dir):
         print(f"Failed to download LaTeX files for {arxiv_id}. Status code: {response.status_code}")
 
 def build_graph_from_latex(tex_files):
-    sections = [] 
-    section_map = {}  
-
-    section_pattern = r'\\section\{(.+?)\}'
+    sections = []
+    section_titles = []
 
     for tex_file in tex_files:
         with open(tex_file, 'r', encoding='utf-8') as file:
             content = file.read()
 
-            file_sections = re.findall(section_pattern, content)
-            for section in file_sections:
-                section_id = len(sections) 
-                sections.append(section) 
-                section_map[section] = section_id  
+            # Use regex to split content into sections
+            pattern = r'(\\section\{.*?\})'
+            parts = re.split(pattern, content)
 
+            for i in range(len(parts)):
+                if parts[i].startswith('\\section'):
+                    # Extract the title
+                    section_title_match = re.match(r'\\section\{(.*?)\}', parts[i])
+                    if section_title_match:
+                        section_title = section_title_match.group(1)
+                        section_titles.append(section_title)
+                        if i + 1 < len(parts):
+                            # The content immediately after the section title
+                            section_content = parts[i + 1]
+                            sections.append(section_content)
+                        else:
+                            sections.append('')
     return sections
 
 
