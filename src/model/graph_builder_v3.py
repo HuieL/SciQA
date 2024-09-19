@@ -12,6 +12,7 @@ import itertools
 from collections import defaultdict
 import torch
 from torch_geometric.data import Data
+from hybrid_emb import get_hybrid_emb
 
 def download_arxiv_latex(arxiv_id, save_dir):
     download_url = f"https://arxiv.org/e-print/{arxiv_id}"

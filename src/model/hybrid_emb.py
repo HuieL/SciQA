@@ -5,14 +5,6 @@ from openai import OpenAI
 import numpy as np
 from sklearn.decomposition import PCA
 
-# 
-documents = [
-    "This is the first document.",
-    "This document is the second document.",
-    "And this is the third one.",
-    "Is this the first document?"
-]
-
 #using PCA to combine embs, 
 def get_hybrid_emb(docs):
     n_components = min(1536, len(docs)-1)
@@ -54,6 +46,3 @@ client = OpenAI()
 def get_openai_embeddings(texts, model="text-embedding-3-small"):
 #    text = text.replace("\n", " ")
    return client.embeddings.create(input = texts, model=model).data[0].embedding
-
-combined_embeddings = get_hybrid_emb(documents)
-print(f"Combined Embeddings Shape: {combined_embeddings}")
