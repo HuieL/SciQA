@@ -74,3 +74,4 @@ class APIModel:
 # prompts = ["can you introduce youself?", "what data is today?"]
 # outputs = model.batch_chat(text_batch=prompts, temperature=1)
 # print(outputs)
+
