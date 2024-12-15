@@ -27,3 +27,6 @@ We have some duties to do, you can pick one and leave your name behind the item;
 - [ ] Experiment;
 - [ ] Conclution;
 - [ ] Appendix.
+
+# Trian the CLEAR model
+`python -m src.model.CLEAR`
