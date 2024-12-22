@@ -1,254 +1,158 @@
 import torch
 import numpy as np
-from transformers import AutoTokenizer, AutoModel
+import os
 import scipy.sparse as sp
-from typing import List, Dict, Any
+from typing import List, Tuple, Dict, Any
+from transformers import AutoTokenizer, AutoModel
 from sklearn.feature_extraction.text import TfidfVectorizer
 from src.model.CLEAR import ResidualDenseRetriever
+from src.model.base_retriever import HybridRetriever
 
 
-class ScoreFusionRetriever:
+class ScoreFusionRetriever(HybridRetriever):
     # Method in https://arxiv.org/pdf/2010.01195
-    def __init__(self, 
-                 lambda_weight: float = 0.8,
-                 specter2_model: str = "allenai/specter2_base",
+    def __init__(self, lambda_weight: float = 0.8, 
                  device: str = "cuda" if torch.cuda.is_available() else "cpu"):
-        """
-        Initialize hybrid retriever combining sparse BOW and dense SPECTER2 embeddings.
-        """
-        self.lambda_weight = lambda_weight
-        self.device = device
-
+        super().__init__(lambda_weight=lambda_weight, device=device)
         # Initialize sparse components
         self.tfidf = TfidfVectorizer(stop_words='english')
-        
         # Initialize dense components
-        self.tokenizer = AutoTokenizer.from_pretrained(specter2_model)
-        self.model = AutoModel.from_pretrained(specter2_model).to(device)
-        
-        # Storage for document embeddings
-        self.doc_sparse_embeddings = None
-        self.doc_dense_embeddings = None
-        
-    def _get_dense_embeddings(self, texts: List[str]) -> np.ndarray:
-        """Get dense embeddings using SPECTER2"""
-        embeddings = []
-        
-        with torch.no_grad():
-            for text in texts:
-                # Tokenize and move to device
-                inputs = self.tokenizer(text, 
-                                      padding=True, 
-                                      truncation=True,
-                                      max_length=512,
-                                      return_tensors="pt").to(self.device)
-                
-                # Get model output
-                outputs = self.model(**inputs)
-                
-                # Use CLS token embedding
-                embeddings.append(outputs.last_hidden_state[:, 0, :].cpu().numpy())
-        
-        return np.vstack(embeddings)
-    
-    def _get_sparse_embeddings(self, texts: List[str], fit: bool = False) -> sp.csr_matrix:
-        """Get sparse TF-IDF embeddings"""
-        if fit:
-            return self.tfidf.fit_transform(texts)
-        return self.tfidf.transform(texts)
-    
-    def index_documents(self, documents: List[str]):
-        """Index documents to build sparse and dense representations"""
-        # Get sparse embeddings
-        self.doc_sparse_embeddings = self._get_sparse_embeddings(documents, fit=True)
-        
+        self.model = AutoModel.from_pretrained('allenai/specter2_base').to(device)
+        self.tokenizer = AutoTokenizer.from_pretrained('allenai/specter2_base')
+
+    def encode(self, texts: List[str], batch_size: int = 32) -> Tuple[np.ndarray, sp.csr_matrix]:
         # Get dense embeddings
-        self.doc_dense_embeddings = self._get_dense_embeddings(documents)
-        
-    def _cosine_similarity(self, a: np.ndarray, b: np.ndarray) -> np.ndarray:
-        """Compute cosine similarity between embeddings"""
-        norm_a = np.linalg.norm(a, axis=1)
-        norm_b = np.linalg.norm(b, axis=1)
-        return np.dot(a, b.T) / np.outer(norm_a, norm_b)
+        dense_embeddings = []
+        for i in range(0, len(texts), batch_size):
+            batch = texts[i:i + batch_size]
+            inputs = self.tokenizer(batch, padding=True, truncation=True,
+                                  max_length=512, return_tensors='pt').to(self.device)
+            with torch.no_grad():
+                outputs = self.model(**inputs)
+                dense_embeddings.append(outputs.last_hidden_state[:, 0].cpu().numpy())
+        dense_vectors = np.vstack(dense_embeddings)
 
-    def _sparse_cosine_similarity(self, a: sp.csr_matrix, b: sp.csr_matrix) -> np.ndarray:
-        """Compute cosine similarity between sparse matrices"""
-        norm_a = np.sqrt(a.multiply(a).sum(axis=1))
-        norm_b = np.sqrt(b.multiply(b).sum(axis=1))
-        return np.array(a.dot(b.T).todense()) / np.outer(norm_a, norm_b)
+        # Get sparse embeddings
+        if len(texts) > 1 and not hasattr(self, 'doc_embeddings'): 
+            sparse_vectors = self.tfidf.fit_transform(texts)
+        else: 
+            sparse_vectors = self.tfidf.transform(texts)
 
-    def search(self, 
-              query: str, 
-              top_k: int = 10) -> List[Dict[str, Any]]:
-        # Get query embeddings
-        query_sparse = self._get_sparse_embeddings([query])
-        query_dense = self._get_dense_embeddings([query])
+        return dense_vectors, sparse_vectors
+
+class ColBERTRetriever(HybridRetriever):
+    # Method in https://arxiv.org/pdf/2004.12832
+    def __init__(self, 
+                 device: str = "cuda" if torch.cuda.is_available() else "cpu",
+                 max_length: int = 512):
+        super().__init__(device=device)
+        self.max_length = max_length
+        self.model = AutoModel.from_pretrained('colbert-ir/colbertv2.0').to(device)
+        self.tokenizer = AutoTokenizer.from_pretrained('colbert-ir/colbertv2.0')
+
+    def encode(self, texts: List[str], batch_size: int = 32) -> List[torch.Tensor]:
+        token_embeddings = []
         
-        # Calculate similarities
-        sparse_scores = self._sparse_cosine_similarity(
-            query_sparse, 
-            self.doc_sparse_embeddings
-        )[0]
-        
-        dense_scores = self._cosine_similarity(
-            query_dense, 
-            self.doc_dense_embeddings
-        )[0]
-        
-        # Combine scores using weighted sum
-        combined_scores = (
-            self.lambda_weight * dense_scores + 
-            (1 - self.lambda_weight) * sparse_scores
-        )
-        
-        # Get top-k indices and scores
-        top_indices = np.argsort(combined_scores)[::-1][:top_k]
-        top_scores = combined_scores[top_indices]
+        for i in range(0, len(texts), batch_size):
+            batch = texts[i:i + batch_size]
+            inputs = self.tokenizer(
+                batch,
+                padding=True,
+                truncation=True,
+                max_length=self.max_length,
+                return_tensors='pt'
+            ).to(self.device)
+            
+            with torch.no_grad():
+                outputs = self.model(**inputs)
+                token_embeddings.extend(outputs.last_hidden_state)
+
+        return token_embeddings
+
+    def search(self, query: str, documents: List[str], top_k: int = 3, 
+              batch_size: int = 32) -> List[Dict[str, Any]]:
+        # Index documents if not already done
+        if not hasattr(self, 'doc_embeddings'):
+            self.index_documents(documents, batch_size)
+
+        query_tokens = self.encode([query], batch_size)[0]
+        scores = []
+        for doc_tokens in self.doc_embeddings:
+            sim_matrix = torch.matmul(query_tokens, doc_tokens.T)
+            score = torch.sum(torch.max(sim_matrix, dim=1)[0]).item()
+            scores.append(score)
+        top_indices = np.argsort(scores)[-top_k:][::-1]
         
         results = []
-        for idx, score in zip(top_indices, top_scores):
+        for idx in top_indices:
             results.append({
-                "index": int(idx),
-                "score": float(score),
-                "sparse_score": float(sparse_scores[idx]),
-                "dense_score": float(dense_scores[idx])
+                'document': documents[idx],
+                'score': float(scores[idx]),
+                'index': int(idx)
             })
-            
+        
         return results
 
-class ClearRetriever:
+class CLEARRetriever(HybridRetriever):
     # Method in https://arxiv.org/pdf/2004.13969
-    def __init__(self, model_path: str, bert_model: str = "bert-base-uncased", device: str = "cuda"):
-        self.device = device
-        self.model = ResidualDenseRetriever(model_name=bert_model, device=device)
-        self.model.load_state_dict(torch.load(model_path, map_location=device))
-        self.model.eval()
+    def __init__(self, 
+                 model_path: str, 
+                 device: str = "cuda" if torch.cuda.is_available() else "cpu",
+                 bert_model: str = "bert-base-uncased"
+                 ):
+        super().__init__(device=device)
 
-        # Storage for document embeddings
+        # Check if model checkpoint exists
+        if not os.path.exists(model_path):
+            raise FileNotFoundError(
+                f"CLEAR model checkpoint not found at: {model_path}\n"
+                f"The model should be trained first: ."
+            )
+            
+        self.model = ResidualDenseRetriever(model_name=bert_model, device=device)
+        try:
+            self.model.load_state_dict(torch.load(model_path, map_location=device))
+        except Exception as e:
+            raise RuntimeError(
+                f"Error loading CLEAR model checkpoint: {str(e)}\n"
+                "Make sure the checkpoint is compatible with the BERT model version."
+            )
+            
+        self.model.eval()
         self.doc_embeddings = None
         self.documents = []
 
-    def _get_dense_embeddings(self, texts: List[str]) -> np.ndarray:
-        """Get dense embeddings for a list of texts using the CLEAR model."""
+    def encode(self, texts: List[str], batch_size: int = 64) -> np.ndarray:
         embeddings = []
         with torch.no_grad():
-            for i in range(0, len(texts), 64):  # Batch processing for efficiency
-                batch = texts[i:i + 64]
+            for i in range(0, len(texts), batch_size):
+                batch = texts[i:i + batch_size]
                 embeddings.append(self.model(batch).cpu().numpy())
         return np.vstack(embeddings)
 
-    def index_documents(self, documents: List[str]):
+    def index_documents(self, documents: List[str], batch_size: int = 64):
         self.documents = documents
-        self.doc_embeddings = self._get_dense_embeddings(documents)
-        print(f"Indexed {len(documents)} documents.")
+        self.doc_embeddings = self.encode(documents, batch_size)
 
-    def search(self, query: str, top_k: int = 10) -> List[Dict[str, Any]]:
-        # Compute query embedding
-        query_embedding = self._get_dense_embeddings([query])[0]  # Single query embedding
+    def search(self, query: str, documents: List[str], top_k: int = 3, 
+              batch_size: int = 64) -> List[Dict[str, Any]]:
+        if not hasattr(self, 'doc_embeddings'):
+            self.index_documents(documents, batch_size)
 
-        # Compute cosine similarities
+        query_embedding = self.encode([query], batch_size)[0] 
         norm_query = np.linalg.norm(query_embedding)
         norm_docs = np.linalg.norm(self.doc_embeddings, axis=1)
         similarities = np.dot(self.doc_embeddings, query_embedding) / (norm_docs * norm_query)
-
-        # Get top-k results
+        
         top_indices = np.argsort(similarities)[::-1][:top_k]
         top_scores = similarities[top_indices]
-
+        
         results = []
         for idx, score in zip(top_indices, top_scores):
             results.append({
-                "index": int(idx),
-                "score": float(score),
-                "document": self.documents[idx]
+                'document': self.documents[idx],
+                'score': float(score),
+                'index': int(idx)
             })
-
+        
         return results
-
-class ColBERTRetriever:
-    # Method in https://arxiv.org/pdf/2004.12832
-    def __init__(self, 
-                 model_name: str = "colbert-ir/colbertv2.0", 
-                 device: str = "cuda" if torch.cuda.is_available() else "cpu",
-                 max_length: int = 512):
-        """
-        Initialize ColBERT retriever for hybrid retrieval.
-        """
-        self.device = device
-        self.max_length = max_length
-
-        # Initialize ColBERT tokenizer and model
-        self.tokenizer = AutoTokenizer.from_pretrained(model_name)
-        self.model = AutoModel.from_pretrained(model_name).to(device)
-
-        # Storage for token embeddings and documents
-        self.doc_token_embeddings = []
-        self.documents = []
-
-    def _get_token_embeddings(self, texts: List[str]) -> List[torch.Tensor]:
-        """Get token embeddings for a list of texts."""
-        token_embeddings = []
-        self.model.eval()
-        with torch.no_grad():
-            for text in texts:
-                inputs = self.tokenizer(
-                    text,
-                    return_tensors="pt",
-                    truncation=True,
-                    padding="max_length",
-                    max_length=self.max_length
-                ).to(self.device)
-                outputs = self.model(**inputs)
-                token_embeddings.append(outputs.last_hidden_state.squeeze(0).cpu())
-        return token_embeddings
-
-    def index_documents(self, documents: List[str]):
-        self.documents = documents
-        self.doc_token_embeddings = self._get_token_embeddings(documents)
-
-    def search(self, query: str, top_k: int = 10) -> List[Dict[str, Any]]:
-        """Retrieve top-k documents for the given query."""
-        query_token_embeddings = self._get_token_embeddings([query])[0]
-
-        results = []
-        for idx, doc_token_embedding in enumerate(self.doc_token_embeddings):
-            similarity = torch.mm(query_token_embeddings, doc_token_embedding.T).max(dim=1).values.sum().item()
-            results.append({"index": idx, "score": similarity, "document": self.documents[idx]})
-
-        return sorted(results, key=lambda x: x["score"], reverse=True)[:top_k]
-
-
-# def test_hybrid_retrievers():
-#     # Sample documents
-#     documents = [
-#         "The quick brown fox jumps over the lazy dog.",
-#         "Machine learning is a subset of artificial intelligence.",
-#         "Python is a popular programming language.",
-#         "Neural networks are inspired by biological neurons.",
-#         "Deep learning has revolutionized computer vision."
-#     ]
-    
-#     query = "What is artificial intelligence?"
-    
-#     # Initialize retrievers
-#     retrievers = {
-#         "ScoreFusion": ScoreFusionRetriever(lambda_weight=0.7),  # 70% dense, 30% sparse
-#         "CLEAR": ClearRetriever(model_path="clear_model.pt", bert_model="bert-base-uncased"),
-#         "ColBERT": ColBERTRetriever()
-#     }
-    
-#     # Index documents
-#     for name, retriever in retrievers.items():
-#         print(f"\nIndexing documents for {name}...")
-#         retriever.index_documents(documents)
-    
-#     # Test query
-#     print(f"\nTesting query: '{query}'")
-#     for name, retriever in retrievers.items():
-#         print(f"\nResults for {name}:")
-#         results = retriever.search(query, top_k=3)
-#         for rank, result in enumerate(results, 1):
-#             print(f"{rank}. Score: {result['score']:.4f} - Document: {documents[result['index']]}")
-
-# if __name__ == "__main__":
-#     test_hybrid_retrievers()
