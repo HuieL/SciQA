@@ -1,187 +1,158 @@
-import numpy as np
-import scipy.sparse as sp
 import torch
-from collections import Counter
-import math
-from tqdm import tqdm
-from typing import List
-from transformers import AutoModel, AutoTokenizer, T5ForConditionalGeneration, T5Tokenizer
-from src.model.base_retriever import SparseRetriever
+import numpy as np
+import os
+import scipy.sparse as sp
+from typing import List, Tuple, Dict, Any
+from transformers import AutoTokenizer, AutoModel
+from sklearn.feature_extraction.text import TfidfVectorizer
+from src.model.CLEAR import ResidualDenseRetriever
+from src.model.base_retriever import HybridRetriever
 
 
-class BM25Retriever(SparseRetriever):
-    def __init__(self, k1: float = 1.5, b: float = 0.75, device: str = 'cpu'):
-        super().__init__(device)
-        self.k1 = k1
-        self.b = b
-        self._initialized = False
+class ScoreFusionRetriever(HybridRetriever):
+    # Method in https://arxiv.org/pdf/2010.01195
+    def __init__(self, lambda_weight: float = 0.8, 
+                 device: str = "cuda" if torch.cuda.is_available() else "cpu"):
+        super().__init__(lambda_weight=lambda_weight, device=device)
+        # Initialize sparse components
+        self.tfidf = TfidfVectorizer(stop_words='english')
+        # Initialize dense components
+        self.model = AutoModel.from_pretrained('allenai/specter2_base').to(device)
+        self.tokenizer = AutoTokenizer.from_pretrained('allenai/specter2_base')
 
-    def _tokenize(self, text: str) -> List[str]:
-        # Handle both string and list inputs
-        if isinstance(text, list):
-            text = ' '.join(text)
-        return text.lower().split()
-
-    def index_documents(self, texts: List[str], batch_size: int = 32):
-        self.documents = texts
-        self.N = len(texts)
-        self.doc_freqs = {}
-        self.doc_lengths = []
-        total_len = 0
-        
-        # Process all documents
-        for text in tqdm(texts, desc="Processing documents"):
-            terms = self._tokenize(text)
-            self.doc_lengths.append(len(terms))
-            total_len += len(terms)
-            
-            # Update document frequencies for unique terms
-            for term in set(terms):
-                self.doc_freqs[term] = self.doc_freqs.get(term, 0) + 1
-        
-        self.avgdl = total_len / self.N if self.N > 0 else 0
-        self._initialized = True
-        
-        # Create sparse matrix representation
-        self.doc_embeddings = self.encode(texts)
-
-    def encode(self, texts: List[str], batch_size: int = 32) -> sp.csr_matrix:
-        if not self._initialized and len(texts) > 1:
-            self.index_documents(texts)
-            
-        # Build vocabulary
-        vocab = sorted(self.doc_freqs.keys())
-        term_to_id = {term: idx for idx, term in enumerate(vocab)}
-        
-        rows, cols, data = [], [], []
-        for doc_idx, text in enumerate(texts):
-            terms = self._tokenize(text)
-            term_freqs = Counter(terms)
-            doc_len = len(terms)
-            
-            for term, freq in term_freqs.items():
-                if term in term_to_id:
-                    # Calculate BM25 score
-                    idf = math.log((self.N - self.doc_freqs.get(term, 0) + 0.5) / 
-                                 (self.doc_freqs.get(term, 0) + 0.5) + 1)
-                    norm_tf = ((freq * (self.k1 + 1)) / 
-                             (freq + self.k1 * (1 - self.b + self.b * doc_len / self.avgdl)))
-                    score = idf * norm_tf
-                    
-                    rows.append(doc_idx)
-                    cols.append(term_to_id[term])
-                    data.append(score)
-        
-        if not vocab: 
-            return sp.csr_matrix((len(texts), 0))
-                    
-        return sp.csr_matrix((data, (rows, cols)), 
-                           shape=(len(texts), len(vocab)))
-    
-class BGEM3Retriever(SparseRetriever):
-    def __init__(self, device: str = 'cuda' if torch.cuda.is_available() else 'cpu'):
-        super().__init__(device)
-        from FlagEmbedding import BGEM3FlagModel
-        self.model = BGEM3FlagModel('BAAI/bge-m3', use_fp16=True)
-        self._initialized = False
-        
-    def index_documents(self, texts: List[str], batch_size: int = 32):
-        self.documents = texts
-        self.doc_embeddings = self.encode(texts, batch_size)
-        self._initialized = True
-
-    def encode(self, texts: List[str], batch_size: int = 32) -> sp.csr_matrix:
-        all_weights = []
-        for i in tqdm(range(0, len(texts), batch_size), desc="Encoding texts"):
+    def encode(self, texts: List[str], batch_size: int = 32) -> Tuple[np.ndarray, sp.csr_matrix]:
+        # Get dense embeddings
+        dense_embeddings = []
+        for i in range(0, len(texts), batch_size):
             batch = texts[i:i + batch_size]
-            # Get lexical weights for batch
-            batch_outputs = []
-            for text in batch:
-                if not text.strip(): 
-                    batch_outputs.append(None)
-                    continue
-                output = self.model.encode(
-                    [text], 
-                    return_dense=False, 
-                    return_sparse=True
-                )
-                batch_outputs.append(output['lexical_weights'][0])
-            
-            for weights in batch_outputs:
-                if weights is None:
-                    vocab_size = max(w.shape[0] for w in all_weights) if all_weights else 1
-                    all_weights.append(sp.csr_matrix((1, vocab_size)))
-                else:
-                    all_weights.append(sp.csr_matrix(weights))
+            inputs = self.tokenizer(batch, padding=True, truncation=True,
+                                  max_length=512, return_tensors='pt').to(self.device)
+            with torch.no_grad():
+                outputs = self.model(**inputs)
+                dense_embeddings.append(outputs.last_hidden_state[:, 0].cpu().numpy())
+        dense_vectors = np.vstack(dense_embeddings)
+
+        # Get sparse embeddings
+        if len(texts) > 1 and not hasattr(self, 'doc_embeddings'): 
+            sparse_vectors = self.tfidf.fit_transform(texts)
+        else: 
+            sparse_vectors = self.tfidf.transform(texts)
+
+        return dense_vectors, sparse_vectors
+
+class ColBERTRetriever(HybridRetriever):
+    # Method in https://arxiv.org/pdf/2004.12832
+    def __init__(self, 
+                 device: str = "cuda" if torch.cuda.is_available() else "cpu",
+                 max_length: int = 512):
+        super().__init__(device=device)
+        self.max_length = max_length
+        self.model = AutoModel.from_pretrained('colbert-ir/colbertv2.0').to(device)
+        self.tokenizer = AutoTokenizer.from_pretrained('colbert-ir/colbertv2.0')
+
+    def encode(self, texts: List[str], batch_size: int = 32) -> List[torch.Tensor]:
+        token_embeddings = []
         
-        if not all_weights: 
-            return sp.csr_matrix((len(texts), 1))
-            
-        max_width = max(w.shape[1] for w in all_weights)
-        padded_weights = []
-        for w in all_weights:
-            if w.shape[1] < max_width:
-                w = sp.hstack([w, sp.csr_matrix((w.shape[0], max_width - w.shape[1]))])
-            padded_weights.append(w)
-            
-        return sp.vstack(padded_weights)
-
-    def compute_lexical_matching_score(self, query_weights, doc_weights):
-        return self.model.compute_lexical_matching_score(query_weights, doc_weights)
-    
-class Doc2QueryRetriever(SparseRetriever):
-    def __init__(self, device: str = 'cuda' if torch.cuda.is_available() else 'cpu',
-                 num_queries: int = 3):
-        super().__init__(device)
-        self.num_queries = num_queries
-        self.tokenizer = T5Tokenizer.from_pretrained("doc2query/msmarco-t5-base-v1")
-        self.model = T5ForConditionalGeneration.from_pretrained("doc2query/msmarco-t5-base-v1").to(device)
-        self.bm25 = BM25Retriever()
-
-    def _expand_document(self, text: str) -> str:
-        inputs = self.tokenizer.encode(text, return_tensors="pt",
-                                     max_length=512, truncation=True).to(self.device)
-        with torch.no_grad():
-            outputs = self.model.generate(
-                inputs, max_length=64,
-                num_return_sequences=self.num_queries,
-                do_sample=True,
-                top_k=50, top_p=0.95
-            )
-        queries = self.tokenizer.batch_decode(outputs, skip_special_tokens=True)
-        return text + " " + " ".join(queries)
-
-    def index_documents(self, texts: List[str], batch_size: int = 32):
-        self.documents = texts
-        expanded_texts = [self._expand_document(text) for text in texts]
-        self.bm25.index_documents(expanded_texts)
-        self.doc_embeddings = self.bm25.doc_embeddings
-
-    def encode(self, texts: List[str], batch_size: int = 32) -> sp.csr_matrix:
-        expanded_texts = [self._expand_document(text) for text in texts]
-        return self.bm25.encode(expanded_texts)
-
-class SPLADERetriever(SparseRetriever):
-    def __init__(self, device: str = 'cuda' if torch.cuda.is_available() else 'cpu'):
-        super().__init__(device)
-        self.model = AutoModel.from_pretrained("naver/splade-cocondenser-ensembledistil").to(device)
-        self.tokenizer = AutoTokenizer.from_pretrained("naver/splade-cocondenser-ensembledistil")
-
-    def encode(self, texts: List[str], batch_size: int = 32) -> sp.csr_matrix:
-        rows, cols, data = [], [], []
-        for doc_idx, text in enumerate(texts):
-            inputs = self.tokenizer(text, padding=True, truncation=True,
-                                  max_length=512, return_tensors="pt").to(self.device)
+        for i in range(0, len(texts), batch_size):
+            batch = texts[i:i + batch_size]
+            inputs = self.tokenizer(
+                batch,
+                padding=True,
+                truncation=True,
+                max_length=self.max_length,
+                return_tensors='pt'
+            ).to(self.device)
             
             with torch.no_grad():
                 outputs = self.model(**inputs)
-                logits = outputs.last_hidden_state.sum(dim=1)
-                weights = torch.relu(logits).squeeze(0).cpu().numpy()
-                
-                nonzero_idx = np.nonzero(weights)[0]
-                rows.extend([doc_idx] * len(nonzero_idx))
-                cols.extend(nonzero_idx.tolist())
-                data.extend(weights[nonzero_idx].tolist())
+                token_embeddings.extend(outputs.last_hidden_state)
+
+        return token_embeddings
+
+    def search(self, query: str, documents: List[str], top_k: int = 3, 
+              batch_size: int = 32) -> List[Dict[str, Any]]:
+        # Index documents if not already done
+        if not hasattr(self, 'doc_embeddings'):
+            self.index_documents(documents, batch_size)
+
+        query_tokens = self.encode([query], batch_size)[0]
+        scores = []
+        for doc_tokens in self.doc_embeddings:
+            sim_matrix = torch.matmul(query_tokens, doc_tokens.T)
+            score = torch.sum(torch.max(sim_matrix, dim=1)[0]).item()
+            scores.append(score)
+        top_indices = np.argsort(scores)[-top_k:][::-1]
         
-        return sp.csr_matrix((data, (rows, cols)),
-                           shape=(len(texts), self.tokenizer.vocab_size))
+        results = []
+        for idx in top_indices:
+            results.append({
+                'document': documents[idx],
+                'score': float(scores[idx]),
+                'index': int(idx)
+            })
+        
+        return results
+
+class CLEARRetriever(HybridRetriever):
+    # Method in https://arxiv.org/pdf/2004.13969
+    def __init__(self, 
+                 model_path: str, 
+                 device: str = "cuda" if torch.cuda.is_available() else "cpu",
+                 bert_model: str = "bert-base-uncased"
+                 ):
+        super().__init__(device=device)
+
+        # Check if model checkpoint exists
+        if not os.path.exists(model_path):
+            raise FileNotFoundError(
+                f"CLEAR model checkpoint not found at: {model_path}\n"
+                f"The model should be trained first: ."
+            )
+            
+        self.model = ResidualDenseRetriever(model_name=bert_model, device=device)
+        try:
+            self.model.load_state_dict(torch.load(model_path, map_location=device))
+        except Exception as e:
+            raise RuntimeError(
+                f"Error loading CLEAR model checkpoint: {str(e)}\n"
+                "Make sure the checkpoint is compatible with the BERT model version."
+            )
+            
+        self.model.eval()
+        self.doc_embeddings = None
+        self.documents = []
+
+    def encode(self, texts: List[str], batch_size: int = 64) -> np.ndarray:
+        embeddings = []
+        with torch.no_grad():
+            for i in range(0, len(texts), batch_size):
+                batch = texts[i:i + batch_size]
+                embeddings.append(self.model(batch).cpu().numpy())
+        return np.vstack(embeddings)
+
+    def index_documents(self, documents: List[str], batch_size: int = 64):
+        self.documents = documents
+        self.doc_embeddings = self.encode(documents, batch_size)
+
+    def search(self, query: str, documents: List[str], top_k: int = 3, 
+              batch_size: int = 64) -> List[Dict[str, Any]]:
+        if not hasattr(self, 'doc_embeddings'):
+            self.index_documents(documents, batch_size)
+
+        query_embedding = self.encode([query], batch_size)[0] 
+        norm_query = np.linalg.norm(query_embedding)
+        norm_docs = np.linalg.norm(self.doc_embeddings, axis=1)
+        similarities = np.dot(self.doc_embeddings, query_embedding) / (norm_docs * norm_query)
+        
+        top_indices = np.argsort(similarities)[::-1][:top_k]
+        top_scores = similarities[top_indices]
+        
+        results = []
+        for idx, score in zip(top_indices, top_scores):
+            results.append({
+                'document': self.documents[idx],
+                'score': float(score),
+                'index': int(idx)
+            })
+        
+        return results
