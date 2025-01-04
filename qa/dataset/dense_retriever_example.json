@@ -1,0 +1,102 @@
+[
+    {
+        "retriever_name": "MiniLM",
+        "query": "What is brown fox",
+        "query_idx": 0,
+        "results": [
+            "The quick brown fox jumps over the lazy dog.",
+            "Python is a popular programming language.",
+            "Machine learning is a subset of artificial intelligence."
+        ]
+    },
+    {
+        "retriever_name": "MiniLM",
+        "query": "What is artificial intelligence?",
+        "query_idx": 1,
+        "results": [
+            "Machine learning is a subset of artificial intelligence.",
+            "Neural networks are inspired by biological neurons.",
+            "Python is a popular programming language."
+        ]
+    },
+    {
+        "retriever_name": "MiniLM",
+        "query": "What is Python",
+        "query_idx": 2,
+        "results": [
+            "Python is a popular programming language.",
+            "Machine learning is a subset of artificial intelligence.",
+            "The quick brown fox jumps over the lazy dog."
+        ]
+    },
+    {
+        "retriever_name": "MiniLM",
+        "query": "What is neural networks",
+        "query_idx": 3,
+        "results": [
+            "Neural networks are inspired by biological neurons.",
+            "Machine learning is a subset of artificial intelligence.",
+            "Deep learning has revolutionized computer vision."
+        ]
+    },
+    {
+        "retriever_name": "MiniLM",
+        "query": "What is deep learning",
+        "query_idx": 4,
+        "results": [
+            "Deep learning has revolutionized computer vision.",
+            "Machine learning is a subset of artificial intelligence.",
+            "Neural networks are inspired by biological neurons."
+        ]
+    },
+    {
+        "retriever_name": "SPAR",
+        "query": "What is brown fox",
+        "query_idx": 0,
+        "results": [
+            "The quick brown fox jumps over the lazy dog.",
+            "Neural networks are inspired by biological neurons.",
+            "Python is a popular programming language."
+        ]
+    },
+    {
+        "retriever_name": "SPAR",
+        "query": "What is artificial intelligence?",
+        "query_idx": 1,
+        "results": [
+            "Machine learning is a subset of artificial intelligence.",
+            "Neural networks are inspired by biological neurons.",
+            "Python is a popular programming language."
+        ]
+    },
+    {
+        "retriever_name": "SPAR",
+        "query": "What is Python",
+        "query_idx": 2,
+        "results": [
+            "Python is a popular programming language.",
+            "Neural networks are inspired by biological neurons.",
+            "Machine learning is a subset of artificial intelligence."
+        ]
+    },
+    {
+        "retriever_name": "SPAR",
+        "query": "What is neural networks",
+        "query_idx": 3,
+        "results": [
+            "Neural networks are inspired by biological neurons.",
+            "Python is a popular programming language.",
+            "Machine learning is a subset of artificial intelligence."
+        ]
+    },
+    {
+        "retriever_name": "SPAR",
+        "query": "What is deep learning",
+        "query_idx": 4,
+        "results": [
+            "Deep learning has revolutionized computer vision.",
+            "Machine learning is a subset of artificial intelligence.",
+            "Neural networks are inspired by biological neurons."
+        ]
+    }
+]
