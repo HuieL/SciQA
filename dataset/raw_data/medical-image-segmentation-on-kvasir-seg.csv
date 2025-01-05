@@ -1,0 +1,49 @@
+Rank,Model,mean Dice,Average MAE,S-Measure,max E-Measure,mIoU,FPS,F-measure,Paper Title,Paper URL
+1,DUCK-Net,0.9502,,,,0.9051,,,Using DUCK-Net for Polyp Image Segmentation,/paper/using-duck-net-for-polyp-image-segmentation-1
+2,FCB Former,0.9445,,,,0.8974,,,Adaptive t-vMF Dice Loss for Multi-class Medical Image Segmentation,/paper/adaptive-t-vmf-dice-loss-for-multi-class
+3,FCB-SwinV2 Transformer,0.942,,,,0.8973,,,FCB-SwinV2 Transformer for Polyp Segmentation,/paper/fcb-swinv2-transformer-for-polyp-segmentation
+4,SEP,0.9411,,,,0.9002,,,Spatially Exclusive Pasting: A General Data Augmentation for the Polyp Segmentation,/paper/spatially-exclusive-pasting-a-general-data
+5,FCBFormer,0.9385,,,,0.8903,,,FCN-Transformer Feature Fusion for Polyp Segmentation,/paper/fcn-transformer-feature-fusion-for-polyp
+6,HarDNet-DFUS,0.9363,,,,0.8894,,,HarDNet-DFUS: An Enhanced Harmonically-Connected Network for Diabetic Foot Ulcer Image Segmentation and Colonoscopy Polyp Segmentation,/paper/hardnet-dfus-an-enhanced-harmonically
+7,SSFormer-L,0.9357,,,,0.8905,,,Stepwise Feature Fusion: Local Guides Global,/paper/stepwise-feature-fusion-local-guides-global
+8,ESFPNet-L,0.931,,,,0.887,,,ESFPNet: efficient deep learning architecture for real-time lesion segmentation in autofluorescence bronchoscopic video,/paper/esfpnet-efficient-deep-learning-architecture
+9,UGCANet,0.928,,,,0.881,,,UGCANet: A Unified Global Context-Aware Transformer-based Network with Feature Alignment for Endoscopic Image Analysis,/paper/ugcanet-a-unified-global-context-aware
+10,EMCAD,0.928,,,,,,,EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation,/paper/emcad-efficient-multi-scale-convolutional
+11,PVT-GCASCADE,0.9274,,,,0.879,,,G-CASCADE: Efficient Cascaded Graph Convolutional Decoding for 2D Medical Image Segmentation,/paper/g-cascade-efficient-cascaded-graph
+12,ColonFormer,0.927,,,,0.877,,,ColonFormer: An Efficient Transformer based Method for Colon Polyp Segmentation,/paper/colonformer-an-efficient-transformer-based
+13,RaBiT,0.927,,,,0.873,,,RaBiT: An Efficient Transformer using Bidirectional Feature Pyramid Network with Reverse Attention for Colon Polyp Segmentation,/paper/rabit-an-efficient-transformer-using
+14,GMSRF-Net,0.9263,,,,0.8843,,,GMSRF-Net: An improved generalizability with global multi-scale residual fusion network for polyp segmentation,/paper/gmsrf-net-an-improved-generalizability-with
+15,PVT-CASCADE,0.9258,,,,0.8776,,,Medical Image Segmentation via Cascaded Attention Decoding,/paper/medical-image-segmentation-via-cascaded
+16,DuAT,0.924,0.023,,,0.876,,,DuAT: Dual-Aggregation Transformer Network for Medical Image Segmentation,/paper/duat-dual-aggregation-transformer-network-for
+17,MSRF-Net,0.9217,,,,0.8914,,,MSRF-Net: A Multi-Scale Residual Fusion Network for Biomedical Image Segmentation,/paper/msrf-net-a-multi-scale-residual-fusion
+18,CaraNet,0.918,0.023,0.929,0.968,0.865,,,CaraNet: Context Axial Reverse Attention Network for Segmentation of Small Medical Objects,/paper/caranet-context-axial-reverse-attention
+19,TransFuse-L,0.918,,,,0.868,,,TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation,/paper/transfuse-fusing-transformers-and-cnns-for
+20,TransFuse-S,0.918,,,,0.868,,,TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation,/paper/transfuse-fusing-transformers-and-cnns-for
+21,BDG-Net,0.915,0.021,0.923,0.972,0.865,,,BDG-Net: Boundary Distribution Guided Network for Accurate Polyp Segmentation,/paper/bdg-net-boundary-distribution-guided-network
+22,MEGANet,0.913,0.025,,,0.863,,,MEGANet: Multi-Scale Edge-Guided Attention Network for Weak Boundary Polyp Segmentation,/paper/meganet-multi-scale-edge-guided-attention
+23,KDAS,0.913,0.027,,,0.848,,,KDAS: Knowledge Distillation via Attention Supervision Framework for Polyp Segmentation,/paper/kdas3-knowledge-distillation-via-attention
+24,HarDNet-MSEG,0.912,0.025,0.923,0.958,0.857,116.0,,HarDNet-MSEG: A Simple Encoder-Decoder Polyp Segmentation Neural Network that Achieves over 0.9 Mean Dice and 86 FPS,/paper/hardnet-mseg-a-simple-encoder-decoder-polyp
+25,UACANet-L,0.912,0.025,0.917,0.958,0.862,,,UACANet: Uncertainty Augmented Context Attention for Polyp Segmentation,/paper/uacanet-uncertainty-augmented-context
+26,MEGANet,0.911,0.026,,,0.859,,,MEGANet: Multi-Scale Edge-Guided Attention Network for Weak Boundary Polyp Segmentation,/paper/meganet-multi-scale-edge-guided-attention
+27,ProMISe,0.911,,,,0.851,,,ProMISe: Promptable Medical Image Segmentation using SAM,/paper/promise-promptable-medical-image-segmentation
+28,A-DenseUNet,0.9085,,,,0.8615,,,A-DenseUNet: Adaptive Densely Connected UNet for Polyp Segmentation in Colonoscopy Images with Atrous Convolution,/paper/a-denseunet-adaptive-densely-connected-unet
+29,UACANet-S,0.905,0.026,0.914,0.951,0.852,,,UACANet: Uncertainty Augmented Context Attention for Polyp Segmentation,/paper/uacanet-uncertainty-augmented-context
+30,COMMA ,0.904,0.024,0.925,0.963,0.86,,,COMMA: Propagating Complementary Multi-Level Aggregation Network for Polyp Segmentation,/paper/comma-propagating-complementary-multi-level
+31,Polyp-SAM++,0.902,,,,0.862,,0.92,Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation?,/paper/polyp-sam-can-a-text-guided-sam-perform
+32,AG-CUResNeSt,0.902,,,,0.845,,,AG-CUResNeSt: A Novel Method for Colon Polyp Segmentation,/paper/ag-curesnest-a-novel-method-for-colon-polyp
+33,COMMA ,0.901,0.027,0.919,0.951,0.852,,,COMMA: Propagating Complementary Multi-Level Aggregation Network for Polyp Segmentation,/paper/comma-propagating-complementary-multi-level
+34,TGA-Net,0.8982,,,,0.833,,,TGANet: Text-guided attention for improved polyp segmentation,/paper/tganet-text-guided-attention-for-improved
+35,PraNet,0.898,0.03,0.915,0.948,0.849,,,PraNet: Parallel Reverse Attention Network for Polyp Segmentation,/paper/pranet-parallel-reverse-attention-network-for
+36,TransResU-Net,0.8884,,,,0.8214,48.61,,TransResU-Net: Transformer based ResU-Net for Real-Time Colonoscopy Polyp Segmentation,/paper/transresu-net-transformer-based-resu-net-for
+37,PEFNet,0.8818,,,,0.8163,,,Multi Kernel Positional Embedding ConvNeXt for Polyp Segmentation,/paper/multi-kernel-positional-embedding-convnext
+38,FANet,0.8803,0.8153,,,,,,FANet: A Feedback Attention Network for Improved Biomedical Image Segmentation,/paper/fanet-a-feedback-attention-network-for
+39,TransNetR,0.8706,,,,0.8016,54.6,,TransNetR: Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing,/paper/transnetr-transformer-based-residual-network
+40,DDANet,0.8576,,,,0.78,69.59,,DDANet: Dual Decoder Attention Network for Automatic Polyp Segmentation,/paper/ddanet-dual-decoder-attention-network-for
+41,DoubleUnet-DCA,0.8516,,,,0.7434,,,Dual Cross-Attention for Medical Image Segmentation,/paper/dual-cross-attention-for-medical-image
+42,ResUNet++ + TTA + CRF,0.8508,,,,0.78,69.59,,"A Comprehensive Study on Colorectal Polyp Segmentation with ResUNet++, Conditional Random Field and Test-Time Augmentation",/paper/a-comprehensive-study-on-colorectal-polyp
+43,U-Net++,0.821,0.048,0.862,0.91,,,,UNet++: A Nested U-Net Architecture for Medical Image Segmentation,/paper/unet-a-nested-u-net-architecture-for-medical
+44,ColonSegNet,0.8206,,,,0.7239,182.38,,"Real-Time Polyp Detection, Localization and Segmentation in Colonoscopy Using Deep Learning",/paper/real-time-polyp-detection-localisation-and
+45,U-Net,0.818,0.055,0.858,0.893,,,,U-Net: Convolutional Networks for Biomedical Image Segmentation,/paper/u-net-convolutional-networks-for-biomedical
+46,ResUNet++,0.8133,,,,,,,ResUNet++: An Advanced Architecture for Medical Image Segmentation,/paper/resunet-an-advanced-architecture-for-medical
+47,ResUNet,0.7877,,,,,,,Kvasir-SEG: A Segmented Polyp Dataset,/paper/kvasir-seg-a-segmented-polyp-dataset
+48,RUPNet,0.7658,,,,0.6553,152.6,,RUPNet: Residual upsampling network for real-time polyp segmentation,/paper/rupnet-residual-upsampling-network-for-real

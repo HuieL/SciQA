@@ -1,0 +1,59 @@
+Rank,Model,Accuracy,Paper Title,Paper URL
+1,PaLI,84.3,PaLI: A Jointly-Scaled Multilingual Language-Image Model,/paper/pali-a-jointly-scaled-multilingual-language
+2,BEiT-3,84.19,Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks,/paper/image-as-a-foreign-language-beit-pretraining
+3,VLMo,82.78,VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts,/paper/vlmo-unified-vision-language-pre-training
+4,ONE-PEACE,82.6,ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities,/paper/one-peace-exploring-one-general
+5,mPLUG ,82.43,mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections,/paper/mplug-effective-and-efficient-vision-language
+6,CuMo-7B,82.2,CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts,/paper/cumo-scaling-multimodal-llm-with-co-upcycled
+7,X2-VLM ,81.9,X$^2$-VLM: All-In-One Pre-trained Model For Vision-Language Tasks,/paper/x-2-vlm-all-in-one-pre-trained-model-for
+8,MMU,81.26,Achieving Human Parity on Visual Question Answering,/paper/achieving-human-parity-on-visual-question
+9,Lyrics,81.2,Lyrics: Boosting Fine-grained Language-Vision Alignment and Comprehension via Semantic-aware Visual Objects,/paper/lyrics-boosting-fine-grained-language-vision
+10,InternVL-C,81.2,InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks,/paper/internvl-scaling-up-vision-foundation-models
+11,mPLUG-2,81.11,"mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video",/paper/mplug-2-a-modularized-multi-modal-foundation
+12,X2-VLM ,80.4,X$^2$-VLM: All-In-One Pre-trained Model For Vision-Language Tasks,/paper/x-2-vlm-all-in-one-pre-trained-model-for
+13,XFM ,80.4,"Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks",/paper/toward-building-general-foundation-models-for
+14,VAST,80.23,,
+15,Florence,80.16,Florence: A New Foundation Model for Computer Vision,/paper/florence-a-new-foundation-model-for-computer
+16,SimVLM,80.03,SimVLM: Simple Visual Language Model Pretraining with Weak Supervision,/paper/simvlm-simple-visual-language-model
+17,VALOR,78.46,VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset,/paper/valor-vision-audio-language-omni-perception
+18,Prismer,78.43,Prismer: A Vision-Language Model with Multi-Task Experts,/paper/prismer-a-vision-language-model-with-an
+19,X-VLM ,78.22,Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts,/paper/multi-grained-vision-language-pre-training
+20,VK-OOD,77.9,Implicit Differentiable Outlier Detection Enable Robust Deep Multimodal Analysis,/paper/implicit-differentiable-outlier-detection
+21,ALBEF ,75.84,Align before Fuse: Vision and Language Representation Learning with Momentum Distillation,/paper/align-before-fuse-vision-and-language
+22,Oscar,73.82,Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks,/paper/oscar-object-semantics-aligned-pre-training
+23,UNITER ,73.24,UNITER: UNiversal Image-TExt Representation Learning,/paper/uniter-learning-universal-image-text-1
+24,X-101 grid features + MCAN,72.59,In Defense of Grid Features for Visual Question Answering,/paper/in-defense-of-grid-features-for-visual
+25,CFR,72.5,Coarse-to-Fine Reasoning for Visual Question Answering,/paper/coarse-to-fine-reasoning-for-visual-question
+26,VL-BERTLARGE,71.79,VL-BERT: Pre-training of Generic Visual-Linguistic Representations,/paper/vl-bert-pre-training-of-generic-visual
+27,ViLT-B/32,71.26,ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision,/paper/vilt-vision-and-language-transformer-without
+28,MCAN+VC,71.21,Visual Commonsense R-CNN,/paper/visual-commonsense-r-cnn
+29,VL-BERTBASE,71.16,VL-BERT: Pre-training of Generic Visual-Linguistic Representations,/paper/vl-bert-pre-training-of-generic-visual
+30,VisualBERT,70.8,VisualBERT: A Simple and Performant Baseline for Vision and Language,/paper/visualbert-a-simple-and-performant-baseline
+31,MCANed-6,70.63,Deep Modular Co-Attention Networks for Visual Question Answering,/paper/deep-modular-co-attention-networks-for-visual-1
+32,ViLBERT,70.55,ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks,/paper/vilbert-pretraining-task-agnostic
+33,BAN+Glove+Counter,70.04,Bilinear Attention Networks,/paper/bilinear-attention-networks
+34,LXMERT ,69.9,LXMERT: Learning Cross-Modality Encoder Representations from Transformers,/paper/lxmert-learning-cross-modality-encoder
+35,Image features from bottom-up attention ,69.87,Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge,/paper/tips-and-tricks-for-visual-question-answering
+36,Pythia v0.3 + LoRRA,69.21,Towards VQA Models That Can Read,/paper/towards-vqa-models-that-can-read
+37,DMN,68.09,Learning to Count Objects in Natural Images for Visual Question Answering,/paper/learning-to-count-objects-in-natural-images
+38,LaKo,68.07,LaKo: Knowledge-driven Visual Question Answering via Late Knowledge-to-Text Injection,/paper/lako-knowledge-driven-visual-question
+39,MuRel,68.03,MUREL: Multimodal Relational Reasoning for Visual Question Answering,/paper/murel-multimodal-relational-reasoning-for
+40,BLOCK,67.58,BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection,/paper/block-bilinear-superdiagonal-fusion-for
+41,MUTAN,67.42,MUTAN: Multimodal Tucker Fusion for Visual Question Answering,/paper/mutan-multimodal-tucker-fusion-for-visual
+42,BAN2-CTI,67.4,Compact Trilinear Interaction for Visual Question Answering,/paper/compact-trilinear-interaction-for-visual
+43,2D continuous softmax,65.96,Sparse and Continuous Attention Mechanisms,/paper/sparse-and-continuous-attention-mechanisms
+44,BLIP-2 ViT-G FlanT5 XXL ,65.0,BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models,/paper/blip-2-bootstrapping-language-image-pre
+45,N2NMN ,64.9,Learning to Reason: End-to-End Module Networks for Visual Question Answering,/paper/learning-to-reason-end-to-end-module-networks
+46,PNP-VQA,64.8,Plug-and-Play VQA: Zero-shot VQA by Conjoining Large Pretrained Models with Zero Training,/paper/plug-and-play-vqa-zero-shot-vqa-by-conjoining
+47,MCB,64.7,Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding,/paper/multimodal-compact-bilinear-pooling-for
+48,RUBi,63.18,RUBi: Reducing Unimodal Biases in Visual Question Answering,/paper/rubi-reducing-unimodal-biases-in-visual
+49,BLIP-2 ViT-G FlanT5 XL ,63.0,BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models,/paper/blip-2-bootstrapping-language-image-pre
+50,BLIP-2 ViT-L FlanT5 XL ,62.3,BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models,/paper/blip-2-bootstrapping-language-image-pre
+51,Flamingo 80B,56.3,Flamingo: a Visual Language Model for Few-Shot Learning,/paper/flamingo-a-visual-language-model-for-few-shot-1
+52,BLIP-2 ViT-G OPT 6.7B ,52.6,BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models,/paper/blip-2-bootstrapping-language-image-pre
+53,BLIP-2 ViT-G OPT 2.7B ,52.3,BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models,/paper/blip-2-bootstrapping-language-image-pre
+54,Flamingo 9B,51.8,Flamingo: a Visual Language Model for Few-Shot Learning,/paper/flamingo-a-visual-language-model-for-few-shot-1
+55,KOSMOS-1 1.6B ,51.0,,
+56,BLIP-2 ViT-L OPT 2.7B ,49.7,BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models,/paper/blip-2-bootstrapping-language-image-pre
+57,Flamingo 3B,49.2,Flamingo: a Visual Language Model for Few-Shot Learning,/paper/flamingo-a-visual-language-model-for-few-shot-1
+58,VLKD,44.5,Enabling Multimodal Generation on CLIP via Vision-Language Knowledge Distillation,/paper/enabling-multimodal-generation-on-clip-via

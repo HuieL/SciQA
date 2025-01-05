@@ -1,0 +1,33 @@
+Rank,Model,mIoU,Paper Title,Paper URL
+1,HALO,78.1,Hyperbolic Active Learning for Semantic Segmentation under Domain Shift,/paper/hyperbolic-active-learning-for-semantic
+2,ILM-ASSL,76.6,Iterative Loop Method Combining Active and Semi-Supervised Learning for Domain Adaptive Semantic Segmentation,/paper/iterative-loop-learning-combining-self
+3,DCF,69.3,Transferring to Real-World Layouts: A Depth-aware Framework for Scene Adaptation,/paper/transferring-to-real-world-layouts-a-depth
+4,HRDA+PiPa,68.2,PiPa: Pixel- and Patch-wise Self-supervised Learning for Domain Adaptative Semantic Segmentation,/paper/pipa-pixel-and-patch-wise-self-supervised
+5,MIC,67.3,MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation,/paper/mic-masked-image-consistency-for-context
+6,FREDOM - Transformer,67.0,FREDOM: Fairness Domain Adaptation Approach to Semantic Scene Understanding,/paper/fredom-fairness-domain-adaptation-approach-to
+7,HRDA,65.8,HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation,/paper/hrda-context-aware-high-resolution-domain
+8,SePiCo,64.3,SePiCo: Semantic-Guided Pixel Contrast for Domain Adaptive Semantic Segmentation,/paper/sepico-semantic-guided-pixel-contrast-for
+9,MIC + Guidance Training,63.8,Improve Cross-domain Mixed Sampling with Guidance Training for Adaptive Segmentation,/paper/improve-cross-domain-mixed-sampling-with
+10,DAFormer + ProCST,61.6,ProCST: Boosting Semantic Segmentation Using Progressive Cyclic Style-Transfer,/paper/procst-boosting-semantic-segmentation-using
+11,DAFormer,60.9,DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation,/paper/daformer-improving-network-architectures-and
+12,GtA-SFDA ,60.1,Generalize then Adapt: Source-Free Domain Adaptive Semantic Segmentation,/paper/generalize-then-adapt-source-free-domain
+13,FREDOM - DeepLabV2,59.1,FREDOM: Fairness Domain Adaptation Approach to Semantic Scene Understanding,/paper/fredom-fairness-domain-adaptation-approach-to
+14,SePiCo ,58.1,SePiCo: Semantic-Guided Pixel Contrast for Domain Adaptive Semantic Segmentation,/paper/sepico-semantic-guided-pixel-contrast-for
+15,ProDA+CRA,56.9,Cross-Region Domain Adaptation for Class-level Alignment,/paper/cross-region-domain-adaptation-for-class
+16,CorDA ,55.0,Domain Adaptive Semantic Segmentation with Self-Supervised Depth Estimation,/paper/domain-adaptive-semantic-segmentation-with
+17,SAC ,52.6,Self-supervised Augmentation Consistency for Adapting Semantic Segmentation,/paper/self-supervised-augmentation-consistency-for
+18,RPT ,51.2,Transferring and Regularizing Prediction for Semantic Segmentation,/paper/transferring-and-regularizing-prediction-for-1
+19,IAST ,49.8,Instance Adaptive Self-Training for Unsupervised Domain Adaptation,/paper/instance-adaptive-self-training-for
+20,SAC ,49.1,Self-supervised Augmentation Consistency for Adapting Semantic Segmentation,/paper/self-supervised-augmentation-consistency-for
+21,PyCDA ,46.7,Constructing Self-motivated Pyramid Curriculums for Cross-Domain Semantic Segmentation: A Non-Adversarial Approach,/paper/constructing-self-motivated-pyramid
+22,BiMaL,46.2,BiMaL: Bijective Maximum Likelihood Approach to Domain Adaptation in Semantic Scene Segmentation,/paper/bimal-bijective-maximum-likelihood-approach
+23,FADA ,45.2,Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation,/paper/classes-matter-a-fine-grained-adversarial
+24,PIT ,44.0,Cross-Domain Semantic Segmentation via Domain-Invariant Interactive Relation Transfer,/paper/cross-domain-semantic-segmentation-via-domain
+25,SA-I2I ,41.5,Semantically Adaptive Image-to-image Translation for Domain Adaptation of Semantic Segmentation,/paper/semantically-adaptive-image-to-image
+26,ADVENT ,41.2,ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation,/paper/advent-adversarial-entropy-minimization-for
+27,LDR ,41.1,Label-Driven Reconstruction for Domain Adaptation in Semantic Segmentation,/paper/label-driven-reconstruction-for-domain
+28,CD-AM ,40.8,Context-Aware Domain Adaptation in Semantic Segmentation,/paper/context-aware-domain-adaptation-in-semantic
+29,FDA ,40.5,FDA: Fourier Domain Adaptation for Semantic Segmentation,/paper/fda-fourier-domain-adaptation-for-semantic
+30,FADA ,39.5,Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation,/paper/classes-matter-a-fine-grained-adversarial
+31,PIT ,38.1,Cross-Domain Semantic Segmentation via Domain-Invariant Interactive Relation Transfer,/paper/cross-domain-semantic-segmentation-via-domain
+32,PyCDA ,35.9,Constructing Self-motivated Pyramid Curriculums for Cross-Domain Semantic Segmentation: A Non-Adversarial Approach,/paper/constructing-self-motivated-pyramid

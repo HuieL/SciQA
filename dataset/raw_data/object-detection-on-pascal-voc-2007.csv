@@ -1,0 +1,32 @@
+Rank,Model,MAP,AP50,mAP@50,mAP@50-95,Paper Title,Paper URL
+1,Cascade Eff-B7 NAS-FPN ,89.3,,,,Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation,/paper/simple-copy-paste-is-a-strong-data
+2,YOLO-Former,86.01,,,,YOLO-Former: YOLO Shakes Hand With ViT,/paper/yolo-former-yolo-shakes-hand-with-vit
+3,DETReg ,84.16,84.16,,,Class-agnostic Object Detection with Multi-modal Transformer,/paper/multi-modal-transformers-excel-at-class
+4,HSD ,83.0,,,,Hierarchical Shot Detector,/paper/hierarchical-shot-detector
+5,CoupleNet,82.7,,,,CoupleNet: Coupling Global Structure with Local Parts for Object Detection,/paper/couplenet-coupling-global-structure-with
+6,EEEA-Net-C2 ,81.8,,,,EEEA-Net: An Early Exit Evolutionary Neural Architecture Search,/paper/eeea-net-an-early-exit-evolutionary-neural
+7,HSD ,81.7,,,,Hierarchical Shot Detector,/paper/hierarchical-shot-detector
+8,SSD512 ,81.6,,,,SSD: Single Shot MultiBox Detector,/paper/ssd-single-shot-multibox-detector
+9,BlitzNet512 + seg ,81.5,,,,BlitzNet: A Real-Time Deep Network for Scene Understanding,/paper/blitznet-a-real-time-deep-network-for-scene
+10,Localize,81.5,,,,Localize to Classify and Classify to Localize: Mutual Guidance in Object Detection,/paper/localize-to-classify-and-classify-to-localize
+11,CenterNet,80.7,,,,Objects as Points,/paper/objects-as-points
+12,PS-KD ,79.7,,,,Self-Knowledge Distillation with Progressive Refinement of Targets,/paper/self-knowledge-distillation-a-simple-way-for
+13,DPNet,79.2,,,,DPNet: Dual-Path Network for Real-time Object Detection with Lightweight Attention,/paper/dpnet-dual-path-network-for-real-time-object
+14,OHEM,78.9,,,,Training Region-based Object Detectors with Online Hard Example Mining,/paper/training-region-based-object-detectors-with
+15,YOLO v2,78.6,,,,"YOLO9000: Better, Faster, Stronger",/paper/yolo9000-better-faster-stronger
+16,ThunderNet SNet535 Backbone,78.6,,,,ThunderNet: Towards Real-time Generic Object Detection,/paper/thundernet-towards-real-time-generic-object
+17,DeNet-101 ,77.1,,,,DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling,/paper/denet-scalable-real-time-object-detection
+18,I+ORE,76.2,,,,Random Erasing Data Augmentation,/paper/random-erasing-data-augmentation
+19,Perona Malik ,74.37,,,,Learning Visual Representations for Transfer Learning by Suppressing Texture,/paper/learning-visual-representations-for-transfer-1
+20,FRCN,74.2,,,,A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection,/paper/a-fast-rcnn-hard-positive-generation-via
+21,Faster R-CNN,73.2,,,,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks,/paper/faster-r-cnn-towards-real-time-object
+22,VGG-16 + KL Loss + var voting + soft-NMS,71.6,,,,Bounding Box Regression with Uncertainty for Accurate Object Detection,/paper/softer-nms-rethinking-bounding-box-regression
+23,Fast R-CNN,70.0,,,,Fast R-CNN,/paper/fast-r-cnn
+24,subCNN,68.5,,,,Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection,/paper/subcategory-aware-convolutional-neural
+25,YOLO,63.4,,,,"You Only Look Once: Unified, Real-Time Object Detection",/paper/you-only-look-once-unified-real-time-object
+26,SPP,60.9,,,,Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition,/paper/spatial-pyramid-pooling-in-deep-convolutional
+27,R-CNN,58.5,,,,Rich feature hierarchies for accurate object detection and semantic segmentation,/paper/rich-feature-hierarchies-for-accurate-object
+28,Deformable Parts Model ,45.2,,,,Deformable Part Models are Convolutional Neural Networks,/paper/deformable-part-models-are-convolutional
+29,TinyissimoYOLO-v8,42.3,,,,Ultra-Efficient On-Device Object Detection on AI-Integrated Smart Glasses with TinyissimoYOLO,/paper/ultra-efficient-on-device-object-detection-on
+30,FemotoDet,22.9,46.31,,,FemtoDet: An Object Detection Baseline for Energy Versus Performance Tradeoffs,/paper/femtodet-an-object-detection-baseline-for
+31,YOLOv7+Inner-IoU,,,64.44,38.52,Inner-IoU: More Effective Intersection over Union Loss with Auxiliary Bounding Box,/paper/inner-iou-more-effective-intersection-over

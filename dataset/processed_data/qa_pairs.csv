@@ -1,0 +1,160 @@
+graph,question,answer
+3d-point-cloud-classification-on-scanobjectnn,"In 3D point cloud classification for ScanObjectNN, what method does the DeLA paper introduce?",Decoupled Local Aggregation for Point Cloud Learning
+3d-point-cloud-classification-on-scanobjectnn,"Which recent paper uses Point Feature Enhancement Masked Autoencoders for ScanObjectNN classification?",Towards Compact 3D Representations via Point Feature Enhancement Masked Autoencoders
+3d-point-cloud-classification-on-scanobjectnn,"What's the highest reported Overall Accuracy for 3D point cloud classification on ScanObjectNN?",90.4
+3d-point-cloud-classification-on-scanobjectnn,"Which paper addresses both OBJ-BG and OBJ-ONLY tasks for ScanObjectNN classification?",Towards Compact 3D Representations via Point Feature Enhancement Masked Autoencoders
+3d-point-cloud-classification-on-scanobjectnn,"What's the best reported performance on the OBJ-BG task for ScanObjectNN?",95.18
+action-recognition-in-videos-on-something-1,"Which paper proposes using simple arithmetic operations for temporal modeling in action recognition on Something-Something v1?",What Can Simple Arithmetic Operations Do for Temporal Modeling?
+action-recognition-in-videos-on-something-1,"What method uses correlation structures for vision transformers in Something-Something v1 action recognition?",Learning Correlation Structures for Vision Transformers
+action-recognition-in-videos-on-something-1,"Which paper introduces temporal patch shift for action recognition on Something-Something v1?",Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition
+action-recognition-in-videos-on-something-1,"What approach focuses on motion-driven visual tempo learning for Something-Something v1?",Motion-driven Visual Tempo Learning for Video-based Action Recognition
+action-recognition-in-videos-on-something-1,"Which paper proposes a busy-quiet video disentangling approach for Something-Something v1?",Busy-Quiet Video Disentangling for Video Classification
+action-recognition-in-videos-on-something-1,"What is the SELFYNet model in the context of Something-Something v1 action recognition?",Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition
+action-recognition-in-videos-on-something-1,"What's the highest reported Top 1 Accuracy for action recognition on Something-Something v1?",65.6
+action-recognition-in-videos-on-something-1,"Which paper introduces a channel tensorization network for Something-Something v1?",CT-Net: Channel Tensorization Network for Video Classification
+action-recognition-in-videos-on-something-1,"What is the EAN method for action recognition on Something-Something v1?",EAN: Event Adaptive Network for Enhanced Action Recognition
+action-recognition-in-videos-on-something-1,"Which paper presents a general video foundation model using generative and discriminative learning for Something-Something v1?",InternVideo: General Video Foundation Models via Generative and Discriminative Learning
+action-recognition-in-videos-on-ucf101,"Which paper introduces a web-supervised learning method for action recognition on UCF101?",Omni-sourced Webly-supervised Learning for Video Recognition
+action-recognition-in-videos-on-ucf101,"What approach proposes holistic video understanding for UCF101 action recognition?",Large Scale Holistic Video Understanding
+action-recognition-in-videos-on-ucf101,"Which paper introduces busy-quiet video disentangling for UCF101 action recognition?",Busy-Quiet Video Disentangling for Video Classification
+action-recognition-in-videos-on-ucf101,"What's the highest reported 3-fold Accuracy for action recognition on UCF101?",98.6
+action-recognition-in-videos-on-ucf101,"How many distinct methods are commonly compared in recent UCF101 action recognition papers?",3
+action-recognition-on-ava-v2-2,"Which paper explores using 3D pose and tracking for human action recognition on AVA v2.2?",On the Benefits of 3D Pose and Tracking for Human Action Recognition
+action-recognition-on-ava-v2-2,"What method proposes end-to-end spatio-temporal action localization using video transformers for AVA v2.2?",End-to-End Spatio-Temporal Action Localisation with Video Transformers
+action-recognition-on-ava-v2-2,"Which paper introduces masked feature prediction for self-supervised visual pre-training in AVA v2.2 context?",Masked Feature Prediction for Self-Supervised Visual Pre-Training
+action-recognition-on-ava-v2-2,"What's the highest reported mAP for action recognition on AVA v2.2?",45.1
+action-recognition-on-ava-v2-2,"How many major approaches are typically compared in recent AVA v2.2 action recognition studies?",3
+anomaly-detection-on-mvtec-ad,"Which paper proposes using conditioned denoising diffusion models for anomaly detection on MVTec AD?",Anomaly Detection with Conditioned Denoising Diffusion Models
+anomaly-detection-on-mvtec-ad,"What method introduces efficient pixel labeling for industrial anomaly detection on MVTec AD?",Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization
+anomaly-detection-on-mvtec-ad,"Which paper uses weakly-supervised residual transformers for MVTec AD anomaly detection?",Industrial Anomaly Detection and Localization Using Weakly-Supervised Residual Transformers
+anomaly-detection-on-mvtec-ad,"What approach introduces the concept of 'total recall' for industrial anomaly detection on MVTec AD?",Towards Total Recall in Industrial Anomaly Detection
+anomaly-detection-on-mvtec-ad,"What's the highest reported Detection AUROC for anomaly detection on MVTec AD?",99.8
+anomaly-detection-on-mvtec-ad,"Which paper introduces the PatchCore method for MVTec AD anomaly detection?",Towards Total Recall in Industrial Anomaly Detection
+anomaly-detection-on-mvtec-ad,"What's the highest reported Segmentation AUPRO for MVTec AD anomaly detection?",97.8
+anomaly-detection-on-mvtec-ad,"Which method reports the highest FPS for MVTec AD anomaly detection?",Industrial Anomaly Detection and Localization Using Weakly-Supervised Residual Transformers
+anomaly-detection-on-mvtec-ad,"What paper reports results for both Detection AUROC and Segmentation AUROC on MVTec AD?",Towards Total Recall in Industrial Anomaly Detection
+anomaly-detection-on-mvtec-ad,"How many distinct approaches are typically compared in recent MVTec AD anomaly detection papers?",4
+domain-adaptation-on-office-home,"Which paper combines vision-language models with self-knowledge distillation for domain adaptation on Office-Home?",Combining inherent knowledge of vision-language models with unsupervised domain adaptation through self-knowledge distillation
+domain-adaptation-on-office-home,"What paper examines smoothness in domain adversarial training for Office-Home?",A Closer Look at Smoothness in Domain Adversarial Training
+domain-adaptation-on-office-home,"Which method introduces probabilistic contrastive learning for domain adaptation on Office-Home?",Probabilistic Contrastive Learning for Domain Adaptation
+domain-adaptation-on-office-home,"What paper explores evolving attention for domain adaptation on Office-Home?",On Evolving Attention Towards Domain Adaptation
+domain-adaptation-on-office-home,"Which approach proposes gradual source domain expansion for Office-Home domain adaptation?",Gradual Source Domain Expansion for Unsupervised Domain Adaptation
+few-shot-image-classification-on-mini-2,"Which paper introduces a context-aware meta-learning method for few-shot image classification on Mini-ImageNet?",Context-Aware Meta-Learning
+few-shot-image-classification-on-mini-2,"What approach uses transductive decoupled variational inference for Mini-ImageNet classification?",Transductive Decoupled Variational Inference for Few-Shot Classification
+few-shot-image-classification-on-mini-2,"Which paper proposes a self-optimal-transport feature transform for Mini-ImageNet?",The Self-Optimal-Transport Feature Transform
+few-shot-image-classification-on-mini-2,"What method leverages feature distribution in transfer-based few-shot learning on Mini-ImageNet?",Leveraging the Feature Distribution in Transfer-based Few-Shot Learning
+few-shot-image-classification-on-mini-2,"What's the highest reported accuracy for few-shot image classification on Mini-ImageNet?",96.2
+few-shot-object-detection-on-ms-coco-10-shot,"Which paper proposes using image-language similarity for re-scoring in few-shot object detection on MS COCO?",Re-Scoring Using Image-Language Similarity for Few-Shot Object Detection
+few-shot-object-detection-on-ms-coco-10-shot,"What method integrates pre-trained transformer encoder-decoders for MS COCO few-shot detection?",Integrally Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection
+few-shot-object-detection-on-ms-coco-10-shot,"Which paper introduces dual-awareness attention for few-shot object detection on MS COCO?",Should I Look at the Head or the Tail? Dual-Awareness Attention for Few-Shot Object Detection
+few-shot-object-detection-on-ms-coco-10-shot,"What approach aims for discriminative and transferable one-stage few-shot detectors on MS COCO?",Towards Discriminative and Transferable One-Stage Few-Shot Object Detectors
+few-shot-object-detection-on-ms-coco-10-shot,"What's the highest reported AP for few-shot object detection on MS COCO 10-shot?",25.5
+fine-grained-image-classification-on-stanford,"Which paper scales up visual and vision-language representation learning for Stanford Cars classification?",Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision
+fine-grained-image-classification-on-stanford,"What method uses structure and subject preserving augmentation for Stanford Cars?",Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation
+fine-grained-image-classification-on-stanford,"Which paper proposes context-aware attentional pooling for Stanford Cars classification?",Context-aware Attentional Pooling (CAP) for Fine-grained Visual Classification
+fine-grained-image-classification-on-stanford,"What approach combines attentional and affine networks for Stanford Cars?",Fine-Grained Visual Classification with Efficient End-to-end Localization
+fine-grained-image-classification-on-stanford,"Which paper introduces a context-semantic quality awareness network for Stanford Cars?",Context-Semantic Quality Awareness Network for Fine-Grained Visual Categorization
+fine-grained-image-classification-on-stanford,"What method uses counterfactual attention learning for Stanford Cars classification?",Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification
+fine-grained-image-classification-on-stanford,"Which paper proposes re-ranking coarse classification for Stanford Cars?",Re-rank Coarse Classification with Local Region Enhanced Features for Fine-Grained Image Recognition
+fine-grained-image-classification-on-stanford,"What's the highest reported accuracy for fine-grained image classification on Stanford Cars?",96.13
+fine-grained-image-classification-on-stanford,"Which paper introduces attentive pairwise interaction for Stanford Cars classification?",Learning Attentive Pairwise Interaction for Fine-Grained Classification
+fine-grained-image-classification-on-stanford,"What method uses progressive multi-granularity training for Stanford Cars?",Fine-Grained Visual Classification via Progressive Multi-Granularity Training of Jigsaw Patches
+human-object-interaction-detection-on-hico,"Which paper explores predicate visual context for human-object interaction detection on HICO?",Exploring Predicate Visual Context in Detecting Human-Object Interactions
+human-object-interaction-detection-on-hico,"What method uses text-to-image diffusion models for HICO detection?",Boosting Human-Object Interaction Detection with Text-to-Image Diffusion Model
+human-object-interaction-detection-on-hico,"Which paper introduces category query learning for HICO classification?",Category Query Learning for Human-Object Interaction Classification
+human-object-interaction-detection-on-hico,"What approach focuses on relational context learning for HICO detection?",Relational Context Learning for Human-Object Interaction Detection
+human-object-interaction-detection-on-hico,"Which paper proposes a novel unary-pairwise transformer for HICO detection?",Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer
+human-object-interaction-detection-on-hico,"What's the highest reported mAP for human-object interaction detection on HICO?",44.32
+human-object-interaction-detection-on-hico,"Which paper addresses the overlooked classifier in HICO recognition?",The Overlooked Classifier in Human-Object Interaction Recognition
+human-object-interaction-detection-on-hico,"What method uses a PViC-SwinL model for HICO detection?",Exploring Predicate Visual Context in Detecting Human-Object Interactions
+human-object-interaction-detection-on-hico,"Which paper introduces a CQL+GEN-VLKT-L approach for HICO classification?",Category Query Learning for Human-Object Interaction Classification
+human-object-interaction-detection-on-hico,"What's the mAP of the MUREN model for HICO detection?",32.87
+image-classification-on-objectnet,"Which paper introduces a method for learning transferable visual models from natural language supervision on ObjectNet?",Learning Transferable Visual Models From Natural Language Supervision
+image-classification-on-objectnet,"What approach focuses on robust fine-tuning of zero-shot models for ObjectNet classification?",Robust fine-tuning of zero-shot models
+image-classification-on-objectnet,"What's the highest reported Top-1 Accuracy for image classification on ObjectNet?",72.3
+image-classification-on-objectnet,"How many major approaches are typically compared in recent ObjectNet classification papers?",2
+image-classification-on-objectnet,"What's the Top-1 Accuracy of the WiSE-FT model on ObjectNet?",72.1
+image-classification-on-svhn,"Which paper introduces improvements for image classification on SVHN using recurrent neural networks?",Rethinking Recurrent Neural Networks and Other Improvements for Image Classification
+image-classification-on-svhn,"What method uses local learning and CO for SVHN classification?",Training Neural Networks with Local Error Signals
+image-classification-on-svhn,"Which paper proposes regularizing neural networks via adversarial model perturbation for SVHN?",Regularizing Neural Networks via Adversarial Model Perturbation
+image-classification-on-svhn,"What's the lowest reported Percentage error for image classification on SVHN?",1.0
+image-classification-on-svhn,"Which model achieves 1.35 Percentage error on SVHN?",PyramidNet + AA
+object-detection-on-coco-minival,"Which paper introduces collaborative hybrid assignments training for object detection on COCO minival?",DETRs with Collaborative Hybrid Assignments Training
+object-detection-on-coco-minival,"What method proposes all-in-one pre-training via maximizing multi-modal mutual information for COCO minival?",Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information
+object-detection-on-coco-minival,"Which paper introduces a strong and reproducible object detector using only public datasets for COCO minival?",A Strong and Reproducible Object Detector with Only Public Datasets
+object-detection-on-coco-minival,"What approach uses reversible column networks for COCO minival detection?",Reversible Column Networks
+object-detection-on-coco-minival,"Which paper proposes a general object foundation model for images and videos at scale, tested on COCO minival?",General Object Foundation Model for Images and Videos at Scale
+object-detection-on-coco-minival,"What method introduces end-to-end semi-supervised object detection with soft teacher for COCO minival?",End-to-End Semi-Supervised Object Detection with Soft Teacher
+object-detection-on-coco-minival,"Which paper presents universal instance perception as object discovery and retrieval for COCO minival?",Universal Instance Perception as Object Discovery and Retrieval
+object-detection-on-coco-minival,"What approach adapts vision transformers for dense predictions on COCO minival?",Vision Transformer Adapter for Dense Predictions
+object-detection-on-coco-minival,"What's the highest reported box AP for object detection on COCO minival?",65.9
+object-detection-on-coco-minival,"Which model achieves 60.6 box AP on COCO minival?",UNINEXT-H
+object-detection-on-coco-o,"Which paper argues that NMS strikes back in object detection on COCO-O?",NMS Strikes Back
+object-detection-on-coco-o,"What method proposes a ConvNet for the 2020s, evaluated on COCO-O?",A ConvNet for the 2020s
+object-detection-on-coco-o,"Which paper adapts vision transformers for dense predictions on COCO-O?",Vision Transformer Adapter for Dense Predictions
+object-detection-on-coco-o,"What approach uses coarse-to-fine vision-language pre-training with fusion in the backbone for COCO-O?",Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone
+object-detection-on-coco-o,"Which paper introduces instances as queries for COCO-O detection?",Instances as Queries
+object-detection-on-coco-o,"What method proposes robust and accurate object detection via adversarial learning for COCO-O?",Robust and Accurate Object Detection via Adversarial Learning
+object-detection-on-coco-o,"Which paper introduces probabilistic two-stage detection for COCO-O?",Probabilistic two-stage detection
+object-detection-on-coco-o,"What's the highest reported Average mAP for object detection on COCO-O?",48.5
+object-detection-on-coco-o,"Which model achieves 37.5 Average mAP on COCO-O?",ConvNeXt-XL
+object-detection-on-coco-o,"What's the Effective Robustness of the FIBER-B model on COCO-O?",11.43
+object-detection-on-coco,"Which paper introduces collaborative hybrid assignments training for object detection on COCO?",DETRs with Collaborative Hybrid Assignments Training
+object-detection-on-coco,"What method proposes all-in-one pre-training via maximizing multi-modal mutual information for COCO?",Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information
+object-detection-on-coco,"Which paper introduces a strong and reproducible object detector using only public datasets for COCO?",A Strong and Reproducible Object Detector with Only Public Datasets
+object-detection-on-coco,"What approach uses reversible column networks for COCO detection?",Reversible Column Networks
+object-detection-on-coco,"Which paper argues that NMS strikes back in object detection on COCO?",NMS Strikes Back
+object-detection-on-coco,"What's the highest reported box mAP for object detection on COCO?",66.0
+object-detection-on-coco,"Which model achieves 64.8 box mAP on COCO?",Co-DETR
+object-detection-on-coco,"What's the box mAP of the DETA model on COCO?",63.5
+object-detection-on-coco,"How many papers report results for AP50 and AP75 on COCO?",1
+object-detection-on-coco,"Which paper reports results for APS, APM, and APL on COCO?",NMS Strikes Back
+semantic-segmentation-on-ade20k,"Which paper proposes all-in-one pre-training via maximizing multi-modal mutual information for ADE20K segmentation?",Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information
+semantic-segmentation-on-ade20k,"What method adapts vision transformers for dense predictions on ADE20K?",Vision Transformer Adapter for Dense Predictions
+semantic-segmentation-on-ade20k,"Which paper introduces dilated neighborhood attention transformers for ADE20K?",Dilated Neighborhood Attention Transformer
+semantic-segmentation-on-ade20k,"What's the highest reported Validation mIoU for semantic segmentation on ADE20K?",62.9
+semantic-segmentation-on-ade20k,"Which model achieves 58.1 Validation mIoU on ADE20K?",DiNAT-L
+semantic-segmentation-on-nyu-depth-v2,"Which paper proposes efficient pixel-wise multimodal fusion for vision transformers on NYU Depth V2?",GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer
+semantic-segmentation-on-nyu-depth-v2,"What method introduces learning robust representations with cross modal sharing for NYU Depth V2?",OmniVec: Learning robust representations with cross modal sharing
+semantic-segmentation-on-nyu-depth-v2,"Which paper proposes efficient multimodal semantic segmentation via dual-prompt learning for NYU Depth V2?",Efficient Multimodal Semantic Segmentation via Dual-Prompt Learning
+semantic-segmentation-on-nyu-depth-v2,"What approach introduces efficient and robust panoptic mapping for NYU Depth V2?",PanopticNDT: Efficient and Robust Panoptic Mapping
+semantic-segmentation-on-nyu-depth-v2,"Which paper presents a shared architecture for simultaneous depth estimation and semantic segmentation on NYU Depth V2?",SwinMTL: A Shared Architecture for Simultaneous Depth Estimation and Semantic Segmentation from Monocular Camera Images
+semantic-segmentation-on-nyu-depth-v2,"What method proposes general dense prediction with mask transformers for NYU Depth V2?",PolyMaX: General Dense Prediction with Mask Transformer
+semantic-segmentation-on-nyu-depth-v2,"Which paper rethinks RGBD representation learning for semantic segmentation on NYU Depth V2?",DFormer: Rethinking RGBD Representation Learning for Semantic Segmentation
+semantic-segmentation-on-nyu-depth-v2,"What approach introduces cross-modal fusion for RGB-X semantic segmentation with transformers on NYU Depth V2?",CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers
+semantic-segmentation-on-nyu-depth-v2,"What's the highest reported Mean IoU for semantic segmentation on NYU Depth V2?",60.9
+semantic-segmentation-on-nyu-depth-v2,"Which model achieves 60.8 Mean IoU on NYU Depth V2?",OmniVec
+semantic-segmentation-on-pascal-voc-2012,"Which paper introduces squeeze-and-attention networks for semantic segmentation on Pascal VOC 2012?",Squeeze-and-Attention Networks for Semantic Segmentation
+semantic-segmentation-on-pascal-voc-2012,"What method questions whether attention is better than matrix decomposition for Pascal VOC 2012?",Is Attention Better Than Matrix Decomposition?
+semantic-segmentation-on-pascal-voc-2012,"Which paper proposes ShelfNet for fast semantic segmentation on Pascal VOC 2012?",ShelfNet for Fast Semantic Segmentation
+semantic-segmentation-on-pascal-voc-2012,"What's the highest reported Mean IoU for semantic segmentation on Pascal VOC 2012?",86.1
+semantic-segmentation-on-s3dis,"Which paper introduces a unified query-based paradigm for point cloud understanding on S3DIS?",A Unified Query-based Paradigm for Point Cloud Understanding
+semantic-segmentation-on-s3dis,"What method proposes a meta architecture for point cloud analysis on S3DIS?",Meta Architecture for Point Cloud Analysis
+semantic-segmentation-on-s3dis,"Which paper introduces multi-view aggregation for 3D semantic segmentation on S3DIS?",Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation
+semantic-segmentation-on-s3dis,"What approach focuses on surface representation for point clouds on S3DIS?",Surface Representation for Point Clouds
+semantic-segmentation-on-s3dis,"Which paper introduces the Point Transformer for S3DIS segmentation?",Point Transformer
+semantic-segmentation-on-s3dis,"What's the highest reported Mean IoU for semantic segmentation on S3DIS?",77.5
+semantic-segmentation-on-s3dis,"Which model achieves 77.0 Mean IoU on S3DIS?",PointMetaBase-XXL
+semantic-segmentation-on-s3dis,"What's the oAcc of the PointMetaBase-XXL model on S3DIS?",91.3
+semantic-segmentation-on-s3dis,"Which paper proposes contrastive boundary learning for point cloud segmentation on S3DIS?",Contrastive Boundary Learning for Point Cloud Segmentation
+semantic-segmentation-on-s3dis,"What's the Params (M) of the PointTransformer model on S3DIS?",7.8
+temporal-action-localization-on-thumos14,"Which paper introduces end-to-end temporal action detection with 1B parameters across 1000 frames for THUMOS14?",End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames
+temporal-action-localization-on-thumos14,"What method enhances instant discriminability for temporal action localization on THUMOS14?",Temporal Action Localization with Enhanced Instant Discriminability
+temporal-action-localization-on-thumos14,"Which paper proposes action sensitivity learning for temporal action localization on THUMOS14?",Action Sensitivity Learning for Temporal Action Localization
+temporal-action-localization-on-thumos14,"What approach uses dual DETRs for multi-label temporal action detection on THUMOS14?",Dual DETRs for Multi-Label Temporal Action Detection
+temporal-action-localization-on-thumos14,"What's the highest reported Avg mAP (0.3:0.7) for temporal action localization on THUMOS14?",76.9
+text-to-image-generation-on-coco,"Which paper proposes scaling up GANs for text-to-image synthesis on COCO?",Scaling up GANs for Text-to-Image Synthesis
+text-to-image-generation-on-coco,"What method introduces photorealistic text-to-image diffusion models with deep language understanding for COCO?",Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
+text-to-image-generation-on-coco,"Which paper scales autoregressive models for content-rich text-to-image generation on COCO?",Scaling Autoregressive Models for Content-Rich Text-to-Image Generation
+text-to-image-generation-on-coco,"What approach uses truncated diffusion probabilistic models for COCO text-to-image generation?",Truncated Diffusion Probabilistic Models and Diffusion-based Adversarial Auto-Encoders
+text-to-image-generation-on-coco,"Which paper improves diffusion-based image synthesis with context prediction on COCO?",Improving Diffusion-Based Image Synthesis with Context Prediction
+text-to-image-generation-on-coco,"What's the lowest reported FID for text-to-image generation on COCO?",3.22
+text-to-image-generation-on-coco,"Which model achieves 7.27 FID on COCO text-to-image generation?",Imagen
+visual-question-answering-on-vqa-v2-test-dev,"Which paper claims to achieve human parity on visual question answering for VQA v2 test-dev?",Achieving Human Parity on Visual Question Answering
+visual-question-answering-on-vqa-v2-test-dev,"What's the reported Accuracy of the MMU model on the VQA v2 test-dev dataset?",81.26
+visual-question-answering-on-vqa-v2-test-dev,"How many models are reported in recent VQA v2 test-dev papers?",1
+weakly-supervised-object-detection-on-pascal-1,"Which paper proposes an instance-aware, context-focused, and memory-efficient method for weakly supervised object detection on PASCAL VOC?","Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection"
+weakly-supervised-object-detection-on-pascal-1,"What approach aims for a precise end-to-end weakly supervised object detection network on PASCAL VOC?",Towards Precise End-to-end Weakly Supervised Object Detection Network
+weakly-supervised-object-detection-on-pascal-1,"Which paper introduces object instance mining for weakly supervised object detection on PASCAL VOC?",Object Instance Mining for Weakly Supervised Object Detection
+weakly-supervised-object-detection-on-pascal-1,"What method uses PSNet and box regression for WSOD on PASCAL VOC?",WSOD with PSNet and Box Regression
+weakly-supervised-object-detection-on-pascal-1,"What's the highest reported MAP for weakly-supervised object detection on PASCAL VOC?",58.1

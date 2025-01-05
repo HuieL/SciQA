@@ -1,0 +1,52 @@
+Rank,Model,Mean IoU,FLOPs,Params,Paper Title,Paper URL
+1,DeepLabv3+ ,89.0,,,Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation,/paper/encoder-decoder-with-atrous-separable
+2,DeepLabv3+ ,89.0,,,Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation,/paper/encoder-decoder-with-atrous-separable
+3,DeepLabv3-JFT,86.9,,,Rethinking Atrous Convolution for Semantic Image Segmentation,/paper/rethinking-atrous-convolution-for-semantic
+4,CASIA_IVA_SDN,86.6,,,Stacked Deconvolutional Network for Semantic Segmentation,/paper/stacked-deconvolutional-network-for-semantic
+5,Smooth Network with Channel Attention Block,86.2,,,Learning a Discriminative Feature Network for Semantic Segmentation,/paper/learning-a-discriminative-feature-network-for
+6,SANet ,86.1,,,Squeeze-and-Attention Networks for Semantic Segmentation,/paper/squeeze-and-attention-networks-for-semantic
+7,EncNet,85.9,,,Context Encoding for Semantic Segmentation,/paper/context-encoding-for-semantic-segmentation
+8,HamNet w/o COCO ,85.9,,,Is Attention Better Than Matrix Decomposition?,/paper/is-attention-better-than-matrix-decomposition-1
+9,Auto-DeepLab-L,85.6,,,Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation,/paper/auto-deeplab-hierarchical-neural-architecture
+10,PSPNet,85.4,,,Pyramid Scene Parsing Network,/paper/pyramid-scene-parsing-network
+11,ResNet-38 MS COCO,84.9,,,Wider or Deeper: Revisiting the ResNet Model for Visual Recognition,/paper/wider-or-deeper-revisiting-the-resnet-model
+12,OCR ,84.5,,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+13,OCR ,84.3,,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+14,Multipath-RefineNet,84.2,,,RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation,/paper/refinenet-multi-path-refinement-networks-for
+15,ShelfNet,84.2,,,ShelfNet for Fast Semantic Segmentation,/paper/multi-path-segmentation-network
+16,EANet ,84.0,,,Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks,/paper/beyond-self-attention-external-attention
+17,Large Kernel Matters,83.6,,,Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network,/paper/large-kernel-matters-improve-semantic
+18,TripleNet,83.3,,,Triply Supervised Decoder Networks for Joint Detection and Segmentation,/paper/triply-supervised-decoder-networks-for-joint
+19,SANet,83.2,,,Squeeze-and-Attention Networks for Semantic Segmentation,/paper/squeeze-and-attention-networks-for-semantic
+20,TuSimple,83.1,,,Understanding Convolution for Semantic Segmentation,/paper/understanding-convolution-for-semantic
+21,EncNet ,82.9,,,Context Encoding for Semantic Segmentation,/paper/context-encoding-for-semantic-segmentation
+22,DFN ,82.7,,,Learning a Discriminative Feature Network for Semantic Segmentation,/paper/learning-a-discriminative-feature-network-for
+23,Deep Layer Cascade ,82.7,,,Not All Pixels Are Equal: Difficulty-aware Semantic Segmentation via Deep Layer Cascade,/paper/not-all-pixels-are-equal-difficulty-aware
+24,Light-Weight-RefineNet-152,82.7,,,Light-Weight RefineNet for Real-Time Semantic Segmentation,/paper/light-weight-refinenet-for-real-time-semantic
+25,DANet ,82.6,,,Dual Attention Network for Scene Segmentation,/paper/dual-attention-network-for-scene-segmentation
+26,PSPNet ,82.6,,,Pyramid Scene Parsing Network,/paper/pyramid-scene-parsing-network
+27,Light-Weight-RefineNet-101,82.0,,,Light-Weight RefineNet for Real-Time Semantic Segmentation,/paper/light-weight-refinenet-for-real-time-semantic
+28,Light-Weight-RefineNet-50,81.1,,,Light-Weight RefineNet for Real-Time Semantic Segmentation,/paper/light-weight-refinenet-for-real-time-semantic
+29,CentraleSupelec Deep G-CRF,80.2,,,"Fast, Exact and Multi-Scale Inference for Semantic Image Segmentation with Deep Gaussian CRFs",/paper/fast-exact-and-multi-scale-inference-for
+30,EdgeNeXt,80.2,,6500000.0,EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications,/paper/edgenext-efficiently-amalgamated-cnn
+31,DeepLab-CRF ,79.7,,,"DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs",/paper/deeplab-semantic-image-segmentation-with-deep
+32,WASPnet-CRF ,79.6,,,Waterfall Atrous Spatial Pooling Architecture for Efficient Semantic Segmentation,/paper/waterfall-atrous-spatial-pooling-architecture
+33,Light-Weight-RefineNet-MobileNet-v2,79.2,,,Light-Weight RefineNet for Real-Time Semantic Segmentation,/paper/light-weight-refinenet-for-real-time-semantic
+34,Deeplab-v2 with Lovasz-Softmax loss,79.0,,,The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks,/paper/the-lovasz-softmax-loss-a-tractable-surrogate
+35,Deeplab-v2 + Lovász-Softmax,79.0,,,The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks,/paper/the-lovasz-softmax-loss-a-tractable-surrogate
+36,CRF-RNN,74.7,,,Conditional Random Fields as Recurrent Neural Networks,/paper/conditional-random-fields-as-recurrent-neural-1
+37,SID,72.8,,,Simple Does It: Weakly Supervised Instance and Semantic Segmentation,/paper/simple-does-it-weakly-supervised-instance-and
+38,DeepLab-MSc-CRF-LargeFOV ,71.6,,,Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs,/paper/semantic-image-segmentation-with-deep
+39,ParseNet,69.8,,,ParseNet: Looking Wider to See Better,/paper/parsenet-looking-wider-to-see-better
+40,Dilated FCN-2s VGG19,69.0,,,Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation,/paper/efficient-yet-deep-convolutional-neural
+41,ESPNetv2,68.0,,,"ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network",/paper/espnetv2-a-light-weight-power-efficient-and
+42,Dilated Convolutions,67.6,,,Multi-Scale Context Aggregation by Dilated Convolutions,/paper/multi-scale-context-aggregation-by-dilated
+43,DiCENet,67.31,,,DiCENet: Dimension-wise Convolutions for Efficient Networks,/paper/dicenet-dimension-wise-convolutions-for
+44,RRM,66.5,,,Reliability Does Matter: An End-to-End Weakly Supervised Semantic Segmentation Approach,/paper/reliability-does-matter-an-end-to-end-weakly
+45,SSDD,65.5,,,Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation,/paper/self-supervised-difference-detection-for-1
+46,BoxSup,64.6,,,BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation,/paper/boxsup-exploiting-bounding-boxes-to-supervise
+47,PSA w/ EADER DeepLab ,63.8,,,Find it if You Can: End-to-End Adversarial Erasing for Weakly-Supervised Semantic Segmentation,/paper/find-it-if-you-can-end-to-end-adversarial
+48,ESPNet,63.01,,,ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation,/paper/espnet-efficient-spatial-pyramid-of-dilated
+49,FCN ,62.2,,,Fully Convolutional Networks for Semantic Segmentation,/paper/fully-convolutional-networks-for-semantic-1
+50,G2,56.7,,,Exploiting saliency for object segmentation from image level labels,/paper/exploiting-saliency-for-object-segmentation
+51,CK,51.6,,,Simultaneous Detection and Segmentation,/paper/simultaneous-detection-and-segmentation

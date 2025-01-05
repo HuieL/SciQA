@@ -1,0 +1,200 @@
+Rank,Model,Percentage correct,PARAMS,Accuracy,Paper Title,Paper URL
+1,EffNet-L2 ,96.08,,,Sharpness-Aware Minimization for Efficiently Improving Generalization,/paper/sharpness-aware-minimization-for-efficiently-1
+2,Swin-L + ML-Decoder,95.1,,,ML-Decoder: Scalable and Versatile Classification Head,/paper/ml-decoder-scalable-and-versatile
+3,µ2Net ,94.95,,,An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems,/paper/an-evolutionary-approach-to-dynamic
+4,ViT-B-16 ,94.2,,,ImageNet-21K Pretraining for the Masses,/paper/imagenet-21k-pretraining-for-the-masses
+5,CvT-W24,94.09,,,CvT: Introducing Convolutions to Vision Transformers,/paper/cvt-introducing-convolutions-to-vision
+6,ViT-B/16 ,93.95,,,Perturbated Gradients Updating within Unit Space for Deep Learning,/paper/update-in-unit-gradient
+7,Heinsen Routing + BEiT-large 16 224,93.8,309800000.0,,An Algorithm for Routing Vectors in Sequences,/paper/an-algorithm-for-routing-vectors-in-sequences
+8,BiT-L ,93.51,,,Big Transfer (BiT): General Visual Representation Learning,/paper/large-scale-learning-of-general-visual
+9,Astroformer,93.36,,,Astroformer: More Data Might not be all you need for Classification,/paper/astroformer-more-data-might-not-be-all-you
+10,VIT-L/16,93.3,,,Reduction of Class Activation Uncertainty with Background Information,/paper/reduction-of-class-activation-uncertainty
+11,CaiT-M-36 U 224,93.1,,,Going deeper with Image Transformers,/paper/going-deeper-with-image-transformers
+12,ViT-L ,93.0,,,Three things everyone should know about Vision Transformers,/paper/three-things-everyone-should-know-about
+13,TResNet-L-V2,92.6,,,TResNet: High Performance GPU-Dedicated Architecture,/paper/tresnet-high-performance-gpu-dedicated
+14,EfficientNetV2-L,92.3,,,EfficientNetV2: Smaller Models and Faster Training,/paper/efficientnetv2-smaller-models-and-faster
+15,EfficientNetV2-M,92.2,,,EfficientNetV2: Smaller Models and Faster Training,/paper/efficientnetv2-smaller-models-and-faster
+16,BiT-M ,92.17,,,Big Transfer (BiT): General Visual Representation Learning,/paper/large-scale-learning-of-general-visual
+17,CeiT-S,91.8,,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+18,CeiT-S ,91.8,,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+19,EfficientNet-B7,91.7,64000000.0,,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,/paper/efficientnet-rethinking-model-scaling-for
+20,EfficientNetV2-S,91.5,,,EfficientNetV2: Smaller Models and Faster Training,/paper/efficientnetv2-smaller-models-and-faster
+21,GPIPE,91.3,,,GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism,/paper/gpipe-efficient-training-of-giant-neural
+22,TNT-B,91.1,65600000.0,,Transformer in Transformer,/paper/transformer-in-transformer
+23,DeiT-B,90.8,86000000.0,,Training data-efficient image transformers & distillation through attention,/paper/training-data-efficient-image-transformers
+24,GFNet-H-B,90.3,54000000.0,,Global Filter Networks for Image Classification,/paper/global-filter-networks-for-image
+25,E2E-3M,90.27,,,Rethinking Recurrent Neural Networks and Other Improvements for Image Classification,/paper/rethinking-recurrent-neural-networks-and
+26,Bamboo ,90.2,,,Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy,/paper/bamboo-building-mega-scale-vision-dataset
+27,PyramidNet-272 ,89.9,,,ASAM: Adaptive Sharpness-Aware Minimization for Scale-Invariant Learning of Deep Neural Networks,/paper/asam-adaptive-sharpness-aware-minimization
+28,PyramidNet ,89.7,,,Sharpness-Aware Minimization for Efficiently Improving Generalization,/paper/sharpness-aware-minimization-for-efficiently-1
+29,DVT ,89.63,,,Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition,/paper/not-all-images-are-worth-16x16-words-dynamic
+30,ResMLP-24,89.5,,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+31,"PyramidNet-272, S=4",89.46,32800000.0,,Towards Better Accuracy-efficiency Trade-offs: Divide and Co-training,/paper/splitnet-divide-and-co-training
+32,CeiT-T,89.4,,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+33,PyramidNet+ShakeDrop,89.3,,,AutoAugment: Learning Augmentation Policies from Data,/paper/autoaugment-learning-augmentation-policies
+34,ViT-B/16- SAM,89.1,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+35,ConvMLP-M,89.1,,,ConvMLP: Hierarchical Convolutional MLPs for Vision,/paper/convmlp-hierarchical-convolutional-mlps-for
+36,ConvMLP-L,88.6,,,ConvMLP: Hierarchical Convolutional MLPs for Vision,/paper/convmlp-hierarchical-convolutional-mlps-for
+37,ResNet-152x4-AGC ,88.54,,,Effect of Pre-Training Scale on Intra- and Inter-Domain Full and Few-Shot Transfer Learning for Natural and Medical X-Ray Chest Images,/paper/effect-of-large-scale-pre-training-on-full
+38,ColorNet,88.4,19000000.0,,ColorNet: Investigating the importance of color spaces for image classification,/paper/colornet-investigating-the-importance-of
+39,PyramidNet+ShakeDrop ,88.3,,,Fast AutoAugment,/paper/fast-autoaugment
+40,NAT-M4,88.3,9000000.0,,Neural Architecture Transfer,/paper/neural-architecture-transfer
+41,CeiT-T ,88.0,,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+42,NAT-M3,87.7,7800000.0,,Neural Architecture Transfer,/paper/neural-architecture-transfer
+43,ViT-S/16- SAM,87.6,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+44,NAT-M2,87.5,6400000.0,,Neural Architecture Transfer,/paper/neural-architecture-transfer
+45,Dynamics 1,87.48,,,PSO-Convolutional Neural Networks with Heterogeneous Learning Rate,/paper/pso-convolutional-neural-networks-with
+46,"DenseNet-BC-190, S=4",87.44,26300000.0,,Towards Better Accuracy-efficiency Trade-offs: Divide and Co-training,/paper/splitnet-divide-and-co-training
+47,ConvMLP-S,87.4,,,ConvMLP: Hierarchical Convolutional MLPs for Vision,/paper/convmlp-hierarchical-convolutional-mlps-for
+48,ResMLP-12,87.0,,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+49,"WRN-40-10, S=4",86.9,,,Towards Better Accuracy-efficiency Trade-offs: Divide and Co-training,/paper/splitnet-divide-and-co-training
+50,ResNet50 ,86.9,25000000.0,,ResNet strikes back: An improved training procedure in timm,/paper/resnet-strikes-back-an-improved-training
+51,WRN-28-10 * 3,86.81,,,MixMo: Mixing Multiple Inputs for Multiple Outputs via Deep Subnetworks,/paper/mixmo-mixing-multiple-inputs-for-multiple
+52,PyramidNet + AA ,86.64,,,Regularizing Neural Networks via Adversarial Model Perturbation,/paper/regularizing-neural-networks-via-adversarial
+53,PyramidNet-200 + Shakedrop + Cutmix + PS-KD,86.41,,,Self-Knowledge Distillation with Progressive Refinement of Targets,/paper/self-knowledge-distillation-a-simple-way-for
+54,Mixer-B/16- SAM,86.4,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+55,PyramidNet-200 + Shakedrop + Cutmix,86.19,,,CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features,/paper/cutmix-regularization-strategy-to-train
+56,MUXNet-m,86.1,2100000.0,,MUXConv: Information Multiplexing in Convolutional Neural Networks,/paper/muxconv-information-multiplexing-in
+57,NAT-M1,86.0,3800000.0,,Neural Architecture Transfer,/paper/neural-architecture-transfer
+58,WRN-28-10,85.77,,,MixMo: Mixing Multiple Inputs for Multiple Outputs via Deep Subnetworks,/paper/mixmo-mixing-multiple-inputs-for-multiple
+59,"WRN-28-10, S=4",85.74,,,Towards Better Accuracy-efficiency Trade-offs: Divide and Co-training,/paper/splitnet-divide-and-co-training
+60,WRN-28-8 ,85.59,,,,
+61,WRN-28-8 +SAMix,85.5,,,Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup,/paper/boosting-discriminative-visual-representation
+62,ASANas,85.42,,,Improving Neural Architecture Search Image Classifiers via Ensemble Learning,/paper/improving-neural-architecture-search-image
+63,WRN-28-8 ,85.38,,,,
+64,SparseSwin,85.35,17580000.0,,SparseSwin: Swin Transformer with Sparse Transformer Block,/paper/sparseswin-swin-transformer-with-sparse
+65,WRN-28-8 ,85.25,,,,
+66,ResNet-50-SAM,85.2,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+67,WRN-28-8 +AutoMix,85.16,,,AutoMix: Unveiling the Power of Mixup for Stronger Classifiers,/paper/automix-unveiling-the-power-of-mixup
+68,WaveMixLite-256/7,85.09,,,WaveMix: A Resource-efficient Neural Network for Image Analysis,/paper/wavemix-lite-a-resource-efficient-neural
+69,WRN 28-14,85.0,,,Neural networks with late-phase weights,/paper/economical-ensembles-with-hypernetworks
+70,R-Mix ,85.0,,,Expeditious Saliency-guided Mix-up through Random Gradient Thresholding,/paper/expeditious-saliency-guided-mix-up-through
+71,EEEA-Net-C ,84.98,,,EEEA-Net: An Early Exit Evolutionary Neural Architecture Search,/paper/eeea-net-an-early-exit-evolutionary-neural
+72,RL-Mix ,84.9,,,Expeditious Saliency-guided Mix-up through Random Gradient Thresholding,/paper/expeditious-saliency-guided-mix-up-through
+73,Wide-ResNet-28-10,84.89,,,Automatic Data Augmentation via Invariance-Constrained Learning,/paper/automatic-data-augmentation-via-invariance
+74,SENet + ShakeEven + Cutout,84.59,,,Squeeze-and-Excitation Networks,/paper/squeeze-and-excitation-networks
+75,ResNeXt-50,84.42,,,Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup,/paper/boosting-discriminative-visual-representation
+76,WRN-28-10 with reSGHMC,84.38,,,Non-convex Learning via Replica Exchange Stochastic Gradient MCMC,/paper/non-convex-learning-via-replica-exchange
+77,PyramidNet-272 + SWA,84.16,,,Averaging Weights Leads to Wider Optima and Better Generalization,/paper/averaging-weights-leads-to-wider-optima-and
+78,WRN28-10,84.05,,,Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup,/paper/puzzle-mix-exploiting-saliency-and-local-1
+79,HCGNet-A3,84.04,11400000.0,,Gated Convolutional Networks with Hybrid Connectivity for Image Classification,/paper/gated-convolutional-networks-with-hybrid
+80,WideResNet 28-10 + CutMix ,83.97,,,Expeditious Saliency-guided Mix-up through Random Gradient Thresholding,/paper/expeditious-saliency-guided-mix-up-through
+81,DenseNet-BC-190 + FMix,83.95,,,FMix: Enhancing Mixed Sample Data Augmentation,/paper/understanding-and-enhancing-mixed-sample-data
+82,ORN,83.85,,,Oriented Response Networks,/paper/oriented-response-networks
+83,Grafit ,83.7,,,Grafit: Learning fine-grained image representations with coarse labels,/paper/grafit-learning-fine-grained-image
+84,ResNeXt-50,83.64,,,AutoMix: Unveiling the Power of Mixup for Stronger Classifiers,/paper/automix-unveiling-the-power-of-mixup
+85,CCT-7/3x1+HTM+VTM,83.57,,,TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers,/paper/tokenmixup-efficient-attention-guided-token
+86,HCGNet-A2,83.46,3100000.0,,Gated Convolutional Networks with Hybrid Connectivity for Image Classification,/paper/gated-convolutional-networks-with-hybrid
+87,Res2NeXt-29,83.44,,,Res2Net: A New Multi-scale Backbone Architecture,/paper/res2net-a-new-multi-scale-backbone
+88,DenseNet-BC-190 + Mixup,83.2,,,mixup: Beyond Empirical Risk Minimization,/paper/mixup-beyond-empirical-risk-minimization
+89,SSAL-DenseNet 190-40,83.2,,,Contextual Classification Using Self-Supervised Auxiliary Models for Deep Neural Networks,/paper/contextual-classification-using-self
+90,EnAET,83.13,,,EnAET: A Self-Trained framework for Semi-Supervised and Supervised Learning with Ensemble Transformations,/paper/enaet-self-trained-ensemble-autoencoding
+91,WRN 28-10,83.06,,,Neural networks with late-phase weights,/paper/economical-ensembles-with-hypernetworks
+92,R-Mix ,83.02,,,Expeditious Saliency-guided Mix-up through Random Gradient Thresholding,/paper/expeditious-saliency-guided-mix-up-through
+93,Wide ResNet+Cutout+no BN scale/offset learning,82.95,,,Single-bit-per-weight deep convolutional neural networks without batch-normalization layers for embedded systems,/paper/single-bit-per-weight-deep-convolutional
+94,WRN-16-8 with reSGHMC,82.95,,,Non-convex Learning via Replica Exchange Stochastic Gradient MCMC,/paper/non-convex-learning-via-replica-exchange
+95,DenseNet-BC,82.82,,,Densely Connected Convolutional Networks,/paper/densely-connected-convolutional-networks
+96,CCT-7/3x1*,82.72,,,Escaping the Big Data Paradigm with Compact Transformers,/paper/escaping-the-big-data-paradigm-with-compact
+97,EXACT ,82.68,,,EXACT: How to Train Your Accuracy,/paper/exact-how-to-train-your-accuracy
+98,SKNet-29 ,82.67,,,Selective Kernel Networks,/paper/selective-kernel-networks
+99,DenseNet,82.62,,,Densely Connected Convolutional Networks,/paper/densely-connected-convolutional-networks
+100,Shared WRN,82.57,,,Learning Implicitly Recurrent CNNs Through Parameter Sharing,/paper/learning-implicitly-recurrent-cnns-through
+101,Transformer local-attention ,82.56,,,"Nested Hierarchical Transformer: Towards Accurate, Data-Efficient and Interpretable Visual Understanding",/paper/aggregating-nested-transformers
+102,RL-Mix ,82.43,,,Expeditious Saliency-guided Mix-up through Random Gradient Thresholding,/paper/expeditious-saliency-guided-mix-up-through
+103,Mixer-S/16- SAM,82.4,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+104,R-Mix ,82.32,,,Expeditious Saliency-guided Mix-up through Random Gradient Thresholding,/paper/expeditious-saliency-guided-mix-up-through
+105,ResNeXt 29-4-24 + CutMix ,82.3,,,Expeditious Saliency-guided Mix-up through Random Gradient Thresholding,/paper/expeditious-saliency-guided-mix-up-through
+106,WARN,82.18,,,Attend and Rectify: a Gated Attention Mechanism for Fine-Grained Recovery,/paper/attend-and-rectify-a-gated-attention
+107,RL-Mix ,82.16,,,Expeditious Saliency-guided Mix-up through Random Gradient Thresholding,/paper/expeditious-saliency-guided-mix-up-through
+108,WRN+SWA,82.15,,,Averaging Weights Leads to Wider Optima and Better Generalization,/paper/averaging-weights-leads-to-wider-optima-and
+109,Manifold Mixup,81.96,,,Manifold Mixup: Better Representations by Interpolating Hidden States,/paper/manifold-mixup-better-representations-by
+110,HCGNet-A1,81.87,1100000.0,,Gated Convolutional Networks with Hybrid Connectivity for Image Classification,/paper/gated-convolutional-networks-with-hybrid
+111,WideResNet 16-8 + CutMix ,81.79,,,Expeditious Saliency-guided Mix-up through Random Gradient Thresholding,/paper/expeditious-saliency-guided-mix-up-through
+112,Residual Gates + WRN,81.73,,,Learning Identity Mappings with Residual Gates,/paper/learning-identity-mappings-with-residual
+113,kNN-CLIP,81.7,,,Revisiting a kNN-based Image Classification System with High-capacity Storage,/paper/revisiting-a-knn-based-image-classification
+114,AA-Wide-ResNet,81.6,,,Attention Augmented Convolutional Networks,/paper/190409925
+115,PDO-eConv ,81.6,,,PDO-eConvs: Partial Differential Operator Based Equivariant Convolutions,/paper/pdo-econvs-partial-differential-operator
+116,SEER ,81.53,,,Vision Models Are More Robust And Fair When Pretrained On Uncurated Images Without Supervision,/paper/vision-models-are-more-robust-and-fair-when
+117,R-Mix ,81.49,,,Expeditious Saliency-guided Mix-up through Random Gradient Thresholding,/paper/expeditious-saliency-guided-mix-up-through
+118,Wide-ResNet-40-2,81.19,,,Automatic Data Augmentation via Invariance-Constrained Learning,/paper/automatic-data-augmentation-via-invariance
+119,Wide ResNet,81.15,,,Wide Residual Networks,/paper/wide-residual-networks
+120,CoPaNet-R-164,81.1,,,Deep Competitive Pathway Networks,/paper/deep-competitive-pathway-networks
+121,RL-Mix ,80.75,,,Expeditious Saliency-guided Mix-up through Random Gradient Thresholding,/paper/expeditious-saliency-guided-mix-up-through
+122,PreActResNet-18 + CutMix ,80.6,,,Expeditious Saliency-guided Mix-up through Random Gradient Thresholding,/paper/expeditious-saliency-guided-mix-up-through
+123,GAC-SNN,80.45,,,Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks,/paper/gated-attention-coding-for-training-high
+124,SimpleNetv2,80.29,,,Towards Principled Design of Deep Convolutional Networks: Introducing SimpNet,/paper/towards-principled-design-of-deep
+125,UPANets,80.29,,,UPANets: Learning from the Universal Pixel Attention Networks,/paper/upanets-learning-from-the-universal-pixel
+126,PreActResNet-18 + SageMix,80.16,,,SageMix: Saliency-Guided Mixup for Point Clouds,/paper/sagemix-saliency-guided-mixup-for-point
+127,ResNet56 with reSGHMC,80.14,,,Non-convex Learning via Replica Exchange Stochastic Gradient MCMC,/paper/non-convex-learning-via-replica-exchange
+128,PDO-eConv ,79.99,,,PDO-eConvs: Partial Differential Operator Based Equivariant Convolutions,/paper/pdo-econvs-partial-differential-operator
+129,VGG11B,79.9,,,Training Neural Networks with Local Error Signals,/paper/training-neural-networks-with-local-error
+130,NNCLR,79.0,,,With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations,/paper/with-a-little-help-from-my-friends-nearest
+131,PreActResNet18 ,78.49,,,Regularizing Neural Networks via Adversarial Model Perturbation,/paper/regularizing-neural-networks-via-adversarial
+132,SimpleNetv1,78.37,,,"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures",/paper/lets-keep-it-simple-using-simple
+133,ViT ,78.27,3640000.0,,Pre-training of Lightweight Vision Transformers on Small Datasets with Minimally Scaled Images,/paper/pre-training-of-lightweight-vision
+134,PDC,77.9,,,Augmenting Deep Classifiers with Polynomial Neural Networks,/paper/polynomial-networks-in-deep-classifiers
+135,MobileNetV3-large x1.0 ,77.7,,,Rethinking Depthwise Separable Convolutions: How Intra-Kernel Correlations Lead to Improved MobileNets,/paper/2003-13549
+136,CCT-6/3x1,77.31,3170000.0,,Escaping the Big Data Paradigm with Compact Transformers,/paper/escaping-the-big-data-paradigm-with-compact
+137,ResNet-1001,77.3,,,Identity Mappings in Deep Residual Networks,/paper/identity-mappings-in-deep-residual-networks
+138,Evolution,77.0,,,Large-Scale Evolution of Image Classifiers,/paper/large-scale-evolution-of-image-classifiers
+139,DIANet,76.98,,,DIANet: Dense-and-Implicit Attention Network,/paper/dianet-dense-and-implicit-attention-network
+140,LP-BNN ,76.85,,,Encoding the latent posterior of Bayesian Neural Networks for uncertainty quantification,/paper/encoding-the-latent-posterior-of-bayesian
+141,ResNet-18+MM+FRL,76.64,,,Learning Class Unique Features in Fine-Grained Visual Classification,/paper/towards-class-specific-unit
+142,ResNet32 with reSGHMC,76.55,,,Non-convex Learning via Replica Exchange Stochastic Gradient MCMC,/paper/non-convex-learning-via-replica-exchange
+143,MomentumNet,76.38,,,Momentum Residual Neural Networks,/paper/momentum-residual-neural-networks
+144,SSCNN,75.7,,,Spatially-sparse convolutional neural networks,/paper/spatially-sparse-convolutional-neural
+145,Exponential Linear Units,75.7,,,Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs),/paper/fast-and-accurate-deep-network-learning-by
+146,ResNet-9,75.59,,,CNN Filter DB: An Empirical Investigation of Trained Convolutional Filters,/paper/cnn-filter-db-an-empirical-investigation-of
+147,Stochastic Depth,75.42,,,Deep Networks with Stochastic Depth,/paper/deep-networks-with-stochastic-depth
+148,ResNet v2-110 ,74.41,,,Mish: A Self Regularized Non-Monotonic Activation Function,/paper/mish-a-self-regularized-non-monotonic-neural
+149,Dspike ,74.24,,,Differentiable Spike: Rethinking Gradient-Descent for Training Spiking Neural Networks,/paper/differentiable-spike-rethinking-gradient
+150,ResNet20 with reSGHMC,74.14,,,Non-convex Learning via Replica Exchange Stochastic Gradient MCMC,/paper/non-convex-learning-via-replica-exchange
+151,MixMatch,74.1,,,MixMatch: A Holistic Approach to Semi-Supervised Learning,/paper/mixmatch-a-holistic-approach-to-semi
+152,Fractional MP,73.6,,,Fractional Max-Pooling,/paper/fractional-max-pooling
+153,ResNet+ELU,73.5,,,Deep Residual Networks with Exponential Linear Unit,/paper/deep-residual-networks-with-exponential
+154,PDO-eConv ,73.0,,,PDO-eConvs: Partial Differential Operator Based Equivariant Convolutions,/paper/pdo-econvs-partial-differential-operator
+155,SOPCNN,72.96,0.0,,Stochastic Optimization of Plain Convolutional Neural Networks with Simple methods,/paper/stochastic-optimization-of-plain
+156,PDO-eConv ,72.87,,,PDO-eConvs: Partial Differential Operator Based Equivariant Convolutions,/paper/pdo-econvs-partial-differential-operator
+157,Tuned CNN,72.6,,,Scalable Bayesian Optimization Using Deep Neural Networks,/paper/scalable-bayesian-optimization-using-deep
+158,CMsC,72.4,,,Competitive Multi-scale Convolution,/paper/competitive-multi-scale-convolution
+159,Fitnet4-LSUV,72.3,,,All you need is a good init,/paper/all-you-need-is-a-good-init
+160,kMobileNet V3 Large 16ch,71.36,520000.0,,Grouped Pointwise Convolutions Reduce Parameters in Convolutional Neural Networks,/paper/grouped-pointwise-convolutions-reduce
+161,BNM NiN,71.1,,,Batch-normalized Maxout Network in Network,/paper/batch-normalized-maxout-network-in-network
+162,OTTT,71.05,,,Online Training Through Time for Spiking Neural Networks,/paper/online-training-through-time-for-spiking
+163,MIM,70.8,,,On the Importance of Normalisation Layers in Deep Learning with Piecewise Linear Activation Units,/paper/on-the-importance-of-normalisation-layers-in
+164,WaveMix-Lite-256/7,70.2,,,WaveMix: A Resource-efficient Neural Network for Image Analysis,/paper/wavemix-lite-a-resource-efficient-neural
+165,IM-Loss ,70.18,,,IM-Loss: Information Maximization Loss for Spiking Neural Networks,/paper/im-loss-information-maximization-loss-for
+166,NiN+APL,69.2,,,Learning Activation Functions to Improve Deep Neural Networks,/paper/learning-activation-functions-to-improve-deep
+167,SWWAE,69.1,,,Stacked What-Where Auto-encoders,/paper/stacked-what-where-auto-encoders
+168,NiN+Superclass+CDJ,69.0,,,Deep Convolutional Decision Jungle for Image Classification,/paper/deep-convolutional-decision-jungle-for-image
+169,Spectral Representations for Convolutional Neural Networks,68.4,,,Spectral Representations for Convolutional Neural Networks,/paper/spectral-representations-for-convolutional
+170,ReActNet-18,68.34,,,"""BNN - BN = ?"": Training Binary Neural Networks without Batch Normalization",/paper/bnn-bn-training-binary-neural-networks
+171,VDN,67.8,,,Training Very Deep Networks,/paper/training-very-deep-networks
+172,DCNN+GFE,67.7,,,Deep Convolutional Neural Networks as Generic Feature Extractors,/paper/deep-convolutional-neural-networks-as-generic
+173,Tree+Max-Avg pooling,67.6,,,"Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree",/paper/generalizing-pooling-functions-in
+174,HD-CNN,67.4,,,HD-CNN: Hierarchical Deep Convolutional Neural Network for Large Scale Visual Recognition,/paper/hd-cnn-hierarchical-deep-convolutional-neural
+175,Universum Prescription,67.2,,,Universum Prescription: Regularization using Unlabeled Data,/paper/universum-prescription-regularization-using
+176,ResNet50 Without Transfer Learning,67.06,,,ResNet50_on_Cifar_100_Without_Transfer_Learning,/paper/resnet50-on-cifar-100-without-transfer
+177,AlexNet ,66.78,,,Learning the Connections in Direct Feedback Alignment,/paper/learning-the-connections-in-direct-feedback
+178,ACN,66.3,,,Striving for Simplicity: The All Convolutional Net,/paper/striving-for-simplicity-the-all-convolutional
+179,DLME ,66.1,,,DLME: Deep Local-flatness Manifold Embedding,/paper/dlme-deep-local-flatness-manifold-embedding
+180,ResNet-18 ,66.0,,,FatNet: High Resolution Kernels for Classification Using Fully Convolutional Optical Neural Networks,/paper/fatnet-high-resolution-kernels-for
+181,DSN,65.4,,,Deeply-Supervised Nets,/paper/deeply-supervised-nets
+182,NiN,64.3,,,Network In Network,/paper/network-in-network
+183,Tree Priors,63.2,,,Discriminative Transfer Learning with Tree-based Priors,/paper/discriminative-transfer-learning-with-tree
+184,DNN+Probabilistic Maxout,61.9,,,Improving Deep Neural Networks with Probabilistic Maxout Units,/paper/improving-deep-neural-networks-with
+185,Maxout Network ,61.43,,,Maxout Networks,/paper/maxout-networks
+186,ResNet20+UnsharpMaskLayer,60.36,,,Unsharp Masking Layer: Injecting Prior Knowledge in Convolutional Networks for Image Classification,/paper/unsharp-masking-layer-injecting-prior
+187,Convolutional Linear Transformer for Vision ,60.11,,,Convolutional Xformers for Vision,/paper/convolutional-xformers-for-vision
+188,FatNet of ResNet-18,60.0,,,FatNet: High Resolution Kernels for Classification Using Fully Convolutional Optical Neural Networks,/paper/fatnet-high-resolution-kernels-for
+189,Optical Simulation of FatNet,60.0,,,FatNet: High Resolution Kernels for Classification Using Fully Convolutional Optical Neural Networks,/paper/fatnet-high-resolution-kernels-for
+190,RReLU,59.8,,,Empirical Evaluation of Rectified Activations in Convolutional Network,/paper/empirical-evaluation-of-rectified-activations
+191,Stochastic Pooling,57.5,,,Stochastic Pooling for Regularization of Deep Convolutional Neural Networks,/paper/stochastic-pooling-for-regularization-of-deep
+192,Sign-symmetry,48.75,,,How Important is Weight Symmetry in Backpropagation?,/paper/how-important-is-weight-symmetry-in
+193,AlexNet ,48.03,,,Learning the Connections in Direct Feedback Alignment,/paper/learning-the-connections-in-direct-feedback
+194,CNN39,42.64,,,Sharpness-Aware Minimization for Efficiently Improving Generalization,/paper/sharpness-aware-minimization-for-efficiently-1
+195,CNN36,36.07,,,Sharpness-Aware Minimization for Efficiently Improving Generalization,/paper/sharpness-aware-minimization-for-efficiently-1
+196,CNN37,35.05,,,Sharpness-aware Quantization for Deep Neural Networks,/paper/sharpness-aware-quantization-for-deep-neural
+197,AlexNet ,19.49,,,Learning the Connections in Direct Feedback Alignment,/paper/learning-the-connections-in-direct-feedback
+198,efficient adaptive ensembling,,,96.808,Efficient Adaptive Ensembling for Image Classification,/paper/efficient-adaptive-ensembling-for-image
+199,Beta-Rank,,,74.01,Beta-Rank: A Robust Convolutional Filter Pruning Method For Imbalanced Medical Image Analysis,/paper/beta-rank-a-robust-convolutional-filter

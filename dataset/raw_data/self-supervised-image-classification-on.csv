@@ -1,0 +1,131 @@
+Rank,Model,Top 1 Accuracy,Top 5 Accuracy,Number of Params,Paper Title,Paper URL
+1,DINOv2 ,86.7,,1100000000.0,DINOv2: Learning Robust Visual Features without Supervision,/paper/dinov2-learning-robust-visual-features
+2,DINOv2 ,86.5,,1100000000.0,DINOv2: Learning Robust Visual Features without Supervision,/paper/dinov2-learning-robust-visual-features
+3,DINOv2 distilled ,86.3,,307000000.0,DINOv2: Learning Robust Visual Features without Supervision,/paper/dinov2-learning-robust-visual-features
+4,MIM-Refiner ,84.7,,632000000.0,MIM-Refiner: A Contrastive Learning Boost from Intermediate Pre-Trained Representations,/paper/mim-refiner-a-contrastive-learning-boost-from
+5,MIM-Refiner ,84.5,,1890000000.0,MIM-Refiner: A Contrastive Learning Boost from Intermediate Pre-Trained Representations,/paper/mim-refiner-a-contrastive-learning-boost-from
+6,DINOv2 distilled ,84.5,,85000000.0,DINOv2: Learning Robust Visual Features without Supervision,/paper/dinov2-learning-robust-visual-features
+7,MIM-Refiner ,83.7,,632000000.0,MIM-Refiner: A Contrastive Learning Boost from Intermediate Pre-Trained Representations,/paper/mim-refiner-a-contrastive-learning-boost-from
+8,MIM-Refiner ,83.5,,307000000.0,MIM-Refiner: A Contrastive Learning Boost from Intermediate Pre-Trained Representations,/paper/mim-refiner-a-contrastive-learning-boost-from
+9,MIM-Refiner ,82.8,,307000000.0,MIM-Refiner: A Contrastive Learning Boost from Intermediate Pre-Trained Representations,/paper/mim-refiner-a-contrastive-learning-boost-from
+10,Unicom ,82.7,,,Unicom: Universal and Compact Representation Learning for Image Retrieval,/paper/unicom-universal-and-compact-representation
+11,iBOT ,82.3,,307000000.0,iBOT: Image BERT Pre-Training with Online Tokenizer,/paper/ibot-image-bert-pre-training-with-online
+12,MAE-CT ,82.2,,632000000.0,Contrastive Tuning: A Little Help to Make Masked Autoencoders Forget,/paper/contrastive-tuning-a-little-help-to-make
+13,Mugs ,82.1,,307000000.0,Mugs: A Multi-Granular Self-Supervised Learning Framework,/paper/mugs-a-multi-granular-self-supervised
+14,Unicom ,81.8,,,Unicom: Universal and Compact Representation Learning for Image Retrieval,/paper/unicom-universal-and-compact-representation
+15,MAE-CT ,81.5,,307000000.0,Contrastive Tuning: A Little Help to Make Masked Autoencoders Forget,/paper/contrastive-tuning-a-little-help-to-make
+16,EsViT ,81.3,95.5,87000000.0,Efficient Self-supervised Vision Transformers for Representation Learning,/paper/efficient-self-supervised-vision-transformers
+17,iBOT ,81.3,,307000000.0,iBOT: Image BERT Pre-Training with Online Tokenizer,/paper/ibot-image-bert-pre-training-with-online
+18,DINOv2 distilled ,81.1,,21000000.0,DINOv2: Learning Robust Visual Features without Supervision,/paper/dinov2-learning-robust-visual-features
+19,MoCo v3 ,81.0,,304000000.0,An Empirical Study of Training Self-Supervised Vision Transformers,/paper/an-empirical-study-of-training-self
+20,EsViT,80.8,,49000000.0,Efficient Self-supervised Vision Transformers for Representation Learning,/paper/efficient-self-supervised-vision-transformers
+21,MSN ,80.7,,,Masked Siamese Networks for Label-Efficient Learning,/paper/masked-siamese-networks-for-label-efficient
+22,ReLICv2 ,80.6,,,Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?,/paper/pushing-the-limits-of-self-supervised-resnets
+23,MR BarTwins ,80.4,,,Masked Reconstruction Contrastive Learning with Information Bottleneck Principle,/paper/masked-reconstruction-contrastive-learning
+24,iBOT-vMF ,80.3,,85000000.0,DINO as a von Mises-Fisher mixture model,/paper/dino-as-a-von-mises-fisher-mixture-model-1
+25,DINO ,80.3,,84000000.0,Emerging Properties in Self-Supervised Vision Transformers,/paper/emerging-properties-in-self-supervised-vision
+26,PGT ,80.3,,70000000.0,Perceptual Group Tokenizer: Building Perception with Iterative Grouping,/paper/perceptual-group-tokenizer-building
+27,DINO ,80.1,,,Emerging Properties in Self-Supervised Vision Transformers,/paper/emerging-properties-in-self-supervised-vision
+28,BEiTV2 ,80.1,,,BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers,/paper/beit-v2-masked-image-modeling-with-vector
+29,SimCLRv2 ,79.8,94.9,795000000.0,Big Self-Supervised Models are Strong Semi-Supervised Learners,/paper/big-self-supervised-models-are-strong-semi
+30,ReLICv2 ,79.8,,,Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?,/paper/pushing-the-limits-of-self-supervised-resnets
+31,PercMAE ,79.8,,,Improving Visual Representation Learning through Perceptual Understanding,/paper/improving-visual-representation-learning
+32,DINO ,79.7,,21000000.0,Emerging Properties in Self-Supervised Vision Transformers,/paper/emerging-properties-in-self-supervised-vision
+33,BYOL ,79.6,94.8,250000000.0,Bootstrap your own latent: A new approach to self-supervised Learning,/paper/bootstrap-your-own-latent-a-new-approach-to
+34,ReLICv2 ,79.4,,,Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?,/paper/pushing-the-limits-of-self-supervised-resnets
+35,ReLICv2 ,79.3,,,Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?,/paper/pushing-the-limits-of-self-supervised-resnets
+36,MoCo v3 ,79.1,,,An Empirical Study of Training Self-Supervised Vision Transformers,/paper/an-empirical-study-of-training-self
+37,Unicom ,79.1,,,Unicom: Universal and Compact Representation Learning for Image Retrieval,/paper/unicom-universal-and-compact-representation
+38,SMoG ,79.0,94.4,,Unsupervised Visual Representation Learning by Synchronous Momentum Grouping,/paper/unsupervised-visual-representation-learning-4
+39,ReLICv2 ,79.0,,,Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?,/paper/pushing-the-limits-of-self-supervised-resnets
+40,C-BYOL ,78.8,94.5,,Compressive Visual Representations,/paper/compressive-visual-representations
+41,DINO-vMF ,78.8,,85000000.0,DINO as a von Mises-Fisher mixture model,/paper/dino-as-a-von-mises-fisher-mixture-model-1
+42,ReLICv2 ,78.7,,,Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?,/paper/pushing-the-limits-of-self-supervised-resnets
+43,BYOL ,78.6,94.2,375000000.0,Bootstrap your own latent: A new approach to self-supervised Learning,/paper/bootstrap-your-own-latent-a-new-approach-to
+44,SwAV ,78.5,,586000000.0,Unsupervised Learning of Visual Features by Contrasting Cluster Assignments,/paper/unsupervised-learning-of-visual-features-by
+45,DINO ,78.2,,85000000.0,Emerging Properties in Self-Supervised Vision Transformers,/paper/emerging-properties-in-self-supervised-vision
+46,MoCo v3 ,78.1,,632000000.0,An Empirical Study of Training Self-Supervised Vision Transformers,/paper/an-empirical-study-of-training-self
+47,PercMAE ,78.1,,,Improving Visual Representation Learning through Perceptual Understanding,/paper/improving-visual-representation-learning
+48,SMoG ,78.0,93.9,,Unsupervised Visual Representation Learning by Synchronous Momentum Grouping,/paper/unsupervised-visual-representation-learning-4
+49,MoCo v3 ,77.6,,307000000.0,An Empirical Study of Training Self-Supervised Vision Transformers,/paper/an-empirical-study-of-training-self
+50,BYOL ,77.4,93.6,94000000.0,Bootstrap your own latent: A new approach to self-supervised Learning,/paper/bootstrap-your-own-latent-a-new-approach-to
+51,SwAV ,77.3,,94000000.0,Unsupervised Learning of Visual Features by Contrasting Cluster Assignments,/paper/unsupervised-learning-of-visual-features-by
+52,ReLICv2 ,77.1,,,Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?,/paper/pushing-the-limits-of-self-supervised-resnets
+53,DINO ,77.0,,21000000.0,Emerging Properties in Self-Supervised Vision Transformers,/paper/emerging-properties-in-self-supervised-vision
+54,DINO-vMF ,77.0,,21000000.0,DINO as a von Mises-Fisher mixture model,/paper/dino-as-a-von-mises-fisher-mixture-model-1
+55,MoCo v3 ,76.7,,86000000.0,An Empirical Study of Training Self-Supervised Vision Transformers,/paper/an-empirical-study-of-training-self
+56,MAE ,76.6,,,Masked Autoencoders Are Scalable Vision Learners,/paper/masked-autoencoders-are-scalable-vision
+57,SimCLR ,76.5,93.2,375000000.0,A Simple Framework for Contrastive Learning of Visual Representations,/paper/a-simple-framework-for-contrastive-learning
+58,CoKe ,76.4,,,Unsupervised Visual Representation Learning by Online Constrained K-Means,/paper/unsupervised-visual-representation-learning-3
+59,SMoG ,76.4,,,Unsupervised Visual Representation Learning by Synchronous Momentum Grouping,/paper/unsupervised-visual-representation-learning-4
+60,ReSSL ,76.3,,24000000.0,Weak Augmentation Guided Relational Self-Supervised Learning,/paper/relational-self-supervised-learning
+61,ReSSL ,76.0,,24000000.0,Weak Augmentation Guided Relational Self-Supervised Learning,/paper/relational-self-supervised-learning
+62,Triplet  ,75.9,,23560000.0,Solving Inefficiency of Self-supervised Representation Learning,/paper/solving-inefficiency-of-self-supervised
+63,DnC ,75.8,,24000000.0,Divide and Contrast: Self-supervised Learning from Uncurated Data,/paper/divide-and-contrast-self-supervised-learning
+64,MAE ,75.8,,,Masked Autoencoders Are Scalable Vision Learners,/paper/masked-autoencoders-are-scalable-vision
+65,CaCo ,75.7,,24000000.0,CaCo: Both Positive and Negative Samples are Directly Learnable via Cooperative-adversarial Contrastive Learning,/paper/caco-both-positive-and-negative-samples-are
+66,SimCLRv2 ,75.6,92.7,94000000.0,Big Self-Supervised Models are Strong Semi-Supervised Learners,/paper/big-self-supervised-models-are-strong-semi
+67,C-BYOL ,75.6,92.7,,Compressive Visual Representations,/paper/compressive-visual-representations
+68,NNCLR ,75.6,92.4,,With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations,/paper/with-a-little-help-from-my-friends-nearest
+69,HEXA,75.5,,24000000.0,Self-supervised Pre-training with Hard Examples Improves Visual Representations,/paper/self-supervised-pre-training-with-hard
+70,SCE ,75.4,,24000000.0,Similarity Contrastive Estimation for Self-Supervised Soft Contrastive Learning,/paper/similarity-contrastive-estimation-for-self
+71,SwAV ,75.3,,24000000.0,Unsupervised Learning of Visual Features by Contrasting Cluster Assignments,/paper/unsupervised-learning-of-visual-features-by
+72,DINO ,75.3,,24000000.0,Emerging Properties in Self-Supervised Vision Transformers,/paper/emerging-properties-in-self-supervised-vision
+73,InfoMin ,75.2,,120000000.0,What Makes for Good Views for Contrastive Learning?,/paper/what-makes-for-good-views-for-contrastive
+74,DeepCluster-v2 ,75.2,,24000000.0,Unsupervised Learning of Visual Features by Contrasting Cluster Assignments,/paper/unsupervised-learning-of-visual-features-by
+75,MoBY ,75.0,,29000000.0,Self-Supervised Learning with Swin Transformers,/paper/self-supervised-learning-with-swin
+76,Unicom ,75.0,,,Unicom: Universal and Compact Representation Learning for Image Retrieval,/paper/unicom-universal-and-compact-representation
+77,ReLIC ,74.8,,24000000.0,Representation Learning via Invariant Causal Mechanisms,/paper/representation-learning-via-invariant-causal-1
+78,ReSSL,74.7,92.3,24000000.0,ReSSL: Relational Self-Supervised Learning with Weak Augmentation,/paper/ressl-relational-self-supervised-learning
+79,WCL ,74.7,,24000000.0,Weakly Supervised Contrastive Learning,/paper/weakly-supervised-contrastive-learning-1
+80,MV-MR,74.5,92.1,,MV-MR: multi-views and multi-representations for self-supervised learning and knowledge distillation,/paper/mv-mr-multi-views-and-multi-representations
+81,FNC ,74.4,91.8,24000000.0,Boosting Contrastive Self-Supervised Learning with False Negative Cancellation,/paper/boosting-contrastive-self-supervised-learning
+82,BYOL ,74.3,91.6,24000000.0,Bootstrap your own latent: A new approach to self-supervised Learning,/paper/bootstrap-your-own-latent-a-new-approach-to
+83,SimCLR ,74.2,92.0,94000000.0,A Simple Framework for Contrastive Learning of Visual Representations,/paper/a-simple-framework-for-contrastive-learning
+84,Self-Classifier ,74.2,,24000000.0,Self-Supervised Classification Network,/paper/self-supervised-classification-network
+85,OBoW ,73.8,92.2,24000000.0,OBoW: Online Bag-of-Visual-Words Generation for Self-Supervised Learning,/paper/online-bag-of-visual-words-generation-for
+86,VICReg ,73.2,91.1,24000000.0,VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning,/paper/vicreg-variance-invariance-covariance
+87,Barlow Twins ,73.2,91.0,24000000.0,Barlow Twins: Self-Supervised Learning via Redundancy Reduction,/paper/barlow-twins-self-supervised-learning-via
+88,InfoMin ,73.0,91.1,24000000.0,What Makes for Good Views for Contrastive Learning?,/paper/what-makes-for-good-views-for-contrastive
+89,DINO ,72.8,,30000000.0,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+90,MoBY ,72.8,,22000000.0,Self-Supervised Learning with Swin Transformers,/paper/self-supervised-learning-with-swin
+91,I-VNE+ ,72.1,91.0,,VNE: An Effective Method for Improving Deep Representation by Manipulating Eigenvalue Distribution,/paper/vne-an-effective-method-for-improving-deep
+92,iGPT-XL ,72.0,,6801000000.0,Generative Pretraining from Pixels,/paper/generative-pretraining-from-pixels
+93,SimCLRv2 ,71.7,90.4,24000000.0,Big Self-Supervised Models are Strong Semi-Supervised Learners,/paper/big-self-supervised-models-are-strong-semi
+94,CPC v2 ,71.5,90.1,305000000.0,Data-Efficient Image Recognition with Contrastive Predictive Coding,/paper/data-efficient-image-recognition-with
+95,SimSiam ,71.3,,24000000.0,Exploring Simple Siamese Representation Learning,/paper/exploring-simple-siamese-representation
+96,MoCo v2 ,71.1,90.1,24000000.0,Improved Baselines with Momentum Contrastive Learning,/paper/improved-baselines-with-momentum-contrastive
+97,CMC ,70.6,89.7,188000000.0,Contrastive Multiview Coding,/paper/contrastive-multiview-coding
+98,SimCLR ,69.3,89.0,24000000.0,A Simple Framework for Contrastive Learning of Visual Representations,/paper/a-simple-framework-for-contrastive-learning
+99,iGPT-XL ,68.7,,,Generative Pretraining from Pixels,/paper/generative-pretraining-from-pixels
+100,MoCo ,68.6,,375000000.0,Momentum Contrast for Unsupervised Visual Representation Learning,/paper/momentum-contrast-for-unsupervised-visual
+101,AMDIM ,68.1,,626000000.0,Learning Representations by Maximizing Mutual Information Across Views,/paper/190600910
+102,MAE ,68.0,,,Masked Autoencoders Are Scalable Vision Learners,/paper/masked-autoencoders-are-scalable-vision
+103,DINO ,67.5,,15000000.0,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+104,CMC ,66.2,87.0,47000000.0,Contrastive Multiview Coding,/paper/contrastive-multiview-coding
+105,PCL ,65.9,,,Prototypical Contrastive Learning of Unsupervised Representations,/paper/prototypical-contrastive-learning-of
+106,MoCo ,65.4,,94000000.0,Momentum Contrast for Unsupervised Visual Representation Learning,/paper/momentum-contrast-for-unsupervised-visual
+107,iGPT-L ,65.2,,,Generative Pretraining from Pixels,/paper/generative-pretraining-from-pixels
+108,CMC ,65.0,86.0,,Contrastive Multiview Coding,/paper/contrastive-multiview-coding
+109,CPC v2 ,63.8,85.3,24000000.0,Data-Efficient Image Recognition with Contrastive Predictive Coding,/paper/data-efficient-image-recognition-with
+110,MMCL ,63.8,,,Max-Margin Contrastive Learning,/paper/max-margin-contrastive-learning
+111,PIRL,63.6,,24000000.0,Self-Supervised Learning of Pretext-Invariant Representations,/paper/self-supervised-learning-of-pretext-invariant
+112,AMDIM ,63.5,,,Learning Representations by Maximizing Mutual Information Across Views,/paper/190600910
+113,SeLa,61.5,84.0,,Self-labelling via simultaneous clustering and representation learning,/paper/self-labelling-via-simultaneous-clustering-1
+114,BigBiGAN ,61.3,81.9,86000000.0,Large Scale Adversarial Representation Learning,/paper/large-scale-adversarial-representation
+115,BigBiGAN ,60.8,81.4,,Large Scale Adversarial Representation Learning,/paper/large-scale-adversarial-representation
+116,MoCo ,60.6,,24000000.0,Momentum Contrast for Unsupervised Visual Representation Learning,/paper/momentum-contrast-for-unsupervised-visual
+117,iGPT-L ,60.3,,,Generative Pretraining from Pixels,/paper/generative-pretraining-from-pixels
+118,LocalAgg ,60.2,,24000000.0,Local Aggregation for Unsupervised Learning of Visual Embeddings,/paper/local-aggregation-for-unsupervised-learning
+119,BigBiGAN ,56.6,78.6,,Large Scale Adversarial Representation Learning,/paper/large-scale-adversarial-representation
+120,Revisited Rotation ,55.4,77.9,,Revisiting Self-Supervised Visual Representation Learning,/paper/revisiting-self-supervised-visual
+121,BigBiGAN ,55.4,77.4,,Large Scale Adversarial Representation Learning,/paper/large-scale-adversarial-representation
+122,Revisited Rel.Patch.Loc ,51.4,74.0,,Revisiting Self-Supervised Visual Representation Learning,/paper/revisiting-self-supervised-visual
+123,CPC ,48.7,73.6,,Representation Learning with Contrastive Predictive Coding,/paper/representation-learning-with-contrastive
+124,SeLa ,48.4,,,Self-labelling via simultaneous clustering and representation learning,/paper/self-labelling-via-simultaneous-clustering-1
+125,Revisited Exemplar ,46.0,68.8,,Revisiting Self-Supervised Visual Representation Learning,/paper/revisiting-self-supervised-visual
+126,Revisited Jigsaw ,44.6,68.0,,Revisiting Self-Supervised Visual Representation Learning,/paper/revisiting-self-supervised-visual
+127,Rotation ,36.5,,86000000.0,Unsupervised Representation Learning by Predicting Image Rotations,/paper/unsupervised-representation-learning-by-1
+128,Split-Brain ,35.4,,,Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction,/paper/split-brain-autoencoders-unsupervised
+129,Colorization ,32.6,,,Colorful Image Colorization,/paper/colorful-image-colorization
+130,MoCo v3 ,,,632000000.0,An Empirical Study of Training Self-Supervised Vision Transformers,/paper/an-empirical-study-of-training-self

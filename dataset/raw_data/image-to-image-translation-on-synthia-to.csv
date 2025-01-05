@@ -1,0 +1,29 @@
+Rank,Model,mIoU (13 classes),Paper Title,Paper URL
+1,HRDA + PiPa,74.8,PiPa: Pixel- and Patch-wise Self-supervised Learning for Domain Adaptative Semantic Segmentation,/paper/pipa-pixel-and-patch-wise-self-supervised
+2,MIC,74.0,MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation,/paper/mic-masked-image-consistency-for-context
+3,HRDA,72.4,HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation,/paper/hrda-context-aware-high-resolution-domain
+4,SePiCo,71.4,SePiCo: Semantic-Guided Pixel Contrast for Domain Adaptive Semantic Segmentation,/paper/sepico-semantic-guided-pixel-contrast-for
+5,CAMix ,69.2,Context-Aware Mixup for Domain Adaptive Semantic Segmentation,/paper/context-aware-mixup-for-domain-adaptive
+6,DAFormer + ProCST,68.2,ProCST: Boosting Semantic Segmentation Using Progressive Cyclic Style-Transfer,/paper/procst-boosting-semantic-segmentation-using
+7,DAFormer,67.4,DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation,/paper/daformer-improving-network-architectures-and
+8,TransDA-B,66.3,Smoothing Matters: Momentum Transformer for Domain Adaptive Semantic Segmentation,/paper/smoothing-matters-momentum-transformer-for
+9,CPSL,65.3,Class-Balanced Pixel-Level Self-Labeling for Domain Adaptive Semantic Segmentation,/paper/class-balanced-pixel-level-self-labeling-for
+10,ProDA+CRA,63.7,Cross-Region Domain Adaptation for Class-level Alignment,/paper/cross-region-domain-adaptation-for-class
+11,ProDA,62.0,Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation,/paper/prototypical-pseudo-label-denoising-and
+12,CAMix ,59.7,Context-Aware Mixup for Domain Adaptive Semantic Segmentation,/paper/context-aware-mixup-for-domain-adaptive
+13,IAST,57.0,Instance Adaptive Self-Training for Unsupervised Domain Adaptation,/paper/instance-adaptive-self-training-for
+14,PyCDA ,53.3,Constructing Self-motivated Pyramid Curriculums for Cross-Domain Semantic Segmentation: A Non-Adversarial Approach,/paper/constructing-self-motivated-pyramid
+15,FADA ,52.5,Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation,/paper/classes-matter-a-fine-grained-adversarial
+16,Bidirectional Learning ,51.4,Bidirectional Learning for Domain Adaptation of Semantic Segmentation,/paper/bidirectional-learning-for-domain-adaptation
+17,DADA ,49.8,DADA: Depth-aware Domain Adaptation in Semantic Segmentation,/paper/dada-depth-aware-domain-adaptation-in
+18,LRENT ,48.7,Confidence Regularized Self-Training,/paper/confidence-regularized-self-training
+19,SWD,48.1,Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation,/paper/sliced-wasserstein-discrepancy-for
+20,ADVENT,48.0,ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation,/paper/advent-adversarial-entropy-minimization-for
+21,Multi-level Adaptation,46.7,Learning to Adapt Structured Output Space for Semantic Segmentation,/paper/learning-to-adapt-structured-output-space-for
+22,Discriminative Patch ,46.5,Domain Adaptation for Structured Output via Discriminative Patch Representations,/paper/domain-adaptation-for-structured-output-via
+23,Single-level Adaptation,45.9,Learning to Adapt Structured Output Space for Semantic Segmentation,/paper/learning-to-adapt-structured-output-space-for
+24,CAG-UDA,44.5,Category Anchor-Guided Unsupervised Domain Adaptation for Semantic Segmentation,/paper/category-anchor-guided-unsupervised-domain
+25,Domain Invariant Structure Extraction,41.5,All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation,/paper/all-about-structure-adapting-structural
+26,superpixel + color constancy,29.7,A Curriculum Domain Adaptation Approach to the Semantic Segmentation of Urban Scenes,/paper/a-curriculum-domain-adaptation-approach-to
+27,CDA,29.0,Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes,/paper/curriculum-domain-adaptation-for-semantic
+28,FCNs in the wild,20.2,FCNs in the Wild: Pixel-level Adversarial and Constraint-based Adaptation,/paper/fcns-in-the-wild-pixel-level-adversarial-and

@@ -1,0 +1,982 @@
+Rank,Model,Top 1 Accuracy,Number of params,GFLOPs,Hardware Burden,Paper Title,Paper URL
+1,OmniVec,92.4,,,,OmniVec: Learning robust representations with cross modal sharing,/paper/omnivec-learning-robust-representations-with
+2,CoCa ,91.0,2100000000.0,,,CoCa: Contrastive Captioners are Image-Text Foundation Models,/paper/coca-contrastive-captioners-are-image-text
+3,Model soups ,90.98,2440000000.0,,,Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time,/paper/model-soups-averaging-weights-of-multiple
+4,Model soups ,90.94,1843000000.0,,,Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time,/paper/model-soups-averaging-weights-of-multiple
+5,ViT-e,90.9,3900000000.0,,,PaLI: A Jointly-Scaled Multilingual Language-Image Model,/paper/pali-a-jointly-scaled-multilingual-language
+6,CoAtNet-7,90.88,2440000000.0,2586.0,,CoAtNet: Marrying Convolution and Attention for All Data Sizes,/paper/coatnet-marrying-convolution-and-attention
+7,CoCa ,90.6,2100000000.0,,,CoCa: Contrastive Captioners are Image-Text Foundation Models,/paper/coca-contrastive-captioners-are-image-text
+8,CoAtNet-6,90.45,1470000000.0,1521.0,,CoAtNet: Marrying Convolution and Attention for All Data Sizes,/paper/coatnet-marrying-convolution-and-attention
+9,ViT-G/14,90.45,1843000000.0,2859.9,,Scaling Vision Transformers,/paper/scaling-vision-transformers
+10,DaViT-G,90.4,1437000000.0,1038.0,,DaViT: Dual Attention Vision Transformers,/paper/davit-dual-attention-vision-transformers
+11,DaViT-H,90.2,362000000.0,334.0,,DaViT: Dual Attention Vision Transformers,/paper/davit-dual-attention-vision-transformers
+12,Meta Pseudo Labels ,90.2,480000000.0,,95040.0,Meta Pseudo Labels,/paper/meta-pseudo-labels
+13,SwinV2-G,90.17,3000000000.0,,,Swin Transformer V2: Scaling Up Capacity and Resolution,/paper/swin-transformer-v2-scaling-up-capacity-and
+14,InternImage-DCNv3-G ,90.1,3000000000.0,,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+15,MAWS ,90.1,6500000000.0,,,The effectiveness of MAE pre-pretraining for billion-scale pretraining,/paper/the-effectiveness-of-mae-pre-pretraining-for
+16,Florence-CoSwin-H,90.05,893000000.0,,,Florence: A New Foundation Model for Computer Vision,/paper/florence-a-new-foundation-model-for-computer
+17,Meta Pseudo Labels ,90.0,390000000.0,,,Meta Pseudo Labels,/paper/meta-pseudo-labels
+18,RevCol-H,90.0,2158000000.0,,,Reversible Column Networks,/paper/reversible-column-networks
+19,ONE-PEACE,89.8,1520000000.0,,,ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities,/paper/one-peace-exploring-one-general
+20,MAWS ,89.8,2000000000.0,,,The effectiveness of MAE pre-pretraining for billion-scale pretraining,/paper/the-effectiveness-of-mae-pre-pretraining-for
+21,EVA,89.7,1000000000.0,,,EVA: Exploring the Limits of Masked Visual Representation Learning at Scale,/paper/eva-exploring-the-limits-of-masked-visual
+22,M3I Pre-training ,89.6,,,,Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information,/paper/towards-all-in-one-pre-training-via
+23,ViT-L/16 ,89.6,307000000.0,,,Scaling Vision Transformers to 22 Billion Parameters,/paper/scaling-vision-transformers-to-22-billion
+24,InternImage-H,89.6,1080000000.0,1478.0,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+25,MaxViT-XL ,89.53,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+26,MAWS ,89.5,650000000.0,,,The effectiveness of MAE pre-pretraining for billion-scale pretraining,/paper/the-effectiveness-of-mae-pre-pretraining-for
+27,MaxViT-XL ,89.41,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+28,MaxViT-L ,89.41,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+29,NFNet-F4+,89.2,527000000.0,367.0,,High-Performance Large-Scale Image Recognition Without Normalization,/paper/high-performance-large-scale-image
+30,MaxViT-L ,89.12,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+31,MOAT-4 22K+1K,89.1,483200000.0,648.5,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+32,FD ,89.0,307000000.0,,,Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation,/paper/contrastive-learning-rivals-masked-image
+33,Last Layer Tuning with Newton Step ,88.9,,,,Differentially Private Image Classification from Features,/paper/differentially-private-image-classification
+34,TokenLearner L/8 ,88.87,460000000.0,,,TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?,/paper/tokenlearner-what-can-8-learned-tokens-do-for
+35,MaxViT-B ,88.82,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+36,MAWS ,88.8,,,,The effectiveness of MAE pre-pretraining for billion-scale pretraining,/paper/the-effectiveness-of-mae-pre-pretraining-for
+37,MViTv2-H ,88.8,667000000.0,763.5,,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+38,MaxViT-XL ,88.7,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+39,MaxViT-B ,88.69,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+40,ALIGN ,88.64,480000000.0,,,Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision,/paper/scaling-up-visual-and-vision-language
+41,EfficientNet-L2-475 ,88.61,480000000.0,,,Sharpness-Aware Minimization for Efficiently Improving Generalization,/paper/sharpness-aware-minimization-for-efficiently-1
+42,ViT-B/16,88.6,86000000.0,,,Scaling Vision Transformers to 22 Billion Parameters,/paper/scaling-vision-transformers-to-22-billion
+43,BEiT-L ,88.6,331000000.0,,,BEiT: BERT Pre-Training of Image Transformers,/paper/beit-bert-pre-training-of-image-transformers
+44,SWAG ,88.6,633500000.0,1018.8,,Revisiting Weakly Supervised Pre-Training of Visual Perception Models,/paper/revisiting-weakly-supervised-pre-training-of
+45,ViT-H/14,88.55,,,,An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,/paper/an-image-is-worth-16x16-words-transformers-1
+46,CoAtNet-3 @384,88.52,168000000.0,114.0,,CoAtNet: Marrying Convolution and Attention for All Data Sizes,/paper/coatnet-marrying-convolution-and-attention
+47,MaxViT-XL ,88.51,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+48,mPLUG-2,88.5,,,,"mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video",/paper/mplug-2-a-modularized-multi-modal-foundation
+49,OpenCLIP ViT-H/14,88.5,,,,Reproducible scaling laws for contrastive language-image learning,/paper/reproducible-scaling-laws-for-contrastive
+50,FixEfficientNet-L2,88.5,480000000.0,585.0,,Fixing the train-test resolution discrepancy: FixEfficientNet,/paper/fixing-the-train-test-resolution-discrepancy-2
+51,ViTAE-H + MAE ,88.5,644000000.0,,,ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond,/paper/vitaev2-vision-transformer-advanced-by
+52,MaxViT-L ,88.46,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+53,MViTv2-L ,88.4,218000000.0,140.7,,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+54,NoisyStudent ,88.4,480000000.0,,51800.0,Self-training with Noisy Student improves ImageNet classification,/paper/self-training-with-noisy-student-improves
+55,MaxViT-B ,88.38,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+56,Top-k DiffSortNets ,88.37,,,,Differentiable Top-k Classification Learning,/paper/differentiable-top-k-classification-learning-1
+57,Adlik-ViT-SG+Swin_large+Convnext_xlarge,88.36,1827000000.0,,,A ConvNet for the 2020s,/paper/a-convnet-for-the-2020s
+58,V-MoE-H/14 ,88.36,7200000000.0,,,Scaling Vision with Sparse Mixture of Experts,/paper/scaling-vision-with-sparse-mixture-of-experts
+59,MaxViT-L ,88.32,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+60,Unicom ,88.3,,,,Unicom: Universal and Compact Representation Learning for Image Retrieval,/paper/unicom-universal-and-compact-representation
+61,PeCo ,88.3,656000000.0,,,PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers,/paper/peco-perceptual-codebook-for-bert-pre
+62,MaxViT-B ,88.24,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+63,V-MoE-H/14 ,88.23,2700000000.0,,,Scaling Vision with Sparse Mixture of Experts,/paper/scaling-vision-with-sparse-mixture-of-experts
+64,dBOT ViT-H ,88.2,,,,Exploring Target Representations for Masked Autoencoders,/paper/exploring-target-representations-for-masked
+65,CAFormer-B36 ,88.1,99000000.0,72.2,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+66,VIT-H/14,88.08,656000000.0,,,Scaling Vision with Sparse Mixture of Experts,/paper/scaling-vision-with-sparse-mixture-of-experts
+67,ViT-H@224 ,88.0,,,,Co-training $2^L$ Submodels for Visual Recognition,/paper/co-training-2-l-submodels-for-visual
+68,UniRepLKNet-XL++,88.0,,,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+69,InternImage-XL,88.0,335000000.0,163.0,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+70,MViTv2-H ,88.0,667000000.0,120.6,,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+71,Mixer-H/14 ,87.94,,,,MLP-Mixer: An all-MLP Architecture for Vision,/paper/mlp-mixer-an-all-mlp-architecture-for-vision
+72,UniRepLKNet-L++,87.9,,,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+73,dBOT ViT-L ,87.8,,,,Exploring Target Representations for Masked Autoencoders,/paper/exploring-target-representations-for-masked
+74,MogaNet-XL ,87.8,181000000.0,102.0,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+75,VAN-B6 ,87.8,200000000.0,114.3,,Visual Attention Network,/paper/visual-attention-network
+76,RepLKNet-XL,87.8,335000000.0,128.7,,Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs,/paper/scaling-up-your-kernels-to-31x31-revisiting
+77,ConvNeXt-XL ,87.8,350000000.0,179.0,,A ConvNet for the 2020s,/paper/a-convnet-for-the-2020s
+78,MAE ,87.8,656000000.0,,,Masked Autoencoders Are Scalable Vision Learners,/paper/masked-autoencoders-are-scalable-vision
+79,ViT-L/16,87.76,,,,An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,/paper/an-image-is-worth-16x16-words-transformers-1
+80,HorNet-L ,87.7,,101.8,,HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions,/paper/hornet-efficient-high-order-spatial
+81,CvT-W24 ,87.7,,,,CvT: Introducing Convolutions to Vision Transformers,/paper/cvt-introducing-convolutions-to-vision
+82,InternImage-L,87.7,223000000.0,108.0,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+83,ConvFormer-B36 ,87.6,100000000.0,66.5,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+84,BiT-L ,87.54,,,,Big Transfer (BiT): General Visual Representation Learning,/paper/large-scale-learning-of-general-visual
+85,PeCo ,87.5,,,,PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers,/paper/peco-perceptual-codebook-for-bert-pre
+86,ViT-L@224 ,87.5,,,,Co-training $2^L$ Submodels for Visual Recognition,/paper/co-training-2-l-submodels-for-visual
+87,CAFormer-M36 ,87.5,56000000.0,42.0,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+88,CSWin-L ,87.5,173000000.0,96.8,,CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows,/paper/cswin-transformer-a-general-vision
+89,DaViT-L ,87.5,196800000.0,103.0,,DaViT: Dual Attention Vision Transformers,/paper/davit-dual-attention-vision-transformers
+90,DiNAT-Large ,87.5,200000000.0,92.4,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+91,V-MoE-L/16 ,87.41,3400000000.0,,,Scaling Vision with Sparse Mixture of Experts,/paper/scaling-vision-with-sparse-mixture-of-experts
+92,DiNAT-Large ,87.4,,89.7,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+93,data2vec 2.0,87.4,,,,"Efficient Self-supervised Learning with Contextualized Target Representations for Vision, Speech and Language",/paper/efficient-self-supervised-learning-with
+94,UniRepLKNet-B++,87.4,,,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+95,CAFormer-B36 ,87.4,99000000.0,23.2,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+96,UniNet-B6,87.4,117000000.0,51.0,,"UniNet: Unified Architecture Search with Convolution, Transformer, and MLP",/paper/uninet-unified-architecture-search-with-1
+97,DiNAT_s-Large ,87.4,197000000.0,101.5,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+98,Swin-L,87.3,197000000.0,103.9,,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,/paper/swin-transformer-hierarchical-vision
+99,VOLO-D5+HAT,87.3,295500000.0,412.0,,Improving Vision Transformers by Revisiting High-frequency Components,/paper/improving-vision-transformers-by-revisiting
+100,EfficientNetV2 ,87.2,,,,PolyLoss: A Polynomial Expansion Perspective of Classification Loss Functions,/paper/polyloss-a-polynomial-expansion-perspective-1
+101,ELSA-VOLO-D5 ,87.2,298000000.0,437.0,,ELSA: Enhanced Local Self-Attention for Vision Transformer,/paper/elsa-enhanced-local-self-attention-for-vision
+102,Bamboo ,87.1,,,,A Study on Transformer Configuration and Training Objective,/paper/deeper-vs-wider-a-revisit-of-transformer
+103,Swin-L@224 ,87.1,,,,Co-training $2^L$ Submodels for Visual Recognition,/paper/co-training-2-l-submodels-for-visual
+104,FixEfficientNet-B7,87.1,66000000.0,82.0,,Fixing the train-test resolution discrepancy: FixEfficientNet,/paper/fixing-the-train-test-resolution-discrepancy-2
+105,FAN-L-Hybrid++,87.1,76800000.0,,,Understanding The Robustness in Vision Transformers,/paper/understanding-the-robustness-in-vision
+106,SwinV2-B,87.1,88000000.0,,,Swin Transformer V2: Scaling Up Capacity and Resolution,/paper/swin-transformer-v2-scaling-up-capacity-and
+107,VOLO-D5,87.1,296000000.0,,,VOLO: Vision Outlooker for Visual Recognition,/paper/volo-vision-outlooker-for-visual-recognition
+108,PatchConvNet-L120-21k-384,87.1,334300000.0,,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+109,16-TokenLearner B/16 ,87.07,,,,TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?,/paper/tokenlearner-what-can-8-learned-tokens-do-for
+110,MAE+DAT ,87.02,,,,Enhance the Visual Representation via Discrete Adversarial Training,/paper/enhance-the-visual-representation-via
+111,UniNet-B5,87.0,72900000.0,20.4,,"UniNet: Unified Architecture Search with Convolution, Transformer, and MLP",/paper/uninet-unified-architecture-search-with-1
+112,VAN-B5 ,87.0,90000000.0,50.6,,Visual Attention Network,/paper/visual-attention-network
+113,ConvFormer-B36 ,87.0,100000000.0,22.6,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+114,MAE ,86.9,,,,Masked Autoencoders Are Scalable Vision Learners,/paper/masked-autoencoders-are-scalable-vision
+115,Hiera-H,86.9,,,,Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles,/paper/hiera-a-hierarchical-vision-transformer
+116,CAFormer-S36 ,86.9,39000000.0,26.0,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+117,ConvFormer-M36 ,86.9,57000000.0,37.7,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+118,NoisyStudent ,86.9,66000000.0,37.0,,Self-training with Noisy Student improves ImageNet classification,/paper/self-training-with-noisy-student-improves
+119,DaViT-B ,86.9,87900000.0,46.4,,DaViT: Dual Attention Vision Transformers,/paper/davit-dual-attention-vision-transformers
+120,MAWS ,86.8,,,,The effectiveness of MAE pre-pretraining for billion-scale pretraining,/paper/the-effectiveness-of-mae-pre-pretraining-for
+121,EfficientNetV2L,86.8,121000000.0,53.0,,EfficientNetV2: Smaller Models and Faster Training,/paper/efficientnetv2-smaller-models-and-faster
+122,VOLO-D4,86.8,193000000.0,,,VOLO: Vision Outlooker for Visual Recognition,/paper/volo-vision-outlooker-for-visual-recognition
+123,NFNet-F5 w/ SAM w/ augmult=16,86.78,377200000.0,,,Drawing Multiple Augmentation Samples Per Image During Training Efficiently Decreases Test Error,/paper/drawing-multiple-augmentation-samples-per
+124,µ2Net ,86.74,,,,An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems,/paper/an-evolutionary-approach-to-dynamic
+125,ViT-B @384 ,86.7,,,,DeiT III: Revenge of the ViT,/paper/deit-iii-revenge-of-the-vit
+126,MaxViT-L ,86.7,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+127,FixEfficientNet-B6,86.7,43000000.0,,,Fixing the train-test resolution discrepancy: FixEfficientNet,/paper/fixing-the-train-test-resolution-discrepancy-2
+128,MOAT-3 1K only,86.7,190000000.0,271.0,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+129,Heinsen Routing + BEiT-large 16 224,86.7,312800000.0,,,An Algorithm for Routing Vectors in Sequences,/paper/an-algorithm-for-routing-vectors-in-sequences
+130,CLCNet ,86.61,,51.93,,CLCNet: Rethinking of Ensemble Modeling with Classification Confidence Network,/paper/clcnet-rethinking-of-ensemble-modeling-with
+131,CAFormer-M36 ,86.6,56000000.0,13.2,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+132,VAN-B4 ,86.6,60000000.0,35.9,,Visual Attention Network,/paper/visual-attention-network
+133,data2vec ,86.6,656000000.0,,,"data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language",/paper/data2vec-a-general-framework-for-self-1
+134,DiNAT_s-Large ,86.5,,34.5,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+135,MKD ViT-L,86.5,,,,Meta Knowledge Distillation,/paper/meta-knowledge-distillation
+136,TinyViT-21M-512-distill ,86.5,21000000.0,27.0,,TinyViT: Fast Pretraining Distillation for Small Vision Transformers,/paper/tinyvit-fast-pretraining-distillation-for
+137,PatchConvNet-B60-21k-384,86.5,99400000.0,,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+138,CaiT-M-48-448,86.5,438000000.0,377.3,,Going deeper with Image Transformers,/paper/going-deeper-with-image-transformers
+139,NFNet-F6 w/ SAM,86.5,438400000.0,377.28,,High-Performance Large-Scale Image Recognition Without Normalization,/paper/high-performance-large-scale-image
+140,CLCNet ,86.46,,57.46,,CLCNet: Rethinking of Ensemble Modeling with Classification Confidence Network,/paper/clcnet-rethinking-of-ensemble-modeling-with
+141,CLCNet ,86.42,,45.43,,CLCNet: Rethinking of Ensemble Modeling with Classification Confidence Network,/paper/clcnet-rethinking-of-ensemble-modeling-with
+142,MaxViT-L ,86.4,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+143,UniRepLKNet-S++,86.4,,,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+144,FixEfficientNet-B5,86.4,30000000.0,,,Fixing the train-test resolution discrepancy: FixEfficientNet,/paper/fixing-the-train-test-resolution-discrepancy-2
+145,ConvFormer-S36 ,86.4,40000000.0,22.4,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+146,NoisyStudent ,86.4,43000000.0,,,Self-training with Noisy Student improves ImageNet classification,/paper/self-training-with-noisy-student-improves
+147,Swin-B,86.4,88000000.0,47.0,,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,/paper/swin-transformer-hierarchical-vision
+148,CAFormer-B36 ,86.4,99000000.0,72.2,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+149,LV-ViT-L,86.4,151000000.0,214.8,,All Tokens Matter: Token Labeling for Training Better Vision Transformers,/paper/token-labeling-training-a-85-5-top-1-accuracy
+150,FixResNeXt-101 32x48d,86.4,829000000.0,,62.0,Fixing the train-test resolution discrepancy,/paper/fixing-the-train-test-resolution-discrepancy
+151,MaxViT-B ,86.34,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+152,Bamboo ,86.3,,,,A Study on Transformer Configuration and Training Objective,/paper/deeper-vs-wider-a-revisit-of-transformer
+153,ViT-B@224 ,86.3,,,,Co-training $2^L$ Submodels for Visual Recognition,/paper/co-training-2-l-submodels-for-visual
+154,Our SP-ViT-L|384,86.3,,,,SP-ViT: Learning 2D Spatial Priors for Vision Transformers,/paper/sp-vit-learning-2d-spatial-priors-for-vision
+155,BEiT-L ,86.3,86000000.0,,,BEiT: BERT Pre-Training of Image Transformers,/paper/beit-bert-pre-training-of-image-transformers
+156,VOLO-D3,86.3,86000000.0,,,VOLO: Vision Outlooker for Visual Recognition,/paper/volo-vision-outlooker-for-visual-recognition
+157,VAN-B5 ,86.3,90000000.0,17.2,,Visual Attention Network,/paper/visual-attention-network
+158,UniFormer-L ,86.3,100000000.0,39.2,,UniFormer: Unifying Convolution and Self-attention for Visual Recognition,/paper/uniformer-unifying-convolution-and-self
+159,MViTv2-L ,86.3,218000000.0,140.2,,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+160,CAIT-M36-448,86.3,271000000.0,247.8,,Going deeper with Image Transformers,/paper/going-deeper-with-image-transformers
+161,NFNet-F5 w/ SAM,86.3,377200000.0,289.76,,High-Performance Large-Scale Image Recognition Without Normalization,/paper/high-performance-large-scale-image
+162,TinySaver,86.24,,31.17,,Tiny Models are the Computational Saver for Large Models,/paper/tiny-models-are-the-computational-saver-for
+163,Swin-B@224 ,86.2,,,,Co-training $2^L$ Submodels for Visual Recognition,/paper/co-training-2-l-submodels-for-visual
+164,TinyViT-21M-384-distill ,86.2,21000000.0,13.8,,TinyViT: Fast Pretraining Distillation for Small Vision Transformers,/paper/tinyvit-fast-pretraining-distillation-for
+165,CAFormer-M36 ,86.2,56000000.0,42.0,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+166,TransNeXt-Base ,86.2,89700000.0,56.3,,TransNeXt: Robust Foveal Visual Perception for Vision Transformers,/paper/transnext-robust-foveal-visual-perception-for
+167,MIRL ,86.2,341000000.0,67.0,,Masked Image Residual Learning for Scaling Deeper Vision Transformers,/paper/masked-image-residual-learning-for-scaling-1
+168,MaxViT-S ,86.19,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+169,NoisyStudent ,86.1,30000000.0,,,Self-training with Noisy Student improves ImageNet classification,/paper/self-training-with-noisy-student-improves
+170,EfficientNetV2-M ,86.1,55000000.0,,,EfficientNetV2: Smaller Models and Faster Training,/paper/efficientnetv2-smaller-models-and-faster
+171,ConvFormer-M36 ,86.1,57000000.0,12.8,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+172,CAIT-M-36,86.1,270900000.0,173.3,,Going deeper with Image Transformers,/paper/going-deeper-with-image-transformers
+173,Refiner-ViT-L,86.03,81000000.0,,,Refiner: Refining Self-attention for Vision Transformers,/paper/refiner-refining-self-attention-for-vision
+174,GPaCo ,86.01,,,,Generalized Parametric Contrastive Learning,/paper/generalized-parametric-contrastive-learning
+175,Omnivore ,86.0,,,,Omnivore: A Single Model for Many Visual Modalities,/paper/omnivore-a-single-model-for-many-visual
+176,Our SP-ViT-M|384,86.0,,,,SP-ViT: Learning 2D Spatial Priors for Vision Transformers,/paper/sp-vit-learning-2d-spatial-priors-for-vision
+177,TransNeXt-Small ,86.0,49700000.0,32.1,,TransNeXt: Robust Foveal Visual Perception for Vision Transformers,/paper/transnext-robust-foveal-visual-perception-for
+178,VOLO-D2,86.0,59000000.0,,,VOLO: Vision Outlooker for Visual Recognition,/paper/volo-vision-outlooker-for-visual-recognition
+179,XCiT-L24,86.0,189000000.0,417.9,,XCiT: Cross-Covariance Image Transformers,/paper/xcit-cross-covariance-image-transformers
+180,SparK ,86.0,198000000.0,,,Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling,/paper/designing-bert-for-convolutional-networks
+181,NFNet-F5,86.0,377200000.0,289.76,,High-Performance Large-Scale Image Recognition Without Normalization,/paper/high-performance-large-scale-image
+182,MAE ,85.9,,,,Masked Autoencoders Are Scalable Vision Learners,/paper/masked-autoencoders-are-scalable-vision
+183,DAT-B++ ,85.9,,,,DAT++: Spatially Dynamic Vision Transformer with Deformable Attention,/paper/dat-spatially-dynamic-vision-transformer-with
+184,FixEfficientNet-B4,85.9,19000000.0,,,Fixing the train-test resolution discrepancy: FixEfficientNet,/paper/fixing-the-train-test-resolution-discrepancy-2
+185,NFNet-F4,85.9,316100000.0,215.24,,High-Performance Large-Scale Image Recognition Without Normalization,/paper/high-performance-large-scale-image
+186,ConvNeXt-B@224 ,85.8,,,,Co-training $2^L$ Submodels for Visual Recognition,/paper/co-training-2-l-submodels-for-visual
+187,PiT-B@224 ,85.8,,,,Co-training $2^L$ Submodels for Visual Recognition,/paper/co-training-2-l-submodels-for-visual
+188,GTP-ViT-B-Patch8/P20,85.8,,,,GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation,/paper/gtp-vit-efficient-vision-transformers-via
+189,CAFormer-S36 ,85.8,39000000.0,8.0,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+190,XCiT-M24,85.8,84000000.0,188.0,,XCiT: Cross-Covariance Image Transformers,/paper/xcit-cross-covariance-image-transformers
+191,Fix-EfficientNet-B8 ,85.8,87420000.0,,,MaxUp: A Simple Way to Improve Generalization of Neural Network Training,/paper/maxup-a-simple-way-to-improve-generalization
+192,KDforAA ,85.8,88000000.0,,,Circumventing Outliers of AutoAugment with Knowledge Distillation,/paper/circumventing-outliers-of-autoaugment-with
+193,CAIT-M-24,85.8,185900000.0,116.1,,Going deeper with Image Transformers,/paper/going-deeper-with-image-transformers
+194,RDNet-L ,85.8,186000000.0,34.7,,DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs,/paper/densenets-reloaded-paradigm-shift-beyond
+195,ViT-L,85.8,304800000.0,191.2,,DeiT III: Revenge of the ViT,/paper/deit-iii-revenge-of-the-vit
+196,SEER ,85.8,10000000000.0,,,Vision Models Are More Robust And Fair When Pretrained On Uncurated Images Without Supervision,/paper/vision-models-are-more-robust-and-fair-when
+197,TinySaver,85.75,,19.41,,Tiny Models are the Computational Saver for Large Models,/paper/tiny-models-are-the-computational-saver-for
+198,TinySaver,85.74,,,,Tiny Models are the Computational Saver for Large Models,/paper/tiny-models-are-the-computational-saver-for
+199,MaxViT-T,85.72,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+200,FixEfficientNet-B8,85.7,,,,Fixing the train-test resolution discrepancy: FixEfficientNet,/paper/fixing-the-train-test-resolution-discrepancy-2
+201,EfficientNetV2-L,85.7,,,,EfficientNetV2: Smaller Models and Faster Training,/paper/efficientnetv2-smaller-models-and-faster
+202,ViT-B @224 ,85.7,,,,DeiT III: Revenge of the ViT,/paper/deit-iii-revenge-of-the-vit
+203,dBOT ViT-B ,85.7,,,,Exploring Target Representations for Masked Autoencoders,/paper/exploring-target-representations-for-masked
+204,CAFormer-S36 ,85.7,39000000.0,26.0,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+205,VAN-B4 ,85.7,60000000.0,12.2,,Visual Attention Network,/paper/visual-attention-network
+206,ConvFormer-B36 ,85.7,100000000.0,66.5,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+207,NFNet-F3,85.7,254900000.0,114.76,,High-Performance Large-Scale Image Recognition Without Normalization,/paper/high-performance-large-scale-image
+208,ViT-H @224 ,85.7,632000000.0,,,Masking Augmentation for Supervised Learning,/paper/augmenting-sub-model-to-improve-main-model
+209,XCiT-S24,85.6,48000000.0,106.0,,XCiT: Cross-Covariance Image Transformers,/paper/xcit-cross-covariance-image-transformers
+210,ConvFormer-M36 ,85.6,57000000.0,37.7,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+211,UniFormer-L,85.6,100000000.0,12.6,,UniFormer: Unifying Convolution and Self-attention for Visual Recognition,/paper/uniformer-unifying-convolution-and-self
+212,ViT-L@384 ,85.5,,,,Three things everyone should know about Vision Transformers,/paper/three-things-everyone-should-know-about
+213,Our SP-ViT-L,85.5,,,,SP-ViT: Learning 2D Spatial Priors for Vision Transformers,/paper/sp-vit-learning-2d-spatial-priors-for-vision
+214,Mini-Swin-B@384,85.5,47000000.0,98.8,,MiniViT: Compressing Vision Transformers with Weight Multiplexing,/paper/minivit-compressing-vision-transformers-with
+215,Wave-ViT-L,85.5,57500000.0,14.8,,Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning,/paper/wave-vit-unifying-wavelet-and-transformers
+216,KDforAA ,85.5,66000000.0,,,Circumventing Outliers of AutoAugment with Knowledge Distillation,/paper/circumventing-outliers-of-autoaugment-with
+217,HaloNet4 ,85.5,87000000.0,,,Scaling Local Self-Attention for Parameter Efficient Visual Backbones,/paper/scaling-local-self-attention-for-parameter
+218,AdvProp ,85.5,88000000.0,,,Adversarial Examples Improve Image Recognition,/paper/adversarial-examples-improve-image
+219,CAFormer-B36 ,85.5,99000000.0,23.2,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+220,ConvNeXt-L ,85.5,198000000.0,101.0,,A ConvNet for the 2020s,/paper/a-convnet-for-the-2020s
+221,EfficientNet-B8 ,85.4,,,,RandAugment: Practical automated data augmentation with a reduced search space,/paper/randaugment-practical-data-augmentation-with
+222,BiFormer-B* ,85.4,,,,BiFormer: Vision Transformer with Bi-Level Routing Attention,/paper/biformer-vision-transformer-with-bi-level
+223,GTP-EVA-L/P8,85.4,,,,GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation,/paper/gtp-vit-efficient-vision-transformers-via
+224,PatchConvNet-S60-21k-512,85.4,25200000.0,,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+225,CAFormer-S18 ,85.4,26000000.0,13.4,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+226,ConvFormer-S36 ,85.4,40000000.0,7.6,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+227,ConvFormer-S36 ,85.4,40000000.0,22.4,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+228,CAIT-S-36,85.4,68200000.0,48.0,,Going deeper with Image Transformers,/paper/going-deeper-with-image-transformers
+229,ResNeXt-101 32x48d,85.4,829000000.0,306.0,,Exploring the Limits of Weakly Supervised Pretraining,/paper/exploring-the-limits-of-weakly-supervised
+230,BiT-M ,85.39,928000000.0,,,Big Transfer (BiT): General Visual Representation Learning,/paper/large-scale-learning-of-general-visual
+231,ViT-L/16 Dosovitskiy et al. ,85.3,,,,MLP-Mixer: An all-MLP Architecture for Vision,/paper/mlp-mixer-an-all-mlp-architecture-for-vision
+232,Omnivore ,85.3,,,,Omnivore: A Single Model for Many Visual Modalities,/paper/omnivore-a-single-model-for-many-visual
+233,NoisyStudent ,85.3,19000000.0,,,Self-training with Noisy Student improves ImageNet classification,/paper/self-training-with-noisy-student-improves
+234,CAIT-S-48,85.3,89500000.0,63.8,,Going deeper with Image Transformers,/paper/going-deeper-with-image-transformers
+235,ViT-L @224 ,85.3,304000000.0,,,Masking Augmentation for Supervised Learning,/paper/augmenting-sub-model-to-improve-main-model
+236,CLCNet ,85.28,,47.43,,CLCNet: Rethinking of Ensemble Modeling with Classification Confidence Network,/paper/clcnet-rethinking-of-ensemble-modeling-with
+237,MaxViT-T ,85.24,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+238,TinySaver,85.24,,,,Tiny Models are the Computational Saver for Large Models,/paper/tiny-models-are-the-computational-saver-for
+239,ViT-H @224 ,85.2,,,,DeiT III: Revenge of the ViT,/paper/deit-iii-revenge-of-the-vit
+240,VOLO-D1,85.2,27000000.0,,,VOLO: Vision Outlooker for Visual Recognition,/paper/volo-vision-outlooker-for-visual-recognition
+241,CAFormer-M36 ,85.2,56000000.0,13.2,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+242,AdvProp ,85.2,66000000.0,,,Adversarial Examples Improve Image Recognition,/paper/adversarial-examples-improve-image
+243,UniNet-B5,85.2,73500000.0,23.2,,"UniNet: Unified Architecture Search with Convolution, Transformer, and MLP",/paper/uninet-unified-architecture-search-with
+244,DeiT-B 384,85.2,87000000.0,,,Training data-efficient image transformers & distillation through attention,/paper/training-data-efficient-image-transformers
+245,EfficientNetV2-M,85.1,,,,EfficientNetV2: Smaller Models and Faster Training,/paper/efficientnetv2-smaller-models-and-faster
+246,MKD ViT-B,85.1,,,,Meta Knowledge Distillation,/paper/meta-knowledge-distillation
+247,SP-ViT-S|384,85.1,,,,SP-ViT: Learning 2D Spatial Priors for Vision Transformers,/paper/sp-vit-learning-2d-spatial-priors-for-vision
+248,XCiT-S12,85.1,26000000.0,55.6,,XCiT: Cross-Covariance Image Transformers,/paper/xcit-cross-covariance-image-transformers
+249,CAIT-S-24,85.1,46900000.0,32.2,,Going deeper with Image Transformers,/paper/going-deeper-with-image-transformers
+250,ResNet200_vd_26w_4s_ssld,85.1,76000000.0,,,Semi-Supervised Recognition under a Noisy and Fine-grained Dataset,/paper/semi-supervised-recognition-under-a-noisy-and
+251,MixMIM-B,85.1,88000000.0,16.3,,MixMAE: Mixed and Masked Autoencoder for Efficient Pretraining of Hierarchical Vision Transformers,/paper/mixmim-mixed-and-masked-image-modeling-for
+252,NFNet-F2,85.1,193800000.0,62.59,,High-Performance Large-Scale Image Recognition Without Normalization,/paper/high-performance-large-scale-image
+253,ResNeXt-101 32x32d,85.1,466000000.0,174.0,,Exploring the Limits of Weakly Supervised Pretraining,/paper/exploring-the-limits-of-weakly-supervised
+254,DiscreteViT,85.07,,,,Discrete Representations Strengthen Vision Transformer Robustness,/paper/discrete-representations-strengthen-vision-1
+255,EfficientNetV2-S ,85.0,,,,EfficientNetV2: Smaller Models and Faster Training,/paper/efficientnetv2-smaller-models-and-faster
+256,ViT-M@224 ,85.0,,,,Co-training $2^L$ Submodels for Visual Recognition,/paper/co-training-2-l-submodels-for-visual
+257,ViC-MAE ,85.0,,,,ViC-MAE: Self-Supervised Representation Learning from Images and Video with Contrastive Masked Autoencoders,/paper/visual-representation-learning-from-unlabeled
+258,FixEfficientNet-B3,85.0,12000000.0,,,Fixing the train-test resolution discrepancy: FixEfficientNet,/paper/fixing-the-train-test-resolution-discrepancy-2
+259,CAFormer-S18 ,85.0,26000000.0,13.4,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+260,ConvFormer-S18 ,85.0,27000000.0,11.6,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+261,EfficientNet-B7 ,85.0,66000000.0,,,RandAugment: Practical automated data augmentation with a reduced search space,/paper/randaugment-practical-data-augmentation-with
+262,ViT-B @384 ,85.0,87000000.0,,,DeiT III: Revenge of the ViT,/paper/deit-iii-revenge-of-the-vit
+263,MaxViT-B ,84.95,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+264,CaiT-S24,84.91,,,,Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers,/paper/which-transformer-to-favor-a-comparative
+265,ViT-L @224 ,84.9,,,,DeiT III: Revenge of the ViT,/paper/deit-iii-revenge-of-the-vit
+266,Our SP-ViT-M,84.9,,,,SP-ViT: Learning 2D Spatial Priors for Vision Transformers,/paper/sp-vit-learning-2d-spatial-priors-for-vision
+267,DAT-B++ ,84.9,,,,DAT++: Spatially Dynamic Vision Transformer with Deformable Attention,/paper/dat-spatially-dynamic-vision-transformer-with
+268,CvT-21 ,84.9,32000000.0,25.0,,CvT: Introducing Convolutions to Vision Transformers,/paper/cvt-introducing-convolutions-to-vision
+269,InternImage-B,84.9,97000000.0,16.0,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+270,TinyViT-21M-distill ,84.8,21000000.0,4.3,,TinyViT: Fast Pretraining Distillation for Small Vision Transformers,/paper/tinyvit-fast-pretraining-distillation-for
+271,Wave-ViT-B,84.8,33500000.0,7.2,,Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning,/paper/wave-vit-unifying-wavelet-and-transformers
+272,CAIT-XS-36,84.8,38600000.0,28.8,,Going deeper with Image Transformers,/paper/going-deeper-with-image-transformers
+273,SReT-B ,84.8,71200000.0,,,Sliced Recursive Transformer,/paper/sliced-recursive-transformer-1
+274,MViT-B-24,84.8,72900000.0,,,Multiscale Vision Transformers,/paper/multiscale-vision-transformers
+275,ActiveMLP-L,84.8,76400000.0,36.4,,Active Token Mixer,/paper/activemlp-an-mlp-like-architecture-with
+276,NoisyViT-B ,84.8,86000000.0,,,NoisyNN: Exploring the Influence of Information Entropy Change in Learning Systems,/paper/exploring-the-influence-of-information
+277,DAT-B ,84.8,88000000.0,49.8,,Vision Transformer with Deformable Attention,/paper/vision-transformer-with-deformable-attention
+278,MIRL,84.8,96000000.0,18.8,,Masked Image Residual Learning for Scaling Deeper Vision Transformers,/paper/masked-image-residual-learning-for-scaling-1
+279,ConvFormer-B36 ,84.8,100000000.0,22.6,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+280,RDNet-L,84.8,186000000.0,34.7,,DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs,/paper/densenets-reloaded-paradigm-shift-beyond
+281,ResNeXt-101 32x16d ,84.8,193000000.0,,,Billion-scale semi-supervised learning for image classification,/paper/billion-scale-semi-supervised-learning-for
+282,ELSA-VOLO-D1,84.7,27000000.0,8.0,,ELSA: Enhanced Local Self-Attention for Vision Transformer,/paper/elsa-enhanced-local-self-attention-for-vision
+283,TransNeXt-Small ,84.7,49700000.0,10.3,,TransNeXt: Robust Foveal Visual Perception for Vision Transformers,/paper/transnext-robust-foveal-visual-perception-for
+284,Next-ViT-L @384,84.7,57800000.0,32.0,,Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios,/paper/next-vit-next-generation-vision-transformer
+285,VVT-L ,84.7,61800000.0,31.8,,Vicinity Vision Transformer,/paper/vicinity-vision-transformer
+286,BoTNet T7,84.7,75100000.0,,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+287,MogaNet-L,84.7,83000000.0,15.9,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+288,LITv2-B|384,84.7,87000000.0,39.7,,Fast Vision Transformers with HiLo Attention,/paper/fast-vision-transformers-with-hilo-attention
+289,NFNet-F1,84.7,132600000.0,35.54,,High-Performance Large-Scale Image Recognition Without Normalization,/paper/high-performance-large-scale-image
+290,DAT-S++,84.6,,,,DAT++: Spatially Dynamic Vision Transformer with Deformable Attention,/paper/dat-spatially-dynamic-vision-transformer-with
+291,Sequencer2D-L↑392,84.6,54000000.0,50.7,,Sequencer: Deep LSTM for Image Classification,/paper/sequencer-deep-lstm-for-image-classification
+292,SE-CoTNetD-152,84.6,55800000.0,26.5,,Contextual Transformer Networks for Visual Recognition,/paper/contextual-transformer-networks-for-visual
+293,AMD,84.6,87000000.0,,,Asymmetric Masked Distillation for Pre-Training Small Foundation Models,/paper/asymmetric-masked-distillation-for-pre
+294,DaViT-B,84.6,87900000.0,15.5,,DaViT: Dual Attention Vision Transformers,/paper/davit-dual-attention-vision-transformers
+295,ReXNet-R_3.0,84.5,34800000.0,,,Rethinking Channel Dimensions for Efficient Model Design,/paper/rexnet-diminishing-representational
+296,CAFormer-S36 ,84.5,39000000.0,8.0,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+297,ConvFormer-M36 ,84.5,57000000.0,12.8,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+298,GC ViT-B,84.5,90000000.0,14.8,,Global Context Vision Transformers,/paper/global-context-vision-transformers
+299,ResNeSt-269,84.5,111000000.0,,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+300,MaxViT-S ,84.45,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+301,GPIPE,84.4,,,,GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism,/paper/gpipe-efficient-training-of-giant-neural
+302,ConvFormer-S18 ,84.4,27000000.0,11.6,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+303,EfficientNet-B7,84.4,66000000.0,37.0,,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,/paper/efficientnet-rethinking-model-scaling-for
+304,RDNet-B,84.4,87000000.0,15.4,,DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs,/paper/densenets-reloaded-paradigm-shift-beyond
+305,DiNAT-Base,84.4,90000000.0,13.7,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+306,ResNet-RS-50 ,84.4,192000000.0,4.6,,Revisiting ResNets: Improved Training and Scaling Strategies,/paper/revisiting-resnets-improved-training-and
+307,ColorNet ,84.32,,,,ColorNet: Investigating the importance of color spaces for image classification,/paper/colornet-investigating-the-importance-of
+308,ViT-B@384 ,84.3,,,,Three things everyone should know about Vision Transformers,/paper/three-things-everyone-should-know-about
+309,BiFormer-S* ,84.3,,,,BiFormer: Vision Transformer with Bi-Level Routing Attention,/paper/biformer-vision-transformer-with-bi-level
+310,SReT-S ,84.3,21300000.0,42.8,,Sliced Recursive Transformer,/paper/sliced-recursive-transformer-1
+311,LambdaResNet200,84.3,42000000.0,,,LambdaNetworks: Modeling Long-Range Interactions Without Attention,/paper/lambdanetworks-modeling-long-range-1
+312,MogaNet-B,84.3,44000000.0,9.9,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+313,TResNet-XL,84.3,77000000.0,,,TResNet: High Performance GPU-Dedicated Architecture,/paper/tresnet-high-performance-gpu-dedicated
+314,ResNeXt-101 32x8d ,84.3,88000000.0,,,Billion-scale semi-supervised learning for image classification,/paper/billion-scale-semi-supervised-learning-for
+315,NAT-Base,84.3,90000000.0,13.7,,Neighborhood Attention Transformer,/paper/neighborhood-attention-transformer
+316,Assemble-ResNet152,84.2,,15.8,,Compounding the Performance Improvements of Assembled Techniques in a Convolutional Neural Network,/paper/compounding-the-performance-improvements-of
+317,BoTNet T7-320,84.2,,,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+318,ViP-B|384,84.2,,,,Visual Parser: Representing Part-whole Hierarchies with Transformers,/paper/visual-parser-representing-part-whole
+319,Bamboo ,84.2,,,,A Study on Transformer Configuration and Training Objective,/paper/deeper-vs-wider-a-revisit-of-transformer
+320,RegnetY16GF@224 ,84.2,,,,Co-training $2^L$ Submodels for Visual Recognition,/paper/co-training-2-l-submodels-for-visual
+321,EfficientViT-B3 ,84.2,,,,EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction,/paper/efficientvit-enhanced-linear-attention-for
+322,InternImage-S,84.2,50000000.0,8.0,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+323,UniNet-B4,84.2,73500000.0,9.9,,"UniNet: Unified Architecture Search with Convolution, Transformer, and MLP",/paper/uninet-unified-architecture-search-with
+324,DeiT-B,84.2,86000000.0,,,Training data-efficient image transformers & distillation through attention,/paper/training-data-efficient-image-transformers
+325,ViT-B @224 ,84.2,86600000.0,,,Masking Augmentation for Supervised Learning,/paper/augmenting-sub-model-to-improve-main-model
+326,RevBiFPN-S6,84.2,142300000.0,38.1,,RevBiFPN: The Fully Reversible Bidirectional Feature Pyramid Network,/paper/revbifpn-the-fully-reversible-bidirectional
+327,ResNeXt-101 32×16d,84.2,194000000.0,72.0,,Exploring the Limits of Weakly Supervised Pretraining,/paper/exploring-the-limits-of-weakly-supervised
+328,FBNetV5-F-CLS,84.1,,2.1,,FBNetV5: Neural Architecture Search for Multiple Tasks in One Run,/paper/fbnetv5-neural-architecture-search-for
+329,ViT-B-36x1,84.1,,,,Three things everyone should know about Vision Transformers,/paper/three-things-everyone-should-know-about
+330,ViT-B-18x2,84.1,,,,Three things everyone should know about Vision Transformers,/paper/three-things-everyone-should-know-about
+331,XCiT-M ,84.1,,,,MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer,/paper/mixpro-data-augmentation-with-maskmix-and
+332,NoisyStudent ,84.1,12000000.0,,,Self-training with Noisy Student improves ImageNet classification,/paper/self-training-with-noisy-student-improves
+333,CAFormer-S18 ,84.1,26000000.0,4.1,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+334,CAIT-XS-24,84.1,26600000.0,19.3,,Going deeper with Image Transformers,/paper/going-deeper-with-image-transformers
+335,ConvFormer-S36 ,84.1,40000000.0,7.6,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+336,LV-ViT-M,84.1,56000000.0,16.0,,All Tokens Matter: Token Labeling for Training Better Vision Transformers,/paper/token-labeling-training-a-85-5-top-1-accuracy
+337,VVT-L ,84.1,61800000.0,10.8,,Vicinity Vision Transformer,/paper/vicinity-vision-transformer
+338,Conformer-B,84.1,83300000.0,46.6,,Conformer: Local Features Coupling Global Representations for Visual Recognition,/paper/conformer-local-features-coupling-global
+339,PatchConvNet-B120,84.1,188600000.0,,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+340,GPaCo ,84.0,,,,Generalized Parametric Contrastive Learning,/paper/generalized-parametric-contrastive-learning
+341,AIM-7B,84.0,,,,Scalable Pre-training of Large Autoregressive Image Models,/paper/scalable-pre-training-of-large-autoregressive
+342,FixEfficientNetB4,84.0,19000000.0,,,Fixing the train-test resolution discrepancy: FixEfficientNet,/paper/fixing-the-train-test-resolution-discrepancy-2
+343,Fix_ResNet50_vd_ssld,84.0,25580000.0,,,Semi-Supervised Recognition under a Noisy and Fine-grained Dataset,/paper/semi-supervised-recognition-under-a-noisy-and
+344,TransNeXt-Tiny ,84.0,28200000.0,5.7,,TransNeXt: Robust Foveal Visual Perception for Vision Transformers,/paper/transnext-robust-foveal-visual-perception-for
+345,LambdaResNet152,84.0,35000000.0,,,LambdaNetworks: Modeling Long-Range Interactions Without Attention,/paper/lambdanetworks-modeling-long-range-1
+346,EfficientNet-B6,84.0,43000000.0,19.0,,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,/paper/efficientnet-rethinking-model-scaling-for
+347,GC ViT-S,84.0,51000000.0,8.5,,Global Context Vision Transformers,/paper/global-context-vision-transformers
+348,BoTNet T6,84.0,53900000.0,,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+349,PiT-B,84.0,73800000.0,12.5,,Rethinking Spatial Dimensions of Vision Transformers,/paper/rethinking-spatial-dimensions-of-vision
+350,DeepMAD-89M,84.0,89000000.0,15.4,,DeepMAD: Mathematical Architecture Design for Deep Convolutional Neural Network,/paper/deepmad-mathematical-architecture-design-for
+351,Our SP-ViT-S,83.9,,,,SP-ViT: Learning 2D Spatial Priors for Vision Transformers,/paper/sp-vit-learning-2d-spatial-priors-for-vision
+352,UniRepLKNet-S,83.9,,,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+353,DAT-T++,83.9,,,,DAT++: Spatially Dynamic Vision Transformer with Deformable Attention,/paper/dat-spatially-dynamic-vision-transformer-with
+354,Wave-ViT-S,83.9,22700000.0,4.7,,Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning,/paper/wave-vit-unifying-wavelet-and-transformers
+355,EfficientNetV2-S,83.9,24000000.0,8.8,,EfficientNetV2: Smaller Models and Faster Training,/paper/efficientnetv2-smaller-models-and-faster
+356,ASF-former-B,83.9,56700000.0,,,Adaptive Split-Fusion Transformer,/paper/adaptive-split-fusion-transformer
+357,DynamicViT-LV-M/0.8,83.9,57100000.0,,,DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification,/paper/dynamicvit-efficient-vision-transformers-with
+358,TNT-B,83.9,65600000.0,,,Transformer in Transformer,/paper/transformer-in-transformer
+359,ResNeSt-200,83.9,70000000.0,,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+360,AmoebaNet-A,83.9,469000000.0,208.0,,Regularized Evolution for Image Classifier Architecture Search,/paper/regularized-evolution-for-image-classifier
+361,CLCNet ,83.88,,18.58,,CLCNet: Rethinking of Ensemble Modeling with Classification Confidence Network,/paper/clcnet-rethinking-of-ensemble-modeling-with
+362,ResNet-RS-270 ,83.8,,54.0,,Revisiting ResNets: Improved Training and Scaling Strategies,/paper/revisiting-resnets-improved-training-and
+363,SENet-350,83.8,,,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+364,ViT-B @224 ,83.8,,,,DeiT III: Revenge of the ViT,/paper/deit-iii-revenge-of-the-vit
+365,SReT-S ,83.8,21000000.0,18.5,,Sliced Recursive Transformer,/paper/sliced-recursive-transformer-1
+366,DiNAT-Small,83.8,51000000.0,7.8,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+367,Transformer local-attention ,83.8,68000000.0,17.9,,"Nested Hierarchical Transformer: Towards Accurate, Data-Efficient and Interpretable Visual Understanding",/paper/aggregating-nested-transformers
+368,PVTv2-B4,83.8,82000000.0,11.8,,PVT v2: Improved Baselines with Pyramid Vision Transformer,/paper/pvtv2-improved-baselines-with-pyramid-vision
+369,CA-Swin-S ,83.7,,,,MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer,/paper/mixpro-data-augmentation-with-maskmix-and
+370,GTP-ViT-L/P8,83.7,,,,GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation,/paper/gtp-vit-efficient-vision-transformers-via
+371,ConvFormer-S18 ,83.7,27000000.0,3.9,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+372,RDNet-S,83.7,50000000.0,8.7,,DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs,/paper/densenets-reloaded-paradigm-shift-beyond
+373,DAT-S,83.7,50000000.0,9.0,,Vision Transformer with Deformable Attention,/paper/vision-transformer-with-deformable-attention
+374,NAT-Small,83.7,51000000.0,7.8,,Neighborhood Attention Transformer,/paper/neighborhood-attention-transformer
+375,QnA-ViT-Base,83.7,56000000.0,9.7,,Learned Queries for Efficient Local Attention,/paper/learned-queries-for-efficient-local-attention
+376,RevBiFPN-S5,83.7,82000000.0,21.8,,RevBiFPN: The Fully Reversible Bidirectional Feature Pyramid Network,/paper/revbifpn-the-fully-reversible-bidirectional
+377,Pyramid ViG-B,83.7,92600000.0,16.8,,Vision GNN: An Image is Worth Graph of Nodes,/paper/vision-gnn-an-image-is-worth-graph-of-nodes
+378,Twins-SVT-L,83.7,99200000.0,15.1,,Twins: Revisiting the Design of Spatial Attention in Vision Transformers,/paper/twins-revisiting-spatial-attention-design-in
+379,TransBoost-ViT-S,83.67,22050000.0,,,TransBoost: Improving the Best ImageNet Performance using Deep Transduction,/paper/transboost-improving-the-best-imagenet
+380,XCiT-S,83.65,,,,Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers,/paper/which-transformer-to-favor-a-comparative
+381,MaxViT-T ,83.62,,,,MaxViT: Multi-Axis Vision Transformer,/paper/maxvit-multi-axis-vision-transformer
+382,Wave-ViT-S,83.61,,,,Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers,/paper/which-transformer-to-favor-a-comparative
+383,LITv2-B,83.6,,13.2,,Fast Vision Transformers with HiLo Attention,/paper/fast-vision-transformers-with-hilo-attention
+384,MultiGrain PNASNet ,83.6,,,,MultiGrain: a unified image embedding for classes and instances,/paper/multigrain-a-unified-image-embedding-for
+385,MAE ,83.6,,,,Masked Autoencoders Are Scalable Vision Learners,/paper/masked-autoencoders-are-scalable-vision
+386,PAT-B,83.6,,,,Pattern Attention Transformer with Doughnut Kernel,/paper/pattern-attention-transformer-with-doughnut
+387,FixEfficientNet-B2,83.6,9200000.0,,,Fixing the train-test resolution discrepancy: FixEfficientNet,/paper/fixing-the-train-test-resolution-discrepancy-2
+388,CAFormer-S18 ,83.6,26000000.0,4.1,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+389,IPT-B,83.6,39300000.0,7.8,,IncepFormer: Efficient Inception Transformer with Pyramid Pooling for Semantic Segmentation,/paper/incepformer-efficient-inception-transformer
+390,ViTAE-B-Stage,83.6,48500000.0,27.6,,ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias,/paper/vitae-vision-transformer-advanced-by
+391,ResT-Large,83.6,51630000.0,7.9,,ResT: An Efficient Transformer for Visual Recognition,/paper/rest-an-efficient-transformer-for-visual
+392,NFNet-F0,83.6,71500000.0,12.38,,High-Performance Large-Scale Image Recognition Without Normalization,/paper/high-performance-large-scale-image
+393,"SE-ResNeXt-101, 64x4d, S=2",83.6,98000000.0,38.2,,Towards Better Accuracy-efficiency Trade-offs: Divide and Co-training,/paper/splitnet-divide-and-co-training
+394,ResMLP-B24/8,83.6,116000000.0,,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+395,TinySaver,83.52,,,,Tiny Models are the Computational Saver for Large Models,/paper/tiny-models-are-the-computational-saver-for
+396,BoTNet T5,83.5,,19.3,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+397,InternImage-T,83.5,30000000.0,5.0,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+398,PatchConvNet-B60,83.5,99400000.0,,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+399,ViT-B ,83.4,,,,Three things everyone should know about Vision Transformers,/paper/three-things-everyone-should-know-about
+400,UniFormer-S,83.4,22000000.0,3.6,,UniFormer: Unifying Convolution and Self-attention for Visual Recognition,/paper/uniformer-unifying-convolution-and-self
+401,ViT-S @384 ,83.4,22000000.0,15.5,,DeiT III: Revenge of the ViT,/paper/deit-iii-revenge-of-the-vit
+402,MogaNet-S,83.4,25000000.0,5.0,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+403,GC ViT-T,83.4,28000000.0,4.7,,Global Context Vision Transformers,/paper/global-context-vision-transformers
+404,ResNeXt-101 32x4d ,83.4,42000000.0,,,Billion-scale semi-supervised learning for image classification,/paper/billion-scale-semi-supervised-learning-for
+405,Sequencer2D-L,83.4,54000000.0,16.6,,Sequencer: Deep LSTM for Image Classification,/paper/sequencer-deep-lstm-for-image-classification
+406,sMLPNet-B ,83.4,65900000.0,,,Sparse MLP for Image Recognition: Is Self-Attention Really Necessary?,/paper/sparse-mlp-for-image-recognition-is-self
+407,"SE-ResNeXt-101, 64x4d, S=2",83.34,98000000.0,61.1,,Towards Better Accuracy-efficiency Trade-offs: Divide and Co-training,/paper/splitnet-divide-and-co-training
+408,CvT-21 ,83.3,,24.9,,CvT: Introducing Convolutions to Vision Transformers,/paper/cvt-introducing-convolutions-to-vision
+409,T2T-ViT-14|384,83.3,,34.2,,Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet,/paper/tokens-to-token-vit-training-vision
+410,CeiT-S ,83.3,24200000.0,12.9,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+411,LV-ViT-S,83.3,26000000.0,6.6,,All Tokens Matter: Token Labeling for Training Better Vision Transformers,/paper/token-labeling-training-a-85-5-top-1-accuracy
+412,MOAT-0 1K only,83.3,27800000.0,5.7,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+413,EfficientNet-B5,83.3,30000000.0,9.9,,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,/paper/efficientnet-rethinking-model-scaling-for
+414,Transformer local-attention ,83.3,38000000.0,10.4,,"Nested Hierarchical Transformer: Towards Accurate, Data-Efficient and Interpretable Visual Understanding",/paper/aggregating-nested-transformers
+415,ViL-Medium-D,83.3,39700000.0,8.7,,Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding,/paper/2103-15358
+416,LITv2-M,83.3,49000000.0,7.5,,Fast Vision Transformers with HiLo Attention,/paper/fast-vision-transformers-with-hilo-attention
+417,Shift-B,83.3,88000000.0,15.2,,When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism,/paper/when-shift-operation-meets-vision-transformer
+418,MultiGrain PNASNet ,83.2,,,,MultiGrain: a unified image embedding for classes and instances,/paper/multigrain-a-unified-image-embedding-for
+419,Meta Pseudo Labels ,83.2,,,,Meta Pseudo Labels,/paper/meta-pseudo-labels
+420,UniRepLKNet-T,83.2,,,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+421,TinyViT-11M-distill ,83.2,11000000.0,2.0,,TinyViT: Fast Pretraining Distillation for Small Vision Transformers,/paper/tinyvit-fast-pretraining-distillation-for
+422,ReXNet-R_2.0,83.2,16500000.0,,,Rethinking Channel Dimensions for Efficient Model Design,/paper/rexnet-diminishing-representational
+423,QnA-ViT-Small,83.2,25000000.0,4.4,,Learned Queries for Efficient Local Attention,/paper/learned-queries-for-efficient-local-attention
+424,NAT-Tiny,83.2,28000000.0,4.3,,Neighborhood Attention Transformer,/paper/neighborhood-attention-transformer
+425,SE-CoTNetD-101,83.2,40900000.0,8.5,,Contextual Transformer Networks for Visual Recognition,/paper/contextual-transformer-networks-for-visual
+426,Next-ViT-B,83.2,44800000.0,8.3,,Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios,/paper/next-vit-next-generation-vision-transformer
+427,PVTv2-B3,83.2,45200000.0,6.9,,PVT v2: Improved Baselines with Pyramid Vision Transformer,/paper/pvtv2-improved-baselines-with-pyramid-vision
+428,PatchConvNet-S120,83.2,47700000.0,,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+429,ViL-Base-D,83.2,55700000.0,13.4,,Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding,/paper/2103-15358
+430,CycleMLP-B5,83.2,76000000.0,12.3,,CycleMLP: A MLP-like Architecture for Dense Prediction,/paper/cyclemlp-a-mlp-like-architecture-for-dense
+431,MultiGrain SENet154 ,83.1,,,,MultiGrain: a unified image embedding for classes and instances,/paper/multigrain-a-unified-image-embedding-for
+432,DeepVit-L* ,83.1,,,,DeepViT: Towards Deeper Vision Transformer,/paper/deepvit-towards-deeper-vision-transformer
+433,ViT-S @224 ,83.1,,,,DeiT III: Revenge of the ViT,/paper/deit-iii-revenge-of-the-vit
+434,MKD ViT-S,83.1,,,,Meta Knowledge Distillation,/paper/meta-knowledge-distillation
+435,ViT-S@224 ,83.1,,,,Co-training $2^L$ Submodels for Visual Recognition,/paper/co-training-2-l-submodels-for-visual
+436,PAT-S,83.1,,,,Pattern Attention Transformer with Doughnut Kernel,/paper/pattern-attention-transformer-with-doughnut
+437,TinyViT-21M,83.1,21000000.0,4.3,,TinyViT: Fast Pretraining Distillation for Small Vision Transformers,/paper/tinyvit-fast-pretraining-distillation-for
+438,sMLPNet-S ,83.1,48600000.0,,,Sparse MLP for Image Recognition: Is Self-Attention Really Necessary?,/paper/sparse-mlp-for-image-recognition-is-self
+439,Pyramid ViG-M,83.1,51700000.0,8.9,,Vision GNN: An Image is Worth Graph of Nodes,/paper/vision-gnn-an-image-is-worth-graph-of-nodes
+440,SwinV2-Ti,83.09,,,,Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers,/paper/which-transformer-to-favor-a-comparative
+441,gSwin-S,83.01,39800000.0,7.0,,gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window,/paper/gswin-gated-mlp-vision-model-with
+442,MultiGrain SENet154 ,83.0,,,,MultiGrain: a unified image embedding for classes and instances,/paper/multigrain-a-unified-image-embedding-for
+443,CvT-13 ,83.0,20000000.0,16.3,,CvT: Introducing Convolutions to Vision Transformers,/paper/cvt-introducing-convolutions-to-vision
+444,ResNet50_vd_ssld,83.0,25580000.0,,,Semi-Supervised Recognition under a Noisy and Fine-grained Dataset,/paper/semi-supervised-recognition-under-a-noisy-and
+445,ConvFormer-S18 ,83.0,27000000.0,3.9,,MetaFormer Baselines for Vision,/paper/metaformer-baselines-for-vision
+446,MViT-B-16,83.0,37000000.0,,,Multiscale Vision Transformers,/paper/multiscale-vision-transformers
+447,ResNeSt-101,83.0,48000000.0,,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+448,RevBiFPN-S4,83.0,48700000.0,10.6,,RevBiFPN: The Fully Reversible Bidirectional Feature Pyramid Network,/paper/revbifpn-the-fully-reversible-bidirectional
+449,ZenNAS ,83.0,183000000.0,13.9,,Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition,/paper/zen-nas-a-zero-shot-nas-for-high-performance
+450,NASViT ,82.9,,1.881,,NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training,/paper/nasvit-neural-architecture-search-for
+451,DeiT-B ,82.9,,,,MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer,/paper/mixpro-data-augmentation-with-maskmix-and
+452,IPT-S,82.9,24300000.0,4.7,,IncepFormer: Efficient Inception Transformer with Pyramid Pooling for Semantic Segmentation,/paper/incepformer-efficient-inception-transformer
+453,ViL-Medium-W,82.9,39800000.0,,,Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding,/paper/2103-15358
+454,GFNet-H-B,82.9,54000000.0,8.6,,Global Filter Networks for Image Classification,/paper/global-filter-networks-for-image
+455,Oct-ResNet-152 ,82.9,66800000.0,22.2,20771.0,Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution,/paper/drop-an-octave-reducing-spatial-redundancy-in
+456,PNASNet-5,82.9,86100000.0,50.0,,Progressive Neural Architecture Search,/paper/progressive-neural-architecture-search
+457,Harm-SE-RNX-101 64x4d ,82.85,88200000.0,31.4,,Harmonic Convolutional Networks based on Discrete Cosine Transform,/paper/harmonic-convolutional-networks-based-on
+458,GTP-LV-ViT-M/P8,82.8,,8.0,,GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation,/paper/gtp-vit-efficient-vision-transformers-via
+459,FunMatch - T384+224 ,82.8,,,,Knowledge distillation: A good teacher is patient and consistent,/paper/knowledge-distillation-a-good-teacher-is
+460,CA-Swin-T ,82.8,,,,MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer,/paper/mixpro-data-augmentation-with-maskmix-and
+461,RDNet-T,82.8,24000000.0,5.0,,DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs,/paper/densenets-reloaded-paradigm-shift-beyond
+462,VAN-B2,82.8,26600000.0,5.0,,Visual Attention Network,/paper/visual-attention-network
+463,DaViT-T,82.8,28300000.0,,,DaViT: Dual Attention Vision Transformers,/paper/davit-dual-attention-vision-transformers
+464,ReXNet_3.0,82.8,34700000.0,3.4,,Rethinking Channel Dimensions for Efficient Model Design,/paper/rexnet-diminishing-representational
+465,Sequencer2D-M,82.8,38000000.0,11.1,,Sequencer: Deep LSTM for Image Classification,/paper/sequencer-deep-lstm-for-image-classification
+466,CrossViT-18+,82.8,44300000.0,9.5,,CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification,/paper/2103-14899
+467,Shift-S,82.8,50000000.0,8.5,,When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism,/paper/when-shift-operation-meets-vision-transformer
+468,HRFormer-B,82.8,50300000.0,13.7,,HRFormer: High-Resolution Transformer for Dense Prediction,/paper/hrformer-high-resolution-transformer-for
+469,BoTNet T4,82.8,54700000.0,10.9,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+470,CCT-14/7x2 | 384,82.71,,,,Escaping the Big Data Paradigm with Compact Transformers,/paper/escaping-the-big-data-paradigm-with-compact
+471,MultiGrain SENet154 ,82.7,,,,MultiGrain: a unified image embedding for classes and instances,/paper/multigrain-a-unified-image-embedding-for
+472,PVT-M ,82.7,,,,MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer,/paper/mixpro-data-augmentation-with-maskmix-and
+473,ASF-former-S,82.7,19300000.0,,,Adaptive Split-Fusion Transformer,/paper/adaptive-split-fusion-transformer
+474,Container Container,82.7,22100000.0,8.1,,Container: Context Aggregation Network,/paper/container-context-aggregation-network
+475,UniNet-B2,82.7,22500000.0,2.4,,"UniNet: Unified Architecture Search with Convolution, Transformer, and MLP",/paper/uninet-unified-architecture-search-with
+476,DiNAT-Tiny,82.7,28000000.0,4.3,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+477,ELSA-Swin-T,82.7,28000000.0,4.8,,ELSA: Enhanced Local Self-Attention for Vision Transformer,/paper/elsa-enhanced-local-self-attention-for-vision
+478,NASNET-A,82.7,88900000.0,23.8,1648.0,Learning Transferable Architectures for Scalable Image Recognition,/paper/learning-transferable-architectures-for
+479,RVT-B*,82.7,91800000.0,17.7,,Towards Robust Vision Transformer,/paper/rethinking-the-design-principles-of-robust
+480,FBNetV5-C-CLS,82.6,,1.0,,FBNetV5: Neural Architecture Search for Multiple Tasks in One Run,/paper/fbnetv5-neural-architecture-search-for
+481,MultiGrain PNASNet ,82.6,,,,MultiGrain: a unified image embedding for classes and instances,/paper/multigrain-a-unified-image-embedding-for
+482,ViT-S-24x2,82.6,,,,Three things everyone should know about Vision Transformers,/paper/three-things-everyone-should-know-about
+483,FixEfficientNet-B1,82.6,7800000.0,,,Fixing the train-test resolution discrepancy: FixEfficientNet,/paper/fixing-the-train-test-resolution-discrepancy-2
+484,EfficientNet-B4,82.6,19000000.0,4.2,,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,/paper/efficientnet-rethinking-model-scaling-for
+485,DeiT-B,82.6,22000000.0,,,Training data-efficient image transformers & distillation through attention,/paper/training-data-efficient-image-transformers
+486,T2T-ViTt-24,82.6,64400000.0,30.0,,Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet,/paper/tokens-to-token-vit-training-vision
+487,ViT-S,82.54,,,,Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers,/paper/which-transformer-to-favor-a-comparative
+488,CvT-21,82.5,,7.1,,CvT: Introducing Convolutions to Vision Transformers,/paper/cvt-introducing-convolutions-to-vision
+489,TransNeXt-Micro ,82.5,12800000.0,2.7,,TransNeXt: Robust Foveal Visual Perception for Vision Transformers,/paper/transnext-robust-foveal-visual-perception-for
+490,FixResNet-50 Billion-scale@224,82.5,25600000.0,,,Fixing the train-test resolution discrepancy,/paper/fixing-the-train-test-resolution-discrepancy
+491,Next-ViT-S,82.5,31700000.0,5.8,,Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios,/paper/next-vit-next-generation-vision-transformer
+492,LeViT-384,82.5,39400000.0,2.334,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+493,CrossViT-18,82.5,43300000.0,9.0,,CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification,/paper/2103-14899
+494,MetaFormer PoolFormer-M48,82.5,73000000.0,23.2,,MetaFormer Is Actually What You Need for Vision,/paper/metaformer-is-actually-what-you-need-for
+495,ConViT-B+,82.5,152000000.0,30.0,,ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases,/paper/convit-improving-vision-transformers-with
+496,TransBoost-ConvNext-T,82.46,28590000.0,,,TransBoost: Improving the Best ImageNet Performance using Deep Transduction,/paper/transboost-improving-the-best-imagenet
+497,ReViT-B,82.4,,,,ReViT: Enhancing Vision Transformers with Attention Residual Connections for Visual Recognition,/paper/revit-enhancing-vision-transformers-with
+498,NoisyStudent ,82.4,9200000.0,,,Self-training with Noisy Student improves ImageNet classification,/paper/self-training-with-noisy-student-improves
+499,AutoFormer-base,82.4,54000000.0,11.0,,AutoFormer: Searching Transformers for Visual Recognition,/paper/autoformer-searching-transformers-for-visual
+500,ResNet-152 ,82.4,60200000.0,,,ResNet strikes back: An improved training procedure in timm,/paper/resnet-strikes-back-an-improved-training
+501,ConViT-B,82.4,86000000.0,17.0,,ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases,/paper/convit-improving-vision-transformers-with
+502,DeiT-B with iRPE-K,82.4,87000000.0,35.368,,Rethinking and Improving Relative Position Encoding for Vision Transformer,/paper/rethinking-and-improving-relative-position
+503,Mega,82.4,90000000.0,,,Mega: Moving Average Equipped Gated Attention,/paper/mega-moving-average-equipped-gated-attention
+504,ResMLP-B24 + STD,82.4,122600000.0,24.1,,Spatial-Channel Token Distillation for Vision MLPs,/paper/spatial-channel-token-distillation-for-vision
+505,ViT-B/16-224+HTM,82.37,,,,TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers,/paper/tokenmixup-efficient-attention-guided-token
+506,ColorNet,82.35,,,,ColorNet: Investigating the importance of color spaces for image classification,/paper/colornet-investigating-the-importance-of
+507,T2T-ViT-24,82.3,,27.6,,Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet,/paper/tokens-to-token-vit-training-vision
+508,ViT-S-48x1,82.3,,,,Three things everyone should know about Vision Transformers,/paper/three-things-everyone-should-know-about
+509,MViTv2-T,82.3,24000000.0,4.7,,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+510,SCARLET-A4,82.3,27800000.0,8.4,12.0,SCARLET-NAS: Bridging the Gap between Stability and Scalability in Weight-sharing Neural Architecture Search,/paper/scarletnas-bridging-the-gap-between
+511,Sequencer2D-S,82.3,28000000.0,8.4,,Sequencer: Deep LSTM for Image Classification,/paper/sequencer-deep-lstm-for-image-classification
+512,CrossViT-15+,82.3,28200000.0,6.1,,CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification,/paper/2103-14899
+513,GLiT-Bases,82.3,96100000.0,17.0,,GLiT: Neural Architecture Search for Global and Local Image Transformer,/paper/glit-neural-architecture-search-for-global
+514,EViT ,82.29,,,,Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers,/paper/which-transformer-to-favor-a-comparative
+515,STViT-Swin-Ti,82.22,,,,Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers,/paper/which-transformer-to-favor-a-comparative
+516,BossNet-T1,82.2,,15.8,,BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search,/paper/bossnas-exploring-hybrid-cnn-transformers
+517,CAIT-XXS-36,82.2,17300000.0,14.3,,Going deeper with Image Transformers,/paper/going-deeper-with-image-transformers
+518,CvT-13-NAS,82.2,18000000.0,4.1,,CvT: Introducing Convolutions to Vision Transformers,/paper/cvt-introducing-convolutions-to-vision
+519,ViTAE-S-Stage,82.2,19200000.0,12.0,,ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias,/paper/vitae-vision-transformer-advanced-by
+520,T2T-ViTt-19,82.2,39200000.0,19.6,,Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet,/paper/tokens-to-token-vit-training-vision
+521,Evo-LeViT-384*,82.2,39600000.0,,,Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer,/paper/evo-vit-slow-fast-token-evolution-for-dynamic
+522,Visformer-S,82.2,40200000.0,4.9,,Visformer: The Vision-friendly Transformer,/paper/visformer-the-vision-friendly-transformer
+523,ConViT-S+,82.2,48000000.0,10.0,,ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases,/paper/convit-improving-vision-transformers-with
+524,ConvMixer-1536/20,82.2,51600000.0,,,Patches Are All You Need?,/paper/patches-are-all-you-need-1
+525,DeepVit-L,82.2,55000000.0,,,DeepViT: Towards Deeper Vision Transformer,/paper/deepvit-towards-deeper-vision-transformer
+526,SENet-152,82.2,66600000.0,,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+527,ResNeXt-101 32x8d,82.2,88000000.0,,,Exploring the Limits of Weakly Supervised Pretraining,/paper/exploring-the-limits-of-weakly-supervised
+528,TransBoost-Swin-T,82.16,71710000.0,,,TransBoost: Improving the Best ImageNet Performance using Deep Transduction,/paper/transboost-improving-the-best-imagenet
+529,"ResNeXt-101, 64x4d, S=2",82.13,88600000.0,18.8,,Towards Better Accuracy-efficiency Trade-offs: Divide and Co-training,/paper/splitnet-divide-and-co-training
+530,ToMe-ViT-S,82.11,,,,Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers,/paper/which-transformer-to-favor-a-comparative
+531,AMD,82.1,22000000.0,,,Asymmetric Masked Distillation for Pre-Training Small Foundation Models,/paper/asymmetric-masked-distillation-for-pre
+532,PatchConvNet-S60,82.1,25200000.0,,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+533,Pyramid ViG-S,82.1,27300000.0,4.6,,Vision GNN: An Image is Worth Graph of Nodes,/paper/vision-gnn-an-image-is-worth-graph-of-nodes
+534,ConvNeXt-T,82.1,29000000.0,4.5,,A ConvNet for the 2020s,/paper/a-convnet-for-the-2020s
+535,CycleMLP-B2 + STD,82.1,30100000.0,4.0,,Spatial-Channel Token Distillation for Vision MLPs,/paper/spatial-channel-token-distillation-for-vision
+536,CeiT-S,82.0,,4.5,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+537,DIFFQ ,82.0,,,,Differentiable Model Compression via Pseudo Quantization Noise,/paper/differentiable-model-compression-via-pseudo
+538,NEXcepTion-S,82.0,,,,From Xception to NEXcepTion: New Design Decisions and Neural Architecture Search,/paper/from-xception-to-nexception-new-design
+539,GC ViT-XT,82.0,20000000.0,2.6,,Global Context Vision Transformers,/paper/global-context-vision-transformers
+540,Container-Light,82.0,20000000.0,3.2,,Container: Context Aggregation Network,/paper/container-context-aggregation-network
+541,ViL-Small,82.0,24600000.0,4.86,,Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding,/paper/2103-15358
+542,PVTv2-B2,82.0,25400000.0,4.0,,PVT v2: Improved Baselines with Pyramid Vision Transformer,/paper/pvtv2-improved-baselines-with-pyramid-vision
+543,ActiveMLP-T,82.0,27200000.0,4.0,,Active Token Mixer,/paper/activemlp-an-mlp-like-architecture-with
+544,LITv2-S,82.0,28000000.0,3.7,,Fast Vision Transformers with HiLo Attention,/paper/fast-vision-transformers-with-hilo-attention
+545,DAT-T,82.0,29000000.0,4.6,,Vision Transformer with Deformable Attention,/paper/vision-transformer-with-deformable-attention
+546,Swin-T ,81.97,,,,,
+547,EViT ,81.96,,,,Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers,/paper/which-transformer-to-favor-a-comparative
+548,Swin-T ,81.92,,,,,
+549,GTP-LV-ViT-S/P8,81.9,,4.8,,GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation,/paper/gtp-vit-efficient-vision-transformers-via
+550,T2T-ViT-19,81.9,,17.0,,Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet,/paper/tokens-to-token-vit-training-vision
+551,ResNet-101 ,81.9,,,,A Fast Knowledge Distillation Framework for Visual Recognition,/paper/a-fast-knowledge-distillation-framework-for
+552,Discrete Adversarial Distillation ,81.9,,,,Distilling Out-of-Distribution Robustness from Vision-Language Foundation Models,/paper/distilling-out-of-distribution-robustness-1
+553,RVT-S*,81.9,23300000.0,4.7,,Towards Robust Vision Transformer,/paper/rethinking-the-design-principles-of-robust
+554,PiT-S,81.9,23500000.0,2.9,,Rethinking Spatial Dimensions of Vision Transformers,/paper/rethinking-spatial-dimensions-of-vision
+555,sMLPNet-T ,81.9,24100000.0,,,Sparse MLP for Image Recognition: Is Self-Attention Really Necessary?,/paper/sparse-mlp-for-image-recognition-is-self
+556,ViL-Base-W,81.9,79000000.0,6.74,,Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding,/paper/2103-15358
+557,Swin-T+SSA,81.89,,,,The Information Pathways Hypothesis: Transformers are Dynamic Self-Ensembles,/paper/the-information-pathways-hypothesis
+558,AOGNet-40M-AN,81.87,,7.51,,Attentive Normalization,/paper/attentive-normalization
+559,FBNetV5,81.8,,0.726,,FBNetV5: Neural Architecture Search for Multiple Tasks in One Run,/paper/fbnetv5-neural-architecture-search-for
+560,NASViT-A5,81.8,,0.757,,NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training,/paper/nasvit-neural-architecture-search-for
+561,ResNet-200,81.8,,,,Parametric Contrastive Learning,/paper/parametric-contrastive-learning
+562,RepMLPNet-L256,81.8,,,,RepMLPNet: Hierarchical Vision MLP with Re-parameterized Locality,/paper/repmlpnet-hierarchical-vision-mlp-with-re
+563,NEXcepTion-TP,81.8,,,,From Xception to NEXcepTion: New Design Decisions and Neural Architecture Search,/paper/from-xception-to-nexception-new-design
+564,NAT-Mini,81.8,20000000.0,2.7,,Neighborhood Attention Transformer,/paper/neighborhood-attention-transformer
+565,DiNAT-Mini,81.8,20000000.0,2.7,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+566,ResNet-152 ,81.8,60200000.0,,,ResNet strikes back: An improved training procedure in timm,/paper/resnet-strikes-back-an-improved-training
+567,MEAL V2 ,81.72,25600000.0,,,MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks,/paper/meal-v2-boosting-vanilla-resnet-50-to-80-top
+568,gSwin-T,81.71,21800000.0,3.6,,gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window,/paper/gswin-gated-mlp-vision-model-with
+569,FBNetV5-A-CLS,81.7,,0.685,,FBNetV5: Neural Architecture Search for Multiple Tasks in One Run,/paper/fbnetv5-neural-architecture-search-for
+570,T2T-ViT-14,81.7,,,,Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks,/paper/beyond-self-attention-external-attention
+571,QnA-ViT-Tiny,81.7,16000000.0,2.5,,Learned Queries for Efficient Local Attention,/paper/learned-queries-for-efficient-local-attention
+572,AutoFormer-small,81.7,22900000.0,5.1,,AutoFormer: Searching Transformers for Visual Recognition,/paper/autoformer-searching-transformers-for-visual
+573,Shift-T,81.7,28000000.0,4.4,,When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism,/paper/when-shift-operation-meets-vision-transformer
+574,BoTNet T3,81.7,33500000.0,7.3,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+575,CvT-13,81.6,,4.5,,CvT: Introducing Convolutions to Vision Transformers,/paper/cvt-introducing-convolutions-to-vision
+576,ResNet-152 ,81.6,,,,Sharpness-Aware Minimization for Efficiently Improving Generalization,/paper/sharpness-aware-minimization-for-efficiently-1
+577,UniRepLKNet-N,81.6,,,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+578,CloFormer-S,81.6,12300000.0,2.0,,Rethinking Local Perception in Lightweight Vision Transformer,/paper/rethinking-local-perception-in-lightweight
+579,LeViT-256,81.6,17800000.0,1.066,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+580,ReXNet_2.0,81.6,19000000.0,1.5,,Rethinking Channel Dimensions for Efficient Model Design,/paper/rexnet-diminishing-representational
+581,SE-CoTNetD-50,81.6,23100000.0,4.1,,Contextual Transformer Networks for Visual Recognition,/paper/contextual-transformer-networks-for-visual
+582,gMLP-B,81.6,73000000.0,31.6,,Pay Attention to MLPs,/paper/pay-attention-to-mlps
+583,CoE-Large + CondConv,81.5,,0.214,,Collaboration of Experts: Achieving 80% Top-1 Accuracy on ImageNet with 100M FLOPs,/paper/collaboration-of-experts-achieving-80-top-1
+584,GTP-DeiT-B/P8,81.5,,13.1,,GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation,/paper/gtp-vit-efficient-vision-transformers-via
+585,NEXcepTion-T,81.5,,,,From Xception to NEXcepTion: New Design Decisions and Neural Architecture Search,/paper/from-xception-to-nexception-new-design
+586,NoisyStudent ,81.5,7800000.0,,,Self-training with Noisy Student improves ImageNet classification,/paper/self-training-with-noisy-student-improves
+587,TinyViT-11M,81.5,11000000.0,2.0,,TinyViT: Fast Pretraining Distillation for Small Vision Transformers,/paper/tinyvit-fast-pretraining-distillation-for
+588,Transformer local-attention ,81.5,17000000.0,5.8,,"Nested Hierarchical Transformer: Towards Accurate, Data-Efficient and Interpretable Visual Understanding",/paper/aggregating-nested-transformers
+589,T2T-ViT-14,81.5,21500000.0,9.6,,Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet,/paper/tokens-to-token-vit-training-vision
+590,CrossViT-15,81.5,27400000.0,5.8,,CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification,/paper/2103-14899
+591,PyConvResNet-101,81.49,42300000.0,,,Pyramidal Convolution: Rethinking Convolutional Neural Networks for Visual Recognition,/paper/pyramidal-convolution-rethinking
+592,NASViT-A4,81.4,,0.591,,NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training,/paper/nasvit-neural-architecture-search-for
+593,DeiT-S with iRPE-QKV,81.4,,9.77,,Rethinking and Improving Relative Position Encoding for Vision Transformer,/paper/rethinking-and-improving-relative-position
+594,ViT-S @224 ,81.4,,,,DeiT III: Revenge of the ViT,/paper/deit-iii-revenge-of-the-vit
+595,BiFormer-T ,81.4,,,,BiFormer: Vision Transformer with Bi-Level Routing Attention,/paper/biformer-vision-transformer-with-bi-level
+596,MobileOne-S4 ,81.4,14800000.0,2.9,,MobileOne: An Improved One millisecond Mobile Backbone,/paper/an-improved-one-millisecond-mobile-backbone
+597,SENet-101,81.4,49200000.0,,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+598,CCT-14/7x2,81.34,22360000.0,11.06,,Escaping the Big Data Paradigm with Compact Transformers,/paper/escaping-the-big-data-paradigm-with-compact
+599,GFNet-S,81.33,,,,Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers,/paper/which-transformer-to-favor-a-comparative
+600,ResNet-200 ,81.32,,,,Adversarial AutoAugment,/paper/adversarial-autoaugment-1
+601,MultiGrain PNASNet ,81.3,,,,MultiGrain: a unified image embedding for classes and instances,/paper/multigrain-a-unified-image-embedding-for
+602,ResNet-152,81.3,,,,Parametric Contrastive Learning,/paper/parametric-contrastive-learning
+603,ConViT-S,81.3,27000000.0,5.4,,ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases,/paper/convit-improving-vision-transformers-with
+604,Swin-T,81.3,29000000.0,4.5,,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,/paper/swin-transformer-hierarchical-vision
+605,SimpleNetV1-9m-correct-labels,81.24,9500000.0,,,"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures",/paper/lets-keep-it-simple-using-simple
+606,Res2Net-101,81.23,,,,Res2Net: A New Multi-scale Backbone Architecture,/paper/res2net-a-new-multi-scale-backbone
+607,ResNeXt-101 ,81.2,,,,Shape-Texture Debiased Neural Network Training,/paper/shape-texture-debiased-neural-network-1
+608,PVT-S ,81.2,,,,MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer,/paper/mixpro-data-augmentation-with-maskmix-and
+609,Swin-T ,81.16,,,,,
+610,TransBoost-ResNet50-StrikesBack,81.15,25560000.0,,,TransBoost: Improving the Best ImageNet Performance using Deep Transduction,/paper/transboost-improving-the-best-imagenet
+611,ResNeSt-50,81.13,27500000.0,5.39,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+612,DeiT-S ,81.12,,,,,
+613,DeiT-S with iRPE-QK,81.1,,9.412,,Rethinking and Improving Relative Position Encoding for Vision Transformer,/paper/rethinking-and-improving-relative-position
+614,EfficientNet-B3,81.1,12000000.0,,,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,/paper/efficientnet-rethinking-model-scaling-for
+615,VAN-B1,81.1,13900000.0,2.5,,Visual Attention Network,/paper/visual-attention-network
+616,RevBiFPN-S3,81.1,19600000.0,3.33,,RevBiFPN: The Fully Reversible Bidirectional Feature Pyramid Network,/paper/revbifpn-the-fully-reversible-bidirectional
+617,ResNet-152x2-SAM,81.1,236000000.0,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+618,DynamicViT-S,81.09,,,,Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers,/paper/which-transformer-to-favor-a-comparative
+619,ResNet-101 ,81.08,44600000.0,,,Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup,/paper/boosting-discriminative-visual-representation
+620,NASViT-A3,81.0,,0.528,,NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training,/paper/nasvit-neural-architecture-search-for
+621,ViTAE-13M,81.0,13200000.0,6.8,,ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias,/paper/vitae-vision-transformer-advanced-by
+622,ResNet-101 ,80.98,44600000.0,,,AutoMix: Unveiling the Power of Mixup for Stronger Classifiers,/paper/automix-unveiling-the-power-of-mixup
+623,DeiT-S ,80.91,,,,,
+624,ResNet-101,80.9,,,,Parametric Contrastive Learning,/paper/parametric-contrastive-learning
+625,CAIT-XXS-24,80.9,12000000.0,9.6,,Going deeper with Image Transformers,/paper/going-deeper-with-image-transformers
+626,DeiT-S with iRPE-K,80.9,22000000.0,9.318,,Rethinking and Improving Relative Position Encoding for Vision Transformer,/paper/rethinking-and-improving-relative-position
+627,CentroidViT-S ,80.9,22300000.0,9.4,,Centroid Transformers: Learning to Abstract with Attention,/paper/centroid-transformers-learning-to-abstract
+628,ResNeXt-101  64x4,80.9,83600000.0,31.5,,Aggregated Residual Transformations for Deep Neural Networks,/paper/aggregated-residual-transformations-for-deep
+629,AlphaNet-A6,80.8,,0.709,,AlphaNet: Improved Training of Supernets with Alpha-Divergence,/paper/alphanet-improved-training-of-supernet-with
+630,ResNet-200 ,80.8,,,,Supervised Contrastive Learning,/paper/supervised-contrastive-learning
+631,UniNet-B0,80.8,11500000.0,0.555,,"UniNet: Unified Architecture Search with Convolution, Transformer, and MLP",/paper/uninet-unified-architecture-search-with-1
+632,LocalViT-S,80.8,22400000.0,4.6,,LocalViT: Bringing Locality to Vision Transformers,/paper/localvit-bringing-locality-to-vision
+633,DAFT-conv ,80.8,23000000.0,,,A Dot Product Attention Free Transformer,/paper/a-dot-product-attention-free-transformer
+634,ResMLP-S24,80.8,30000000.0,6.0,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+635,TinyViT-5M-distill ,80.7,5400000.0,1.3,,TinyViT: Fast Pretraining Distillation for Small Vision Transformers,/paper/tinyvit-fast-pretraining-distillation-for
+636,CoE-Large,80.7,95300000.0,0.194,,Collaboration of Experts: Achieving 80% Top-1 Accuracy on ImageNet with 100M FLOPs,/paper/collaboration-of-experts-achieving-80-top-1
+637,MEAL V2 ,80.67,,,,MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks,/paper/meal-v2-boosting-vanilla-resnet-50-to-80-top
+638,TokenLearner-ViT-8,80.66,,,,Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers,/paper/which-transformer-to-favor-a-comparative
+639,ResNeSt-50-fast,80.64,27500000.0,4.34,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+640,TransBoost-ResNet152,80.64,60190000.0,,,TransBoost: Improving the Best ImageNet Performance using Deep Transduction,/paper/transboost-improving-the-best-imagenet
+641,ResNet-200 ,80.6,,,,Fast AutoAugment,/paper/fast-autoaugment
+642,CaiT-XXS ,80.6,,,,MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer,/paper/mixpro-data-augmentation-with-maskmix-and
+643,ResNeXt-101 ,80.53,,,,CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features,/paper/cutmix-regularization-strategy-to-train
+644,NASViT-A2,80.5,,0.421,,NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training,/paper/nasvit-neural-architecture-search-for
+645,Attention-92,80.5,,,,Residual Attention Network for Image Classification,/paper/residual-attention-network-for-image
+646,NAT-M4,80.5,9100000.0,,,Neural Architecture Transfer,/paper/neural-architecture-transfer
+647,IPT-T,80.5,14000000.0,2.3,,IncepFormer: Efficient Inception Transformer with Pyramid Pooling for Semantic Segmentation,/paper/incepformer-efficient-inception-transformer
+648,GLiT-Smalls,80.5,24600000.0,4.4,,GLiT: Neural Architecture Search for Global and Local Image Transformer,/paper/glit-neural-architecture-search-for-global
+649,HCGNet-C,80.5,42200000.0,7.1,,Gated Convolutional Networks with Hybrid Connectivity for Image Classification,/paper/gated-convolutional-networks-with-hybrid
+650,DVT ,80.43,,1.7,,Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition,/paper/not-all-images-are-worth-16x16-words-dynamic
+651,UniNet-B1,80.4,14000000.0,0.99,,"UniNet: Unified Architecture Search with Convolution, Transformer, and MLP",/paper/uninet-unified-architecture-search-with
+652,DeiT-S ,80.4,22000000.0,,,ResNet strikes back: An improved training procedure in timm,/paper/resnet-strikes-back-an-improved-training
+653,ResNet50 ,80.4,25000000.0,,,ResNet strikes back: An improved training procedure in timm,/paper/resnet-strikes-back-an-improved-training
+654,gSwin-VT,80.32,15500000.0,2.3,,gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window,/paper/gswin-gated-mlp-vision-model-with
+655,AlphaNet-A5,80.3,,0.491,,AlphaNet: Improved Training of Supernets with Alpha-Divergence,/paper/alphanet-improved-training-of-supernet-with
+656,ResNet-50+AutoDropout+RandAugment,80.3,,,,AutoDropout: Learning Dropout Patterns to Regularize Deep Networks,/paper/autodropout-learning-dropout-patterns-to
+657,ReXNet_1.5,80.3,9700000.0,0.86,,Rethinking Channel Dimensions for Efficient Model Design,/paper/rexnet-diminishing-representational
+658,CCT-16/7x2,80.28,,,,Escaping the Big Data Paradigm with Compact Transformers,/paper/escaping-the-big-data-paradigm-with-compact
+659,DeiT-S ,80.25,,,,,
+660,iAFF-ResNeXt-50-32x4d,80.22,34700000.0,,,Attentional Feature Fusion,/paper/attentional-feature-fusion
+661,UniRepLKNet-P,80.2,,,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+662,FixEfficientNet-B0,80.2,5300000.0,1.6,,Fixing the train-test resolution discrepancy: FixEfficientNet,/paper/fixing-the-train-test-resolution-discrepancy-2
+663,DAFT-conv ,80.2,20300000.0,,,A Dot Product Attention Free Transformer,/paper/a-dot-product-attention-free-transformer
+664,ConvMLP-L,80.2,42700000.0,,,ConvMLP: Hierarchical Convolutional MLPs for Vision,/paper/convmlp-hierarchical-convolutional-mlps-for
+665,ResNet-50 ,80.1,,,,A Fast Knowledge Distillation Framework for Visual Recognition,/paper/a-fast-knowledge-distillation-framework-for
+666,DAFT-conv ,80.1,23000000.0,,,A Dot Product Attention Free Transformer,/paper/a-dot-product-attention-free-transformer
+667,Inception ResNet V2,80.1,55800000.0,,,"Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning",/paper/inception-v4-inception-resnet-and-the-impact
+668,RandWire-WS,80.1,61500000.0,7.9,,Exploring Randomly Wired Neural Networks for Image Recognition,/paper/exploring-randomly-wired-neural-networks-for
+669,WideNet-H,80.09,63000000.0,,,Go Wider Instead of Deeper,/paper/go-wider-instead-of-deeper
+670,CoE-Small + CondConv + PWLU,80.0,,0.1,,Collaboration of Experts: Achieving 80% Top-1 Accuracy on ImageNet with 100M FLOPs,/paper/collaboration-of-experts-achieving-80-top-1
+671,BasisNet-MV3,80.0,,0.198,,BasisNet: Two-stage Model Synthesis for Efficient Inference,/paper/basisnet-two-stage-model-synthesis-for-1
+672,AlphaNet-A4,80.0,,0.444,,AlphaNet: Improved Training of Supernets with Alpha-Divergence,/paper/alphanet-improved-training-of-supernet-with
+673,MogaNet-T ,80.0,5200000.0,1.44,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+674,MobileOne-S3 ,80.0,10100000.0,1.8,,MobileOne: An Improved One millisecond Mobile Backbone,/paper/an-improved-one-millisecond-mobile-backbone
+675,LeViT-192,80.0,10400000.0,0.624,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+676,ResNet-101,80.0,44400000.0,,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+677,ResNet-200,79.9,,,,Identity Mappings in Deep Residual Networks,/paper/identity-mappings-in-deep-residual-networks
+678,RegNetY-8.0GF,79.9,39200000.0,8.0,,Designing Network Design Spaces,/paper/designing-network-design-spaces
+679,ViT-B/16-SAM,79.9,87000000.0,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+680,TransBoost-ResNet101,79.86,44550000.0,,,TransBoost: Improving the Best ImageNet Performance using Deep Transduction,/paper/transboost-improving-the-best-imagenet
+681,SKNet-101,79.81,48900000.0,8.46,,Selective Kernel Networks,/paper/selective-kernel-networks
+682,FixResNet-50 CutMix,79.8,,,,Fixing the train-test resolution discrepancy,/paper/fixing-the-train-test-resolution-discrepancy
+683,CSPResNeXt-50 + Mish,79.8,,,,Mish: A Self Regularized Non-Monotonic Activation Function,/paper/mish-a-self-regularized-non-monotonic-neural
+684,kNN-CLIP,79.8,,,,Revisiting a kNN-based Image Classification System with High-capacity Storage,/paper/revisiting-a-knn-based-image-classification
+685,CloFormer-XS,79.8,7200000.0,1.1,,Rethinking Local Perception in Lightweight Vision Transformer,/paper/rethinking-local-perception-in-lightweight
+686,EfficientNet-B2,79.8,9200000.0,1.0,,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,/paper/efficientnet-rethinking-model-scaling-for
+687,GC ViT-XXT,79.8,12000000.0,2.1,,Global Context Vision Transformers,/paper/global-context-vision-transformers
+688,CSPResNeXt-50 ,79.8,20500000.0,,,CSPNet: A New Backbone that can Enhance Learning Capability of CNN,/paper/cspnet-a-new-backbone-that-can-enhance
+689,DAFT-full,79.8,22600000.0,,,A Dot Product Attention Free Transformer,/paper/a-dot-product-attention-free-transformer
+690,DVT ,79.74,,0.7,,Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition,/paper/not-all-images-are-worth-16x16-words-dynamic
+691,NASViT-A1,79.7,,0.309,,NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training,/paper/nasvit-neural-architecture-search-for
+692,GPaCo ,79.7,,,,Generalized Parametric Contrastive Learning,/paper/generalized-parametric-contrastive-learning
+693,ResMLP-36,79.7,45000000.0,,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+694,Grafit ,79.6,,,,Grafit: Learning fine-grained image representations with coarse labels,/paper/grafit-learning-fine-grained-image
+695,LeViT-128,79.6,8800000.0,0.376,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+696,ResT-Small,79.6,13660000.0,1.9,,ResT: An Efficient Transformer for Visual Recognition,/paper/rest-an-efficient-transformer-for-visual
+697,GTP-DeiT-S/P8,79.5,,3.4,,GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation,/paper/gtp-vit-efficient-vision-transformers-via
+698,ReXNet_1.3,79.5,7600000.0,0.66,,Rethinking Channel Dimensions for Efficient Model Design,/paper/rexnet-diminishing-representational
+699,WideNet-L,79.49,40000000.0,,,Go Wider Instead of Deeper,/paper/go-wider-instead-of-deeper
+700,ResNet-50 ,79.41,25600000.0,,,Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup,/paper/boosting-discriminative-visual-representation
+701,AlphaNet-A3,79.4,,0.357,,AlphaNet: Improved Training of Supernets with Alpha-Divergence,/paper/alphanet-improved-training-of-supernet-with
+702,MultiGrain R50-AA-500,79.4,,,,MultiGrain: a unified image embedding for classes and instances,/paper/multigrain-a-unified-image-embedding-for
+703,ResNet-50 ,79.4,,,,Adversarial AutoAugment,/paper/adversarial-autoaugment-1
+704,ResMLP-24,79.4,,,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+705,EdgeNeXt-S,79.4,5600000.0,2.6,,EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications,/paper/edgenext-efficiently-amalgamated-cnn
+706,TinyNet ,79.4,11900000.0,0.591,,"Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets",/paper/model-rubik-s-cube-twisting-resolution-depth
+707,MobileOne-S4,79.4,14800000.0,2.9,,MobileOne: An Improved One millisecond Mobile Backbone,/paper/an-improved-one-millisecond-mobile-backbone
+708,RegNetY-4.0GF,79.4,20600000.0,4.0,,Designing Network Design Spaces,/paper/designing-network-design-spaces
+709,SENet-50,79.4,28020000.0,,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+710,ScaleNet-152,79.38,,11.2,,Data-Driven Neuron Allocation for Scale Aggregation Networks,/paper/190409460
+711,LIP-ResNet-101,79.33,42900000.0,,,LIP: Local Importance-based Pooling,/paper/lip-local-importance-based-pooling
+712,MobileViTv3-S,79.3,5800000.0,1.841,,"MobileViTv3: Mobile-Friendly Vision Transformer with Simple and Effective Fusion of Local, Global and Input Features",/paper/mobilevitv3-mobile-friendly-vision
+713,RedNet-152,79.3,34000000.0,6.8,,Involution: Inverting the Inherence of Convolution for Visual Recognition,/paper/involution-inverting-the-inherence-of
+714,ResNet-50 ,79.25,25600000.0,,,AutoMix: Unveiling the Power of Mixup for Stronger Classifiers,/paper/automix-unveiling-the-power-of-mixup
+715,PS-KD ,79.24,,,,Self-Knowledge Distillation with Progressive Refinement of Targets,/paper/self-knowledge-distillation-a-simple-way-for
+716,ResNet-101 ,79.2,,,,Revisiting Unreasonable Effectiveness of Data in Deep Learning Era,/paper/revisiting-unreasonable-effectiveness-of-data
+717,RVT-Ti*,79.2,10900000.0,1.3,,Towards Robust Vision Transformer,/paper/rethinking-the-design-principles-of-robust
+718,Multiscale DEQ ,79.2,81000000.0,,,Multiscale Deep Equilibrium Models,/paper/multiscale-deep-equilibrium-models
+719,SimpleNetV1-5m-correct-labels,79.12,5700000.0,,,"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures",/paper/lets-keep-it-simple-using-simple
+720,AlphaNet-A2,79.1,,0.317,,AlphaNet: Improved Training of Supernets with Alpha-Divergence,/paper/alphanet-improved-training-of-supernet-with
+721,AA-ResNet-152,79.1,,,,Attention Augmented Convolutional Networks,/paper/190409925
+722,FixResNet-50,79.1,,,,Fixing the train-test resolution discrepancy,/paper/fixing-the-train-test-resolution-discrepancy
+723,Diffusion Classifier,79.1,,,,Your Diffusion Model is Secretly a Zero-Shot Classifier,/paper/your-diffusion-model-is-secretly-a-zero-shot
+724,TinyViT-5M,79.1,5400000.0,1.3,,TinyViT: Fast Pretraining Distillation for Small Vision Transformers,/paper/tinyvit-fast-pretraining-distillation-for
+725,MobileOne-S2 ,79.1,7800000.0,1.3,,MobileOne: An Improved One millisecond Mobile Backbone,/paper/an-improved-one-millisecond-mobile-backbone
+726,PiT-XS,79.1,10600000.0,1.4,,Rethinking Spatial Dimensions of Vision Transformers,/paper/rethinking-spatial-dimensions-of-vision
+727,UniNet-B0,79.1,11900000.0,0.56,,"UniNet: Unified Architecture Search with Convolution, Transformer, and MLP",/paper/uninet-unified-architecture-search-with
+728,RedNet-101,79.1,25600000.0,4.7,,Involution: Inverting the Inherence of Convolution for Visual Recognition,/paper/involution-inverting-the-inherence-of
+729,ResNet-50 ,79.04,,,,Unsupervised Data Augmentation for Consistency Training,/paper/unsupervised-data-augmentation-1
+730,ScaleNet-101,79.03,,7.5,,Data-Driven Neuron Allocation for Scale Aggregation Networks,/paper/190409460
+731,TransBoost-ResNet50,79.03,,,,TransBoost: Improving the Best ImageNet Performance using Deep Transduction,/paper/transboost-improving-the-best-imagenet
+732,Co-ResNet-152,79.03,60000000.0,,,Contextual Convolutional Neural Networks,/paper/contextual-convolutional-neural-networks
+733,MobileNetV3_large_x1_0_ssld,79.0,5470000.0,,,Semi-Supervised Recognition under a Noisy and Fine-grained Dataset,/paper/semi-supervised-recognition-under-a-noisy-and
+734,RevBiFPN-S2,79.0,10600000.0,1.37,,RevBiFPN: The Fully Reversible Bidirectional Feature Pyramid Network,/paper/revbifpn-the-fully-reversible-bidirectional
+735,ConvMLP-M,79.0,17400000.0,,,ConvMLP: Hierarchical Convolutional MLPs for Vision,/paper/convmlp-hierarchical-convolutional-mlps-for
+736,Xception,79.0,22855952.0,,87.0,Xception: Deep Learning with Depthwise Separable Convolutions,/paper/xception-deep-learning-with-depthwise
+737,SpineNet-143,79.0,60500000.0,9.1,,SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization,/paper/spinenet-learning-scale-permuted-backbone-for
+738,Mixer-B/8-SAM,79.0,64000000.0,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+739,InceptionV3 ,78.95,,,,Filter Response Normalization Layer: Eliminating Batch Dependence in the Training of Deep Neural Networks,/paper/filter-response-normalization-layer
+740,ResNet-152 + SWA,78.94,,,,Averaging Weights Leads to Wider Optima and Better Generalization,/paper/averaging-weights-leads-to-wider-optima-and
+741,ECA-Net ,78.92,57400000.0,10.83,,ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks,/paper/eca-net-efficient-channel-attention-for-deep
+742,AlphaNet-A1,78.9,,0.279,,AlphaNet: Improved Training of Supernets with Alpha-Divergence,/paper/alphanet-improved-training-of-supernet-with
+743,MixNet-L,78.9,7300000.0,0.565,,MixConv: Mixed Depthwise Convolutional Kernels,/paper/mixnet-mixed-depthwise-convolutional-kernels
+744,CeiT-T ,78.8,,3.6,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+745,NoisyStudent ,78.8,5300000.0,,,Self-training with Noisy Student improves ImageNet classification,/paper/self-training-with-noisy-student-improves
+746,EfficientNet-B1,78.8,7800000.0,0.7,,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,/paper/efficientnet-rethinking-model-scaling-for
+747,ResNet-50,78.8,25500000.0,,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+748,SGE-ResNet101,78.798,44550000.0,7.858,,Spatial Group-wise Enhance: Improving Semantic Feature Learning in Convolutional Networks,/paper/spatial-group-wise-enhance-improving-semantic
+749,RepVGG-B2,78.78,80310000.0,18.4,,RepVGG: Making VGG-style ConvNets Great Again,/paper/repvgg-making-vgg-style-convnets-great-again
+750,ResNet-50,78.76,,,,Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup,/paper/puzzle-mix-exploiting-saliency-and-local-1
+751,SAMix+DM ,78.75,,,,,
+752,ResNet-50,78.7,,,,AutoDropout: Learning Dropout Patterns to Regularize Deep Networks,/paper/autodropout-learning-dropout-patterns-to
+753,SReT-LT ,78.7,5000000.0,1.2,,A Fast Knowledge Distillation Framework for Visual Recognition,/paper/a-fast-knowledge-distillation-framework-for
+754,PVTv2-B1,78.7,13100000.0,2.1,,PVT v2: Improved Baselines with Pyramid Vision Transformer,/paper/pvtv2-improved-baselines-with-pyramid-vision
+755,ECA-Net ,78.65,42490000.0,7.35,,ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks,/paper/eca-net-efficient-channel-attention-for-deep
+756,MobileViTv3-1.0,78.64,,1.876,,"MobileViTv3: Mobile-Friendly Vision Transformer with Simple and Effective Fusion of Local, Global and Input Features",/paper/mobilevitv3-mobile-friendly-vision
+757,EdgeFormer-S,78.63,5000000.0,3.48,,ParC-Net: Position Aware Circular Convolution with Merits from ConvNets and Transformer,/paper/edgeformer-improving-light-weight-convnets-by
+758,AutoMix+DM ,78.62,,,,,
+759,UniRepLKNet-F,78.6,,,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+760,TransBoost-EfficientNetB0,78.6,5290000.0,,,TransBoost: Improving the Best ImageNet Performance using Deep Transduction,/paper/transboost-improving-the-best-imagenet
+761,Visformer-Ti,78.6,10300000.0,1.3,,Visformer: The Vision-friendly Transformer,/paper/visformer-the-vision-friendly-transformer
+762,ResMLP-12 ,78.6,17700000.0,3.0,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+763,RepMLP-Res50,78.6,52770000.0,,,RepMLP: Re-parameterizing Convolutions into Fully-connected Layers for Image Recognition,/paper/repmlp-re-parameterizing-convolutions-into
+764,Res2Net-50-299,78.59,,,,Res2Net: A New Multi-scale Backbone Architecture,/paper/res2net-a-new-multi-scale-backbone
+765,ResNet-152,78.57,,11.3,,Deep Residual Learning for Image Recognition,/paper/deep-residual-learning-for-image-recognition
+766,ResNet-50-DW ,78.5,,,,Deformable Kernels: Adapting Effective Receptive Fields for Object Deformation,/paper/deformable-kernels-adapting-effective
+767,HRFormer-T,78.5,8000000.0,1.8,,HRFormer: High-Resolution Transformer for Dense Prediction,/paper/hrformer-high-resolution-transformer-for
+768,HCGNet-B,78.5,12900000.0,2.0,,Gated Convolutional Networks with Hybrid Connectivity for Image Classification,/paper/gated-convolutional-networks-with-hybrid
+769,RepVGG-B2g4,78.5,55770000.0,11.3,,RepVGG: Making VGG-style ConvNets Great Again,/paper/repvgg-making-vgg-style-convnets-great-again
+770,DVT ,78.48,,0.6,,Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition,/paper/not-all-images-are-worth-16x16-words-dynamic
+771,SRM-ResNet-101,78.47,,,,SRM : A Style-based Recalibration Module for Convolutional Neural Networks,/paper/srm-a-style-based-recalibration-module-for
+772,DenseNet-161 + SWA,78.44,,,,Averaging Weights Leads to Wider Optima and Better Generalization,/paper/averaging-weights-leads-to-wider-optima-and
+773,CoaT-Ti,78.42,,,,Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers,/paper/which-transformer-to-favor-a-comparative
+774,FBNetV5-AC-CLS,78.4,,0.28,,FBNetV5: Neural Architecture Search for Multiple Tasks in One Run,/paper/fbnetv5-neural-architecture-search-for
+775,ResNet-50 ,78.4,,,,CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features,/paper/cutmix-regularization-strategy-to-train
+776,ReXNet_1.0-relabel,78.4,4800000.0,,,"Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels",/paper/re-labeling-imagenet-from-single-to-multi
+777,MobileViT-S,78.4,5600000.0,,,"MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer",/paper/mobilevit-light-weight-general-purpose-and
+778,RedNet-50,78.4,15500000.0,2.7,,Involution: Inverting the Inherence of Convolution for Visual Recognition,/paper/involution-inverting-the-inherence-of
+779,ResNet-50 ,78.36,,,,,
+780,ResNet-50 + DropBlock ,78.35,,,,DropBlock: A regularization method for convolutional networks,/paper/dropblock-a-regularization-method-for
+781,Poly-SA-ViT-S,78.34,,,,Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers,/paper/which-transformer-to-favor-a-comparative
+782,EfficientNet-B0 ,78.3,,0.826,,CondConv: Conditionally Parameterized Convolutions for Efficient Inference,/paper/soft-conditional-computation
+783,ResNet-101,78.25,40000000.0,7.6,,Deep Residual Learning for Image Recognition,/paper/deep-residual-learning-for-image-recognition
+784,NASViT-A0,78.2,,0.208,,NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training,/paper/nasvit-neural-architecture-search-for
+785,MultiGrain R50-AA-224,78.2,,,,MultiGrain: a unified image embedding for classes and instances,/paper/multigrain-a-unified-image-embedding-for
+786,Pyramid ViG-Ti,78.2,10700000.0,1.7,,Vision GNN: An Image is Worth Graph of Nodes,/paper/vision-gnn-an-image-is-worth-graph-of-nodes
+787,LocalViT-PVT,78.2,13500000.0,4.8,,LocalViT: Bringing Locality to Vision Transformers,/paper/localvit-bringing-locality-to-vision
+788,ResNet-50 ,78.15,,,,,
+789,PuzzleMix+DM ,78.15,,,,,
+790,ResNet-50 ,78.15,25800000.0,,,LIP: Local Importance-based Pooling,/paper/lip-local-importance-based-pooling
+791,WRN-50-2-bottleneck,78.1,,,,Wide Residual Networks,/paper/wide-residual-networks
+792,MobileOne-S3,78.1,10100000.0,1.8,,MobileOne: An Improved One millisecond Mobile Backbone,/paper/an-improved-one-millisecond-mobile-backbone
+793,ResNet50 ,78.1,25000000.0,,,ResNet strikes back: An improved training procedure in timm,/paper/resnet-strikes-back-an-improved-training
+794,ZenNet-400M-SE,78.0,5700000.0,0.82,,Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition,/paper/zen-nas-a-zero-shot-nas-for-high-performance
+795,RegNetY-1.6GF,78.0,11200000.0,1.6,,Designing Network Design Spaces,/paper/designing-network-design-spaces
+796,HVT-S-1,78.0,21740000.0,2.4,,Scalable Vision Transformers with Hierarchical Pooling,/paper/scalable-visual-transformers-with
+797,Perceiver ,78.0,44900000.0,707.2,,Perceiver: General Perception with Iterative Attention,/paper/perceiver-general-perception-with-iterative
+798,ReXNet_1.0,77.9,4800000.0,0.4,,Rethinking Channel Dimensions for Efficient Model Design,/paper/rexnet-diminishing-representational
+799,ViTAE-6M,77.9,6500000.0,4.0,,ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias,/paper/vitae-vision-transformer-advanced-by
+800,DenseNet-264,77.85,,,,Densely Connected Convolutional Networks,/paper/densely-connected-convolutional-networks
+801,AlphaNet-A0,77.8,,0.203,,AlphaNet: Improved Training of Supernets with Alpha-Divergence,/paper/alphanet-improved-training-of-supernet-with
+802,ScaleNet-50,77.8,,3.8,,Data-Driven Neuron Allocation for Scale Aggregation Networks,/paper/190409460
+803,ResMLP-S12,77.8,15400000.0,,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+804,ResNet-50 ,77.71,,,,,
+805,TinyNet-A + RA,77.7,5100000.0,0.339,,"Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets",/paper/model-rubik-s-cube-twisting-resolution-depth
+806,ResNet-50 ,77.6,,,,Fast AutoAugment,/paper/fast-autoaugment
+807,SReT-T,77.6,4800000.0,1.1,,Sliced Recursive Transformer,/paper/sliced-recursive-transformer-1
+808,RedNet-38,77.6,12400000.0,2.2,,Involution: Inverting the Inherence of Convolution for Visual Recognition,/paper/involution-inverting-the-inherence-of
+809,SGE-ResNet50,77.584,25560000.0,4.127,,Spatial Group-wise Enhance: Improving Semantic Feature Learning in Convolutional Networks,/paper/spatial-group-wise-enhance-improving-semantic
+810,WideNet-B,77.54,29000000.0,,,Go Wider Instead of Deeper,/paper/go-wider-instead-of-deeper
+811,EfficientNet-B0,77.5,,,,AutoDropout: Learning Dropout Patterns to Regularize Deep Networks,/paper/autodropout-learning-dropout-patterns-to
+812,ACNet ,77.5,29380000.0,,,Adaptively Connected Neural Networks,/paper/adaptively-connected-neural-networks
+813,ECA-Net ,77.48,24370000.0,3.86,,ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks,/paper/eca-net-efficient-channel-attention-for-deep
+814,DenseNet-201,77.42,,,,Densely Connected Convolutional Networks,/paper/densely-connected-convolutional-networks
+815,MobileOne-S2,77.4,7.8,1.3,,MobileOne: An Improved One millisecond Mobile Backbone,/paper/an-improved-one-millisecond-mobile-backbone
+816,MobileOne-S1 ,77.4,4800000.0,0.825,,MobileOne: An Improved One millisecond Mobile Backbone,/paper/an-improved-one-millisecond-mobile-backbone
+817,R-Mix ,77.39,,,,Expeditious Saliency-guided Mix-up through Random Gradient Thresholding,/paper/expeditious-saliency-guided-mix-up-through
+818,ResnetV2 50 ,77.21,,,,Filter Response Normalization Layer: Eliminating Batch Dependence in the Training of Deep Neural Networks,/paper/filter-response-normalization-layer
+819,FBNetV5-AR-CLS,77.2,,0.215,,FBNetV5: Neural Architecture Search for Multiple Tasks in One Run,/paper/fbnetv5-neural-architecture-search-for
+820,MogaNet-XT ,77.2,3000000.0,1.04,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+821,ReXNet_0.9,77.2,4100000.0,0.35,,Rethinking Channel Dimensions for Efficient Model Design,/paper/rexnet-diminishing-representational
+822,Prodpoly,77.17,,,,Deep Polynomial Neural Networks,/paper/deep-polynomial-neural-networks
+823,ResNet-50-D,77.16,25000000.0,,,Bag of Tricks for Image Classification with Convolutional Neural Networks,/paper/bag-of-tricks-for-image-classification-with
+824,Inception v3,77.12,,,,What do Deep Networks Like to See?,/paper/what-do-deep-networks-like-to-see
+825,MKD ViT-T,77.1,,,,Meta Knowledge Distillation,/paper/meta-knowledge-distillation
+826,GreedyNAS-A,77.1,6500000.0,0.366,,GreedyNAS: Towards Fast One-Shot NAS with Greedy Supernet,/paper/greedynas-towards-fast-one-shot-nas-with
+827,SkipblockNet-L,77.1,7100000.0,0.364,,Bias Loss for Mobile Neural Networks,/paper/bias-loss-for-mobile-neural-networks
+828,SSAL-Resnet50,77.0,,,,Contextual Classification Using Self-Supervised Auxiliary Models for Deep Neural Networks,/paper/contextual-classification-using-self
+829,UniRepLKNet-A,77.0,,,,"UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition",/paper/unireplknet-a-universal-perception-large
+830,CloFormer-XXS,77.0,4200000.0,0.6,,Rethinking Local Perception in Lightweight Vision Transformer,/paper/rethinking-local-perception-in-lightweight
+831,MixNet-M,77.0,5000000.0,0.36,,MixConv: Mixed Depthwise Convolutional Kernels,/paper/mixnet-mixed-depthwise-convolutional-kernels
+832,SCARLET-A,76.9,6700000.0,0.73,,SCARLET-NAS: Bridging the Gap between Stability and Scalability in Weight-sharing Neural Architecture Search,/paper/scarletnas-bridging-the-gap-between
+833,TransBoost-MobileNetV3-L,76.81,5480000.0,,,TransBoost: Improving the Best ImageNet Performance using Deep Transduction,/paper/transboost-improving-the-best-imagenet
+834,ViTAE-T-Stage,76.8,4800000.0,4.6,,ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias,/paper/vitae-vision-transformer-advanced-by
+835,GreedyNAS-B,76.8,5200000.0,0.324,,GreedyNAS: Towards Fast One-Shot NAS with Greedy Supernet,/paper/greedynas-towards-fast-one-shot-nas-with
+836,ConvMLP-S,76.8,9000000.0,,,ConvMLP: Hierarchical Convolutional MLPs for Vision,/paper/convmlp-hierarchical-convolutional-mlps-for
+837,Perona Malik ,76.71,,,,Learning Visual Representations for Transfer Learning by Suppressing Texture,/paper/learning-visual-representations-for-transfer-1
+838,PVT-T ,76.7,,,,MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer,/paper/mixpro-data-augmentation-with-maskmix-and
+839,MobileViTv3-XS,76.7,2500000.0,0.927,,"MobileViTv3: Mobile-Friendly Vision Transformer with Simple and Effective Fusion of Local, Global and Input Features",/paper/mobilevitv3-mobile-friendly-vision
+840,MnasNet-A3,76.7,5200000.0,0.806,,MnasNet: Platform-Aware Neural Architecture Search for Mobile,/paper/mnasnet-platform-aware-neural-architecture
+841,ViL-Tiny-RPB,76.7,6700000.0,1.3,,Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding,/paper/2103-15358
+842,ConViT-Ti+,76.7,10000000.0,2.0,,ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases,/paper/convit-improving-vision-transformers-with
+843,TransBoost-ResNet34,76.7,21800000.0,,,TransBoost: Improving the Best ImageNet Performance using Deep Transduction,/paper/transboost-improving-the-best-imagenet
+844,LIP-DenseNet-BC-121,76.64,8700000.0,,,LIP: Local Importance-based Pooling,/paper/lip-local-importance-based-pooling
+845,ResNet-50 ,76.6,,,,X-volution: On the unification of convolution and self-attention,/paper/x-volution-on-the-unification-of-convolution
+846,MUXNet-l,76.6,4000000.0,0.636,,MUXConv: Information Multiplexing in Convolutional Neural Networks,/paper/muxconv-information-multiplexing-in
+847,DeiT-B,76.6,5000000.0,,,Training data-efficient image transformers & distillation through attention,/paper/training-data-efficient-image-transformers
+848,MobileViTv3-0.75,76.55,3000000.0,1.064,,"MobileViTv3: Mobile-Friendly Vision Transformer with Simple and Effective Fusion of Local, Global and Input Features",/paper/mobilevitv3-mobile-friendly-vision
+849,Mixer-B/16,76.44,46000000.0,,,MLP-Mixer: An all-MLP Architecture for Vision,/paper/mlp-mixer-an-all-mlp-architecture-for-vision
+850,Perceiver,76.4,,,,Perceiver: General Perception with Iterative Attention,/paper/perceiver-general-perception-with-iterative
+851,CeiT-T,76.4,6400000.0,1.2,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+852,ResNet-34 ,76.35,21800000.0,,,Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup,/paper/boosting-discriminative-visual-representation
+853,EfficientNet-B0,76.3,5300000.0,0.39,,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,/paper/efficientnet-rethinking-model-scaling-for
+854,RegNetY-800MF,76.3,6300000.0,0.8,,Designing Network Design Spaces,/paper/designing-network-design-spaces
+855,SCARLET-B,76.3,6500000.0,0.658,,SCARLET-NAS: Bridging the Gap between Stability and Scalability in Weight-sharing Neural Architecture Search,/paper/scarletnas-bridging-the-gap-between
+856,GLiT-Tinys,76.3,7200000.0,1.4,,GLiT: Neural Architecture Search for Global and Local Image Transformer,/paper/glit-neural-architecture-search-for-global
+857,DenseNet-169,76.2,,,,Densely Connected Convolutional Networks,/paper/densely-connected-convolutional-networks
+858,GreedyNAS-C,76.2,4700000.0,0.284,,GreedyNAS: Towards Fast One-Shot NAS with Greedy Supernet,/paper/greedynas-towards-fast-one-shot-nas-with
+859,SkipblockNet-M,76.2,5500000.0,0.246,,Bias Loss for Mobile Neural Networks,/paper/bias-loss-for-mobile-neural-networks
+860,ELP ,76.13,,,,A Simple Episodic Linear Probe Improves Visual Recognition in the Wild,/paper/a-simple-episodic-linear-probe-improves
+861,ResNet-34 ,76.1,21800000.0,,,AutoMix: Unveiling the Power of Mixup for Stronger Classifiers,/paper/automix-unveiling-the-power-of-mixup
+862,ResNet-50 MLPerf v0.7 - 2512 steps,75.92,,,,"A Large Batch Optimizer Reality Check: Traditional, Generic Optimizers Suffice Across Batch Sizes",/paper/a-large-batch-optimizer-reality-check
+863,RedNet-26,75.9,9.2,1.7,,Involution: Inverting the Inherence of Convolution for Visual Recognition,/paper/involution-inverting-the-inherence-of
+864,DenseNAS-A,75.9,,,,Densely Connected Search Space for More Flexible Neural Architecture Search,/paper/densely-connected-search-space-for-more
+865,MobileOne-S1,75.9,4800000.0,0.825,,MobileOne: An Improved One millisecond Mobile Backbone,/paper/an-improved-one-millisecond-mobile-backbone
+866,MoGA-A,75.9,5100000.0,0.608,,MoGA: Searching Beyond MobileNetV3,/paper/moga-searching-beyond-mobilenetv3
+867,RevBiFPN-S1,75.9,5110000.0,0.62,,RevBiFPN: The Fully Reversible Bidirectional Feature Pyramid Network,/paper/revbifpn-the-fully-reversible-bidirectional
+868,LocalViT-TNT,75.9,6300000.0,1.4,,LocalViT: Bringing Locality to Vision Transformers,/paper/localvit-bringing-locality-to-vision
+869,SALG-ST,75.9,6500000.0,,,Semantic-Aware Local-Global Vision Transformer,/paper/semantic-aware-local-global-vision
+870,FractalNet-34,75.88,,,,FractalNet: Ultra-Deep Neural Networks without Residuals,/paper/fractalnet-ultra-deep-neural-networks-without
+871,MixNet-S,75.8,4100000.0,0.256,,MixConv: Mixed Depthwise Convolutional Kernels,/paper/mixnet-mixed-depthwise-convolutional-kernels
+872,CoordConv ResNet-50,75.74,,,,An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution,/paper/an-intriguing-failing-of-convolutional-neural
+873,LeViT-128S,75.7,4700000.0,0.288,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+874,GhostNet ×1.3,75.7,7300000.0,0.226,,GhostNet: More Features from Cheap Operations,/paper/ghostnet-more-features-from-cheap-operations
+875,LR-Net-26,75.7,14700000.0,2.6,,Local Relation Networks for Image Recognition,/paper/190411491
+876,Mixer-S16 + STD,75.7,22200000.0,4.3,,Spatial-Channel Token Distillation for Vision MLPs,/paper/spatial-channel-token-distillation-for-vision
+877,SimpleNetV1-small-075-correct-labels,75.66,3000000.0,,,"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures",/paper/lets-keep-it-simple-using-simple
+878,MnasNet-A2,75.6,4800000.0,0.68,,MnasNet: Platform-Aware Neural Architecture Search for Mobile,/paper/mnasnet-platform-aware-neural-architecture
+879,SCARLET-C,75.6,6000000.0,0.56,,SCARLET-NAS: Bridging the Gap between Stability and Scalability in Weight-sharing Neural Architecture Search,/paper/scarletnas-bridging-the-gap-between
+880,PAWS ,75.5,,,,Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments with Support Samples,/paper/semi-supervised-learning-of-visual-features
+881,RegNetY-600MF,75.5,6100000.0,0.6,,Designing Network Design Spaces,/paper/designing-network-design-spaces
+882,ShuffleNet V2,75.4,,0.597,,ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design,/paper/shufflenet-v2-practical-guidelines-for
+883,VAN-B0,75.4,4100000.0,0.9,,Visual Attention Network,/paper/visual-attention-network
+884,AsymmNet-Large ×1.0,75.4,5990000.0,0.4338,,AsymmNet: Towards ultralight convolution neural networks using asymmetrical bottlenecks,/paper/asymmnet-towards-ultralight-convolution
+885,FairNAS-A,75.34,4600000.0,0.776,,FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search,/paper/fairnas-rethinking-evaluation-fairness-of
+886,ViTAE-T,75.3,,3.0,,ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias,/paper/vitae-vision-transformer-advanced-by
+887,MUXNet-m,75.3,3400000.0,0.436,,MUXConv: Information Multiplexing in Convolutional Neural Networks,/paper/muxconv-information-multiplexing-in
+888,ResNet-50,75.3,25000000.0,3.8,,Deep Residual Learning for Image Recognition,/paper/deep-residual-learning-for-image-recognition
+889,MnasNet-A1,75.2,3900000.0,0.624,,MnasNet: Platform-Aware Neural Architecture Search for Mobile,/paper/mnasnet-platform-aware-neural-architecture
+890,MobileNet V3-Large 1.0,75.2,5400000.0,0.438,,Searching for MobileNetV3,/paper/searching-for-mobilenetv3
+891,DiCENet,75.1,,0.553,,DiCENet: Dimension-wise Convolutions for Efficient Networks,/paper/dicenet-dimension-wise-convolutions-for
+892,MultiGrain NASNet-A-Mobile ,75.1,,,,MultiGrain: a unified image embedding for classes and instances,/paper/multigrain-a-unified-image-embedding-for
+893,FairNAS-B,75.1,4500000.0,0.69,,FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search,/paper/fairnas-rethinking-evaluation-fairness-of
+894,ResNet-34 ,75.0,,,,X-volution: On the unification of convolution and self-attention,/paper/x-volution-on-the-unification-of-convolution
+895,Ghost-ResNet-50 ,75.0,13000000.0,2.2,,GhostNet: More Features from Cheap Operations,/paper/ghostnet-more-features-from-cheap-operations
+896,DenseNet-121,74.98,,,,Densely Connected Convolutional Networks,/paper/densely-connected-convolutional-networks
+897,Single-Path NAS,74.96,,,,Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours,/paper/single-path-nas-designing-hardware-efficient
+898,WaveMix-192/16 ,74.93,,,,WaveMix: A Resource-efficient Neural Network for Image Analysis,/paper/wavemix-lite-a-resource-efficient-neural
+899,FF,74.9,,,,Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet,/paper/do-you-even-need-attention-a-stack-of-feed
+900,FBNet-C,74.9,5500000.0,0.375,,FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search,/paper/fbnet-hardware-aware-efficient-convnet-design
+901,ESPNetv2,74.9,5900000.0,0.602,,"ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network",/paper/espnetv2-a-light-weight-power-efficient-and
+902,MobileViT-XS,74.8,2300000.0,0.7,,"MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer",/paper/mobilevit-light-weight-general-purpose-and
+903,LocalViT-T,74.8,5900000.0,1.3,,LocalViT: Bringing Locality to Vision Transformers,/paper/localvit-bringing-locality-to-vision
+904,RandWire-WS ,74.7,5600000.0,0.583,,Exploring Randomly Wired Neural Networks for Image Recognition,/paper/exploring-randomly-wired-neural-networks-for
+905,AutoFormer-tiny,74.7,5700000.0,1.3,,AutoFormer: Searching Transformers for Visual Recognition,/paper/autoformer-searching-transformers-for-visual
+906,MobileNetV2 ,74.7,6900000.0,1.17,,MobileNetV2: Inverted Residuals and Linear Bottlenecks,/paper/mobilenetv2-inverted-residuals-and-linear
+907,FairNAS-C,74.69,4400000.0,0.642,,FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search,/paper/fairnas-rethinking-evaluation-fairness-of
+908,ReXNet_0.6,74.6,2700000.0,,,Rethinking Channel Dimensions for Efficient Model Design,/paper/rexnet-diminishing-representational
+909,Proxyless,74.6,4000000.0,,,ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware,/paper/proxylessnas-direct-neural-architecture
+910,PiT-Ti,74.6,4900000.0,0.7,,Rethinking Spatial Dimensions of Vision Transformers,/paper/rethinking-spatial-dimensions-of-vision
+911,DY-MobileNetV2 ×1.0,74.4,11100000.0,0.0,,Dynamic Convolution: Attention over Convolution Kernels,/paper/dynamic-convolution-attention-over
+912,SimpleNetV1-9m,74.17,9500000.0,,,"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures",/paper/lets-keep-it-simple-using-simple
+913,RegNetY-400MF,74.1,4300000.0,0.4,,Designing Network Design Spaces,/paper/designing-network-design-spaces
+914,Ghost-ResNet-50 ,74.1,6500000.0,1.2,,GhostNet: More Features from Cheap Operations,/paper/ghostnet-more-features-from-cheap-operations
+915,SReT-ExT,74.0,4000000.0,0.7,,Sliced Recursive Transformer,/paper/sliced-recursive-transformer-1
+916,GhostNet ×1.0,73.9,5200000.0,0.141,,GhostNet: More Features from Cheap Operations,/paper/ghostnet-more-features-from-cheap-operations
+917,DeiT-T ,73.8,,,,MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer,/paper/mixpro-data-augmentation-with-maskmix-and
+918,DeiT-Ti with iRPE-K,73.7,6000000.0,2.568,,Rethinking and Improving Relative Position Encoding for Vision Transformer,/paper/rethinking-and-improving-relative-position
+919,DGPPF-ResNet50,73.66,2560000.0,0.4,,Distilled Gradual Pruning with Pruned Fine-tuning,/paper/distilled-gradual-pruning-with-pruned-fine
+920,TransBoost-ResNet18,73.36,11690000.0,,,TransBoost: Improving the Best ImageNet Performance using Deep Transduction,/paper/transboost-improving-the-best-imagenet
+921,Wide ResNet-50 ,73.3,20600000.0,,,What's Hidden in a Randomly Weighted Neural Network?,/paper/whats-hidden-in-a-randomly-weighted-neural
+922,ResNet-18 ,73.19,,,,MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks,/paper/meal-v2-boosting-vanilla-resnet-50-to-80-top
+923,ConViT-Ti,73.1,6000000.0,1.0,,ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases,/paper/convit-improving-vision-transformers-with
+924,RevBiFPN-S0,72.8,3420000.0,0.31,,RevBiFPN: The Fully Reversible Bidirectional Feature Pyramid Network,/paper/revbifpn-the-fully-reversible-bidirectional
+925,DY-MobileNetV2 ×0.75,72.8,7000000.0,0.435,,Dynamic Convolution: Attention over Convolution Kernels,/paper/dynamic-convolution-attention-over
+926,DY-ResNet-18,72.7,42700000.0,3.7,,Dynamic Convolution: Attention over Convolution Kernels,/paper/dynamic-convolution-attention-over
+927,ECA-Net ,72.56,3340000.0,0.32,,ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks,/paper/eca-net-efficient-channel-attention-for-deep
+928,MobileNet-224 ,72.56,4260000.0,1.198,,Compact Global Descriptor for Neural Networks,/paper/compact-global-descriptor-for-neural-networks
+929,MobileOne-S0 ,72.5,2100000.0,0.275,,MobileOne: An Improved One millisecond Mobile Backbone,/paper/an-improved-one-millisecond-mobile-backbone
+930,LocalViT-T2T,72.5,4300000.0,1.2,,LocalViT: Bringing Locality to Vision Transformers,/paper/localvit-bringing-locality-to-vision
+931,MobileViTv3-0.5,72.33,1400000.0,0.481,,"MobileViTv3: Mobile-Friendly Vision Transformer with Simple and Effective Fusion of Local, Global and Input Features",/paper/mobilevitv3-mobile-friendly-vision
+932,ResNet-18 ,72.33,11700000.0,,,Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup,/paper/boosting-discriminative-visual-representation
+933,ResNet-50,72.1,,,,On the adequacy of untuned warmup for adaptive optimization,/paper/on-the-adequacy-of-untuned-warmup-for
+934,ResNet-18 ,72.05,11700000.0,,,AutoMix: Unveiling the Power of Mixup for Stronger Classifiers,/paper/automix-unveiling-the-power-of-mixup
+935,MobileNetV2,72.0,3400000.0,0.6,,MobileNetV2: Inverted Residuals and Linear Bottlenecks,/paper/mobilenetv2-inverted-residuals-and-linear
+936,Ours,71.97,,,,QuantNet: Learning to Quantize by Learning within Fully Differentiable Framework,/paper/quantnet-learning-to-quantize-by-learning
+937,SimpleNetV1-5m,71.94,5700000.0,,,"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures",/paper/lets-keep-it-simple-using-simple
+938,ResNet-18 ,71.71,,,,"torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation",/paper/torchdistill-a-modular-configuration-driven
+939,MUXNet-s,71.6,2400000.0,0.234,,MUXConv: Information Multiplexing in Convolutional Neural Networks,/paper/muxconv-information-multiplexing-in
+940,PDC,71.6,11510000.0,,,Augmenting Deep Classifiers with Polynomial Neural Networks,/paper/polynomial-networks-in-deep-classifiers
+941,ResNet-18 ,71.56,,,,"torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation",/paper/torchdistill-a-modular-configuration-driven
+942,EfficientFormer-V2-S0,71.53,,,,Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers,/paper/which-transformer-to-favor-a-comparative
+943,MobileOne-S0,71.4,2100000.0,0.275,,MobileOne: An Improved One millisecond Mobile Backbone,/paper/an-improved-one-millisecond-mobile-backbone
+944,ResNet-18 ,71.37,,,,"torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation",/paper/torchdistill-a-modular-configuration-driven
+945,Dspike ,71.24,,,,Differentiable Spike: Rethinking Gradient-Descent for Training Spiking Neural Networks,/paper/differentiable-spike-rethinking-gradient
+946,EdgeNeXt-XXS,71.2,1300000.0,0.522,,EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications,/paper/edgenext-efficiently-amalgamated-cnn
+947,ResNet-18 ,71.08,,,,"torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation",/paper/torchdistill-a-modular-configuration-driven
+948,MobileViTv3-XXS,70.98,1200000.0,0.289,,"MobileViTv3: Mobile-Friendly Vision Transformer with Simple and Effective Fusion of Local, Global and Input Features",/paper/mobilevitv3-mobile-friendly-vision
+949,ResNet-18 ,70.93,,,,"torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation",/paper/torchdistill-a-modular-configuration-driven
+950,ShuffleNet,70.9,,,,ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices,/paper/shufflenet-an-extremely-efficient
+951,MobileNet-224 ×1.25,70.6,,1.138,,MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications,/paper/mobilenets-efficient-convolutional-neural
+952,PSN ,70.54,,,,,
+953,ResNet-18 ,70.52,,,,"torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation",/paper/torchdistill-a-modular-configuration-driven
+954,PVTv2-B0,70.5,3400000.0,0.6,,PVT v2: Improved Baselines with Pyramid Vision Transformer,/paper/pvtv2-improved-baselines-with-pyramid-vision
+955,GAC-SNN MS-ResNet-34,70.42,,,,Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks,/paper/gated-attention-coding-for-training-high
+956,ResNet-18 ,70.09,,,,"torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation",/paper/torchdistill-a-modular-configuration-driven
+957,DY-MobileNetV3-Small,69.7,4800000.0,0.137,,Dynamic Convolution: Attention over Convolution Kernels,/paper/dynamic-convolution-attention-over
+958,HVT-Ti-1,69.64,5740000.0,0.64,,Scalable Vision Transformers with Hierarchical Pooling,/paper/scalable-visual-transformers-with
+959,DY-MobileNetV2 ×0.5,69.4,4000000.0,0.203,,Dynamic Convolution: Attention over Convolution Kernels,/paper/dynamic-convolution-attention-over
+960,AsymmNet-Large ×0.5,69.2,2800000.0,0.1344,,AsymmNet: Towards ultralight convolution neural networks using asymmetrical bottlenecks,/paper/asymmnet-towards-ultralight-convolution
+961,SimpleNetV1-small-05-correct-labels,69.11,1500000.0,,,"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures",/paper/lets-keep-it-simple-using-simple
+962,Heteroscedastic ,68.6,,,,Correlated Input-Dependent Label Noise in Large-Scale Image Classification,/paper/correlated-input-dependent-label-noise-in
+963,AsymmNet-Small ×1.0,68.4,3100000.0,0.1154,,AsymmNet: Towards ultralight convolution neural networks using asymmetrical bottlenecks,/paper/asymmnet-towards-ultralight-convolution
+964,FireCaffe ,68.3,,,,FireCaffe: near-linear acceleration of deep neural network training on compute clusters,/paper/firecaffe-near-linear-acceleration-of-deep
+965,Graph-RISE ,68.29,,,,Graph-RISE: Graph-Regularized Image Semantic Embedding,/paper/graph-rise-graph-regularized-image-semantic
+966,SimpleNetV1-small-075,68.15,3000000.0,,,"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures",/paper/lets-keep-it-simple-using-simple
+967,ReActNet-A ,68.0,,,,"""BNN - BN = ?"": Training Binary Neural Networks without Batch Normalization",/paper/bnn-bn-training-binary-neural-networks
+968,DY-ResNet-10,67.7,18600000.0,1.82,,Dynamic Convolution: Attention over Convolution Kernels,/paper/dynamic-convolution-attention-over
+969,WaveMixLite-256/24,67.7,32400000.0,,,WaveMix-Lite: A Resource-efficient Neural Network for Image Analysis,/paper/wavemix-lite-a-resource-efficient-neural-1
+970,PSN ,67.63,,,,,
+971,MUXNet-xs,66.7,1800000.0,0.132,,MUXConv: Information Multiplexing in Convolutional Neural Networks,/paper/muxconv-information-multiplexing-in
+972,PAWS ,66.5,,,,Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments with Support Samples,/paper/semi-supervised-learning-of-visual-features
+973,GhostNet ×0.5,66.2,2600000.0,0.042,,GhostNet: More Features from Cheap Operations,/paper/ghostnet-more-features-from-cheap-operations
+974,DGPPF-MobileNetV2,65.59,1030000.0,0.1,,Distilled Gradual Pruning with Pruned Fine-tuning,/paper/distilled-gradual-pruning-with-pruned-fine
+975,DGPPF-ResNet18,65.22,1150000.0,0.2,,Distilled Gradual Pruning with Pruned Fine-tuning,/paper/distilled-gradual-pruning-with-pruned-fine
+976,OTTT,65.15,,,,Online Training Through Time for Spiking Neural Networks,/paper/online-training-through-time-for-spiking
+977,DY-MobileNetV2 ×0.35,64.9,2800000.0,0.124,,Dynamic Convolution: Attention over Convolution Kernels,/paper/dynamic-convolution-attention-over
+978,BBG ,62.6,,,,Balanced Binary Neural Networks with Gated Residual,/paper/balanced-binary-neural-networks-with-gated
+979,SimpleNetV1-small-05,61.52,1500000.0,,,"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures",/paper/lets-keep-it-simple-using-simple
+980,BBG ,59.4,,,,Balanced Binary Neural Networks with Gated Residual,/paper/balanced-binary-neural-networks-with-gated
+981,FireCaffe ,58.9,,,,FireCaffe: near-linear acceleration of deep neural network training on compute clusters,/paper/firecaffe-near-linear-acceleration-of-deep

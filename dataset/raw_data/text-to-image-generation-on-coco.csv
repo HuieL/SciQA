@@ -1,0 +1,72 @@
+Rank,Model,FID,Paper Title,Paper URL
+1,Parti Finetuned,3.22,Scaling Autoregressive Models for Content-Rich Text-to-Image Generation,/paper/scaling-autoregressive-models-for-content
+2,CM3Leon-7B,4.88,Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning,/paper/scaling-autoregressive-multi-modal-models
+3,Re-Imagen ,5.25,Re-Imagen: Retrieval-Augmented Text-to-Image Generator,/paper/re-imagen-retrieval-augmented-text-to-image
+4,U-ViT-S/2-Deep,5.48,All are Worth Words: A ViT Backbone for Diffusion Models,/paper/all-are-worth-words-a-vit-backbone-for-score
+5,GLIGEN ,5.61,GLIGEN: Open-Set Grounded Text-to-Image Generation,/paper/gligen-open-set-grounded-text-to-image
+6,GLIGEN ,5.82,GLIGEN: Open-Set Grounded Text-to-Image Generation,/paper/gligen-open-set-grounded-text-to-image
+7,U-ViT-S/2,5.95,All are Worth Words: A ViT Backbone for Diffusion Models,/paper/all-are-worth-words-a-vit-backbone-for-score
+8,ConPreDiff,6.21,Improving Diffusion-Based Image Synthesis with Context Prediction,/paper/improving-diffusion-based-image-synthesis-1
+9,TLDM,6.29,Truncated Diffusion Probabilistic Models and Diffusion-based Adversarial Auto-Encoders,/paper/truncated-diffusion-probabilistic-models
+10,GLIGEN ,6.38,GLIGEN: Open-Set Grounded Text-to-Image Generation,/paper/gligen-open-set-grounded-text-to-image
+11,RAPHAEL ,6.61,RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths,/paper/raphael-text-to-image-generation-via-large
+12,ERNIE-ViLG 2.0 ,6.75,ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model with Knowledge-Enhanced Mixture-of-Denoising-Experts,/paper/ernie-vilg-2-0-improving-text-to-image
+13,Re-Imagen,6.88,Re-Imagen: Retrieval-Augmented Text-to-Image Generator,/paper/re-imagen-retrieval-augmented-text-to-image
+14,eDiff-I ,6.95,eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers,/paper/ediffi-text-to-image-diffusion-models-with-an
+15,Swinv2-Imagen,7.21,Swinv2-Imagen: Hierarchical Vision Transformer Diffusion Models for Text-to-Image Generation,/paper/swinv2-imagen-hierarchical-vision-transformer
+16,Parti,7.23,Scaling Autoregressive Models for Content-Rich Text-to-Image Generation,/paper/scaling-autoregressive-models-for-content
+17,Imagen ,7.27,Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding,/paper/photorealistic-text-to-image-diffusion-models
+18,GigaGAN ,7.28,Scaling up GANs for Text-to-Image Synthesis,/paper/scaling-up-gans-for-text-to-image-synthesis
+19,StyleGAN-T ,7.3,StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis,/paper/stylegan-t-unlocking-the-power-of-gans-for
+20,Make-a-Scene ,7.55,Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors,/paper/make-a-scene-scene-based-text-to-image
+21,Kandinsky,8.03,Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion,/paper/kandinsky-an-improved-text-to-image-synthesis
+22,Lafite,8.12,LAFITE: Towards Language-Free Training for Text-to-Image Generation,/paper/lafite-towards-language-free-training-for
+23,SiD-LSG ,8.15,Long and Short Guidance in Score identity Distillation for One-Step Text-to-Image Generation,/paper/long-and-short-guidance-in-score-identity
+24,simple diffusion ,8.3,Simple diffusion: End-to-end diffusion for high resolution images,/paper/simple-diffusion-end-to-end-diffusion-for
+25,GigaGAN ,9.09,Scaling up GANs for Text-to-Image Synthesis,/paper/scaling-up-gans-for-text-to-image-synthesis
+26,XMC-GAN ,9.3,NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion,/paper/nuwa-visual-synthesis-pre-training-for-neural
+27,XMC-GAN,9.33,Cross-Modal Contrastive Learning for Text-to-Image Generation,/paper/cross-modal-contrastive-learning-for-text-to
+28,DALL-E 2,10.39,Hierarchical Text-Conditional Image Generation with CLIP Latents,/paper/hierarchical-text-conditional-image
+29,Corgi-Semi,10.6,Shifted Diffusion for Text-to-image Generation,/paper/shifted-diffusion-for-text-to-image
+30,Corgi,10.88,Shifted Diffusion for Text-to-image Generation,/paper/shifted-diffusion-for-text-to-image
+31,TR0N ,10.9,TR0N: Translator Networks for 0-Shot Plug-and-Play Conditional Generation,/paper/tr0n-translator-networks-for-0-shot-plug-and
+32,Make-a-Scene ,11.84,Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors,/paper/make-a-scene-scene-based-text-to-image
+33,GLIDE ,12.24,GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models,/paper/glide-towards-photorealistic-image-generation
+34,KNN-Diffusion,12.5,KNN-Diffusion: Image Generation via Large-Scale Retrieval,/paper/knn-diffusion-image-generation-via-large
+35,GALIP ,12.54,GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis,/paper/galip-generative-adversarial-clips-for-text
+36,Latent Diffusion ,12.63,High-Resolution Image Synthesis with Latent Diffusion Models,/paper/high-resolution-image-synthesis-with-latent
+37,Stable Diffusion,12.63,Retrieval-Augmented Multimodal Language Modeling,/paper/retrieval-augmented-multimodal-language
+38,NÜWA ,12.9,NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion,/paper/nuwa-visual-synthesis-pre-training-for-neural
+39,VQ-Diffusion-F,13.86,Vector Quantized Diffusion Model for Text-to-Image Synthesis,/paper/vector-quantized-diffusion-model-for-text-to
+40,StyleGAN-T ,13.9,StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis,/paper/stylegan-t-unlocking-the-power-of-gans-for
+41,RAT-GAN,14.6,Recurrent Affine Transformation for Text-to-image Synthesis,/paper/recurrent-affine-transformation-for-text-to
+42,ERNIE-ViLG,14.7,ERNIE-ViLG: Unified Generative Pre-training for Bidirectional Vision-Language Generation,/paper/ernie-vilg-unified-generative-pre-training
+43,RA-CM3 ,15.7,Retrieval-Augmented Multimodal Language Modeling,/paper/retrieval-augmented-multimodal-language
+44,CogView2,17.7,CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers,/paper/cogview2-faster-and-better-text-to-image
+45,VQ-Diffusion-B,19.75,Vector Quantized Diffusion Model for Text-to-Image Synthesis,/paper/vector-quantized-diffusion-model-for-text-to
+46,DM-GAN+CL,20.79,Improving Text-to-Image Synthesis Using Contrastive Learning,/paper/improving-text-to-image-synthesis-using
+47,FuseDream ,21.16,FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+GAN Space Optimization,/paper/fusedream-training-free-text-to-image
+48,FuseDream ,21.16,FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+GAN Space Optimization,/paper/fusedream-training-free-text-to-image
+49,FuseDream ,21.89,FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+GAN Space Optimization,/paper/fusedream-training-free-text-to-image
+50,AttnGAN+CL,23.93,Improving Text-to-Image Synthesis Using Contrastive Learning,/paper/improving-text-to-image-synthesis-using
+51,CogView2,24.0,CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers,/paper/cogview2-faster-and-better-text-to-image
+52,OP-GAN,24.7,Semantic Object Accuracy for Generative Text-to-Image Synthesis,/paper/191013321
+53,DM-GAN ,26.0,NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion,/paper/nuwa-visual-synthesis-pre-training-for-neural
+54,Lafite ,26.94,LAFITE: Towards Language-Free Training for Text-to-Image Generation,/paper/lafite-towards-language-free-training-for
+55,CogView,27.1,CogView: Mastering Text-to-Image Generation via Transformers,/paper/cogview-mastering-text-to-image-generation
+56,CogView ,27.1,NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion,/paper/nuwa-visual-synthesis-pre-training-for-neural
+57,DALL-E ,27.5,NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion,/paper/nuwa-visual-synthesis-pre-training-for-neural
+58,DALL-E ,28.0,Retrieval-Augmented Multimodal Language Modeling,/paper/retrieval-augmented-multimodal-language
+59,AttnGAN + VICTR,29.26,VICTR: Visual Information Captured Text Representation for Text-to-Image Multimodal Tasks,/paper/victr-visual-information-captured-text
+60,Vanilla CM3,29.5,Retrieval-Augmented Multimodal Language Modeling,/paper/retrieval-augmented-multimodal-language
+61,DM-GAN + VICTR,32.37,VICTR: Visual Information Captured Text Representation for Text-to-Image Multimodal Tasks,/paper/victr-visual-information-captured-text
+62,DM-GAN,32.64,DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis,/paper/dm-gan-dynamic-memory-generative-adversarial
+63,AttnGAN + OP,33.35,Generating Multiple Objects at Spatially Distinct Locations,/paper/generating-multiple-objects-at-spatially
+64,AttnGAN ,35.2,NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion,/paper/nuwa-visual-synthesis-pre-training-for-neural
+65,L-Verse-CC,37.2,L-Verse: Bidirectional Generation Between Image and Text,/paper/l-verse-bidirectional-generation-between
+66,L-Verse,45.8,L-Verse: Bidirectional Generation Between Image and Text,/paper/l-verse-bidirectional-generation-between
+67,StackGAN + OP,55.3,Generating Multiple Objects at Spatially Distinct Locations,/paper/generating-multiple-objects-at-spatially
+68,StackGAN-v1,74.05,StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks,/paper/stackgan-realistic-image-synthesis-with
+69,DF-GAN ,,NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion,/paper/nuwa-visual-synthesis-pre-training-for-neural
+70,StackGAN + VICTR,,VICTR: Visual Information Captured Text Representation for Text-to-Image Multimodal Tasks,/paper/victr-visual-information-captured-text
+71,ChatPainter,,ChatPainter: Improving Text to Image Generation using Dialogue,/paper/chatpainter-improving-text-to-image

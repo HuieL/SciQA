@@ -1,0 +1,28 @@
+Rank,Model,Accuracy,Paper Title,Paper URL
+1,RCL,93.2,Empowering Source-Free Domain Adaptation with MLLM-driven Curriculum Learning,/paper/empowering-source-free-domain-adaptation-with
+2,MIC,92.8,MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation,/paper/mic-masked-image-consistency-for-context
+3,CMKD,91.8,Unsupervised Domain Adaption Harnessing Vision-Language Pre-training,/paper/unsupervised-domain-adaption-harnessing
+4,SKD,91.2,Combining inherent knowledge of vision-language models with unsupervised domain adaptation through self-knowledge distillation,/paper/combining-inherent-knowledge-of-vision
+5,DePT,90.7,Visual Prompt Tuning for Test-time Domain Adaptation,/paper/visual-prompt-tuning-for-test-time-domain
+6,SDAT,89.8,A Closer Look at Smoothness in Domain Adversarial Training,/paper/a-closer-look-at-smoothness-in-domain-1
+7,SFDA2++,89.6,SF(DA)$^2$: Source-free Domain Adaptation Through the Lens of Data Augmentation,/paper/sf-da-2-source-free-domain-adaptation-through
+8,PMtrans,88.8,Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective,/paper/patch-mix-transformer-for-unsupervised-domain
+9,CoVi,88.5,Contrastive Vicinal Space for Unsupervised Domain Adaptation,/paper/contrastive-vicinal-space-for-unsupervised
+10,CDTrans,88.4,CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation,/paper/cdtrans-cross-domain-transformer-for
+11,SFDA2,88.1,SF(DA)$^2$: Source-free Domain Adaptation Through the Lens of Data Augmentation,/paper/sf-da-2-source-free-domain-adaptation-through
+12,FixBi,87.2,FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation,/paper/fixbi-bridging-domain-spaces-for-unsupervised
+13,CAN,87.2,Contrastive Adaptation Network for Unsupervised Domain Adaptation,/paper/contrastive-adaptation-network-for
+14,dSNE,86.15,d-SNE: Domain Adaptation Using Stochastic Neighborhood Embedding,/paper/d-sne-domain-adaptation-using-stochastic
+15,CPGA,86.0,Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation,/paper/source-free-domain-adaptation-via-avatar
+16,Mean teacher,85.4,Self-ensembling for visual domain adaptation,/paper/self-ensembling-for-visual-domain-adaptation
+17,MCC+NWD,83.7,Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation,/paper/reusing-the-task-specific-classifier-as-a
+18,SHOT,82.9,Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation,/paper/do-we-really-need-to-access-the-source-data
+19,DTA,81.5,Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation,/paper/drop-to-adapt-learning-discriminative
+20,MRKLD + LRENT,78.1,Confidence Regularized Self-Training,/paper/confidence-regularized-self-training
+21,CRST,78.1,Confidence Regularized Self-Training,/paper/confidence-regularized-self-training
+22,SENTRY ,76.7,SENTRY: Selective Entropy Optimization via Committee Consistency for Unsupervised Domain Adaptation,/paper/sentry-selective-entropy-optimization-via
+23,SWD,76.4,Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation,/paper/sliced-wasserstein-discrepancy-for
+24,IAFN,76.1,Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation,/paper/unsupervised-domain-adaptation-an-adaptive
+25,CDAN,73.7,Conditional Adversarial Domain Adaptation,/paper/conditional-adversarial-domain-adaptation
+26,DeepJDOT,66.9,DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation,/paper/deepjdot-deep-joint-distribution-optimal
+27,JAN,58.3,Deep Transfer Learning with Joint Adaptation Networks,/paper/deep-transfer-learning-with-joint-adaptation

@@ -1,0 +1,35 @@
+Rank,Model,MAE,MSE,RMSE,Paper Title,Paper URL
+1,APGCC,48.8,76.7,,Improving Point-based Crowd Counting and Localization Based on Auxiliary Point Guidance,/paper/improving-point-based-crowd-counting-and
+2,PSL-Net,49.9,,77.6,Crowd Counting and Individual Localization Using Pseudo Square Label,/paper/crowd-counting-and-individual-localization
+3,FGENet,51.66,85.0,,FGENet: Fine-Grained Extraction Network for Congested Crowd Counting,/paper/fgenet-fine-grained-extraction-network-for-2
+4,VMambaCC,51.87,81.3,,VMambaCC: A Visual State Space Model for Crowd Counting,/paper/vmambacc-a-visual-state-space-model-for-crowd
+5,P2PNet,52.74,85.06,,Rethinking Counting and Localization in Crowds:A Purely Point-Based Framework,/paper/rethinking-counting-and-localization-in
+6,CLIP-EBC ,53.2,,85.9,CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification,/paper/clip-ebc-clip-can-count-accurately-through
+7,GauNet ,54.8,89.1,,Rethinking Spatial Invariance of Convolutional Networks for Object Counting,/paper/rethinking-spatial-invariance-of-1
+8,LoViTCrowd,54.8,,80.9,Improving Local Features with Relevant Spatial Information by Vision Transformer for Crowd Counting,/paper/improving-local-features-with-relevant
+9,CLIP-EBC ,55.0,,88.7,CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification,/paper/clip-ebc-clip-can-count-accurately-through
+10,M-SFANet+M-SegNet,57.55,94.48,,Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting,/paper/encoder-decoder-based-convolutional-neural
+11,SGANet + CL,57.6,,,Crowd Counting via Segmentation Guided Attention Networks and Curriculum Loss,/paper/segmentation-guided-attention-network-for
+12,SGANet,58.0,,,Crowd Counting via Segmentation Guided Attention Networks and Curriculum Loss,/paper/segmentation-guided-attention-network-for
+13,S-DCNet,58.3,,,From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer,/paper/from-open-set-to-closed-set-counting-objects
+14,SPANet,59.4,92.5,,Learning Spatial Awareness to Improve Crowd Counting,/paper/learning-spatial-awareness-to-improve-crowd
+15,DM-Count,59.7,,,Distribution Matching for Crowd Counting,/paper/distribution-matching-for-crowd-counting
+16,FusionCount,62.2,101.2,,FusionCount: Efficient Crowd Counting via Multiscale Feature Fusion,/paper/fusioncount-efficient-crowd-counting-via
+17,DMCount-EBC,62.3,,98.9,CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification,/paper/clip-ebc-clip-can-count-accurately-through
+18,CAN,62.3,,,Context-Aware Crowd Counting,/paper/context-aware-crowd-counting
+19,OrdinalEntropy,65.6,105.0,,Improving Deep Regression with Ordinal Entropy,/paper/improving-deep-regression-with-ordinal
+20,CSRNet-EBC,66.3,,105.0,CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification,/paper/clip-ebc-clip-can-count-accurately-through
+21,LSC-CNN,66.4,,,"Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection",/paper/locate-size-and-count-accurately-resolving
+22,SANet,67.0,,,Scale Aggregation Network for Accurate and Efficient Crowd Counting,/paper/scale-aggregation-network-for-accurate-and
+23,CSRNet,68.2,,,CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes,/paper/csrnet-dilated-convolutional-neural-networks
+24,ic-CNN,68.5,,,Iterative Crowd Counting,/paper/iterative-crowd-counting
+25,IG-CNN,72.5,,,Divide and Grow: Capturing Huge Diversity in Crowd Images with Incrementally Growing CNN,/paper/divide-and-grow-capturing-huge-diversity-in
+26,D-ConvNet,73.5,,,Crowd Counting With Deep Negative Correlation Learning,/paper/crowd-counting-with-deep-negative-correlation
+27,CP-CNN,73.6,,,Generating High-Quality Crowd Density Maps using Contextual Pyramid CNNs,/paper/generating-high-quality-crowd-density-maps
+28,Liu et al.,73.6,,,Leveraging Unlabeled Data for Crowd Counting by Learning to Rank,/paper/leveraging-unlabeled-data-for-crowd-counting
+29,SAFECount,73.7,,,Few-shot Object Counting with Similarity-Aware Feature Enhancement,/paper/iterative-correlation-based-feature
+30,ACSCP,75.7,,,Crowd Counting via Adversarial Cross-Scale Consistency Pursuit,/paper/crowd-counting-via-adversarial-cross-scale
+31,Switch-CNN,90.4,,,Switching Convolutional Neural Network for Crowd Counting,/paper/switching-convolutional-neural-network-for
+32,Cascaded-MTL,101.3,152.4,,CNN-based Cascaded Multi-task Learning of High-level Prior and Density Estimation for Crowd Counting,/paper/cnn-based-cascaded-multi-task-learning-of
+33,MCNN,110.2,,,Single-Image Crowd Counting via Multi-Column Convolutional Neural Network,/paper/single-image-crowd-counting-via-multi-column-1
+34,Zhang et al.,181.8,,,Cross-Scene Crowd Counting via Deep Convolutional Neural Networks,/paper/cross-scene-crowd-counting-via-deep

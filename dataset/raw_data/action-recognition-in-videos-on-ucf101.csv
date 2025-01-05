@@ -1,0 +1,88 @@
+Rank,Model,3-fold Accuracy,Accuracy,Paper Title,Paper URL
+1,VideoMAE V2-g,99.6,,VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking,/paper/videomae-v2-scaling-video-masked-autoencoders
+2,OmniVec,99.6,,OmniVec: Learning robust representations with cross modal sharing,/paper/omnivec-learning-robust-representations-with
+3,BIKE,98.8,,Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models,/paper/bidirectional-cross-modal-knowledge
+4,SMART,98.64,,SMART Frame Selection for Action Recognition,/paper/smart-frame-selection-for-action-recognition
+5,OmniSource ,98.6,,Omni-sourced Webly-supervised Learning for Video Recognition,/paper/omni-sourced-webly-supervised-learning-for
+6,PERF-Net ,98.6,,PERF-Net: Pose Empowered RGB-Flow Net,/paper/perf-net-pose-empowered-rgb-flow-net
+7,ZeroI2V ViT-L/14,98.6,,ZeroI2V: Zero-Cost Adaptation of Pre-trained Transformers from Image to Video,/paper/zeroi2v-zero-cost-adaptation-of-pre-trained
+8,LGD-3D Two-stream,98.2,,Learning Spatio-Temporal Representation with Local and Global Diffusion,/paper/learning-spatio-temporal-representation-with-3
+9,Text4Vis,98.2,,Revisiting Classifier: Transferring Vision-Language Models for Video Recognition,/paper/transferring-textual-knowledge-for-visual
+10,Two-Stream I3D ,98.0,,"Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset",/paper/quo-vadis-action-recognition-a-new-model-and
+11,MARS+RGB+Flow ,97.8,,MARS: Motion-Augmented RGB Stream for Action Recognition,/paper/mars-motion-augmented-rgb-stream-for-action
+12,HATNet ,97.8,,Large Scale Holistic Video Understanding,/paper/holistic-large-scale-video-understanding
+13,Two-Stream I3D ,97.8,,"Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset",/paper/quo-vadis-action-recognition-a-new-model-and
+14,BubbleNET,97.62,,Bubblenet: A Disperse Recurrent Structure To Recognize Activities,/paper/bubblenet-a-disperse-recurrent-structure-to
+15,D3D + D3D,97.6,,D3D: Distilled 3D Networks for Video Action Recognition,/paper/d3d-distilled-3d-networks-for-video-action
+16,BQN,97.6,,Busy-Quiet Video Disentangling for Video Classification,/paper/video-classification-with-finecoarse-networks
+17,CCS + TSN ,97.4,,Cooperative Cross-Stream Network for Discriminative Action Representation,/paper/cooperative-cross-stream-network-for
+18,R[2+1]D-TwoStream ,97.3,,A Closer Look at Spatiotemporal Convolutions for Action Recognition,/paper/a-closer-look-at-spatiotemporal-convolutions
+19,Multi-stream I3D ,97.2,,Contextual Action Cues from Camera Sensor for Multi-Stream Action Recognition,/paper/contextual-action-cues-from-camera-sensor-for
+20,Hidden Two-Stream,97.1,,Hidden Two-Stream Convolutional Networks for Action Recognition,/paper/hidden-two-stream-convolutional-networks-for
+21,D3D ,97.1,,D3D: Distilled 3D Networks for Video Action Recognition,/paper/d3d-distilled-3d-networks-for-video-action
+22,AMD,97.1,,Asymmetric Masked Distillation for Pre-Training Small Foundation Models,/paper/asymmetric-masked-distillation-for-pre
+23,D3D ,97.0,,D3D: Distilled 3D Networks for Video Action Recognition,/paper/d3d-distilled-3d-networks-for-video-action
+24,LGD-3D RGB,97.0,,Learning Spatio-Temporal Representation with Local and Global Diffusion,/paper/learning-spatio-temporal-representation-with-3
+25,STAM-32 ,97.0,,"An Image is Worth 16x16 Words, What is a Video Worth?",/paper/an-image-is-worth-16x16-words-what-is-a-video
+26,FASTER32,96.9,,FASTER Recurrent Networks for Efficient Video Classification,/paper/faster-recurrent-networks-for-video
+27,R[2+1]D-RGB ,96.8,,A Closer Look at Spatiotemporal Convolutions for Action Recognition,/paper/a-closer-look-at-spatiotemporal-convolutions
+28,S3D-G ,96.8,,Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification,/paper/rethinking-spatiotemporal-feature-learning
+29,LGD-3D Flow,96.8,,Learning Spatio-Temporal Representation with Local and Global Diffusion,/paper/learning-spatio-temporal-representation-with-3
+30,Flow-I3D ,96.7,,"Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset",/paper/quo-vadis-action-recognition-a-new-model-and
+31,VidTr-L,96.7,,VidTr: Video Transformer Without Convolutions,/paper/vidtr-video-transformer-without-convolutions
+32,CMA iter1-S,96.5,,Two-Stream Video Classification with Cross-Modality Attention,/paper/two-stream-video-classification-with-cross
+33,Flow-I3D ,96.5,,"Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset",/paper/quo-vadis-action-recognition-a-new-model-and
+34,I3D RGB + DMC-Net ,96.5,,DMC-Net: Generating Discriminative Motion Cues for Fast Compressed Video Action Recognition,/paper/dmc-net-generating-discriminative-motion-cues
+35,A2-Net ,96.4,,$A^2$-Nets: Double Attention Networks,/paper/a2-nets-double-attention-networks
+36,"MF-Net, RGB only ",96.0,,Multi-Fiber Networks for Video Recognition,/paper/multi-fiber-networks-for-video-recognition
+37,Optical Flow Guided Feature,96.0,,Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition,/paper/optical-flow-guided-feature-a-fast-and-robust
+38,MARS+RGB+Flow ,95.8,,MARS: Motion-Augmented RGB Stream for Action Recognition,/paper/mars-motion-augmented-rgb-stream-for-action
+39,Prob-Distill,95.7,,Attention Distillation for Learning Video Representations,/paper/paying-more-attention-to-motion-attention
+40,RGB-I3D ,95.6,,"Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset",/paper/quo-vadis-action-recognition-a-new-model-and
+41,R[2+1]D-Flow ,95.5,,A Closer Look at Spatiotemporal Convolutions for Action Recognition,/paper/a-closer-look-at-spatiotemporal-convolutions
+42,TVNet+IDT,95.4,,End-to-End Learning of Motion Representation for Video Understanding,/paper/end-to-end-learning-of-motion-representation
+43,TesNet ,95.2,,Learning spatio-temporal representations with temporal squeeze pooling,/paper/learning-spatio-temporal-representations-with
+44,I3D-LSTM,95.1,,I3D-LSTM: A New Model for Human Action Recognition,/paper/i3d-lstm-a-new-model-for-human-action
+45,RGB-I3D ,95.1,,"Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset",/paper/quo-vadis-action-recognition-a-new-model-and
+46,R[2+1]D-TwoStream ,95.0,,A Closer Look at Spatiotemporal Convolutions for Action Recognition,/paper/a-closer-look-at-spatiotemporal-convolutions
+47,X3D MobileNet-V3 LGD-GC,94.85,,LIGAR: Lightweight General-purpose Action Recognition,/paper/ligar-lightweight-general-purpose-action
+48,ST-ResNet + IDT,94.6,,Spatiotemporal Residual Networks for Video Action Recognition,/paper/spatiotemporal-residual-networks-for-video
+49,ResNeXt-101 ,94.5,,Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?,/paper/can-spatiotemporal-3d-cnns-retrace-the
+50,R-STAN-101,94.5,,R-STAN: Residual Spatial-Temporal Attention Network for Action Recognition,/paper/r-stan-residual-spatial-temporal-attention
+51,TSN+TSM,94.3,,Temporal-Spatial Mapping for Action Recognition,/paper/temporal-spatial-mapping-for-action
+52,ARTNet w/ TSN,94.3,,Appearance-and-Relation Networks for Video Classification,/paper/appearance-and-relation-networks-for-video
+53,Temporal Segment Networks,94.2,,Temporal Segment Networks: Towards Good Practices for Deep Action Recognition,/paper/temporal-segment-networks-towards-good
+54,TS-LSTM,94.1,,TS-LSTM and Temporal-Inception: Exploiting Spatiotemporal Dynamics for Activity Recognition,/paper/ts-lstm-and-temporal-inception-exploiting
+55,SVT,93.7,,Self-supervised Video Transformer,/paper/self-supervised-video-transformer
+56,R[2+1]D-RGB ,93.6,,A Closer Look at Spatiotemporal Convolutions for Action Recognition,/paper/a-closer-look-at-spatiotemporal-convolutions
+57,Two-stream I3D,93.4,,"Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset",/paper/quo-vadis-action-recognition-a-new-model-and
+58,R[2+1]D-Flow ,93.3,,A Closer Look at Spatiotemporal Convolutions for Action Recognition,/paper/a-closer-look-at-spatiotemporal-convolutions
+59,VIMPAC,92.7,,VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning,/paper/vimpac-video-pre-training-via-masked-token
+60,"S:VGG-16, T:VGG-16 ",92.5,,Convolutional Two-Stream Network Fusion for Video Action Recognition,/paper/convolutional-two-stream-network-fusion-for
+61,DMC-Net ,92.3,,DMC-Net: Generating Discriminative Motion Cues for Fast Compressed Video Action Recognition,/paper/dmc-net-generating-discriminative-motion-cues
+62,two-in-one two stream,92.0,,Dance with Flow: Two-in-One Stream Action Detection,/paper/dance-with-flow-two-in-one-stream-action
+63,LTC,91.7,,Long-term Temporal Convolutions for Action Recognition,/paper/long-term-temporal-convolutions-for-action
+64,R-STAN-50,91.5,,R-STAN: Residual Spatial-Temporal Attention Network for Action Recognition,/paper/r-stan-residual-spatial-temporal-attention
+65,TDD + IDT,91.5,,Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors,/paper/action-recognition-with-trajectory-pooled
+66,Very deep two-stream ConvNet,91.4,,Towards Good Practices for Very Deep Two-Stream ConvNets,/paper/towards-good-practices-for-very-deep-two
+67,3D ResNeXt-101 + Confidence Distillation,91.2,,Efficient Action Recognition Using Confidence Distillation,/paper/efficient-action-recognition-using-confidence
+68,MR Two-Sream R-CNN,91.1,,Multi-region two-stream R-CNN for action detection,/paper/multi-region-two-stream-r-cnn-for-action
+69,Dynamic Image Networks + IDT,89.1,,Dynamic Image Networks for Action Recognition,/paper/dynamic-image-networks-for-action-recognition
+70,Two-stream+LSTM,88.6,,Beyond Short Snippets: Deep Networks for Video Classification,/paper/beyond-short-snippets-deep-networks-for-video
+71,P3D ,88.6,,Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks,/paper/learning-spatio-temporal-representation-with
+72,Two-Stream ,88.0,,Two-Stream Convolutional Networks for Action Recognition in Videos,/paper/two-stream-convolutional-networks-for-action
+73,MV-CNN,86.4,,Real-time Action Recognition with Enhanced Motion Vector CNNs,/paper/real-time-action-recognition-with-enhanced
+74,Dynamics 2 for DenseNet-201 Transformer,86.1,,Video Action Recognition Collaborative Learning with Dynamics via PSO-ConvNet Transformer,/paper/video-action-recognition-collaborative
+75,R,85.8,,DistInit: Learning Video Representations Without a Single Labeled Video,/paper/distinit-learning-video-representations
+76,Res3D,85.8,,ConvNet Architecture Search for Spatiotemporal Feature Learning,/paper/convnet-architecture-search-for
+77,ActionFlowNet,83.9,,ActionFlowNet: Learning Motion Representation for Action Recognition,/paper/actionflownet-learning-motion-representation
+78,C3D,82.3,,Learning Spatiotemporal Features with 3D Convolutional Networks,/paper/learning-spatiotemporal-features-with-3d
+79,HalluciNet ,79.83,,HalluciNet-ing Spatiotemporal Representations Using a 2D-CNN,/paper/hallucinet-ing-spatiotemporal-representations
+80,R[2+1]D ,78.7,,VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples,/paper/videomoco-contrastive-video-representation
+81,3D-ResNet-18 ,74.1,,VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples,/paper/videomoco-contrastive-video-representation
+82,Slow Fusion + Finetune top 3 layers,65.4,,Large-Scale Video Classification with Convolutional Neural Networks,/paper/large-scale-video-classification-with-1
+83,MLGCN,63.27,,MLGCN: Multi-Laplacian Graph Convolutional Networks for Human Action Recognition,/paper/mlgcn-multi-laplacian-graph-convolutional
+84,CD-UAR,42.5,,Towards Universal Representation for Unseen Action Recognition,/paper/towards-universal-representation-for-unseen
+85,SL,35.2,,,
+86,I3D + PoTion,29.3,,PoTion: Pose MoTion Representation for Action Recognition,/paper/potion-pose-motion-representation-for-action
+87,R3D-18,,73.16,Federated Self-supervised Learning for Video Understanding,/paper/federated-self-supervised-learning-for-video

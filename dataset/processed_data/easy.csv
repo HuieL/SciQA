@@ -1,0 +1,1026 @@
+graph,question,answer
+3d-point-cloud-classification-on-scanobjectnn.pt,Does ShapeLLM use the dataset of ScanObjectNN in 3D point cloud classification?,Yes
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Contrast with Reconstruct use the dataset of ScanObjectNN in 3D point cloud classification?,Yes
+3d-point-cloud-classification-on-scanobjectnn.pt,Does ULIP-2 use the dataset of ScanObjectNN in 3D point cloud classification?,Yes
+3d-point-cloud-classification-on-scanobjectnn.pt,Does ULIP use the dataset of ScanObjectNN in 3D point cloud classification?,Yes
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Mamba3D use the dataset of ScanObjectNN in 3D point cloud classification?,Yes
+3d-point-cloud-classification-on-scanobjectnn.pt,Does KPConvX use the dataset of ScanObjectNN in 3D point cloud classification?,Yes
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Decoupled Local Aggregation for Point Cloud Learning use the dataset of ScanObjectNN in 3D point cloud classification?,Yes
+3d-point-cloud-classification-on-scanobjectnn.pt,Does GPSFormer use the dataset of ScanObjectNN in 3D point cloud classification?,Yes
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Beyond First Impressions use the dataset of ScanObjectNN in 3D point cloud classification?,Yes
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Towards Compact 3D Representations via Point Feature Enhancement Masked Autoencoders use the dataset of ScanObjectNN in 3D point cloud classification?,Yes
+action-recognition-in-videos-on-something-1.pt,Does Side4Video use the dataset of Something-Something V1 in action recognition?,Yes
+action-recognition-in-videos-on-something-1.pt,Does Learning Correlation Structures for Vision Transformers use the dataset of Something-Something V1 in action recognition?,Yes
+action-recognition-in-videos-on-something-1.pt,Does Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition use the dataset of Something-Something V1 in action recognition?,Yes
+action-recognition-in-videos-on-something-1.pt,Does CT-Net use the dataset of Something-Something V1 in action recognition?,Yes
+action-recognition-in-videos-on-something-1.pt,Does What Can Simple Arithmetic Operations Do for Temporal Modeling? use the dataset of Something-Something V1 in action recognition?,Yes
+action-recognition-in-videos-on-something-1.pt,Does EAN use the dataset of Something-Something V1 in action recognition?,Yes
+action-recognition-in-videos-on-something-1.pt,Does Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition use the dataset of Something-Something V1 in action recognition?,Yes
+action-recognition-in-videos-on-something-1.pt,Does InternVideo use the dataset of Something-Something V1 in action recognition?,Yes
+action-recognition-in-videos-on-something-1.pt,Does Motion-driven Visual Tempo Learning for Video-based Action Recognition use the dataset of Something-Something V1 in action recognition?,Yes
+action-recognition-in-videos-on-something-1.pt,Does Busy-Quiet Video Disentangling for Video Classification use the dataset of Something-Something V1 in action recognition?,Yes
+action-recognition-in-videos-on-something.pt,Does Side4Video use the dataset of Something-Something V2 in action recognition?,Yes
+action-recognition-in-videos-on-something.pt,Does Masked Feature Prediction for Self-Supervised Visual Pre-Training use the dataset of Something-Something V2 in action recognition?,Yes
+action-recognition-in-videos-on-something.pt,Does VideoMAE use the dataset of Something-Something V2 in action recognition?,Yes
+action-recognition-in-videos-on-something.pt,Does MAR use the dataset of Something-Something V2 in action recognition?,Yes
+action-recognition-in-videos-on-something.pt,Does Masked Video Distillation use the dataset of Something-Something V2 in action recognition?,Yes
+action-recognition-in-videos-on-something.pt,Does ViC-MAE use the dataset of Something-Something V2 in action recognition?,Yes
+action-recognition-in-videos-on-something.pt,Does InternVideo use the dataset of Something-Something V2 in action recognition?,Yes
+action-recognition-in-videos-on-something.pt,Does Hiera use the dataset of Something-Something V2 in action recognition?,Yes
+action-recognition-in-videos-on-something.pt,Does InternVideo2 use the dataset of Something-Something V2 in action recognition?,Yes
+action-recognition-in-videos-on-something.pt,Does MViTv2 use the dataset of Something-Something V2 in action recognition?,Yes
+action-recognition-in-videos-on-ucf101.pt,Does OmniVec use the dataset of UCF101 in action recognition?,Yes
+action-recognition-in-videos-on-ucf101.pt,Does D3D use the dataset of UCF101 in action recognition?,Yes
+action-recognition-in-videos-on-ucf101.pt,Does Large Scale Holistic Video Understanding use the dataset of UCF101 in action recognition?,Yes
+action-recognition-in-videos-on-ucf101.pt,Does Busy-Quiet Video Disentangling for Video Classification use the dataset of UCF101 in action recognition?,Yes
+action-recognition-in-videos-on-ucf101.pt,Does Omni-sourced Webly-supervised Learning for Video Recognition use the dataset of UCF101 in action recognition?,Yes
+action-recognition-on-ava-v2-2.pt,Does MeMViT use the dataset of AVA v2.2 in action recognition?,Yes
+action-recognition-on-ava-v2-2.pt,Does Masked Feature Prediction for Self-Supervised Visual Pre-Training use the dataset of AVA v2.2 in action recognition?,Yes
+action-recognition-on-ava-v2-2.pt,Does On the Benefits of 3D Pose and Tracking for Human Action Recognition use the dataset of AVA v2.2 in action recognition?,Yes
+action-recognition-on-ava-v2-2.pt,Does VideoMAE use the dataset of AVA v2.2 in action recognition?,Yes
+action-recognition-on-ava-v2-2.pt,Does Masked Video Distillation use the dataset of AVA v2.2 in action recognition?,Yes
+action-recognition-on-ava-v2-2.pt,Does InternVideo use the dataset of AVA v2.2 in action recognition?,Yes
+action-recognition-on-ava-v2-2.pt,Does Hiera use the dataset of AVA v2.2 in action recognition?,Yes
+action-recognition-on-ava-v2-2.pt,Does Unmasked Teacher use the dataset of AVA v2.2 in action recognition?,Yes
+action-recognition-on-ava-v2-2.pt,Does End-to-End Spatio-Temporal Action Localisation with Video Transformers use the dataset of AVA v2.2 in action recognition?,Yes
+action-recognition-on-ava-v2-2.pt,Does MViTv2 use the dataset of AVA v2.2 in action recognition?,Yes
+anomaly-detection-on-mvtec-ad.pt,Does DiffusionAD use the dataset of MVTec AD in anomaly detection?,Yes
+anomaly-detection-on-mvtec-ad.pt,Does Industrial Anomaly Detection and Localization Using Weakly-Supervised Residual Transformers use the dataset of MVTec AD in anomaly detection?,Yes
+anomaly-detection-on-mvtec-ad.pt,Does Target before Shooting use the dataset of MVTec AD in anomaly detection?,Yes
+anomaly-detection-on-mvtec-ad.pt,Does Anomaly Detection with Conditioned Denoising Diffusion Models use the dataset of MVTec AD in anomaly detection?,Yes
+anomaly-detection-on-mvtec-ad.pt,Does Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization use the dataset of MVTec AD in anomaly detection?,Yes
+anomaly-detection-on-mvtec-ad.pt,Does PNI  use the dataset of MVTec AD in anomaly detection?,Yes
+anomaly-detection-on-mvtec-ad.pt,Does ReConPatch  use the dataset of MVTec AD in anomaly detection?,Yes
+anomaly-detection-on-mvtec-ad.pt,Does SimpleNet use the dataset of MVTec AD in anomaly detection?,Yes
+anomaly-detection-on-mvtec-ad.pt,Does Towards Total Recall in Industrial Anomaly Detection use the dataset of MVTec AD in anomaly detection?,Yes
+anomaly-detection-on-mvtec-ad.pt,Does MSFlow use the dataset of MVTec AD in anomaly detection?,Yes
+anomaly-detection-on-one-class-cifar-10.pt,Does Deep One-Class Classification via Interpolated Gaussian Descriptor use the dataset of One-class CIFAR-10 in anomaly detection?,Yes
+anomaly-detection-on-one-class-cifar-10.pt,Does Constrained Adaptive Projection with Pretrained Features for Anomaly Detection use the dataset of One-class CIFAR-10 in anomaly detection?,Yes
+anomaly-detection-on-one-class-cifar-10.pt,Does Deep Unsupervised Image Anomaly Detection use the dataset of One-class CIFAR-10 in anomaly detection?,Yes
+anomaly-detection-on-one-class-cifar-10.pt,Does Anomaly Detection Requires Better Representations use the dataset of One-class CIFAR-10 in anomaly detection?,Yes
+anomaly-detection-on-one-class-cifar-10.pt,Does Transformaly -- Two (Feature Spaces) Are Better Than One use the dataset of One-class CIFAR-10 in anomaly detection?,Yes
+anomaly-detection-on-one-class-cifar-10.pt,Does CSI use the dataset of One-class CIFAR-10 in anomaly detection?,Yes
+anomaly-detection-on-one-class-cifar-10.pt,Does Fake It Till You Make It use the dataset of One-class CIFAR-10 in anomaly detection?,Yes
+anomaly-detection-on-one-class-cifar-10.pt,Does Classification-Based Anomaly Detection for General Data use the dataset of One-class CIFAR-10 in anomaly detection?,Yes
+anomaly-detection-on-one-class-cifar-10.pt,Does SSD use the dataset of One-class CIFAR-10 in anomaly detection?,Yes
+anomaly-detection-on-one-class-cifar-10.pt,Does Unsupervised Two-Stage Anomaly Detection use the dataset of One-class CIFAR-10 in anomaly detection?,Yes
+anomaly-detection-on-one-class-cifar-10.pt,Does PANDA use the dataset of One-class CIFAR-10 in anomaly detection?,Yes
+anomaly-detection-on-one-class-cifar-10.pt,Does Learning and Evaluating Representations for Deep One-class Classification use the dataset of One-class CIFAR-10 in anomaly detection?,Yes
+anomaly-detection-on-one-class-cifar-10.pt,Does Exposing Outlier Exposure use the dataset of One-class CIFAR-10 in anomaly detection?,Yes
+anomaly-detection-on-one-class-cifar-10.pt,Does Deep Nearest Neighbor Anomaly Detection use the dataset of One-class CIFAR-10 in anomaly detection?,Yes
+domain-adaptation-on-office-home.pt,Does Combining inherent knowledge of vision-language models with unsupervised domain adaptation through self-knowledge distillation use the dataset of Office-Home in domain adaptation?,Yes
+domain-adaptation-on-office-home.pt,Does On Evolving Attention Towards Domain Adaptation use the dataset of Office-Home in domain adaptation?,Yes
+domain-adaptation-on-office-home.pt,Does SENTRY use the dataset of Office-Home in domain adaptation?,Yes
+domain-adaptation-on-office-home.pt,Does Gradual Source Domain Expansion for Unsupervised Domain Adaptation use the dataset of Office-Home in domain adaptation?,Yes
+domain-adaptation-on-office-home.pt,Does Free Lunch for Domain Adversarial Training use the dataset of Office-Home in domain adaptation?,Yes
+domain-adaptation-on-office-home.pt,Does Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation use the dataset of Office-Home in domain adaptation?,Yes
+domain-adaptation-on-office-home.pt,Does Patch-Mix Transformer for Unsupervised Domain Adaptation use the dataset of Office-Home in domain adaptation?,Yes
+domain-adaptation-on-office-home.pt,Does Attending to Discriminative Certainty for Domain Adaptation use the dataset of Office-Home in domain adaptation?,Yes
+domain-adaptation-on-office-home.pt,Does Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation use the dataset of Office-Home in domain adaptation?,Yes
+domain-adaptation-on-office-home.pt,Does FixBi use the dataset of Office-Home in domain adaptation?,Yes
+domain-adaptation-on-office-home.pt,Does Reusing the Task-specific Classifier as a Discriminator use the dataset of Office-Home in domain adaptation?,Yes
+domain-adaptation-on-office-home.pt,Does A Closer Look at Smoothness in Domain Adversarial Training use the dataset of Office-Home in domain adaptation?,Yes
+domain-adaptation-on-office-home.pt,Does Contrastive Vicinal Space for Unsupervised Domain Adaptation use the dataset of Office-Home in domain adaptation?,Yes
+domain-adaptation-on-office-home.pt,Does Probabilistic Contrastive Learning for Domain Adaptation use the dataset of Office-Home in domain adaptation?,Yes
+few-shot-image-classification-on-cub-200-5-1.pt,Does Graph-based Interpolation of Feature Vectors for Accurate Few-Shot Classification use the dataset of CUB 200 5-way 1-shot in few-shot image classification?,Yes
+few-shot-image-classification-on-cub-200-5-1.pt,Does Leveraging the Feature Distribution in Transfer-based Few-Shot Learning use the dataset of CUB 200 5-way 1-shot in few-shot image classification?,Yes
+few-shot-image-classification-on-cub-200-5-1.pt,Does Transductive Information Maximization For Few-Shot Learning use the dataset of CUB 200 5-way 1-shot in few-shot image classification?,Yes
+few-shot-image-classification-on-cub-200-5-1.pt,Does Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classification use the dataset of CUB 200 5-way 1-shot in few-shot image classification?,Yes
+few-shot-image-classification-on-cub-200-5-1.pt,Does Context-Aware Meta-Learning use the dataset of CUB 200 5-way 1-shot in few-shot image classification?,Yes
+few-shot-image-classification-on-cub-200-5-1.pt,Does Task Discrepancy Maximization for Fine-grained Few-Shot Classification use the dataset of CUB 200 5-way 1-shot in few-shot image classification?,Yes
+few-shot-image-classification-on-cub-200-5-1.pt,Does EASY use the dataset of CUB 200 5-way 1-shot in few-shot image classification?,Yes
+few-shot-image-classification-on-cub-200-5-1.pt,Does Instance Credibility Inference for Few-Shot Learning use the dataset of CUB 200 5-way 1-shot in few-shot image classification?,Yes
+few-shot-image-classification-on-cub-200-5-1.pt,Does Transfer learning based few-shot classification using optimal transport mapping from preprocessed latent space of backbone neural network use the dataset of CUB 200 5-way 1-shot in few-shot image classification?,Yes
+few-shot-image-classification-on-cub-200-5-1.pt,Does ESPT use the dataset of CUB 200 5-way 1-shot in few-shot image classification?,Yes
+few-shot-image-classification-on-cub-200-5-1.pt,Does Squeezing Backbone Feature Distributions to the Max for Efficient Few-Shot Learning use the dataset of CUB 200 5-way 1-shot in few-shot image classification?,Yes
+few-shot-image-classification-on-mini-2.pt,Does Leveraging the Feature Distribution in Transfer-based Few-Shot Learning use the dataset of Mini-Imagenet 5-way (1-shot) in few-shot image classification?,Yes
+few-shot-image-classification-on-mini-2.pt,Does Embedding Propagation use the dataset of Mini-Imagenet 5-way (1-shot) in few-shot image classification?,Yes
+few-shot-image-classification-on-mini-2.pt,Does Context-Aware Meta-Learning use the dataset of Mini-Imagenet 5-way (1-shot) in few-shot image classification?,Yes
+few-shot-image-classification-on-mini-2.pt,Does EASY use the dataset of Mini-Imagenet 5-way (1-shot) in few-shot image classification?,Yes
+few-shot-image-classification-on-mini-2.pt,Does Simple Semantic-Aided Few-Shot Learning use the dataset of Mini-Imagenet 5-way (1-shot) in few-shot image classification?,Yes
+few-shot-image-classification-on-mini-2.pt,Does Meta-Learned Confidence for Few-shot Learning use the dataset of Mini-Imagenet 5-way (1-shot) in few-shot image classification?,Yes
+few-shot-image-classification-on-mini-2.pt,Does Transductive Decoupled Variational Inference for Few-Shot Classification use the dataset of Mini-Imagenet 5-way (1-shot) in few-shot image classification?,Yes
+few-shot-image-classification-on-mini-2.pt,Does Pushing the Limits of Simple Pipelines for Few-Shot Learning use the dataset of Mini-Imagenet 5-way (1-shot) in few-shot image classification?,Yes
+few-shot-image-classification-on-mini-2.pt,Does Enhancing Few-Shot Image Classification with Unlabelled Examples use the dataset of Mini-Imagenet 5-way (1-shot) in few-shot image classification?,Yes
+few-shot-image-classification-on-mini-2.pt,Does The Self-Optimal-Transport Feature Transform use the dataset of Mini-Imagenet 5-way (1-shot) in few-shot image classification?,Yes
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Towards Discriminative and Transferable One-Stage Few-Shot Object Detectors use the dataset of MS-COCO (10-shot) in few-shot object detection?,Yes
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Re-Scoring Using Image-Language Similarity for Few-Shot Object Detection use the dataset of MS-COCO (10-shot) in few-shot object detection?,Yes
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild use the dataset of MS-COCO (10-shot) in few-shot object detection?,Yes
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Few-Shot Object Detection by Attending to Per-Sample-Prototype use the dataset of MS-COCO (10-shot) in few-shot object detection?,Yes
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Integrally Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection use the dataset of MS-COCO (10-shot) in few-shot object detection?,Yes
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Dual-Awareness Attention for Few-Shot Object Detection use the dataset of MS-COCO (10-shot) in few-shot object detection?,Yes
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Meta-DETR use the dataset of MS-COCO (10-shot) in few-shot object detection?,Yes
+fine-grained-image-classification-on-stanford.pt,Does Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision use the dataset of Stanford Cars in fine-grained image classification?,Yes
+fine-grained-image-classification-on-stanford.pt,Does Dual Cross-Attention Learning for Fine-Grained Visual Categorization and Object Re-Identification use the dataset of Stanford Cars in fine-grained image classification?,Yes
+fine-grained-image-classification-on-stanford.pt,Does Part-guided Relational Transformers for Fine-grained Visual Recognition use the dataset of Stanford Cars in fine-grained image classification?,Yes
+fine-grained-image-classification-on-stanford.pt,Does Learning Attentive Pairwise Interaction for Fine-Grained Classification use the dataset of Stanford Cars in fine-grained image classification?,Yes
+fine-grained-image-classification-on-stanford.pt,Does Fine-Grained Visual Classification via Progressive Multi-Granularity Training of Jigsaw Patches use the dataset of Stanford Cars in fine-grained image classification?,Yes
+fine-grained-image-classification-on-stanford.pt,Does Context-Semantic Quality Awareness Network for Fine-Grained Visual Categorization use the dataset of Stanford Cars in fine-grained image classification?,Yes
+fine-grained-image-classification-on-stanford.pt,Does Non-binary deep transfer learning for image classification use the dataset of Stanford Cars in fine-grained image classification?,Yes
+fine-grained-image-classification-on-stanford.pt,Does SR-GNN use the dataset of Stanford Cars in fine-grained image classification?,Yes
+fine-grained-image-classification-on-stanford.pt,Does Multi-branch and Multi-scale Attention Learning for Fine-Grained Visual Categorization use the dataset of Stanford Cars in fine-grained image classification?,Yes
+fine-grained-image-classification-on-stanford.pt,Does Re-rank Coarse Classification with Local Region Enhanced Features for Fine-Grained Image Recognition use the dataset of Stanford Cars in fine-grained image classification?,Yes
+fine-grained-image-classification-on-stanford.pt,Does ML-Decoder use the dataset of Stanford Cars in fine-grained image classification?,Yes
+fine-grained-image-classification-on-stanford.pt,"Does Your ""Flamingo"" is My ""Bird"" use the dataset of Stanford Cars in fine-grained image classification?",Yes
+fine-grained-image-classification-on-stanford.pt,Does Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification use the dataset of Stanford Cars in fine-grained image classification?,Yes
+fine-grained-image-classification-on-stanford.pt,Does Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation use the dataset of Stanford Cars in fine-grained image classification?,Yes
+fine-grained-image-classification-on-stanford.pt,Does Context-aware Attentional Pooling (CAP) for Fine-grained Visual Classification use the dataset of Stanford Cars in fine-grained image classification?,Yes
+fine-grained-image-classification-on-stanford.pt,Does Fine-Grained Visual Classification with Efficient End-to-end Localization use the dataset of Stanford Cars in fine-grained image classification?,Yes
+human-object-interaction-detection-on-hico.pt,Does HOICLIP use the dataset of HICO-DET in human-object interaction detection?,Yes
+human-object-interaction-detection-on-hico.pt,Does Exploring Predicate Visual Context in Detecting Human-Object Interactions use the dataset of HICO-DET in human-object interaction detection?,Yes
+human-object-interaction-detection-on-hico.pt,Does Category Query Learning for Human-Object Interaction Classification use the dataset of HICO-DET in human-object interaction detection?,Yes
+human-object-interaction-detection-on-hico.pt,Does FGAHOI use the dataset of HICO-DET in human-object interaction detection?,Yes
+human-object-interaction-detection-on-hico.pt,Does The Overlooked Classifier in Human-Object Interaction Recognition use the dataset of HICO-DET in human-object interaction detection?,Yes
+human-object-interaction-detection-on-hico.pt,Does Boosting Human-Object Interaction Detection with Text-to-Image Diffusion Model use the dataset of HICO-DET in human-object interaction detection?,Yes
+human-object-interaction-detection-on-hico.pt,Does RLIPv2 use the dataset of HICO-DET in human-object interaction detection?,Yes
+human-object-interaction-detection-on-hico.pt,Does ViPLO use the dataset of HICO-DET in human-object interaction detection?,Yes
+human-object-interaction-detection-on-hico.pt,Does RLIP use the dataset of HICO-DET in human-object interaction detection?,Yes
+human-object-interaction-detection-on-hico.pt,Does QAHOI use the dataset of HICO-DET in human-object interaction detection?,Yes
+human-object-interaction-detection-on-hico.pt,Does Relational Context Learning for Human-Object Interaction Detection use the dataset of HICO-DET in human-object interaction detection?,Yes
+human-object-interaction-detection-on-hico.pt,Does Focusing on what to decode and what to train use the dataset of HICO-DET in human-object interaction detection?,Yes
+human-object-interaction-detection-on-hico.pt,Does Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer use the dataset of HICO-DET in human-object interaction detection?,Yes
+image-classification-on-imagenet-real.pt,Does ViTAEv2 use the dataset of ImageNet ReaL in image classification?,Yes
+image-classification-on-imagenet-real.pt,Does Big Transfer (BiT) use the dataset of ImageNet ReaL in image classification?,Yes
+image-classification-on-imagenet-real.pt,Does Model soups use the dataset of ImageNet ReaL in image classification?,Yes
+image-classification-on-imagenet-real.pt,Does VOLO use the dataset of ImageNet ReaL in image classification?,Yes
+image-classification-on-imagenet-real.pt,Does Going deeper with Image Transformers use the dataset of ImageNet ReaL in image classification?,Yes
+image-classification-on-imagenet-real.pt,Does MLP-Mixer use the dataset of ImageNet ReaL in image classification?,Yes
+image-classification-on-imagenet-real.pt,Does TokenLearner use the dataset of ImageNet ReaL in image classification?,Yes
+image-classification-on-imagenet-real.pt,Does CvT use the dataset of ImageNet ReaL in image classification?,Yes
+image-classification-on-imagenet-real.pt,Does Meta Pseudo Labels use the dataset of ImageNet ReaL in image classification?,Yes
+image-classification-on-imagenet-real.pt,Does Self-training with Noisy Student improves ImageNet classification use the dataset of ImageNet ReaL in image classification?,Yes
+image-classification-on-objectnet.pt,Does Robust fine-tuning of zero-shot models use the dataset of ObjectNet in image classification?,Yes
+image-classification-on-objectnet.pt,Does Model soups use the dataset of ObjectNet in image classification?,Yes
+image-classification-on-objectnet.pt,Does EVA-CLIP use the dataset of ObjectNet in image classification?,Yes
+image-classification-on-objectnet.pt,Does LiT use the dataset of ObjectNet in image classification?,Yes
+image-classification-on-objectnet.pt,Does PaLI use the dataset of ObjectNet in image classification?,Yes
+image-classification-on-objectnet.pt,Does Learning Transferable Visual Models From Natural Language Supervision use the dataset of ObjectNet in image classification?,Yes
+image-classification-on-objectnet.pt,Does CoCa use the dataset of ObjectNet in image classification?,Yes
+image-classification-on-objectnet.pt,Does A Whac-A-Mole Dilemma use the dataset of ObjectNet in image classification?,Yes
+image-classification-on-svhn.pt,Does WaveMix use the dataset of SVHN in image classification?,Yes
+image-classification-on-svhn.pt,Does Regularizing Neural Networks via Adversarial Model Perturbation use the dataset of SVHN in image classification?,Yes
+image-classification-on-svhn.pt,Does Training Neural Networks with Local Error Signals use the dataset of SVHN in image classification?,Yes
+image-classification-on-svhn.pt,Does Rethinking Recurrent Neural Networks and Other Improvements for Image Classification use the dataset of SVHN in image classification?,Yes
+medical-image-segmentation-on-cvc-clinicdb.pt,Does MSRF-Net use the dataset of CVC-ClinicDB in medical image segmentation?,Yes
+medical-image-segmentation-on-cvc-clinicdb.pt,Does FANet use the dataset of CVC-ClinicDB in medical image segmentation?,Yes
+medical-image-segmentation-on-cvc-clinicdb.pt,Does RaBiT use the dataset of CVC-ClinicDB in medical image segmentation?,Yes
+medical-image-segmentation-on-cvc-clinicdb.pt,Does UGCANet use the dataset of CVC-ClinicDB in medical image segmentation?,Yes
+medical-image-segmentation-on-cvc-clinicdb.pt,Does Stepwise Feature Fusion use the dataset of CVC-ClinicDB in medical image segmentation?,Yes
+medical-image-segmentation-on-cvc-clinicdb.pt,Does MEGANet use the dataset of CVC-ClinicDB in medical image segmentation?,Yes
+medical-image-segmentation-on-cvc-clinicdb.pt,Does ESFPNet use the dataset of CVC-ClinicDB in medical image segmentation?,Yes
+medical-image-segmentation-on-cvc-clinicdb.pt,Does ColonFormer use the dataset of CVC-ClinicDB in medical image segmentation?,Yes
+medical-image-segmentation-on-cvc-clinicdb.pt,Does EMCAD use the dataset of CVC-ClinicDB in medical image segmentation?,Yes
+medical-image-segmentation-on-cvc-clinicdb.pt,Does HarDNet-DFUS use the dataset of CVC-ClinicDB in medical image segmentation?,Yes
+medical-image-segmentation-on-cvc-clinicdb.pt,Does FCN-Transformer Feature Fusion for Polyp Segmentation use the dataset of CVC-ClinicDB in medical image segmentation?,Yes
+medical-image-segmentation-on-cvc-clinicdb.pt,Does G-CASCADE use the dataset of CVC-ClinicDB in medical image segmentation?,Yes
+object-detection-on-coco-minival.pt,Does General Object Foundation Model for Images and Videos at Scale use the dataset of COCO minival in object detection?,Yes
+object-detection-on-coco-minival.pt,Does A Strong and Reproducible Object Detector with Only Public Datasets use the dataset of COCO minival in object detection?,Yes
+object-detection-on-coco-minival.pt,Does Reversible Column Networks use the dataset of COCO minival in object detection?,Yes
+object-detection-on-coco-minival.pt,Does InternImage use the dataset of COCO minival in object detection?,Yes
+object-detection-on-coco-minival.pt,Does Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information use the dataset of COCO minival in object detection?,Yes
+object-detection-on-coco-minival.pt,Does Universal Instance Perception as Object Discovery and Retrieval use the dataset of COCO minival in object detection?,Yes
+object-detection-on-coco-minival.pt,Does EVA use the dataset of COCO minival in object detection?,Yes
+object-detection-on-coco-minival.pt,Does DETRs with Collaborative Hybrid Assignments Training use the dataset of COCO minival in object detection?,Yes
+object-detection-on-coco-minival.pt,Does Vision Transformer Adapter for Dense Predictions use the dataset of COCO minival in object detection?,Yes
+object-detection-on-coco-minival.pt,Does End-to-End Semi-Supervised Object Detection with Soft Teacher use the dataset of COCO minival in object detection?,Yes
+object-detection-on-coco-minival.pt,Does Florence use the dataset of COCO minival in object detection?,Yes
+object-detection-on-coco-minival.pt,Does Grounding DINO use the dataset of COCO minival in object detection?,Yes
+object-detection-on-coco-minival.pt,Does DINO use the dataset of COCO minival in object detection?,Yes
+object-detection-on-coco-o.pt,Does InternImage use the dataset of COCO-O in object detection?,Yes
+object-detection-on-coco-o.pt,Does NMS Strikes Back use the dataset of COCO-O in object detection?,Yes
+object-detection-on-coco-o.pt,Does Probabilistic two-stage detection use the dataset of COCO-O in object detection?,Yes
+object-detection-on-coco-o.pt,Does Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone use the dataset of COCO-O in object detection?,Yes
+object-detection-on-coco-o.pt,Does EVA use the dataset of COCO-O in object detection?,Yes
+object-detection-on-coco-o.pt,Does Vision Transformer Adapter for Dense Predictions use the dataset of COCO-O in object detection?,Yes
+object-detection-on-coco-o.pt,Does GRiT use the dataset of COCO-O in object detection?,Yes
+object-detection-on-coco-o.pt,Does Instances as Queries use the dataset of COCO-O in object detection?,Yes
+object-detection-on-coco-o.pt,Does A ConvNet for the 2020s use the dataset of COCO-O in object detection?,Yes
+object-detection-on-coco-o.pt,Does Robust and Accurate Object Detection via Adversarial Learning use the dataset of COCO-O in object detection?,Yes
+object-detection-on-coco-o.pt,Does DINO use the dataset of COCO-O in object detection?,Yes
+object-detection-on-coco-o.pt,Does YOLOX use the dataset of COCO-O in object detection?,Yes
+object-detection-on-coco-o.pt,Does MViTv2 use the dataset of COCO-O in object detection?,Yes
+object-detection-on-coco.pt,Does GLIPv2 use the dataset of COCO in object detection?,Yes
+object-detection-on-coco.pt,Does Group DETR v2 use the dataset of COCO in object detection?,Yes
+object-detection-on-coco.pt,Does A Strong and Reproducible Object Detector with Only Public Datasets use the dataset of COCO in object detection?,Yes
+object-detection-on-coco.pt,Does MoCaE use the dataset of COCO in object detection?,Yes
+object-detection-on-coco.pt,Does Reversible Column Networks use the dataset of COCO in object detection?,Yes
+object-detection-on-coco.pt,Does Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information use the dataset of COCO in object detection?,Yes
+object-detection-on-coco.pt,Does NMS Strikes Back use the dataset of COCO in object detection?,Yes
+object-detection-on-coco.pt,Does EVA use the dataset of COCO in object detection?,Yes
+object-detection-on-coco.pt,Does DETRs with Collaborative Hybrid Assignments Training use the dataset of COCO in object detection?,Yes
+object-detection-on-coco.pt,Does Florence use the dataset of COCO in object detection?,Yes
+object-detection-on-coco.pt,Does Grounding DINO use the dataset of COCO in object detection?,Yes
+object-detection-on-coco.pt,Does DINO use the dataset of COCO in object detection?,Yes
+object-detection-on-coco.pt,Does Image as a Foreign Language use the dataset of COCO in object detection?,Yes
+semantic-segmentation-on-ade20k.pt,Does Mask DINO use the dataset of ADE20K in semantic segmentation?,Yes
+semantic-segmentation-on-ade20k.pt,Does Dilated Neighborhood Attention Transformer use the dataset of ADE20K in semantic segmentation?,Yes
+semantic-segmentation-on-ade20k.pt,Does InternImage use the dataset of ADE20K in semantic segmentation?,Yes
+semantic-segmentation-on-ade20k.pt,Does SegViTv2 use the dataset of ADE20K in semantic segmentation?,Yes
+semantic-segmentation-on-ade20k.pt,Does Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information use the dataset of ADE20K in semantic segmentation?,Yes
+semantic-segmentation-on-ade20k.pt,Does DINOv2 use the dataset of ADE20K in semantic segmentation?,Yes
+semantic-segmentation-on-ade20k.pt,Does EVA use the dataset of ADE20K in semantic segmentation?,Yes
+semantic-segmentation-on-ade20k.pt,Does Vision Transformer Adapter for Dense Predictions use the dataset of ADE20K in semantic segmentation?,Yes
+semantic-segmentation-on-ade20k.pt,Does HorNet use the dataset of ADE20K in semantic segmentation?,Yes
+semantic-segmentation-on-ade20k.pt,Does ONE-PEACE use the dataset of ADE20K in semantic segmentation?,Yes
+semantic-segmentation-on-ade20k.pt,Does SeMask use the dataset of ADE20K in semantic segmentation?,Yes
+semantic-segmentation-on-nyu-depth-v2.pt,Does OmniVec use the dataset of NYU Depth v2 in semantic segmentation?,Yes
+semantic-segmentation-on-nyu-depth-v2.pt,Does DFormer use the dataset of NYU Depth v2 in semantic segmentation?,Yes
+semantic-segmentation-on-nyu-depth-v2.pt,Does CMX use the dataset of NYU Depth v2 in semantic segmentation?,Yes
+semantic-segmentation-on-nyu-depth-v2.pt,Does MultiMAE use the dataset of NYU Depth v2 in semantic segmentation?,Yes
+semantic-segmentation-on-nyu-depth-v2.pt,Does GeminiFusion use the dataset of NYU Depth v2 in semantic segmentation?,Yes
+semantic-segmentation-on-pascal-voc-2012.pt,Does Segmentation Transformer use the dataset of PASCAL VOC 2012 test in semantic segmentation?,Yes
+semantic-segmentation-on-pascal-voc-2012.pt,Does Squeeze-and-Attention Networks for Semantic Segmentation use the dataset of PASCAL VOC 2012 test in semantic segmentation?,Yes
+semantic-segmentation-on-pascal-voc-2012.pt,Does Beyond Self-attention use the dataset of PASCAL VOC 2012 test in semantic segmentation?,Yes
+semantic-segmentation-on-pascal-voc-2012.pt,Does Is Attention Better Than Matrix Decomposition? use the dataset of PASCAL VOC 2012 test in semantic segmentation?,Yes
+semantic-segmentation-on-pascal-voc-2012.pt,Does ShelfNet for Fast Semantic Segmentation use the dataset of PASCAL VOC 2012 test in semantic segmentation?,Yes
+semantic-segmentation-on-s3dis.pt,Does Meta Architecture for Point Cloud Analysis use the dataset of S3DIS test in semantic segmentation?,Yes
+semantic-segmentation-on-s3dis.pt,Does Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion use the dataset of S3DIS test in semantic segmentation?,Yes
+semantic-segmentation-on-s3dis.pt,Does Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation use the dataset of S3DIS test in semantic segmentation?,Yes
+semantic-segmentation-on-s3dis.pt,Does A Unified Query-based Paradigm for Point Cloud Understanding use the dataset of S3DIS test in semantic segmentation?,Yes
+semantic-segmentation-on-s3dis.pt,Does PointVector use the dataset of S3DIS test in semantic segmentation?,Yes
+semantic-segmentation-on-s3dis.pt,Does PointNeXt use the dataset of S3DIS test in semantic segmentation?,Yes
+semantic-segmentation-on-s3dis.pt,Does Point Transformer V3 use the dataset of S3DIS test in semantic segmentation?,Yes
+semantic-segmentation-on-s3dis.pt,Does Surface Representation for Point Clouds use the dataset of S3DIS test in semantic segmentation?,Yes
+semantic-segmentation-on-s3dis.pt,Does Point Transformer use the dataset of S3DIS test in semantic segmentation?,Yes
+semantic-segmentation-on-s3dis.pt,Does Window Normalization use the dataset of S3DIS test in semantic segmentation?,Yes
+semantic-segmentation-on-s3dis.pt,Does PonderV2 use the dataset of S3DIS test in semantic segmentation?,Yes
+semantic-segmentation-on-s3dis.pt,Does Contrastive Boundary Learning for Point Cloud Segmentation use the dataset of S3DIS test in semantic segmentation?,Yes
+semantic-segmentation-on-s3dis.pt,Does FG-Net use the dataset of S3DIS test in semantic segmentation?,Yes
+sentiment-analysis-on-imdb.pt,Does Unsupervised Data Augmentation for Consistency Training use the dataset of IMDb in sentiment analysis?,Yes
+sentiment-analysis-on-imdb.pt,Does How to Fine-Tune BERT for Text Classification? use the dataset of IMDb in sentiment analysis?,Yes
+sentiment-analysis-on-imdb.pt,Does Universal Language Model Fine-tuning for Text Classification use the dataset of IMDb in sentiment analysis?,Yes
+sentiment-analysis-on-imdb.pt,Does The Document Vectors Using Cosine Similarity Revisited use the dataset of IMDb in sentiment analysis?,Yes
+sentiment-analysis-on-imdb.pt,Does An Algorithm for Routing Vectors in Sequences use the dataset of IMDb in sentiment analysis?,Yes
+sentiment-analysis-on-imdb.pt,Does Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function use the dataset of IMDb in sentiment analysis?,Yes
+sentiment-analysis-on-imdb.pt,Does Graph Star Net for Generalized Multi-Task Learning use the dataset of IMDb in sentiment analysis?,Yes
+sentiment-analysis-on-imdb.pt,Does LlamBERT use the dataset of IMDb in sentiment analysis?,Yes
+sentiment-analysis-on-imdb.pt,Does XLNet use the dataset of IMDb in sentiment analysis?,Yes
+sentiment-analysis-on-imdb.pt,Does Entailment as Few-Shot Learner use the dataset of IMDb in sentiment analysis?,Yes
+sentiment-analysis-on-imdb.pt,Does Contextual Explanation Networks use the dataset of IMDb in sentiment analysis?,Yes
+temporal-action-localization-on-thumos14.pt,Does InternVideo2 use the dataset of THUMOS'14 in temporal action localization?,Yes
+temporal-action-localization-on-thumos14.pt,Does Action Sensitivity Learning for Temporal Action Localization use the dataset of THUMOS'14 in temporal action localization?,Yes
+temporal-action-localization-on-thumos14.pt,Does Enhancing Temporal Action Localization use the dataset of THUMOS'14 in temporal action localization?,Yes
+temporal-action-localization-on-thumos14.pt,Does Video Mamba Suite use the dataset of THUMOS'14 in temporal action localization?,Yes
+temporal-action-localization-on-thumos14.pt,Does Temporal Action Localization with Enhanced Instant Discriminability use the dataset of THUMOS'14 in temporal action localization?,Yes
+temporal-action-localization-on-thumos14.pt,Does ReAct use the dataset of THUMOS'14 in temporal action localization?,Yes
+temporal-action-localization-on-thumos14.pt,Does TemporalMaxer use the dataset of THUMOS'14 in temporal action localization?,Yes
+temporal-action-localization-on-thumos14.pt,Does End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames use the dataset of THUMOS'14 in temporal action localization?,Yes
+temporal-action-localization-on-thumos14.pt,Does Dual DETRs for Multi-Label Temporal Action Detection use the dataset of THUMOS'14 in temporal action localization?,Yes
+temporal-action-localization-on-thumos14.pt,Does InternVideo use the dataset of THUMOS'14 in temporal action localization?,Yes
+text-to-image-generation-on-coco.pt,Does Scaling Autoregressive Multi-Modal Models use the dataset of MS COCO in text-to-image generation?,Yes
+text-to-image-generation-on-coco.pt,Does GLIGEN use the dataset of MS COCO in text-to-image generation?,Yes
+text-to-image-generation-on-coco.pt,Does ERNIE-ViLG 2.0 use the dataset of MS COCO in text-to-image generation?,Yes
+text-to-image-generation-on-coco.pt,Does All are Worth Words use the dataset of MS COCO in text-to-image generation?,Yes
+text-to-image-generation-on-coco.pt,Does Swinv2-Imagen use the dataset of MS COCO in text-to-image generation?,Yes
+text-to-image-generation-on-coco.pt,Does Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding use the dataset of MS COCO in text-to-image generation?,Yes
+text-to-image-generation-on-coco.pt,Does RAPHAEL use the dataset of MS COCO in text-to-image generation?,Yes
+text-to-image-generation-on-coco.pt,Does Improving Diffusion-Based Image Synthesis with Context Prediction use the dataset of MS COCO in text-to-image generation?,Yes
+text-to-image-generation-on-coco.pt,Does Truncated Diffusion Probabilistic Models and Diffusion-based Adversarial Auto-Encoders use the dataset of MS COCO in text-to-image generation?,Yes
+text-to-image-generation-on-coco.pt,Does Scaling Autoregressive Models for Content-Rich Text-to-Image Generation use the dataset of MS COCO in text-to-image generation?,Yes
+text-to-image-generation-on-coco.pt,Does Re-Imagen use the dataset of MS COCO in text-to-image generation?,Yes
+text-to-image-generation-on-coco.pt,Does Make-A-Scene use the dataset of MS COCO in text-to-image generation?,Yes
+text-to-image-generation-on-coco.pt,Does Scaling up GANs for Text-to-Image Synthesis use the dataset of MS COCO in text-to-image generation?,Yes
+unsupervised-domain-adaptation-on-duke-to.pt,Does On Evolving Attention Towards Domain Adaptation use the dataset of Duke to Market in unsupervised domain adaptation?,Yes
+unsupervised-domain-adaptation-on-duke-to.pt,Does Asymmetric Co-Teaching for Unsupervised Cross Domain Person Re-Identification use the dataset of Duke to Market in unsupervised domain adaptation?,Yes
+unsupervised-domain-adaptation-on-duke-to.pt,Does Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID use the dataset of Duke to Market in unsupervised domain adaptation?,Yes
+unsupervised-domain-adaptation-on-duke-to.pt,Does Style Normalization and Restitution for Generalizable Person Re-identification use the dataset of Duke to Market in unsupervised domain adaptation?,Yes
+unsupervised-domain-adaptation-on-duke-to.pt,Does Unsupervised Person Re-identification via Multi-label Classification use the dataset of Duke to Market in unsupervised domain adaptation?,Yes
+unsupervised-domain-adaptation-on-duke-to.pt,Does Unsupervised and self-adaptative techniques for cross-domain person re-identification use the dataset of Duke to Market in unsupervised domain adaptation?,Yes
+unsupervised-domain-adaptation-on-duke-to.pt,Does Mutual Mean-Teaching use the dataset of Duke to Market in unsupervised domain adaptation?,Yes
+unsupervised-domain-adaptation-on-duke-to.pt,Does Cross-Dataset Person Re-Identification via Unsupervised Pose Disentanglement and Adaptation use the dataset of Duke to Market in unsupervised domain adaptation?,Yes
+unsupervised-domain-adaptation-on-duke-to.pt,Does Learning Feature Fusion for Unsupervised Domain Adaptive Person Re-identification use the dataset of Duke to Market in unsupervised domain adaptation?,Yes
+unsupervised-domain-adaptation-on-duke-to.pt,Does Learning to Adapt Invariance in Memory for Person Re-identification use the dataset of Duke to Market in unsupervised domain adaptation?,Yes
+unsupervised-domain-adaptation-on-duke-to.pt,Does Structured Domain Adaptation with Online Relation Regularization for Unsupervised Person Re-ID use the dataset of Duke to Market in unsupervised domain adaptation?,Yes
+visual-question-answering-on-msrvtt-qa-1.pt,Does HiTeA use the dataset of MSRVTT-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msrvtt-qa-1.pt,Does VLAB use the dataset of MSRVTT-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msrvtt-qa-1.pt,Does mPLUG-2 use the dataset of MSRVTT-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msrvtt-qa-1.pt,Does X$^2$-VLM use the dataset of MSRVTT-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msrvtt-qa-1.pt,Does Clover use the dataset of MSRVTT-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msrvtt-qa-1.pt,Does Expectation-Maximization Contrastive Learning for Compact Video-and-Language Representations use the dataset of MSRVTT-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msrvtt-qa-1.pt,Does Video-Text as Game Players use the dataset of MSRVTT-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msrvtt-qa-1.pt,Does MaMMUT use the dataset of MSRVTT-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msrvtt-qa-1.pt,Does All in One use the dataset of MSRVTT-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msrvtt-qa-1.pt,Does Self-Adaptive Sampling for Efficient Video Question-Answering on Image--Text Models use the dataset of MSRVTT-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msrvtt-qa-1.pt,Does Unmasked Teacher use the dataset of MSRVTT-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msrvtt-qa-1.pt,Does OmniVL use the dataset of MSRVTT-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does VALOR use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does HiTeA use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does VLAB use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does COSA use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does mPLUG-2 use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does X$^2$-VLM use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does Clover use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does MaMMUT use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does MA-LMM use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does VAST use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does MELTR use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does InternVideo use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does GIT use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does Unmasked Teacher use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-msvd-qa-1.pt,Does Open-vocabulary Video Question Answering use the dataset of MSVD-QA in visual question answering (VQA)?,Yes
+visual-question-answering-on-ok-vqa.pt,Does A Simple Baseline for Knowledge-Based Visual Question Answering use the dataset of OK-VQA in visual question answering (VQA)?,Yes
+visual-question-answering-on-ok-vqa.pt,Does An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA use the dataset of OK-VQA in visual question answering (VQA)?,Yes
+visual-question-answering-on-ok-vqa.pt,Does REVEAL use the dataset of OK-VQA in visual question answering (VQA)?,Yes
+visual-question-answering-on-ok-vqa.pt,Does Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering use the dataset of OK-VQA in visual question answering (VQA)?,Yes
+visual-question-answering-on-ok-vqa.pt,Does Retrieval Augmented Visual Question Answering with Outside Knowledge use the dataset of OK-VQA in visual question answering (VQA)?,Yes
+visual-question-answering-on-ok-vqa.pt,Does Visual Program Distillation use the dataset of OK-VQA in visual question answering (VQA)?,Yes
+visual-question-answering-on-ok-vqa.pt,Does PaLI use the dataset of OK-VQA in visual question answering (VQA)?,Yes
+visual-question-answering-on-ok-vqa.pt,Does Prophet use the dataset of OK-VQA in visual question answering (VQA)?,Yes
+visual-question-answering-on-ok-vqa.pt,Does Lyrics use the dataset of OK-VQA in visual question answering (VQA)?,Yes
+visual-question-answering-on-ok-vqa.pt,Does REVIVE use the dataset of OK-VQA in visual question answering (VQA)?,Yes
+visual-question-answering-on-ok-vqa.pt,Does PromptCap use the dataset of OK-VQA in visual question answering (VQA)?,Yes
+visual-question-answering-on-ok-vqa.pt,Does PaLI-X use the dataset of OK-VQA in visual question answering (VQA)?,Yes
+visual-question-answering-on-ok-vqa.pt,Does Differentiable Outlier Detection Enable Robust Deep Multimodal Analysis use the dataset of OK-VQA in visual question answering (VQA)?,Yes
+visual-question-answering-on-vqa-v2-test-dev.pt,Does Achieving Human Parity on Visual Question Answering use the dataset of VQA v2 test-dev in visual question answering (VQA)?,Yes
+visual-question-answering-on-vqa-v2-test-dev.pt,Does mPLUG-2 use the dataset of VQA v2 test-dev in visual question answering (VQA)?,Yes
+visual-question-answering-on-vqa-v2-test-dev.pt,Does X$^2$-VLM use the dataset of VQA v2 test-dev in visual question answering (VQA)?,Yes
+visual-question-answering-on-vqa-v2-test-dev.pt,Does VLMo use the dataset of VQA v2 test-dev in visual question answering (VQA)?,Yes
+visual-question-answering-on-vqa-v2-test-dev.pt,Does mPLUG use the dataset of VQA v2 test-dev in visual question answering (VQA)?,Yes
+visual-question-answering-on-vqa-v2-test-dev.pt,Does Lyrics use the dataset of VQA v2 test-dev in visual question answering (VQA)?,Yes
+visual-question-answering-on-vqa-v2-test-dev.pt,Does ONE-PEACE use the dataset of VQA v2 test-dev in visual question answering (VQA)?,Yes
+visual-question-answering-on-vqa-v2-test-dev.pt,Does Image as a Foreign Language use the dataset of VQA v2 test-dev in visual question answering (VQA)?,Yes
+weakly-supervised-object-detection-on-pascal-1.pt,Does Object Instance Mining for Weakly Supervised Object Detection use the dataset of PASCAL VOC 2007 in weakly supervised object detection?,Yes
+weakly-supervised-object-detection-on-pascal-1.pt,Does Towards Precise End-to-end Weakly Supervised Object Detection Network use the dataset of PASCAL VOC 2007 in weakly supervised object detection?,Yes
+weakly-supervised-object-detection-on-pascal-1.pt,Does WSOD with PSNet and Box Regression use the dataset of PASCAL VOC 2007 in weakly supervised object detection?,Yes
+weakly-supervised-object-detection-on-pascal-1.pt,"Does Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection use the dataset of PASCAL VOC 2007 in weakly supervised object detection?",Yes
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Beyond First Impressions aim to address medical image segmentation?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does GPSFormer aim to address fine-grained image classification?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Towards Compact 3D Representations via Point Feature Enhancement Masked Autoencoders aim to address image classification?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does KPConvX aim to address sentiment analysis?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Towards Compact 3D Representations via Point Feature Enhancement Masked Autoencoders aim to address action recognition?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does ULIP aim to address domain adaptation?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Towards Compact 3D Representations via Point Feature Enhancement Masked Autoencoders aim to address few-shot image classification?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Contrast with Reconstruct aim to address unsupervised domain adaptation?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Beyond First Impressions aim to address few-shot image classification?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Mamba3D aim to address fine-grained image classification?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does KPConvX aim to address domain adaptation?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Towards Compact 3D Representations via Point Feature Enhancement Masked Autoencoders aim to address domain adaptation?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Decoupled Local Aggregation for Point Cloud Learning aim to address anomaly detection?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Towards Compact 3D Representations via Point Feature Enhancement Masked Autoencoders aim to address visual question answering?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Beyond First Impressions aim to address fine-grained image classification?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does KPConvX aim to address object detection?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does GPSFormer aim to address unsupervised domain adaptation?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does ULIP aim to address object detection?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does GPSFormer aim to address visual question answering?,No
+3d-point-cloud-classification-on-scanobjectnn.pt,Does Mamba3D aim to address human-object interaction detection?,No
+action-recognition-in-videos-on-something-1.pt,Does Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition aim to address medical image segmentation?,No
+action-recognition-in-videos-on-something-1.pt,Does Busy-Quiet Video Disentangling for Video Classification aim to address fine-grained image classification?,No
+action-recognition-in-videos-on-something-1.pt,Does Motion-driven Visual Tempo Learning for Video-based Action Recognition aim to address image classification?,No
+action-recognition-in-videos-on-something-1.pt,Does Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition aim to address semantic segmentation?,No
+action-recognition-in-videos-on-something-1.pt,Does EAN aim to address weakly supervised object detection?,No
+action-recognition-in-videos-on-something-1.pt,Does Motion-driven Visual Tempo Learning for Video-based Action Recognition aim to address text-to-image generation?,No
+action-recognition-in-videos-on-something-1.pt,Does Motion-driven Visual Tempo Learning for Video-based Action Recognition aim to address few-shot object detection?,No
+action-recognition-in-videos-on-something-1.pt,Does Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition aim to address image classification?,No
+action-recognition-in-videos-on-something-1.pt,Does InternVideo aim to address object detection?,No
+action-recognition-in-videos-on-something-1.pt,Does What Can Simple Arithmetic Operations Do for Temporal Modeling? aim to address unsupervised domain adaptation?,No
+action-recognition-in-videos-on-something-1.pt,Does EAN aim to address human-object interaction detection?,No
+action-recognition-in-videos-on-something-1.pt,Does Learning Correlation Structures for Vision Transformers aim to address temporal action localization?,No
+action-recognition-in-videos-on-something-1.pt,Does What Can Simple Arithmetic Operations Do for Temporal Modeling? aim to address medical image segmentation?,No
+action-recognition-in-videos-on-something-1.pt,Does Learning Correlation Structures for Vision Transformers aim to address 3D point cloud classification?,No
+action-recognition-in-videos-on-something-1.pt,Does Side4Video aim to address unsupervised domain adaptation?,No
+action-recognition-in-videos-on-something-1.pt,Does CT-Net aim to address domain adaptation?,No
+action-recognition-in-videos-on-something-1.pt,Does Motion-driven Visual Tempo Learning for Video-based Action Recognition aim to address domain adaptation?,No
+action-recognition-in-videos-on-something-1.pt,Does What Can Simple Arithmetic Operations Do for Temporal Modeling? aim to address weakly supervised object detection?,No
+action-recognition-in-videos-on-something-1.pt,Does Side4Video aim to address semantic segmentation?,No
+action-recognition-in-videos-on-something-1.pt,Does Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition aim to address human-object interaction detection?,No
+action-recognition-in-videos-on-something.pt,Does Masked Feature Prediction for Self-Supervised Visual Pre-Training aim to address human-object interaction detection?,No
+action-recognition-in-videos-on-something.pt,Does Side4Video aim to address fine-grained image classification?,No
+action-recognition-in-videos-on-something.pt,Does Side4Video aim to address weakly supervised object detection?,No
+action-recognition-in-videos-on-something.pt,Does VideoMAE aim to address human-object interaction detection?,No
+action-recognition-in-videos-on-something.pt,Does InternVideo2 aim to address 3D point cloud classification?,No
+action-recognition-in-videos-on-something.pt,Does MViTv2 aim to address medical image segmentation?,No
+action-recognition-in-videos-on-something.pt,Does Masked Feature Prediction for Self-Supervised Visual Pre-Training aim to address few-shot object detection?,No
+action-recognition-in-videos-on-something.pt,Does Side4Video aim to address image classification?,No
+action-recognition-in-videos-on-something.pt,Does Masked Feature Prediction for Self-Supervised Visual Pre-Training aim to address fine-grained image classification?,No
+action-recognition-in-videos-on-something.pt,Does Hiera aim to address unsupervised domain adaptation?,No
+action-recognition-in-videos-on-something.pt,Does Side4Video aim to address human-object interaction detection?,No
+action-recognition-in-videos-on-something.pt,Does ViC-MAE aim to address semantic segmentation?,No
+action-recognition-in-videos-on-something.pt,Does Hiera aim to address domain adaptation?,No
+action-recognition-in-videos-on-something.pt,Does ViC-MAE aim to address few-shot object detection?,No
+action-recognition-in-videos-on-something.pt,Does InternVideo aim to address semantic segmentation?,No
+action-recognition-in-videos-on-something.pt,Does Masked Feature Prediction for Self-Supervised Visual Pre-Training aim to address temporal action localization?,No
+action-recognition-in-videos-on-something.pt,Does Hiera aim to address semantic segmentation?,No
+action-recognition-in-videos-on-something.pt,Does InternVideo2 aim to address unsupervised domain adaptation?,No
+action-recognition-in-videos-on-something.pt,Does InternVideo2 aim to address human-object interaction detection?,No
+action-recognition-in-videos-on-something.pt,Does InternVideo aim to address visual question answering?,No
+action-recognition-in-videos-on-something.pt,Does Masked Feature Prediction for Self-Supervised Visual Pre-Training aim to address object detection?,No
+action-recognition-in-videos-on-something.pt,Does VideoMAE aim to address semantic segmentation?,No
+action-recognition-in-videos-on-something.pt,Does MViTv2 aim to address sentiment analysis?,No
+action-recognition-in-videos-on-something.pt,Does InternVideo aim to address medical image segmentation?,No
+action-recognition-in-videos-on-something.pt,Does MViTv2 aim to address text-to-image generation?,No
+action-recognition-in-videos-on-something.pt,Does Side4Video aim to address domain adaptation?,No
+action-recognition-in-videos-on-something.pt,Does Side4Video aim to address unsupervised domain adaptation?,No
+action-recognition-in-videos-on-something.pt,Does Masked Feature Prediction for Self-Supervised Visual Pre-Training aim to address 3D point cloud classification?,No
+action-recognition-in-videos-on-something.pt,Does ViC-MAE aim to address fine-grained image classification?,No
+action-recognition-in-videos-on-something.pt,Does InternVideo2 aim to address fine-grained image classification?,No
+action-recognition-in-videos-on-something.pt,Does ViC-MAE aim to address few-shot image classification?,No
+action-recognition-in-videos-on-something.pt,Does ViC-MAE aim to address visual question answering?,No
+action-recognition-in-videos-on-something.pt,Does InternVideo aim to address sentiment analysis?,No
+action-recognition-in-videos-on-something.pt,Does MAR aim to address sentiment analysis?,No
+action-recognition-in-videos-on-something.pt,Does Masked Video Distillation aim to address semantic segmentation?,No
+action-recognition-in-videos-on-something.pt,Does VideoMAE aim to address human-object interaction detection?,No
+action-recognition-in-videos-on-something.pt,Does MViTv2 aim to address visual question answering?,No
+action-recognition-in-videos-on-something.pt,Does VideoMAE aim to address 3D point cloud classification?,No
+action-recognition-in-videos-on-something.pt,Does Hiera aim to address weakly supervised object detection?,No
+action-recognition-in-videos-on-something.pt,Does Masked Video Distillation aim to address few-shot object detection?,No
+action-recognition-in-videos-on-ucf101.pt,Does Large Scale Holistic Video Understanding aim to address weakly supervised object detection?,No
+action-recognition-in-videos-on-ucf101.pt,Does Busy-Quiet Video Disentangling for Video Classification aim to address text-to-image generation?,No
+action-recognition-in-videos-on-ucf101.pt,Does OmniVec aim to address 3D point cloud classification?,No
+action-recognition-in-videos-on-ucf101.pt,Does OmniVec aim to address few-shot image classification?,No
+action-recognition-in-videos-on-ucf101.pt,Does Omni-sourced Webly-supervised Learning for Video Recognition aim to address weakly supervised object detection?,No
+action-recognition-in-videos-on-ucf101.pt,Does OmniVec aim to address unsupervised domain adaptation?,No
+action-recognition-in-videos-on-ucf101.pt,Does OmniVec aim to address visual question answering?,No
+action-recognition-in-videos-on-ucf101.pt,Does Omni-sourced Webly-supervised Learning for Video Recognition aim to address sentiment analysis?,No
+action-recognition-in-videos-on-ucf101.pt,Does Busy-Quiet Video Disentangling for Video Classification aim to address image classification?,No
+action-recognition-in-videos-on-ucf101.pt,Does Busy-Quiet Video Disentangling for Video Classification aim to address medical image segmentation?,No
+action-recognition-in-videos-on-ucf101.pt,Does Omni-sourced Webly-supervised Learning for Video Recognition aim to address text-to-image generation?,No
+action-recognition-in-videos-on-ucf101.pt,Does D3D aim to address few-shot object detection?,No
+action-recognition-in-videos-on-ucf101.pt,Does Large Scale Holistic Video Understanding aim to address sentiment analysis?,No
+action-recognition-in-videos-on-ucf101.pt,Does OmniVec aim to address temporal action localization?,No
+action-recognition-in-videos-on-ucf101.pt,Does Busy-Quiet Video Disentangling for Video Classification aim to address sentiment analysis?,No
+action-recognition-in-videos-on-ucf101.pt,Does D3D aim to address image classification?,No
+action-recognition-in-videos-on-ucf101.pt,Does OmniVec aim to address anomaly detection?,No
+action-recognition-in-videos-on-ucf101.pt,Does D3D aim to address fine-grained image classification?,No
+action-recognition-in-videos-on-ucf101.pt,Does Busy-Quiet Video Disentangling for Video Classification aim to address 3D point cloud classification?,No
+action-recognition-in-videos-on-ucf101.pt,Does Omni-sourced Webly-supervised Learning for Video Recognition aim to address human-object interaction detection?,No
+action-recognition-on-ava-v2-2.pt,Does Unmasked Teacher aim to address text-to-image generation?,No
+action-recognition-on-ava-v2-2.pt,Does Hiera aim to address text-to-image generation?,No
+action-recognition-on-ava-v2-2.pt,Does Masked Video Distillation aim to address semantic segmentation?,No
+action-recognition-on-ava-v2-2.pt,Does Masked Feature Prediction for Self-Supervised Visual Pre-Training aim to address image classification?,No
+action-recognition-on-ava-v2-2.pt,Does Masked Feature Prediction for Self-Supervised Visual Pre-Training aim to address human-object interaction detection?,No
+action-recognition-on-ava-v2-2.pt,Does On the Benefits of 3D Pose and Tracking for Human Action Recognition aim to address few-shot object detection?,No
+action-recognition-on-ava-v2-2.pt,Does End-to-End Spatio-Temporal Action Localisation with Video Transformers aim to address human-object interaction detection?,No
+action-recognition-on-ava-v2-2.pt,Does Unmasked Teacher aim to address domain adaptation?,No
+action-recognition-on-ava-v2-2.pt,Does MeMViT aim to address few-shot image classification?,No
+action-recognition-on-ava-v2-2.pt,Does MeMViT aim to address object detection?,No
+action-recognition-on-ava-v2-2.pt,Does MeMViT aim to address 3D point cloud classification?,No
+action-recognition-on-ava-v2-2.pt,Does MViTv2 aim to address anomaly detection?,No
+action-recognition-on-ava-v2-2.pt,Does Hiera aim to address unsupervised domain adaptation?,No
+action-recognition-on-ava-v2-2.pt,Does End-to-End Spatio-Temporal Action Localisation with Video Transformers aim to address anomaly detection?,No
+action-recognition-on-ava-v2-2.pt,Does VideoMAE aim to address temporal action localization?,No
+action-recognition-on-ava-v2-2.pt,Does VideoMAE aim to address unsupervised domain adaptation?,No
+action-recognition-on-ava-v2-2.pt,Does On the Benefits of 3D Pose and Tracking for Human Action Recognition aim to address domain adaptation?,No
+action-recognition-on-ava-v2-2.pt,Does InternVideo aim to address weakly supervised object detection?,No
+action-recognition-on-ava-v2-2.pt,Does MViTv2 aim to address unsupervised domain adaptation?,No
+action-recognition-on-ava-v2-2.pt,Does Masked Video Distillation aim to address few-shot object detection?,No
+anomaly-detection-on-mvtec-ad.pt,Does ReConPatch  aim to address text-to-image generation?,No
+anomaly-detection-on-mvtec-ad.pt,Does Industrial Anomaly Detection and Localization Using Weakly-Supervised Residual Transformers aim to address weakly supervised object detection?,No
+anomaly-detection-on-mvtec-ad.pt,Does Anomaly Detection with Conditioned Denoising Diffusion Models aim to address human-object interaction detection?,No
+anomaly-detection-on-mvtec-ad.pt,Does DiffusionAD aim to address action recognition?,No
+anomaly-detection-on-mvtec-ad.pt,Does Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization aim to address unsupervised domain adaptation?,No
+anomaly-detection-on-mvtec-ad.pt,Does MSFlow aim to address few-shot image classification?,No
+anomaly-detection-on-mvtec-ad.pt,Does ReConPatch  aim to address visual question answering?,No
+anomaly-detection-on-mvtec-ad.pt,Does Industrial Anomaly Detection and Localization Using Weakly-Supervised Residual Transformers aim to address unsupervised domain adaptation?,No
+anomaly-detection-on-mvtec-ad.pt,Does Anomaly Detection with Conditioned Denoising Diffusion Models aim to address few-shot object detection?,No
+anomaly-detection-on-mvtec-ad.pt,Does Industrial Anomaly Detection and Localization Using Weakly-Supervised Residual Transformers aim to address fine-grained image classification?,No
+anomaly-detection-on-mvtec-ad.pt,Does Target before Shooting aim to address unsupervised domain adaptation?,No
+anomaly-detection-on-mvtec-ad.pt,Does Target before Shooting aim to address medical image segmentation?,No
+anomaly-detection-on-mvtec-ad.pt,Does SimpleNet aim to address temporal action localization?,No
+anomaly-detection-on-mvtec-ad.pt,Does SimpleNet aim to address unsupervised domain adaptation?,No
+anomaly-detection-on-mvtec-ad.pt,Does SimpleNet aim to address sentiment analysis?,No
+anomaly-detection-on-mvtec-ad.pt,Does PNI  aim to address text-to-image generation?,No
+anomaly-detection-on-mvtec-ad.pt,Does PNI  aim to address temporal action localization?,No
+anomaly-detection-on-mvtec-ad.pt,Does DiffusionAD aim to address few-shot object detection?,No
+anomaly-detection-on-mvtec-ad.pt,Does MSFlow aim to address domain adaptation?,No
+anomaly-detection-on-mvtec-ad.pt,Does ReConPatch  aim to address object detection?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Deep Nearest Neighbor Anomaly Detection aim to address object detection?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Constrained Adaptive Projection with Pretrained Features for Anomaly Detection aim to address image classification?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does SSD aim to address weakly supervised object detection?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Exposing Outlier Exposure aim to address object detection?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Classification-Based Anomaly Detection for General Data aim to address weakly supervised object detection?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Classification-Based Anomaly Detection for General Data aim to address few-shot object detection?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Deep One-Class Classification via Interpolated Gaussian Descriptor aim to address human-object interaction detection?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Learning and Evaluating Representations for Deep One-class Classification aim to address visual question answering?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Classification-Based Anomaly Detection for General Data aim to address visual question answering?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does CSI aim to address weakly supervised object detection?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Fake It Till You Make It aim to address human-object interaction detection?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Learning and Evaluating Representations for Deep One-class Classification aim to address weakly supervised object detection?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Deep Nearest Neighbor Anomaly Detection aim to address semantic segmentation?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does SSD aim to address object detection?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Deep Unsupervised Image Anomaly Detection aim to address visual question answering?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Deep One-Class Classification via Interpolated Gaussian Descriptor aim to address 3D point cloud classification?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Transformaly -- Two (Feature Spaces) Are Better Than One aim to address medical image segmentation?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Learning and Evaluating Representations for Deep One-class Classification aim to address domain adaptation?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does PANDA aim to address text-to-image generation?,No
+anomaly-detection-on-one-class-cifar-10.pt,Does Exposing Outlier Exposure aim to address visual question answering?,No
+domain-adaptation-on-office-home.pt,Does On Evolving Attention Towards Domain Adaptation aim to address few-shot image classification?,No
+domain-adaptation-on-office-home.pt,Does A Closer Look at Smoothness in Domain Adversarial Training aim to address weakly supervised object detection?,No
+domain-adaptation-on-office-home.pt,Does Probabilistic Contrastive Learning for Domain Adaptation aim to address semantic segmentation?,No
+domain-adaptation-on-office-home.pt,Does SENTRY aim to address sentiment analysis?,No
+domain-adaptation-on-office-home.pt,Does Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation aim to address visual question answering?,No
+domain-adaptation-on-office-home.pt,Does SENTRY aim to address semantic segmentation?,No
+domain-adaptation-on-office-home.pt,Does Combining inherent knowledge of vision-language models with unsupervised domain adaptation through self-knowledge distillation aim to address human-object interaction detection?,No
+domain-adaptation-on-office-home.pt,Does Gradual Source Domain Expansion for Unsupervised Domain Adaptation aim to address action recognition?,No
+domain-adaptation-on-office-home.pt,Does Reusing the Task-specific Classifier as a Discriminator aim to address semantic segmentation?,No
+domain-adaptation-on-office-home.pt,Does Reusing the Task-specific Classifier as a Discriminator aim to address few-shot image classification?,No
+domain-adaptation-on-office-home.pt,Does On Evolving Attention Towards Domain Adaptation aim to address image classification?,No
+domain-adaptation-on-office-home.pt,Does Gradual Source Domain Expansion for Unsupervised Domain Adaptation aim to address semantic segmentation?,No
+domain-adaptation-on-office-home.pt,Does Gradual Source Domain Expansion for Unsupervised Domain Adaptation aim to address sentiment analysis?,No
+domain-adaptation-on-office-home.pt,Does A Closer Look at Smoothness in Domain Adversarial Training aim to address sentiment analysis?,No
+domain-adaptation-on-office-home.pt,Does Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation aim to address few-shot image classification?,No
+domain-adaptation-on-office-home.pt,Does A Closer Look at Smoothness in Domain Adversarial Training aim to address object detection?,No
+domain-adaptation-on-office-home.pt,Does On Evolving Attention Towards Domain Adaptation aim to address few-shot object detection?,No
+domain-adaptation-on-office-home.pt,Does Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation aim to address object detection?,No
+domain-adaptation-on-office-home.pt,Does Reusing the Task-specific Classifier as a Discriminator aim to address action recognition?,No
+domain-adaptation-on-office-home.pt,Does Gradual Source Domain Expansion for Unsupervised Domain Adaptation aim to address image classification?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does ESPT aim to address object detection?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does EASY aim to address weakly supervised object detection?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Leveraging the Feature Distribution in Transfer-based Few-Shot Learning aim to address human-object interaction detection?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Task Discrepancy Maximization for Fine-grained Few-Shot Classification aim to address weakly supervised object detection?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Leveraging the Feature Distribution in Transfer-based Few-Shot Learning aim to address medical image segmentation?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Squeezing Backbone Feature Distributions to the Max for Efficient Few-Shot Learning aim to address action recognition?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Graph-based Interpolation of Feature Vectors for Accurate Few-Shot Classification aim to address visual question answering?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does EASY aim to address object detection?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Transductive Information Maximization For Few-Shot Learning aim to address visual question answering?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classification aim to address temporal action localization?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Instance Credibility Inference for Few-Shot Learning aim to address object detection?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Transductive Information Maximization For Few-Shot Learning aim to address human-object interaction detection?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classification aim to address sentiment analysis?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Squeezing Backbone Feature Distributions to the Max for Efficient Few-Shot Learning aim to address unsupervised domain adaptation?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Transductive Information Maximization For Few-Shot Learning aim to address weakly supervised object detection?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Squeezing Backbone Feature Distributions to the Max for Efficient Few-Shot Learning aim to address anomaly detection?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Context-Aware Meta-Learning aim to address image classification?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Transductive Information Maximization For Few-Shot Learning aim to address medical image segmentation?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does Squeezing Backbone Feature Distributions to the Max for Efficient Few-Shot Learning aim to address object detection?,No
+few-shot-image-classification-on-cub-200-5-1.pt,Does EASY aim to address medical image segmentation?,No
+few-shot-image-classification-on-mini-2.pt,Does Meta-Learned Confidence for Few-shot Learning aim to address medical image segmentation?,No
+few-shot-image-classification-on-mini-2.pt,Does Embedding Propagation aim to address weakly supervised object detection?,No
+few-shot-image-classification-on-mini-2.pt,Does Context-Aware Meta-Learning aim to address semantic segmentation?,No
+few-shot-image-classification-on-mini-2.pt,Does Embedding Propagation aim to address visual question answering?,No
+few-shot-image-classification-on-mini-2.pt,Does Transductive Decoupled Variational Inference for Few-Shot Classification aim to address human-object interaction detection?,No
+few-shot-image-classification-on-mini-2.pt,Does EASY aim to address semantic segmentation?,No
+few-shot-image-classification-on-mini-2.pt,Does Embedding Propagation aim to address human-object interaction detection?,No
+few-shot-image-classification-on-mini-2.pt,Does Pushing the Limits of Simple Pipelines for Few-Shot Learning aim to address anomaly detection?,No
+few-shot-image-classification-on-mini-2.pt,Does Enhancing Few-Shot Image Classification with Unlabelled Examples aim to address visual question answering?,No
+few-shot-image-classification-on-mini-2.pt,Does Enhancing Few-Shot Image Classification with Unlabelled Examples aim to address 3D point cloud classification?,No
+few-shot-image-classification-on-mini-2.pt,Does Pushing the Limits of Simple Pipelines for Few-Shot Learning aim to address domain adaptation?,No
+few-shot-image-classification-on-mini-2.pt,Does EASY aim to address anomaly detection?,No
+few-shot-image-classification-on-mini-2.pt,Does Enhancing Few-Shot Image Classification with Unlabelled Examples aim to address image classification?,No
+few-shot-image-classification-on-mini-2.pt,Does EASY aim to address unsupervised domain adaptation?,No
+few-shot-image-classification-on-mini-2.pt,Does Enhancing Few-Shot Image Classification with Unlabelled Examples aim to address action recognition?,No
+few-shot-image-classification-on-mini-2.pt,Does EASY aim to address object detection?,No
+few-shot-image-classification-on-mini-2.pt,Does Context-Aware Meta-Learning aim to address action recognition?,No
+few-shot-image-classification-on-mini-2.pt,Does Meta-Learned Confidence for Few-shot Learning aim to address text-to-image generation?,No
+few-shot-image-classification-on-mini-2.pt,Does Meta-Learned Confidence for Few-shot Learning aim to address weakly supervised object detection?,No
+few-shot-image-classification-on-mini-2.pt,Does Leveraging the Feature Distribution in Transfer-based Few-Shot Learning aim to address weakly supervised object detection?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild aim to address object detection?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Re-Scoring Using Image-Language Similarity for Few-Shot Object Detection aim to address semantic segmentation?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Towards Discriminative and Transferable One-Stage Few-Shot Object Detectors aim to address image classification?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Integrally Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection aim to address human-object interaction detection?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Meta-DETR aim to address human-object interaction detection?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild aim to address few-shot image classification?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Dual-Awareness Attention for Few-Shot Object Detection aim to address image classification?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Integrally Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection aim to address action recognition?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild aim to address 3D point cloud classification?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Integrally Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection aim to address 3D point cloud classification?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Re-Scoring Using Image-Language Similarity for Few-Shot Object Detection aim to address 3D point cloud classification?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild aim to address sentiment analysis?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild aim to address human-object interaction detection?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Towards Discriminative and Transferable One-Stage Few-Shot Object Detectors aim to address weakly supervised object detection?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Meta-DETR aim to address sentiment analysis?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Few-Shot Object Detection by Attending to Per-Sample-Prototype aim to address object detection?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild aim to address domain adaptation?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Integrally Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection aim to address weakly supervised object detection?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild aim to address text-to-image generation?,No
+few-shot-object-detection-on-ms-coco-10-shot.pt,Does Few-Shot Object Detection by Attending to Per-Sample-Prototype aim to address anomaly detection?,No
+fine-grained-image-classification-on-stanford.pt,Does Part-guided Relational Transformers for Fine-grained Visual Recognition aim to address weakly supervised object detection?,No
+fine-grained-image-classification-on-stanford.pt,Does Context-aware Attentional Pooling (CAP) for Fine-grained Visual Classification aim to address few-shot object detection?,No
+fine-grained-image-classification-on-stanford.pt,Does ML-Decoder aim to address image classification?,No
+fine-grained-image-classification-on-stanford.pt,Does Part-guided Relational Transformers for Fine-grained Visual Recognition aim to address image classification?,No
+fine-grained-image-classification-on-stanford.pt,Does Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision aim to address human-object interaction detection?,No
+fine-grained-image-classification-on-stanford.pt,Does Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation aim to address unsupervised domain adaptation?,No
+fine-grained-image-classification-on-stanford.pt,Does Non-binary deep transfer learning for image classification aim to address weakly supervised object detection?,No
+fine-grained-image-classification-on-stanford.pt,"Does Your ""Flamingo"" is My ""Bird"" aim to address human-object interaction detection?",No
+fine-grained-image-classification-on-stanford.pt,Does SR-GNN aim to address object detection?,No
+fine-grained-image-classification-on-stanford.pt,Does SR-GNN aim to address image classification?,No
+fine-grained-image-classification-on-stanford.pt,Does Context-Semantic Quality Awareness Network for Fine-Grained Visual Categorization aim to address object detection?,No
+fine-grained-image-classification-on-stanford.pt,Does Part-guided Relational Transformers for Fine-grained Visual Recognition aim to address action recognition?,No
+fine-grained-image-classification-on-stanford.pt,Does ML-Decoder aim to address action recognition?,No
+fine-grained-image-classification-on-stanford.pt,"Does Your ""Flamingo"" is My ""Bird"" aim to address anomaly detection?",No
+fine-grained-image-classification-on-stanford.pt,Does Dual Cross-Attention Learning for Fine-Grained Visual Categorization and Object Re-Identification aim to address action recognition?,No
+fine-grained-image-classification-on-stanford.pt,Does Fine-Grained Visual Classification via Progressive Multi-Granularity Training of Jigsaw Patches aim to address 3D point cloud classification?,No
+fine-grained-image-classification-on-stanford.pt,Does Dual Cross-Attention Learning for Fine-Grained Visual Categorization and Object Re-Identification aim to address image classification?,No
+fine-grained-image-classification-on-stanford.pt,Does Context-Semantic Quality Awareness Network for Fine-Grained Visual Categorization aim to address anomaly detection?,No
+fine-grained-image-classification-on-stanford.pt,Does Context-aware Attentional Pooling (CAP) for Fine-grained Visual Classification aim to address 3D point cloud classification?,No
+fine-grained-image-classification-on-stanford.pt,Does Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification aim to address few-shot object detection?,No
+human-object-interaction-detection-on-hico.pt,Does Relational Context Learning for Human-Object Interaction Detection aim to address few-shot object detection?,No
+human-object-interaction-detection-on-hico.pt,Does Relational Context Learning for Human-Object Interaction Detection aim to address text-to-image generation?,No
+human-object-interaction-detection-on-hico.pt,Does Exploring Predicate Visual Context in Detecting Human-Object Interactions aim to address anomaly detection?,No
+human-object-interaction-detection-on-hico.pt,Does Boosting Human-Object Interaction Detection with Text-to-Image Diffusion Model aim to address unsupervised domain adaptation?,No
+human-object-interaction-detection-on-hico.pt,Does Focusing on what to decode and what to train aim to address few-shot image classification?,No
+human-object-interaction-detection-on-hico.pt,Does RLIPv2 aim to address semantic segmentation?,No
+human-object-interaction-detection-on-hico.pt,Does Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer aim to address semantic segmentation?,No
+human-object-interaction-detection-on-hico.pt,Does Category Query Learning for Human-Object Interaction Classification aim to address few-shot object detection?,No
+human-object-interaction-detection-on-hico.pt,Does Exploring Predicate Visual Context in Detecting Human-Object Interactions aim to address visual question answering?,No
+human-object-interaction-detection-on-hico.pt,Does ViPLO aim to address action recognition?,No
+human-object-interaction-detection-on-hico.pt,Does Relational Context Learning for Human-Object Interaction Detection aim to address visual question answering?,No
+human-object-interaction-detection-on-hico.pt,Does Category Query Learning for Human-Object Interaction Classification aim to address text-to-image generation?,No
+human-object-interaction-detection-on-hico.pt,Does Focusing on what to decode and what to train aim to address weakly supervised object detection?,No
+human-object-interaction-detection-on-hico.pt,Does Category Query Learning for Human-Object Interaction Classification aim to address domain adaptation?,No
+human-object-interaction-detection-on-hico.pt,Does The Overlooked Classifier in Human-Object Interaction Recognition aim to address medical image segmentation?,No
+human-object-interaction-detection-on-hico.pt,Does ViPLO aim to address fine-grained image classification?,No
+human-object-interaction-detection-on-hico.pt,Does Category Query Learning for Human-Object Interaction Classification aim to address temporal action localization?,No
+human-object-interaction-detection-on-hico.pt,Does RLIPv2 aim to address anomaly detection?,No
+human-object-interaction-detection-on-hico.pt,Does The Overlooked Classifier in Human-Object Interaction Recognition aim to address anomaly detection?,No
+human-object-interaction-detection-on-hico.pt,Does RLIP aim to address unsupervised domain adaptation?,No
+image-classification-on-imagenet-real.pt,Does Model soups aim to address semantic segmentation?,No
+image-classification-on-imagenet-real.pt,Does TokenLearner aim to address domain adaptation?,No
+image-classification-on-imagenet-real.pt,Does Big Transfer (BiT) aim to address medical image segmentation?,No
+image-classification-on-imagenet-real.pt,Does Self-training with Noisy Student improves ImageNet classification aim to address temporal action localization?,No
+image-classification-on-imagenet-real.pt,Does MLP-Mixer aim to address action recognition?,No
+image-classification-on-imagenet-real.pt,Does Going deeper with Image Transformers aim to address few-shot object detection?,No
+image-classification-on-imagenet-real.pt,Does TokenLearner aim to address weakly supervised object detection?,No
+image-classification-on-imagenet-real.pt,Does MLP-Mixer aim to address object detection?,No
+image-classification-on-imagenet-real.pt,Does CvT aim to address text-to-image generation?,No
+image-classification-on-imagenet-real.pt,Does Self-training with Noisy Student improves ImageNet classification aim to address medical image segmentation?,No
+image-classification-on-imagenet-real.pt,Does Big Transfer (BiT) aim to address action recognition?,No
+image-classification-on-imagenet-real.pt,Does Meta Pseudo Labels aim to address action recognition?,No
+image-classification-on-imagenet-real.pt,Does MLP-Mixer aim to address fine-grained image classification?,No
+image-classification-on-imagenet-real.pt,Does Model soups aim to address unsupervised domain adaptation?,No
+image-classification-on-imagenet-real.pt,Does ViTAEv2 aim to address temporal action localization?,No
+image-classification-on-imagenet-real.pt,Does Going deeper with Image Transformers aim to address sentiment analysis?,No
+image-classification-on-imagenet-real.pt,Does Big Transfer (BiT) aim to address domain adaptation?,No
+image-classification-on-imagenet-real.pt,Does Model soups aim to address few-shot object detection?,No
+image-classification-on-imagenet-real.pt,Does CvT aim to address few-shot object detection?,No
+image-classification-on-imagenet-real.pt,Does TokenLearner aim to address 3D point cloud classification?,No
+image-classification-on-objectnet.pt,Does PaLI aim to address object detection?,No
+image-classification-on-objectnet.pt,Does A Whac-A-Mole Dilemma aim to address sentiment analysis?,No
+image-classification-on-objectnet.pt,Does PaLI aim to address anomaly detection?,No
+image-classification-on-objectnet.pt,Does EVA-CLIP aim to address semantic segmentation?,No
+image-classification-on-objectnet.pt,Does PaLI aim to address sentiment analysis?,No
+image-classification-on-objectnet.pt,Does Robust fine-tuning of zero-shot models aim to address anomaly detection?,No
+image-classification-on-objectnet.pt,Does PaLI aim to address domain adaptation?,No
+image-classification-on-objectnet.pt,Does A Whac-A-Mole Dilemma aim to address domain adaptation?,No
+image-classification-on-objectnet.pt,Does LiT aim to address visual question answering?,No
+image-classification-on-objectnet.pt,Does Learning Transferable Visual Models From Natural Language Supervision aim to address weakly supervised object detection?,No
+image-classification-on-objectnet.pt,Does Robust fine-tuning of zero-shot models aim to address domain adaptation?,No
+image-classification-on-objectnet.pt,Does A Whac-A-Mole Dilemma aim to address few-shot object detection?,No
+image-classification-on-objectnet.pt,Does Model soups aim to address semantic segmentation?,No
+image-classification-on-objectnet.pt,Does LiT aim to address 3D point cloud classification?,No
+image-classification-on-objectnet.pt,Does EVA-CLIP aim to address unsupervised domain adaptation?,No
+image-classification-on-objectnet.pt,Does LiT aim to address medical image segmentation?,No
+image-classification-on-objectnet.pt,Does Model soups aim to address medical image segmentation?,No
+image-classification-on-objectnet.pt,Does CoCa aim to address weakly supervised object detection?,No
+image-classification-on-objectnet.pt,Does CoCa aim to address text-to-image generation?,No
+image-classification-on-objectnet.pt,Does CoCa aim to address sentiment analysis?,No
+image-classification-on-svhn.pt,Does Rethinking Recurrent Neural Networks and Other Improvements for Image Classification aim to address semantic segmentation?,No
+image-classification-on-svhn.pt,Does Training Neural Networks with Local Error Signals aim to address unsupervised domain adaptation?,No
+image-classification-on-svhn.pt,Does Regularizing Neural Networks via Adversarial Model Perturbation aim to address semantic segmentation?,No
+image-classification-on-svhn.pt,Does WaveMix aim to address human-object interaction detection?,No
+image-classification-on-svhn.pt,Does Rethinking Recurrent Neural Networks and Other Improvements for Image Classification aim to address object detection?,No
+image-classification-on-svhn.pt,Does Regularizing Neural Networks via Adversarial Model Perturbation aim to address action recognition?,No
+image-classification-on-svhn.pt,Does WaveMix aim to address semantic segmentation?,No
+image-classification-on-svhn.pt,Does Training Neural Networks with Local Error Signals aim to address few-shot image classification?,No
+image-classification-on-svhn.pt,Does Training Neural Networks with Local Error Signals aim to address domain adaptation?,No
+image-classification-on-svhn.pt,Does Regularizing Neural Networks via Adversarial Model Perturbation aim to address weakly supervised object detection?,No
+image-classification-on-svhn.pt,Does Regularizing Neural Networks via Adversarial Model Perturbation aim to address visual question answering?,No
+image-classification-on-svhn.pt,Does Rethinking Recurrent Neural Networks and Other Improvements for Image Classification aim to address action recognition?,No
+image-classification-on-svhn.pt,Does Rethinking Recurrent Neural Networks and Other Improvements for Image Classification aim to address visual question answering?,No
+image-classification-on-svhn.pt,Does WaveMix aim to address fine-grained image classification?,No
+image-classification-on-svhn.pt,Does WaveMix aim to address unsupervised domain adaptation?,No
+image-classification-on-svhn.pt,Does Regularizing Neural Networks via Adversarial Model Perturbation aim to address few-shot object detection?,No
+image-classification-on-svhn.pt,Does WaveMix aim to address temporal action localization?,No
+image-classification-on-svhn.pt,Does Training Neural Networks with Local Error Signals aim to address action recognition?,No
+image-classification-on-svhn.pt,Does Training Neural Networks with Local Error Signals aim to address medical image segmentation?,No
+image-classification-on-svhn.pt,Does WaveMix aim to address anomaly detection?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does Stepwise Feature Fusion aim to address human-object interaction detection?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does Stepwise Feature Fusion aim to address fine-grained image classification?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does FANet aim to address few-shot image classification?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does FCN-Transformer Feature Fusion for Polyp Segmentation aim to address 3D point cloud classification?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does G-CASCADE aim to address visual question answering?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does MEGANet aim to address few-shot image classification?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does RaBiT aim to address semantic segmentation?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does G-CASCADE aim to address weakly supervised object detection?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does RaBiT aim to address image classification?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does HarDNet-DFUS aim to address semantic segmentation?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does G-CASCADE aim to address unsupervised domain adaptation?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does UGCANet aim to address anomaly detection?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does EMCAD aim to address text-to-image generation?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does G-CASCADE aim to address image classification?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does Stepwise Feature Fusion aim to address few-shot object detection?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does HarDNet-DFUS aim to address anomaly detection?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does EMCAD aim to address action recognition?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does Stepwise Feature Fusion aim to address visual question answering?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does MSRF-Net aim to address sentiment analysis?,No
+medical-image-segmentation-on-cvc-clinicdb.pt,Does MSRF-Net aim to address action recognition?,No
+object-detection-on-coco-minival.pt,Does A Strong and Reproducible Object Detector with Only Public Datasets aim to address few-shot image classification?,No
+object-detection-on-coco-minival.pt,Does Florence aim to address medical image segmentation?,No
+object-detection-on-coco-minival.pt,Does End-to-End Semi-Supervised Object Detection with Soft Teacher aim to address 3D point cloud classification?,No
+object-detection-on-coco-minival.pt,Does EVA aim to address 3D point cloud classification?,No
+object-detection-on-coco-minival.pt,Does InternImage aim to address unsupervised domain adaptation?,No
+object-detection-on-coco-minival.pt,Does Grounding DINO aim to address weakly supervised object detection?,No
+object-detection-on-coco-minival.pt,Does Florence aim to address weakly supervised object detection?,No
+object-detection-on-coco-minival.pt,Does DETRs with Collaborative Hybrid Assignments Training aim to address unsupervised domain adaptation?,No
+object-detection-on-coco-minival.pt,Does Vision Transformer Adapter for Dense Predictions aim to address fine-grained image classification?,No
+object-detection-on-coco-minival.pt,Does Florence aim to address fine-grained image classification?,No
+object-detection-on-coco-minival.pt,Does General Object Foundation Model for Images and Videos at Scale aim to address few-shot object detection?,No
+object-detection-on-coco-minival.pt,Does Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information aim to address action recognition?,No
+object-detection-on-coco-minival.pt,Does A Strong and Reproducible Object Detector with Only Public Datasets aim to address visual question answering?,No
+object-detection-on-coco-minival.pt,Does InternImage aim to address human-object interaction detection?,No
+object-detection-on-coco-minival.pt,Does Universal Instance Perception as Object Discovery and Retrieval aim to address unsupervised domain adaptation?,No
+object-detection-on-coco-minival.pt,Does InternImage aim to address medical image segmentation?,No
+object-detection-on-coco-minival.pt,Does Grounding DINO aim to address visual question answering?,No
+object-detection-on-coco-minival.pt,Does DINO aim to address semantic segmentation?,No
+object-detection-on-coco-minival.pt,Does Vision Transformer Adapter for Dense Predictions aim to address weakly supervised object detection?,No
+object-detection-on-coco-minival.pt,Does A Strong and Reproducible Object Detector with Only Public Datasets aim to address semantic segmentation?,No
+object-detection-on-coco-o.pt,Does EVA aim to address human-object interaction detection?,No
+object-detection-on-coco-o.pt,Does GRiT aim to address semantic segmentation?,No
+object-detection-on-coco-o.pt,Does MViTv2 aim to address fine-grained image classification?,No
+object-detection-on-coco-o.pt,Does A ConvNet for the 2020s aim to address 3D point cloud classification?,No
+object-detection-on-coco-o.pt,Does EVA aim to address anomaly detection?,No
+object-detection-on-coco-o.pt,Does InternImage aim to address semantic segmentation?,No
+object-detection-on-coco-o.pt,Does MViTv2 aim to address temporal action localization?,No
+object-detection-on-coco-o.pt,Does DINO aim to address few-shot image classification?,No
+object-detection-on-coco-o.pt,Does Robust and Accurate Object Detection via Adversarial Learning aim to address visual question answering?,No
+object-detection-on-coco-o.pt,Does Probabilistic two-stage detection aim to address anomaly detection?,No
+object-detection-on-coco-o.pt,Does GRiT aim to address weakly supervised object detection?,No
+object-detection-on-coco-o.pt,Does MViTv2 aim to address weakly supervised object detection?,No
+object-detection-on-coco-o.pt,Does Vision Transformer Adapter for Dense Predictions aim to address domain adaptation?,No
+object-detection-on-coco-o.pt,Does Instances as Queries aim to address visual question answering?,No
+object-detection-on-coco-o.pt,Does Robust and Accurate Object Detection via Adversarial Learning aim to address domain adaptation?,No
+object-detection-on-coco-o.pt,Does A ConvNet for the 2020s aim to address image classification?,No
+object-detection-on-coco-o.pt,Does InternImage aim to address domain adaptation?,No
+object-detection-on-coco-o.pt,Does GRiT aim to address human-object interaction detection?,No
+object-detection-on-coco-o.pt,Does Probabilistic two-stage detection aim to address few-shot object detection?,No
+object-detection-on-coco-o.pt,Does GRiT aim to address medical image segmentation?,No
+object-detection-on-coco.pt,Does EVA aim to address action recognition?,No
+object-detection-on-coco.pt,Does DETRs with Collaborative Hybrid Assignments Training aim to address fine-grained image classification?,No
+object-detection-on-coco.pt,Does Grounding DINO aim to address few-shot image classification?,No
+object-detection-on-coco.pt,Does DINO aim to address anomaly detection?,No
+object-detection-on-coco.pt,Does MoCaE aim to address unsupervised domain adaptation?,No
+object-detection-on-coco.pt,Does Grounding DINO aim to address anomaly detection?,No
+object-detection-on-coco.pt,Does EVA aim to address unsupervised domain adaptation?,No
+object-detection-on-coco.pt,Does Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information aim to address visual question answering?,No
+object-detection-on-coco.pt,Does Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information aim to address human-object interaction detection?,No
+object-detection-on-coco.pt,Does NMS Strikes Back aim to address unsupervised domain adaptation?,No
+object-detection-on-coco.pt,Does Image as a Foreign Language aim to address semantic segmentation?,No
+object-detection-on-coco.pt,Does GLIPv2 aim to address weakly supervised object detection?,No
+object-detection-on-coco.pt,Does EVA aim to address temporal action localization?,No
+object-detection-on-coco.pt,Does Group DETR v2 aim to address image classification?,No
+object-detection-on-coco.pt,Does GLIPv2 aim to address semantic segmentation?,No
+object-detection-on-coco.pt,Does Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information aim to address fine-grained image classification?,No
+object-detection-on-coco.pt,Does Reversible Column Networks aim to address weakly supervised object detection?,No
+object-detection-on-coco.pt,Does Florence aim to address domain adaptation?,No
+object-detection-on-coco.pt,Does Reversible Column Networks aim to address anomaly detection?,No
+object-detection-on-coco.pt,Does Reversible Column Networks aim to address sentiment analysis?,No
+semantic-segmentation-on-ade20k.pt,Does SegViTv2 aim to address image classification?,No
+semantic-segmentation-on-ade20k.pt,Does Dilated Neighborhood Attention Transformer aim to address unsupervised domain adaptation?,No
+semantic-segmentation-on-ade20k.pt,Does Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information aim to address visual question answering?,No
+semantic-segmentation-on-ade20k.pt,Does Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information aim to address anomaly detection?,No
+semantic-segmentation-on-ade20k.pt,Does Vision Transformer Adapter for Dense Predictions aim to address object detection?,No
+semantic-segmentation-on-ade20k.pt,Does Mask DINO aim to address unsupervised domain adaptation?,No
+semantic-segmentation-on-ade20k.pt,Does SegViTv2 aim to address few-shot image classification?,No
+semantic-segmentation-on-ade20k.pt,Does EVA aim to address fine-grained image classification?,No
+semantic-segmentation-on-ade20k.pt,Does InternImage aim to address human-object interaction detection?,No
+semantic-segmentation-on-ade20k.pt,Does DINOv2 aim to address visual question answering?,No
+semantic-segmentation-on-ade20k.pt,Does HorNet aim to address text-to-image generation?,No
+semantic-segmentation-on-ade20k.pt,Does Mask DINO aim to address sentiment analysis?,No
+semantic-segmentation-on-ade20k.pt,Does SegViTv2 aim to address visual question answering?,No
+semantic-segmentation-on-ade20k.pt,Does Dilated Neighborhood Attention Transformer aim to address temporal action localization?,No
+semantic-segmentation-on-ade20k.pt,Does Dilated Neighborhood Attention Transformer aim to address anomaly detection?,No
+semantic-segmentation-on-ade20k.pt,Does Mask DINO aim to address weakly supervised object detection?,No
+semantic-segmentation-on-ade20k.pt,Does ONE-PEACE aim to address few-shot object detection?,No
+semantic-segmentation-on-ade20k.pt,Does InternImage aim to address image classification?,No
+semantic-segmentation-on-ade20k.pt,Does Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information aim to address fine-grained image classification?,No
+semantic-segmentation-on-ade20k.pt,Does Vision Transformer Adapter for Dense Predictions aim to address 3D point cloud classification?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does MultiMAE aim to address sentiment analysis?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does GeminiFusion aim to address text-to-image generation?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does DFormer aim to address few-shot image classification?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does DFormer aim to address weakly supervised object detection?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does CMX aim to address sentiment analysis?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does GeminiFusion aim to address human-object interaction detection?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does MultiMAE aim to address anomaly detection?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does DFormer aim to address object detection?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does MultiMAE aim to address weakly supervised object detection?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does MultiMAE aim to address fine-grained image classification?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does GeminiFusion aim to address visual question answering?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does GeminiFusion aim to address 3D point cloud classification?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does MultiMAE aim to address 3D point cloud classification?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does CMX aim to address few-shot object detection?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does DFormer aim to address fine-grained image classification?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does GeminiFusion aim to address action recognition?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does CMX aim to address unsupervised domain adaptation?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does CMX aim to address visual question answering?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does CMX aim to address temporal action localization?,No
+semantic-segmentation-on-nyu-depth-v2.pt,Does CMX aim to address anomaly detection?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does ShelfNet for Fast Semantic Segmentation aim to address 3D point cloud classification?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does ShelfNet for Fast Semantic Segmentation aim to address sentiment analysis?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does Is Attention Better Than Matrix Decomposition? aim to address temporal action localization?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does ShelfNet for Fast Semantic Segmentation aim to address action recognition?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does Beyond Self-attention aim to address object detection?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does Is Attention Better Than Matrix Decomposition? aim to address sentiment analysis?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does Squeeze-and-Attention Networks for Semantic Segmentation aim to address image classification?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does ShelfNet for Fast Semantic Segmentation aim to address visual question answering?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does Squeeze-and-Attention Networks for Semantic Segmentation aim to address domain adaptation?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does ShelfNet for Fast Semantic Segmentation aim to address medical image segmentation?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does Segmentation Transformer aim to address temporal action localization?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does Squeeze-and-Attention Networks for Semantic Segmentation aim to address few-shot image classification?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does Is Attention Better Than Matrix Decomposition? aim to address visual question answering?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does Segmentation Transformer aim to address visual question answering?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does Beyond Self-attention aim to address sentiment analysis?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does Is Attention Better Than Matrix Decomposition? aim to address domain adaptation?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does Squeeze-and-Attention Networks for Semantic Segmentation aim to address 3D point cloud classification?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does Squeeze-and-Attention Networks for Semantic Segmentation aim to address medical image segmentation?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does ShelfNet for Fast Semantic Segmentation aim to address anomaly detection?,No
+semantic-segmentation-on-pascal-voc-2012.pt,Does Is Attention Better Than Matrix Decomposition? aim to address few-shot object detection?,No
+semantic-segmentation-on-s3dis.pt,Does PointVector aim to address few-shot object detection?,No
+semantic-segmentation-on-s3dis.pt,Does PointNeXt aim to address temporal action localization?,No
+semantic-segmentation-on-s3dis.pt,Does Meta Architecture for Point Cloud Analysis aim to address medical image segmentation?,No
+semantic-segmentation-on-s3dis.pt,Does Point Transformer V3 aim to address 3D point cloud classification?,No
+semantic-segmentation-on-s3dis.pt,Does Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion aim to address action recognition?,No
+semantic-segmentation-on-s3dis.pt,Does Point Transformer V3 aim to address domain adaptation?,No
+semantic-segmentation-on-s3dis.pt,Does FG-Net aim to address human-object interaction detection?,No
+semantic-segmentation-on-s3dis.pt,Does Meta Architecture for Point Cloud Analysis aim to address fine-grained image classification?,No
+semantic-segmentation-on-s3dis.pt,Does Contrastive Boundary Learning for Point Cloud Segmentation aim to address temporal action localization?,No
+semantic-segmentation-on-s3dis.pt,Does Contrastive Boundary Learning for Point Cloud Segmentation aim to address few-shot object detection?,No
+semantic-segmentation-on-s3dis.pt,Does Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion aim to address few-shot image classification?,No
+semantic-segmentation-on-s3dis.pt,Does Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion aim to address domain adaptation?,No
+semantic-segmentation-on-s3dis.pt,Does Contrastive Boundary Learning for Point Cloud Segmentation aim to address unsupervised domain adaptation?,No
+semantic-segmentation-on-s3dis.pt,Does Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation aim to address sentiment analysis?,No
+semantic-segmentation-on-s3dis.pt,Does Point Transformer V3 aim to address weakly supervised object detection?,No
+semantic-segmentation-on-s3dis.pt,Does PonderV2 aim to address unsupervised domain adaptation?,No
+semantic-segmentation-on-s3dis.pt,Does Point Transformer aim to address human-object interaction detection?,No
+semantic-segmentation-on-s3dis.pt,Does Point Transformer aim to address weakly supervised object detection?,No
+semantic-segmentation-on-s3dis.pt,Does Meta Architecture for Point Cloud Analysis aim to address few-shot image classification?,No
+semantic-segmentation-on-s3dis.pt,Does Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion aim to address text-to-image generation?,No
+sentiment-analysis-on-imdb.pt,Does XLNet aim to address object detection?,No
+sentiment-analysis-on-imdb.pt,Does XLNet aim to address anomaly detection?,No
+sentiment-analysis-on-imdb.pt,Does Entailment as Few-Shot Learner aim to address object detection?,No
+sentiment-analysis-on-imdb.pt,Does How to Fine-Tune BERT for Text Classification? aim to address fine-grained image classification?,No
+sentiment-analysis-on-imdb.pt,Does XLNet aim to address image classification?,No
+sentiment-analysis-on-imdb.pt,Does The Document Vectors Using Cosine Similarity Revisited aim to address temporal action localization?,No
+sentiment-analysis-on-imdb.pt,Does Universal Language Model Fine-tuning for Text Classification aim to address text-to-image generation?,No
+sentiment-analysis-on-imdb.pt,Does Unsupervised Data Augmentation for Consistency Training aim to address object detection?,No
+sentiment-analysis-on-imdb.pt,Does Graph Star Net for Generalized Multi-Task Learning aim to address fine-grained image classification?,No
+sentiment-analysis-on-imdb.pt,Does Unsupervised Data Augmentation for Consistency Training aim to address fine-grained image classification?,No
+sentiment-analysis-on-imdb.pt,Does Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function aim to address image classification?,No
+sentiment-analysis-on-imdb.pt,Does An Algorithm for Routing Vectors in Sequences aim to address fine-grained image classification?,No
+sentiment-analysis-on-imdb.pt,Does Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function aim to address few-shot object detection?,No
+sentiment-analysis-on-imdb.pt,Does Unsupervised Data Augmentation for Consistency Training aim to address weakly supervised object detection?,No
+sentiment-analysis-on-imdb.pt,Does Entailment as Few-Shot Learner aim to address medical image segmentation?,No
+sentiment-analysis-on-imdb.pt,Does How to Fine-Tune BERT for Text Classification? aim to address semantic segmentation?,No
+sentiment-analysis-on-imdb.pt,Does Entailment as Few-Shot Learner aim to address semantic segmentation?,No
+sentiment-analysis-on-imdb.pt,Does How to Fine-Tune BERT for Text Classification? aim to address 3D point cloud classification?,No
+sentiment-analysis-on-imdb.pt,Does Contextual Explanation Networks aim to address 3D point cloud classification?,No
+sentiment-analysis-on-imdb.pt,Does Entailment as Few-Shot Learner aim to address temporal action localization?,No
+temporal-action-localization-on-thumos14.pt,Does Enhancing Temporal Action Localization aim to address semantic segmentation?,No
+temporal-action-localization-on-thumos14.pt,Does Dual DETRs for Multi-Label Temporal Action Detection aim to address semantic segmentation?,No
+temporal-action-localization-on-thumos14.pt,Does Temporal Action Localization with Enhanced Instant Discriminability aim to address domain adaptation?,No
+temporal-action-localization-on-thumos14.pt,Does InternVideo aim to address fine-grained image classification?,No
+temporal-action-localization-on-thumos14.pt,Does Enhancing Temporal Action Localization aim to address sentiment analysis?,No
+temporal-action-localization-on-thumos14.pt,Does ReAct aim to address sentiment analysis?,No
+temporal-action-localization-on-thumos14.pt,Does End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames aim to address anomaly detection?,No
+temporal-action-localization-on-thumos14.pt,Does End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames aim to address weakly supervised object detection?,No
+temporal-action-localization-on-thumos14.pt,Does Action Sensitivity Learning for Temporal Action Localization aim to address few-shot object detection?,No
+temporal-action-localization-on-thumos14.pt,Does InternVideo aim to address human-object interaction detection?,No
+temporal-action-localization-on-thumos14.pt,Does Action Sensitivity Learning for Temporal Action Localization aim to address anomaly detection?,No
+temporal-action-localization-on-thumos14.pt,Does Dual DETRs for Multi-Label Temporal Action Detection aim to address text-to-image generation?,No
+temporal-action-localization-on-thumos14.pt,Does InternVideo2 aim to address sentiment analysis?,No
+temporal-action-localization-on-thumos14.pt,Does TemporalMaxer aim to address domain adaptation?,No
+temporal-action-localization-on-thumos14.pt,Does Video Mamba Suite aim to address medical image segmentation?,No
+temporal-action-localization-on-thumos14.pt,Does Video Mamba Suite aim to address few-shot object detection?,No
+temporal-action-localization-on-thumos14.pt,Does Video Mamba Suite aim to address sentiment analysis?,No
+temporal-action-localization-on-thumos14.pt,Does InternVideo2 aim to address fine-grained image classification?,No
+temporal-action-localization-on-thumos14.pt,Does InternVideo2 aim to address object detection?,No
+temporal-action-localization-on-thumos14.pt,Does End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames aim to address human-object interaction detection?,No
+text-to-image-generation-on-coco.pt,Does Make-A-Scene aim to address fine-grained image classification?,No
+text-to-image-generation-on-coco.pt,Does All are Worth Words aim to address image classification?,No
+text-to-image-generation-on-coco.pt,Does Swinv2-Imagen aim to address action recognition?,No
+text-to-image-generation-on-coco.pt,Does Truncated Diffusion Probabilistic Models and Diffusion-based Adversarial Auto-Encoders aim to address semantic segmentation?,No
+text-to-image-generation-on-coco.pt,Does Truncated Diffusion Probabilistic Models and Diffusion-based Adversarial Auto-Encoders aim to address few-shot object detection?,No
+text-to-image-generation-on-coco.pt,Does RAPHAEL aim to address image classification?,No
+text-to-image-generation-on-coco.pt,Does RAPHAEL aim to address object detection?,No
+text-to-image-generation-on-coco.pt,Does ERNIE-ViLG 2.0 aim to address few-shot object detection?,No
+text-to-image-generation-on-coco.pt,Does Re-Imagen aim to address image classification?,No
+text-to-image-generation-on-coco.pt,Does Scaling Autoregressive Models for Content-Rich Text-to-Image Generation aim to address human-object interaction detection?,No
+text-to-image-generation-on-coco.pt,Does Scaling Autoregressive Multi-Modal Models aim to address few-shot object detection?,No
+text-to-image-generation-on-coco.pt,Does Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding aim to address temporal action localization?,No
+text-to-image-generation-on-coco.pt,Does ERNIE-ViLG 2.0 aim to address anomaly detection?,No
+text-to-image-generation-on-coco.pt,Does Scaling Autoregressive Multi-Modal Models aim to address visual question answering?,No
+text-to-image-generation-on-coco.pt,Does Scaling Autoregressive Models for Content-Rich Text-to-Image Generation aim to address unsupervised domain adaptation?,No
+text-to-image-generation-on-coco.pt,Does Swinv2-Imagen aim to address few-shot object detection?,No
+text-to-image-generation-on-coco.pt,Does Improving Diffusion-Based Image Synthesis with Context Prediction aim to address sentiment analysis?,No
+text-to-image-generation-on-coco.pt,Does Make-A-Scene aim to address anomaly detection?,No
+text-to-image-generation-on-coco.pt,Does Truncated Diffusion Probabilistic Models and Diffusion-based Adversarial Auto-Encoders aim to address action recognition?,No
+text-to-image-generation-on-coco.pt,Does Scaling Autoregressive Models for Content-Rich Text-to-Image Generation aim to address anomaly detection?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Structured Domain Adaptation with Online Relation Regularization for Unsupervised Person Re-ID aim to address weakly supervised object detection?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Unsupervised and self-adaptative techniques for cross-domain person re-identification aim to address few-shot object detection?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Mutual Mean-Teaching aim to address sentiment analysis?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Unsupervised Person Re-identification via Multi-label Classification aim to address text-to-image generation?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Asymmetric Co-Teaching for Unsupervised Cross Domain Person Re-Identification aim to address sentiment analysis?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does On Evolving Attention Towards Domain Adaptation aim to address anomaly detection?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Mutual Mean-Teaching aim to address few-shot object detection?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Unsupervised and self-adaptative techniques for cross-domain person re-identification aim to address visual question answering?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Unsupervised and self-adaptative techniques for cross-domain person re-identification aim to address human-object interaction detection?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Learning to Adapt Invariance in Memory for Person Re-identification aim to address few-shot object detection?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Unsupervised Person Re-identification via Multi-label Classification aim to address fine-grained image classification?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Unsupervised Person Re-identification via Multi-label Classification aim to address sentiment analysis?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Cross-Dataset Person Re-Identification via Unsupervised Pose Disentanglement and Adaptation aim to address 3D point cloud classification?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Learning to Adapt Invariance in Memory for Person Re-identification aim to address weakly supervised object detection?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Structured Domain Adaptation with Online Relation Regularization for Unsupervised Person Re-ID aim to address sentiment analysis?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Learning to Adapt Invariance in Memory for Person Re-identification aim to address medical image segmentation?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Mutual Mean-Teaching aim to address weakly supervised object detection?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Mutual Mean-Teaching aim to address human-object interaction detection?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Learning to Adapt Invariance in Memory for Person Re-identification aim to address image classification?,No
+unsupervised-domain-adaptation-on-duke-to.pt,Does Style Normalization and Restitution for Generalizable Person Re-identification aim to address domain adaptation?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does Clover aim to address human-object interaction detection?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does Video-Text as Game Players aim to address sentiment analysis?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does Unmasked Teacher aim to address temporal action localization?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does All in One aim to address few-shot image classification?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does OmniVL aim to address weakly supervised object detection?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does Self-Adaptive Sampling for Efficient Video Question-Answering on Image--Text Models aim to address unsupervised domain adaptation?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does Unmasked Teacher aim to address unsupervised domain adaptation?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does OmniVL aim to address anomaly detection?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does OmniVL aim to address few-shot object detection?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does All in One aim to address text-to-image generation?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does mPLUG-2 aim to address 3D point cloud classification?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does Unmasked Teacher aim to address action recognition?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does Unmasked Teacher aim to address fine-grained image classification?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does Expectation-Maximization Contrastive Learning for Compact Video-and-Language Representations aim to address domain adaptation?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does Expectation-Maximization Contrastive Learning for Compact Video-and-Language Representations aim to address object detection?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does OmniVL aim to address text-to-image generation?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does HiTeA aim to address few-shot image classification?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does Expectation-Maximization Contrastive Learning for Compact Video-and-Language Representations aim to address medical image segmentation?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does Video-Text as Game Players aim to address domain adaptation?,No
+visual-question-answering-on-msrvtt-qa-1.pt,Does OmniVL aim to address sentiment analysis?,No
+visual-question-answering-on-msvd-qa-1.pt,Does MaMMUT aim to address unsupervised domain adaptation?,No
+visual-question-answering-on-msvd-qa-1.pt,Does GIT aim to address semantic segmentation?,No
+visual-question-answering-on-msvd-qa-1.pt,Does An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling aim to address text-to-image generation?,No
+visual-question-answering-on-msvd-qa-1.pt,Does HiTeA aim to address domain adaptation?,No
+visual-question-answering-on-msvd-qa-1.pt,Does MELTR aim to address unsupervised domain adaptation?,No
+visual-question-answering-on-msvd-qa-1.pt,Does VAST aim to address few-shot object detection?,No
+visual-question-answering-on-msvd-qa-1.pt,Does Open-vocabulary Video Question Answering aim to address few-shot image classification?,No
+visual-question-answering-on-msvd-qa-1.pt,Does MA-LMM aim to address action recognition?,No
+visual-question-answering-on-msvd-qa-1.pt,Does Unmasked Teacher aim to address action recognition?,No
+visual-question-answering-on-msvd-qa-1.pt,Does VALOR aim to address temporal action localization?,No
+visual-question-answering-on-msvd-qa-1.pt,Does Unmasked Teacher aim to address medical image segmentation?,No
+visual-question-answering-on-msvd-qa-1.pt,Does HiTeA aim to address anomaly detection?,No
+visual-question-answering-on-msvd-qa-1.pt,Does MA-LMM aim to address sentiment analysis?,No
+visual-question-answering-on-msvd-qa-1.pt,Does VLAB aim to address text-to-image generation?,No
+visual-question-answering-on-msvd-qa-1.pt,Does InternVideo aim to address temporal action localization?,No
+visual-question-answering-on-msvd-qa-1.pt,Does An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling aim to address anomaly detection?,No
+visual-question-answering-on-msvd-qa-1.pt,Does COSA aim to address semantic segmentation?,No
+visual-question-answering-on-msvd-qa-1.pt,Does X$^2$-VLM aim to address semantic segmentation?,No
+visual-question-answering-on-msvd-qa-1.pt,Does VALOR aim to address 3D point cloud classification?,No
+visual-question-answering-on-msvd-qa-1.pt,Does COSA aim to address sentiment analysis?,No
+visual-question-answering-on-ok-vqa.pt,Does An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA aim to address 3D point cloud classification?,No
+visual-question-answering-on-ok-vqa.pt,Does PaLI aim to address unsupervised domain adaptation?,No
+visual-question-answering-on-ok-vqa.pt,Does REVIVE aim to address unsupervised domain adaptation?,No
+visual-question-answering-on-ok-vqa.pt,Does A Simple Baseline for Knowledge-Based Visual Question Answering aim to address text-to-image generation?,No
+visual-question-answering-on-ok-vqa.pt,Does PromptCap aim to address text-to-image generation?,No
+visual-question-answering-on-ok-vqa.pt,Does Differentiable Outlier Detection Enable Robust Deep Multimodal Analysis aim to address few-shot image classification?,No
+visual-question-answering-on-ok-vqa.pt,Does Differentiable Outlier Detection Enable Robust Deep Multimodal Analysis aim to address 3D point cloud classification?,No
+visual-question-answering-on-ok-vqa.pt,Does Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering aim to address semantic segmentation?,No
+visual-question-answering-on-ok-vqa.pt,Does REVEAL aim to address anomaly detection?,No
+visual-question-answering-on-ok-vqa.pt,Does Lyrics aim to address few-shot image classification?,No
+visual-question-answering-on-ok-vqa.pt,Does PaLI-X aim to address 3D point cloud classification?,No
+visual-question-answering-on-ok-vqa.pt,Does Visual Program Distillation aim to address action recognition?,No
+visual-question-answering-on-ok-vqa.pt,Does Prophet aim to address fine-grained image classification?,No
+visual-question-answering-on-ok-vqa.pt,Does Retrieval Augmented Visual Question Answering with Outside Knowledge aim to address anomaly detection?,No
+visual-question-answering-on-ok-vqa.pt,Does An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA aim to address anomaly detection?,No
+visual-question-answering-on-ok-vqa.pt,Does PaLI-X aim to address medical image segmentation?,No
+visual-question-answering-on-ok-vqa.pt,Does PaLI-X aim to address fine-grained image classification?,No
+visual-question-answering-on-ok-vqa.pt,Does Prophet aim to address domain adaptation?,No
+visual-question-answering-on-ok-vqa.pt,Does Retrieval Augmented Visual Question Answering with Outside Knowledge aim to address object detection?,No
+visual-question-answering-on-ok-vqa.pt,Does Visual Program Distillation aim to address fine-grained image classification?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does Image as a Foreign Language aim to address object detection?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does Lyrics aim to address text-to-image generation?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does X$^2$-VLM aim to address text-to-image generation?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does mPLUG aim to address temporal action localization?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does X$^2$-VLM aim to address fine-grained image classification?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does Achieving Human Parity on Visual Question Answering aim to address semantic segmentation?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does ONE-PEACE aim to address medical image segmentation?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does mPLUG-2 aim to address object detection?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does mPLUG-2 aim to address sentiment analysis?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does Image as a Foreign Language aim to address domain adaptation?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does Image as a Foreign Language aim to address image classification?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does Achieving Human Parity on Visual Question Answering aim to address domain adaptation?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does VLMo aim to address unsupervised domain adaptation?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does Achieving Human Parity on Visual Question Answering aim to address sentiment analysis?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does Lyrics aim to address human-object interaction detection?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does ONE-PEACE aim to address semantic segmentation?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does ONE-PEACE aim to address human-object interaction detection?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does mPLUG-2 aim to address human-object interaction detection?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does VLMo aim to address few-shot image classification?,No
+visual-question-answering-on-vqa-v2-test-dev.pt,Does Lyrics aim to address image classification?,No
+weakly-supervised-object-detection-on-pascal-1.pt,Does Object Instance Mining for Weakly Supervised Object Detection aim to address temporal action localization?,No
+weakly-supervised-object-detection-on-pascal-1.pt,"Does Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection aim to address sentiment analysis?",No
+weakly-supervised-object-detection-on-pascal-1.pt,"Does Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection aim to address visual question answering?",No
+weakly-supervised-object-detection-on-pascal-1.pt,Does Towards Precise End-to-end Weakly Supervised Object Detection Network aim to address object detection?,No
+weakly-supervised-object-detection-on-pascal-1.pt,Does Towards Precise End-to-end Weakly Supervised Object Detection Network aim to address anomaly detection?,No
+weakly-supervised-object-detection-on-pascal-1.pt,Does WSOD with PSNet and Box Regression aim to address action recognition?,No
+weakly-supervised-object-detection-on-pascal-1.pt,"Does Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection aim to address semantic segmentation?",No
+weakly-supervised-object-detection-on-pascal-1.pt,Does WSOD with PSNet and Box Regression aim to address semantic segmentation?,No
+weakly-supervised-object-detection-on-pascal-1.pt,Does Object Instance Mining for Weakly Supervised Object Detection aim to address domain adaptation?,No
+weakly-supervised-object-detection-on-pascal-1.pt,Does Towards Precise End-to-end Weakly Supervised Object Detection Network aim to address action recognition?,No
+weakly-supervised-object-detection-on-pascal-1.pt,Does WSOD with PSNet and Box Regression aim to address temporal action localization?,No
+weakly-supervised-object-detection-on-pascal-1.pt,Does Towards Precise End-to-end Weakly Supervised Object Detection Network aim to address domain adaptation?,No
+weakly-supervised-object-detection-on-pascal-1.pt,"Does Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection aim to address few-shot image classification?",No
+weakly-supervised-object-detection-on-pascal-1.pt,Does Towards Precise End-to-end Weakly Supervised Object Detection Network aim to address visual question answering?,No
+weakly-supervised-object-detection-on-pascal-1.pt,Does WSOD with PSNet and Box Regression aim to address fine-grained image classification?,No
+weakly-supervised-object-detection-on-pascal-1.pt,"Does Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection aim to address unsupervised domain adaptation?",No
+weakly-supervised-object-detection-on-pascal-1.pt,"Does Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection aim to address text-to-image generation?",No
+weakly-supervised-object-detection-on-pascal-1.pt,Does Towards Precise End-to-end Weakly Supervised Object Detection Network aim to address few-shot object detection?,No
+weakly-supervised-object-detection-on-pascal-1.pt,Does Object Instance Mining for Weakly Supervised Object Detection aim to address medical image segmentation?,No
+weakly-supervised-object-detection-on-pascal-1.pt,"Does Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection aim to address fine-grained image classification?",No

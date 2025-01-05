@@ -1,0 +1,64 @@
+Rank,Model,mIoU,Pixel Accuracy,Mean Accuracy,Paper Title,Paper URL
+1,PlainSeg ,71.0,,,Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers,/paper/minimalist-and-high-performance-semantic
+2,InternImage-H,70.3,,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+3,RSSeg-ViT-L ,68.9,,,Representation Separation for Semantic Segmentation with Vision Transformers,/paper/representation-separation-for-semantic
+4,ViT-Adapter-L ,68.2,,,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+5,ViT-Adapter-L ,67.5,,,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+6,RSSeg-ViT-L,67.5,,,Representation Separation for Semantic Segmentation with Vision Transformers,/paper/representation-separation-for-semantic
+7,SegViT ,65.3,,,SegViT: Semantic Segmentation with Plain Vision Transformers,/paper/segvit-semantic-segmentation-with-plain
+8,CAA + CAR ,64.1,,,CAR: Class-aware Regularizations for Semantic Segmentation,/paper/car-class-aware-regularizations-for-semantic-1
+9,SenFormer ,64.0,,,Efficient Self-Ensemble for Semantic Segmentation,/paper/efficient-self-ensemble-framework-for-1
+10,Sequential Ensemble ,62.1,,,Sequential Ensembling for Semantic Segmentation,/paper/sequential-ensembling-for-semantic
+11,CAA + Simple decoder ,60.5,,,Channelized Axial Attention for Semantic Segmentation -- Considering Channel Relation within Spatial Attention for Semantic Segmentation,/paper/caa-channelized-axial-attention-for-semantic
+12,DPT-Hybrid,60.46,,,Vision Transformers for Dense Prediction,/paper/vision-transformers-for-dense-prediction
+13,CAA ,60.1,,,Channelized Axial Attention for Semantic Segmentation -- Considering Channel Relation within Spatial Attention for Semantic Segmentation,/paper/caa-channelized-axial-attention-for-semantic
+14,HRNetV2 + OCR + RMI ,59.6,,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+15,Seg-L-Mask/16,59.0,,,Segmenter: Transformer for Semantic Segmentation,/paper/segmenter-transformer-for-semantic
+16,ResNeSt-269,58.9,,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+17,ResNeSt-200,58.4,,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+18,CondNet,57.0,,,CondNet: Conditional Classifier for Scene Segmentation,/paper/condnet-conditional-classifier-for-scene
+19,SenFormer ,56.6,,,Efficient Self-Ensemble for Semantic Segmentation,/paper/efficient-self-ensemble-framework-for-1
+20,ResNeSt-101,56.5,,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+21,OCR ,56.2,,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+22,GPaCo ,56.2,,,Generalized Parametric Contrastive Learning,/paper/generalized-parametric-contrastive-learning
+23,CondNet,56.0,,,CondNet: Conditional Classifier for Scene Segmentation,/paper/condnet-conditional-classifier-for-scene
+24,SETR-MLA ,55.83,,,Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers,/paper/rethinking-semantic-segmentation-from-a
+25,DCNAS,55.6,,,DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation,/paper/dcnas-densely-connected-neural-architecture
+26,DRAN,55.4,,,Scene Segmentation with Dual Relation-aware Attention Network,/paper/scene-segmentation-with-dual-relation-aware
+27,DNL,55.3,,,Disentangled Non-Local Neural Networks,/paper/disentangled-non-local-neural-networks
+28,HamNet ,55.2,,,Is Attention Better Than Matrix Decomposition?,/paper/is-attention-better-than-matrix-decomposition-1
+29,CAA ,55.0,,,Channelized Axial Attention for Semantic Segmentation -- Considering Channel Relation within Spatial Attention for Semantic Segmentation,/paper/caa-channelized-axial-attention-for-semantic
+30,OCR ,54.8,,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+31,SIW,54.2,,,Scaling up Multi-domain Semantic Segmentation with Sentence Embeddings,/paper/the-devil-is-in-the-labels-semantic
+32,CFNet ,54.0,,,Co-Occurrent Features in Semantic Segmentation,/paper/co-occurrent-features-in-semantic
+33,CFNet ,54.0,,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+34,HRNetV2 HRNetV2-W48,54.0,,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+35,CPN,53.9,,,Context Prior for Scene Segmentation,/paper/context-prior-for-scene-segmentation
+36,LaU-regression-loss ,53.9,,,Location-aware Upsampling for Semantic Segmentation,/paper/location-aware-upsampling-for-semantic
+37,DGCNet ,53.7,,,Dual Graph Convolutional Network for Semantic Segmentation,/paper/dual-graph-convolutional-network-for-semantic
+38,BFP,53.6,,,Boundary-Aware Feature Propagation for Scene Segmentation,/paper/boundary-aware-feature-propagation-for-scene
+39,SVCNet ,53.2,,,Semantic Correlation Promoted Shape-Variant Context for Segmentation,/paper/semantic-correlation-promoted-shape-variant-1
+40,Joint Pyramid Upsampling + EncNet,53.1,,,FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation,/paper/fastfcn-rethinking-dilated-convolution-in-the
+41,EMANet,53.1,,,Expectation-Maximization Attention Networks for Semantic Segmentation,/paper/expectation-maximization-attention-networks
+42,Asymmetric ALNN,52.8,,,Asymmetric Non-local Neural Networks for Semantic Segmentation,/paper/asymmetric-non-local-neural-networks-for
+43,CASSOD,52.76,,,CASSOD-Net: Cascaded and Separable Structures of Dilated Convolution for Embedded Vision Systems and Applications,/paper/cassod-net-cascaded-and-separable-structures
+44,DANet ,52.6,,,Dual Attention Network for Scene Segmentation,/paper/dual-attention-network-for-scene-segmentation
+45,ICM,52.6,,,Scene Parsing via Integrated Classification Model and Variance-Based Regularization,/paper/scene-parsing-via-integrated-classification
+46,DUpsampling,52.5,,,Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation,/paper/decoders-matter-for-semantic-segmentation
+47,EncNet ,51.7,,,Context Encoding for Semantic Segmentation,/paper/context-encoding-for-semantic-segmentation
+48,CFNet ,51.5,,,Co-Occurrent Features in Semantic Segmentation,/paper/co-occurrent-features-in-semantic
+49,ResNet-38,48.1,,,Wider or Deeper: Revisiting the ResNet Model for Visual Recognition,/paper/wider-or-deeper-revisiting-the-resnet-model
+50,PSPNet ,47.8,,,Pyramid Scene Parsing Network,/paper/pyramid-scene-parsing-network
+51,RefineNet,47.3,,,RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation,/paper/refinenet-multi-path-refinement-networks-for
+52,DeepLabV2,45.7,,,"DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs",/paper/deeplab-semantic-image-segmentation-with-deep
+53,VeryDeep,44.5,,,Bridging Category-level and Instance-level Semantic Image Segmentation,/paper/bridging-category-level-and-instance-level
+54,Piecewise,43.3,,,Efficient piecewise training of deep structured models for semantic segmentation,/paper/efficient-piecewise-training-of-deep
+55,Dilated-FCN2s,42.6,,,Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation,/paper/efficient-yet-deep-convolutional-neural
+56,HO CRF,41.3,,,Higher Order Conditional Random Fields in Deep Neural Networks,/paper/higher-order-conditional-random-fields-in
+57,BoxSup,40.5,,,BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation,/paper/boxsup-exploiting-bounding-boxes-to-supervise
+58,ParseNet,40.4,,,ParseNet: Looking Wider to See Better,/paper/parsenet-looking-wider-to-see-better
+59,CRF-RNN,39.3,,,Conditional Random Fields as Recurrent Neural Networks,/paper/conditional-random-fields-as-recurrent-neural-1
+60,FCN-8s,37.8,,,Fully Convolutional Networks for Semantic Segmentation,/paper/fully-convolutional-networks-for-semantic-1
+61,CFM,34.4,,,Convolutional Feature Masking for Joint Object and Stuff Segmentation,/paper/convolutional-feature-masking-for-joint
+62,RBE2E,32.5,62.4,49.9,Region-based semantic segmentation with end-to-end training,/paper/region-based-semantic-segmentation-with-end
+63,SegCLIP,24.7,,,SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation,/paper/segclip-patch-aggregation-with-learnable

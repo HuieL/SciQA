@@ -1,0 +1,91 @@
+Rank,Model,mIoU,Pixel Accuracy,Paper Title,Paper URL
+1,BEiT-3,62.8,,Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks,/paper/image-as-a-foreign-language-beit-pretraining
+2,ViT-CoMer,62.1,,ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions,/paper/vit-comer-vision-transformer-with
+3,EVA,61.5,,EVA: Exploring the Limits of Masked Visual Representation Learning at Scale,/paper/eva-exploring-the-limits-of-masked-visual
+4,FD-SwinV2-G,61.4,,Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation,/paper/contrastive-learning-rivals-masked-image
+5,MaskDINO-SwinL,60.8,,Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation,/paper/mask-dino-towards-a-unified-transformer-based-1
+6,OneFormer ,60.8,,OneFormer: One Transformer to Rule Universal Image Segmentation,/paper/oneformer-one-transformer-to-rule-universal
+7,ViT-Adapter-L ,60.5,,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+8,OneFormer ,58.6,,OneFormer: One Transformer to Rule Universal Image Segmentation,/paper/oneformer-one-transformer-to-rule-universal
+9,ViT-Adapter-L ,58.4,,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+10,OneFormer ,58.4,,OneFormer: One Transformer to Rule Universal Image Segmentation,/paper/oneformer-one-transformer-to-rule-universal
+11,RSSeg-ViT-L,58.4,,Representation Separation for Semantic Segmentation with Vision Transformers,/paper/representation-separation-for-semantic
+12,OneFormer ,58.3,,OneFormer: One Transformer to Rule Universal Image Segmentation,/paper/oneformer-one-transformer-to-rule-universal
+13,SeMask ,58.2,,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+14,SeMask ,58.2,,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+15,DiNAT-L ,58.1,,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+16,Mask2Former ,57.7,,Masked-attention Mask Transformer for Universal Image Segmentation,/paper/masked-attention-mask-transformer-for
+17,OneFormer ,57.7,,OneFormer: One Transformer to Rule Universal Image Segmentation,/paper/oneformer-one-transformer-to-rule-universal
+18,SeMask ,57.5,,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+19,SenFormer ,57.1,,Efficient Self-Ensemble for Semantic Segmentation,/paper/efficient-self-ensemble-framework-for-1
+20,BEiT-L ,57.0,,BEiT: BERT Pre-Training of Image Transformers,/paper/beit-bert-pre-training-of-image-transformers
+21,SeMask ,57.0,,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+22,FaPN ,56.7,,FaPN: Feature-aligned Pyramid Network for Dense Image Prediction,/paper/fapn-feature-aligned-pyramid-network-for
+23,Mask2Former ,56.4,,Masked-attention Mask Transformer for Universal Image Segmentation,/paper/masked-attention-mask-transformer-for
+24,SeMask ,56.2,,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+25,CSWin-L ,55.7,,CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows,/paper/cswin-transformer-a-general-vision
+26,MaskFormer ,55.6,,Per-Pixel Classification is Not All You Need for Semantic Segmentation,/paper/per-pixel-classification-is-not-all-you-need
+27,DeiT-L,55.6,,DeiT III: Revenge of the ViT,/paper/deit-iii-revenge-of-the-vit
+28,Focal-L ,55.4,,Focal Self-attention for Local-Global Interactions in Vision Transformers,/paper/focal-self-attention-for-local-global
+29,SegViT ViT-Large,55.2,,SegViT: Semantic Segmentation with Plain Vision Transformers,/paper/segvit-semantic-segmentation-with-plain
+30,PatchDiverse + Swin-L ,54.4,,Vision Transformers with Patch Diversification,/paper/improve-vision-transformers-training-by
+31,K-Net,54.3,,K-Net: Towards Unified Image Segmentation,/paper/k-net-towards-unified-image-segmentation
+32,SenFormer ,54.2,,Efficient Self-Ensemble for Semantic Segmentation,/paper/efficient-self-ensemble-framework-for-1
+33,DeiT-B,54.1,,DeiT III: Revenge of the ViT,/paper/deit-iii-revenge-of-the-vit
+34,MixMIM-L,53.8,,MixMAE: Mixed and Masked Autoencoder for Efficient Pretraining of Hierarchical Vision Transformers,/paper/mixmim-mixed-and-masked-image-modeling-for
+35,Seg-L-Mask/16 ,53.63,,Segmenter: Transformer for Semantic Segmentation,/paper/segmenter-transformer-for-semantic
+36,Swin-L ,53.5,,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,/paper/swin-transformer-hierarchical-vision
+37,SeMask ,53.5,,SeMask: Semantically Masked Transformers for Semantic Segmentation,/paper/semask-semantically-masked-transformers-for-1
+38,PatchConvNet-L120 ,52.9,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+39,PatchConvNet-B120 ,52.8,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+40,SegFormer-B5,51.8,,SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers,/paper/segformer-simple-and-efficient-design-for
+41,Light-Ham ,51.5,,Is Attention Better Than Matrix Decomposition?,/paper/is-attention-better-than-matrix-decomposition-1
+42,CrossFormer ,51.4,84.0,CrossFormer: A Versatile Vision Transformer Hinging on Cross-scale Attention,/paper/crossformer-a-versatile-vision-transformer
+43,PatchConvNet-B60 ,51.1,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+44,Light-Ham ,51.0,,Is Attention Better Than Matrix Decomposition?,/paper/is-attention-better-than-matrix-decomposition-1
+45,UperNet Shuffle-B,50.5,,Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer,/paper/shuffle-transformer-rethinking-spatial
+46,ELSA-Swin-S,50.3,,ELSA: Enhanced Local Self-Attention for Vision Transformer,/paper/elsa-enhanced-local-self-attention-for-vision
+47,MixMIM-B,50.3,,MixMAE: Mixed and Masked Autoencoder for Efficient Pretraining of Hierarchical Vision Transformers,/paper/mixmim-mixed-and-masked-image-modeling-for
+48,Twins-SVT-L ,50.2,,Twins: Revisiting the Design of Spatial Attention in Vision Transformers,/paper/twins-revisiting-spatial-attention-design-in
+49,Seg-B-Mask/16 ,50.0,,Segmenter: Transformer for Semantic Segmentation,/paper/segmenter-transformer-for-semantic
+50,Swin-B ,49.7,,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,/paper/swin-transformer-hierarchical-vision
+51,gSwin-S,49.69,83.43,gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window,/paper/gswin-gated-mlp-vision-model-with
+52,Seg-B/8 ,49.61,83.37,Segmenter: Transformer for Semantic Segmentation,/paper/segmenter-transformer-for-semantic
+53,UperNet Shuffle-S,49.6,,Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer,/paper/shuffle-transformer-rethinking-spatial
+54,Light-Ham ,49.6,,Is Attention Better Than Matrix Decomposition?,/paper/is-attention-better-than-matrix-decomposition-1
+55,PatchConvNet-S60 ,49.3,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+56,DPT-Hybrid,49.02,83.11,Vision Transformers for Dense Prediction,/paper/vision-transformers-for-dense-prediction
+57,DaViT-S ,48.8,,DaViT: Dual Attention Vision Transformers,/paper/davit-dual-attention-vision-transformers
+58,ResNeSt-200,48.36,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+59,HRNetV2 + OCR + RMI ,47.98,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+60,gSwin-T,47.63,82.6,gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window,/paper/gswin-gated-mlp-vision-model-with
+61,ResNeSt-269,47.6,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+62,UperNet Shuffle-T,47.6,,Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer,/paper/shuffle-transformer-rethinking-spatial
+63,DCNAS,47.12,,DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation,/paper/dcnas-densely-connected-neural-architecture
+64,ResNeSt-101,46.91,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+65,Seg-S-Mask/16 ,46.9,,,
+66,DaViT-B ,46.3,,DaViT: Dual Attention Vision Transformers,/paper/davit-dual-attention-vision-transformers
+67,CPN,46.27,,Context Prior for Scene Segmentation,/paper/context-prior-for-scene-segmentation
+68,MultiMAE ,46.2,,MultiMAE: Multi-modal Multi-task Masked Autoencoders,/paper/multimae-multi-modal-multi-task-masked
+69,PyConvSegNet-152,45.99,82.49,Pyramidal Convolution: Rethinking Convolutional Neural Networks for Visual Recognition,/paper/pyramidal-convolution-rethinking
+70,DNL,45.97,,Disentangled Non-Local Neural Networks,/paper/disentangled-non-local-neural-networks
+71,CTNet,45.94,,CTNet: Context-based Tandem Network for Semantic Segmentation,/paper/ctnet-context-based-tandem-network-for
+72,ACNet ,45.9,,Adaptive Context Network for Scene Parsing,/paper/adaptive-context-network-for-scene-parsing-1
+73,ACNet,45.9,,Adaptive Context Network for Scene Parsing,/paper/adaptive-context-network-for-scene-parsing-1
+74,OCR ,45.66,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+75,EANet ,45.33,,Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks,/paper/beyond-self-attention-external-attention
+76,OCR ,45.28,,Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation,/paper/object-contextual-representations-for
+77,Asymmetric ALNN,45.24,,Asymmetric Non-local Neural Networks for Semantic Segmentation,/paper/asymmetric-non-local-neural-networks-for
+78,gSwin-VT,45.07,81.79,gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window,/paper/gswin-gated-mlp-vision-model-with
+79,LaU-regression-loss,45.02,,Location-aware Upsampling for Semantic Segmentation,/paper/location-aware-upsampling-for-semantic
+80,EncNet ,44.65,,Context Encoding for Semantic Segmentation,/paper/context-encoding-for-semantic-segmentation
+81,SGR ,44.32,,Symbolic Graph Reasoning Meets Convolutions,/paper/symbolic-graph-reasoning-meets-convolutions
+82,Auto-DeepLab-L,43.98,81.72,Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation,/paper/auto-deeplab-hierarchical-neural-architecture
+83,PSANet ,43.77,,PSANet: Point-wise Spatial Attention Network for Scene Parsing,/paper/psanet-point-wise-spatial-attention-network
+84,DSSPN ,43.68,,Dynamic-structured Semantic Propagation Network,/paper/dynamic-structured-semantic-propagation
+85,PSPNet ,43.51,,Pyramid Scene Parsing Network,/paper/pyramid-scene-parsing-network
+86,PSPNet ,43.29,,Pyramid Scene Parsing Network,/paper/pyramid-scene-parsing-network
+87,HRNetV2 ,42.99,,High-Resolution Representations for Labeling Pixels and Regions,/paper/high-resolution-representations-for-labeling
+88,UperNet ,42.66,,Unified Perceptual Parsing for Scene Understanding,/paper/unified-perceptual-parsing-for-scene
+89,RefineNet ,40.7,,RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation,/paper/refinenet-multi-path-refinement-networks-for
+90,RefineNet ,40.2,,RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation,/paper/refinenet-multi-path-refinement-networks-for

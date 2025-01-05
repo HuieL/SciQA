@@ -1,0 +1,208 @@
+Rank,Model,box AP,AP50,AP75,APS,APM,APL,Params (M),Paper Title,Paper URL
+1,Co-DETR,65.9,,,,,,348.0,DETRs with Collaborative Hybrid Assignments Training,/paper/detrs-with-collaborative-hybrid-assignments
+2,M3I Pre-training ,65.0,,,,,,,Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information,/paper/towards-all-in-one-pre-training-via
+3,InternImage-H,65.0,,,,,,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+4,Co-DETR ,64.7,,,,,,218.0,DETRs with Collaborative Hybrid Assignments Training,/paper/detrs-with-collaborative-hybrid-assignments
+5,Focal-Stable-DINO ,64.6,,,,,,,A Strong and Reproducible Object Detector with Only Public Datasets,/paper/a-strong-and-reproducible-object-detector
+6,EVA,64.5,82.1,70.8,49.4,68.4,78.5,,EVA: Exploring the Limits of Masked Visual Representation Learning at Scale,/paper/eva-exploring-the-limits-of-masked-visual
+7,ViT-CoMer,64.3,,,,,,363.0,ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions,/paper/vit-comer-vision-transformer-with
+8,FocalNet-H ,64.2,,,,,,,Focal Modulation Networks,/paper/focal-modulation-networks
+9,InternImage-XL,64.2,,,,,,,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+10,RevCol-H,63.8,,,,,,,Reversible Column Networks,/paper/reversible-column-networks
+11,DINO,63.2,,,,,,,DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection,/paper/dino-detr-with-improved-denoising-anchor-1
+12,Grounding DINO,63.0,,,,,,,Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection,/paper/grounding-dino-marrying-dino-with-grounded
+13,SwinV2-G ,62.5,,,,,,,Swin Transformer V2: Scaling Up Capacity and Resolution,/paper/swin-transformer-v2-scaling-up-capacity-and
+14,Florence-CoSwin-H,62.0,,,,,,,Florence: A New Foundation Model for Computer Vision,/paper/florence-a-new-foundation-model-for-computer
+15,GLEE-Pro,62.0,,,,,,,General Object Foundation Model for Images and Videos at Scale,/paper/general-object-foundation-model-for-images
+16,"ViTDet, ViT-H Cascade ",61.3,,,,,,,Exploring Plain Vision Transformer Backbones for Object Detection,/paper/exploring-plain-vision-transformer-backbones
+17,GLIP ,60.8,,,,,,,Grounded Language-Image Pre-training,/paper/grounded-language-image-pre-training
+18,Soft Teacher + Swin-L ,60.7,,,,,,,End-to-End Semi-Supervised Object Detection with Soft Teacher,/paper/end-to-end-semi-supervised-object-detection
+19,UNINEXT-H,60.6,77.5,66.7,45.1,64.8,75.3,,Universal Instance Perception as Object Discovery and Retrieval,/paper/universal-instance-perception-as-object
+20,ViT-Adapter-L ,60.5,,,,,,,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+21,"ViTDet, ViT-H Cascade",60.4,,,,,,,Exploring Plain Vision Transformer Backbones for Object Detection,/paper/exploring-plain-vision-transformer-backbones
+22,GLEE-Plus,60.4,,,,,,,General Object Foundation Model for Images and Videos at Scale,/paper/general-object-foundation-model-for-images
+23,DyHead ,60.3,78.2,,,,74.2,,Dynamic Head: Unifying Object Detection Heads with Attentions,/paper/dynamic-head-unifying-object-detection-heads
+24,ViT-Adapter-L ,60.2,,,,,,,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+25,Soft Teacher+Swin-L,60.1,,,,,,,End-to-End Semi-Supervised Object Detection with Soft Teacher,/paper/end-to-end-semi-supervised-object-detection
+26,CBNetV2 ,59.6,,,,,,,CBNet: A Composite Backbone Network Architecture for Object Detection,/paper/cbnetv2-a-composite-backbone-network
+27,"Frozen Backbone, SwinV2-G-ext22K ",59.3,,,,,,,Could Giant Pretrained Image Models Extract Universal Representations?,/paper/could-giant-pretrained-image-models-extract
+28,HorNet-L,59.2,,,,,,,HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions,/paper/hornet-efficient-high-order-spatial
+29,MOAT-3 ,59.2,,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+30,CBNetV2 ,59.1,,,,,,,CBNet: A Composite Backbone Network Architecture for Object Detection,/paper/cbnetv2-a-composite-backbone-network
+31,Focal-L ,58.7,77.2,,,,73.4,,Focal Self-attention for Local-Global Interactions in Vision Transformers,/paper/focal-self-attention-for-local-global
+32,MViTv2-L ,58.7,,,,,,,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+33,MOAT-2 ,58.5,,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+34,DyHead ,58.4,76.8,,44.5,62.2,73.2,,Dynamic Head: Unifying Object Detection Heads with Attentions,/paper/dynamic-head-unifying-object-detection-heads
+35,Swin-L ,58.0,,,,,,,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,/paper/swin-transformer-hierarchical-vision
+36,MOAT-1 ,57.7,,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+37,UM-MAE,57.4,,,,,,,Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality,/paper/uniform-masking-enabling-mae-pre-training-for
+38,YOLOv6-L6,57.2,74.5,,,,,,YOLOv6 v3.0: A Full-Scale Reloading,/paper/yolov6-v3-0-a-full-scale-reloading
+39,Swin-L ,57.1,,,,,,,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,/paper/swin-transformer-hierarchical-vision
+40,TransNeXt-Base ,57.1,,,,,,,TransNeXt: Robust Foveal Visual Perception for Vision Transformers,/paper/transnext-robust-foveal-visual-perception-for
+41,Cascade Eff-B7 NAS-FPN ,57.0,,,,,,,Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation,/paper/simple-copy-paste-is-a-strong-data
+42,TransNeXt-Small ,56.6,,,,,,,TransNeXt: Robust Foveal Visual Perception for Vision Transformers,/paper/transnext-robust-foveal-visual-perception-for
+43,QueryInst ,56.1,75.8,61.7,40.2,59.8,71.5,,Instances as Queries,/paper/queryinst-parallelly-supervised-mask-query
+44,MViTv2-H ,56.1,,,,,,,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+45,MOAT-0 ,55.9,,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+46,TransNeXt-Tiny ,55.7,,,,,,,TransNeXt: Robust Foveal Visual Perception for Vision Transformers,/paper/transnext-robust-foveal-visual-perception-for
+47,YOLOv4-P7 CSP-P7 ,55.4,73.3,60.7,38.1,59.5,67.4,,Scaled-YOLOv4: Scaling Cross Stage Partial Network,/paper/scaled-yolov4-scaling-cross-stage-partial
+48,tiny-MOAT-3 ,55.2,,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+49,FAN-L-Hybrid,55.1,,,,,,,Understanding The Robustness in Vision Transformers,/paper/understanding-the-robustness-in-vision
+50,Hiera-L,55.0,,,,,,,Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles,/paper/hiera-a-hierarchical-vision-transformer
+51,GLEE-Lite,55.0,,,,,,,General Object Foundation Model for Images and Videos at Scale,/paper/general-object-foundation-model-for-images
+52,TEC,54.6,,,,,,,Towards Sustainable Self-supervised Learning,/paper/towards-sustainable-self-supervised-learning
+53,Cascade Eff-B7 NAS-FPN ,54.5,,,,,,,Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation,/paper/simple-copy-paste-is-a-strong-data
+54,CAE ,54.5,,,,,,,Context Autoencoder for Self-Supervised Representation Learning,/paper/context-autoencoder-for-self-supervised
+55,MViTv2-L ,54.3,,,,,,,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+56,SpineNet-190 ,54.2,,,,,,,Rethinking Pre-training and Self-training,/paper/rethinking-pre-training-and-self-training
+57,Cascade RCNN-RS ,53.6,,,34.5,56.7,70.6,,Simple Training Strategies and Model Scaling for Object Detection,/paper/simple-training-strategies-and-model-scaling
+58,UniverseNet-20.08d ,53.5,70.8,58.9,36.9,57.5,68.1,,USB: Universal-Scale Object Detection Benchmark,/paper/usb-universal-scale-object-detection
+59,MAE ,53.3,,,,,,,Masked Autoencoders Are Scalable Vision Learners,/paper/masked-autoencoders-are-scalable-vision
+60,Cascade RCNN-RS ,53.1,,,33.9,56.2,70.3,,Simple Training Strategies and Model Scaling for Object Detection,/paper/simple-training-strategies-and-model-scaling
+61,tiny-MOAT-2 ,53.0,,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+62,MViT-L ,52.7,,,,,,,MViTv2: Improved Multiscale Vision Transformers for Classification and Detection,/paper/improved-multiscale-vision-transformers-for
+63,ResNeSt-200 ,52.47,71.0,57.07,36.8,56.36,66.29,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+64,ActiveMLP-B ,52.3,,,,,,,Active Token Mixer,/paper/activemlp-an-mlp-like-architecture-with
+65,RetinaNet ,52.2,,,,,,,SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization,/paper/spinenet-learning-scale-permuted-backbone-for
+66,EfficientDet-D7 ,52.1,,,,,,,EfficientDet: Scalable and Efficient Object Detection,/paper/efficientdet-scalable-and-efficient-object
+67,tiny-MOAT-1 ,51.9,,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+68,GCNet ,51.8,70.4,56.1,,,,,Global Context Networks,/paper/global-context-networks
+69,ELSA-S ,51.6,70.5,56.0,,,,,ELSA: Enhanced Local Self-Attention for Vision Transformer,/paper/elsa-enhanced-local-self-attention-for-vision
+70,FocalNet-T ,51.5,70.3,56.0,,,,,Focal Modulation Networks,/paper/focal-modulation-networks
+71,ResNeSt-200-DCN ,50.91,69.53,55.4,32.67,54.66,65.83,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+72,UniverseNet-20.08d ,50.9,69.5,55.4,33.5,55.5,65.8,,USB: Universal-Scale Object Detection Benchmark,/paper/usb-universal-scale-object-detection
+73,ResNeSt-200 ,50.54,68.78,55.17,,54.2,63.9,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+74,tiny-MOAT-0 ,50.5,,,,,,,MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models,/paper/moat-alternating-mobile-convolution-and
+75,MAE ,50.3,,,,,,,Masked Autoencoders Are Scalable Vision Learners,/paper/masked-autoencoders-are-scalable-vision
+76,Sparse R-CNN ,50.1,69.5,54.9,,,,,PVT v2: Improved Baselines with Pyramid Vision Transformer,/paper/pvtv2-improved-baselines-with-pyramid-vision
+77,Pix2seq ,50.0,,,,,,,Pix2seq: A Language Modeling Framework for Object Detection,/paper/pix2seq-a-language-modeling-framework-for
+78,DaViT-T ,49.9,,,,,,,DaViT: Dual Attention Vision Transformers,/paper/davit-dual-attention-vision-transformers
+79,BoTNet 200 ,49.7,71.3,54.6,,,,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+80,BoTNet 152 ,49.5,71.0,54.2,,,,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+81,REGO-Deformable DETR-X101,49.1,67.5,53.1,30.0,52.6,65.0,,Recurrent Glimpse-based Decoder for Detection with Transformer,/paper/recurrent-glimpse-based-decoder-for-detection
+82,CenterMask+VoVNet99 ,48.6,67.8,,,,,,CenterMask : Real-Time Anchor-Free Instance Segmentation,/paper/centermask-real-time-anchor-free-instance-1
+83,Mask R-CNN ,48.6,66.8,52.9,,,,,Rethinking ImageNet Pre-training,/paper/rethinking-imagenet-pre-training
+84,UniverseNet-20.08 ,48.5,67.0,52.6,30.6,52.7,62.7,,USB: Universal-Scale Object Detection Benchmark,/paper/usb-universal-scale-object-detection
+85,XCiT-M24/8,48.5,,,,,,,XCiT: Cross-Covariance Image Transformers,/paper/xcit-cross-covariance-image-transformers
+86,ELSA-S ,48.3,70.4,52.9,,,,,ELSA: Enhanced Local Self-Attention for Vision Transformer,/paper/elsa-enhanced-local-self-attention-for-vision
+87,XCiT-S24/8,48.1,,,,,,,XCiT: Cross-Covariance Image Transformers,/paper/xcit-cross-covariance-image-transformers
+88,GCNet ,47.9,66.9,52.2,,,,,GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond,/paper/gcnet-non-local-networks-meet-squeeze
+89,MAE-Det,47.8,65.5,52.2,30.3,51.9,61.1,,MAE-DET: Revisiting Maximum Entropy Principle in Zero-Shot NAS for Efficient Object Detection,/paper/revisiting-efficient-object-detection
+90,Res2Net101+HTC,47.5,66.5,51.3,28.6,51.6,62.1,,Res2Net: A New Multi-scale Backbone Architecture,/paper/res2net-a-new-multi-scale-backbone
+91,Mask R-CNN ,47.4,,,,,,,Rethinking ImageNet Pre-training,/paper/rethinking-imagenet-pre-training
+92,Pix2seq ,47.3,,,,,,,Pix2seq: A Language Modeling Framework for Object Detection,/paper/pix2seq-a-language-modeling-framework-for
+93,Pix2seq ,47.1,,,,,,,Pix2seq: A Language Modeling Framework for Object Detection,/paper/pix2seq-a-language-modeling-framework-for
+94,HTC ,47.0,,,28.8,50.3,62.2,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+95,PatchConvNet-S120 ,47.0,,,,,,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+96,RPDet ,46.8,,,,,,,RepPoints: Point Set Representation for Object Detection,/paper/reppoints-point-set-representation-for-object
+97,DyHead ,46.5,,,,,,,Dynamic Head: Unifying Object Detection Heads with Attentions,/paper/dynamic-head-unifying-object-detection-heads
+98,Mask R-CNN ,46.4,67.1,51.1,,,,,Rethinking ImageNet Pre-training,/paper/rethinking-imagenet-pre-training
+99,RPDet ,46.4,,,,,,,RepPoints: Point Set Representation for Object Detection,/paper/reppoints-point-set-representation-for-object
+100,PatchConvNet-S60 ,46.4,,,,,,,Augmenting Convolutional networks with attention-based aggregation,/paper/augmenting-convolutional-networks-with
+101,Cascade Mask R-CNN ,46.3,64.3,50.5,,,,,Deep Residual Learning for Image Recognition,/paper/deep-residual-learning-for-image-recognition
+102,HoughNet ,46.1,64.6,50.3,30.0,48.8,59.7,,HoughNet: Integrating near and long-range evidence for bottom-up object detection,/paper/houghnet-integrating-near-and-long-range
+103,Mask R-CNN ,46.0,,,27.5,,60.1,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+104,BoTNet 50 ,45.9,,,,,,,Bottleneck Transformers for Visual Recognition,/paper/bottleneck-transformers-for-visual
+105,Sparse R-CNN ,45.6,64.6,49.5,28.3,48.3,61.6,,Sparse R-CNN: End-to-End Object Detection with Learnable Proposals,/paper/sparse-r-cnn-end-to-end-object-detection-with
+106,CenterMask+VoVNetV2-99 ,45.6,,,29.2,,58.8,,CenterMask : Real-Time Anchor-Free Instance Segmentation,/paper/centermask-real-time-anchor-free-instance-1
+107,HTC ,45.3,,,27.0,48.4,59.5,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+108,Mask R-CNN ,45.0,67.8,48.9,,,,,Non-local Neural Networks,/paper/non-local-neural-networks
+109,Pix2seq ,45.0,63.2,48.6,28.2,48.9,60.4,,Pix2seq: A Language Modeling Framework for Object Detection,/paper/pix2seq-a-language-modeling-framework-for
+110,Mask R-CNN-FPN ,44.9,66.2,49.1,,,,,Attentive Normalization,/paper/attentive-normalization
+111,DETR-DC5 ,44.9,64.7,47.7,23.7,49.5,62.3,,End-to-End Object Detection with Transformers,/paper/end-to-end-object-detection-with-transformers
+112,Mask R-CNN ,44.9,,,28.5,,57.7,,CenterMask : Real-Time Anchor-Free Instance Segmentation,/paper/centermask-real-time-anchor-free-instance-1
+113,R3-CNN ,44.8,64.3,48.9,26.6,48.3,59.6,,Recursively Refined R-CNN: Instance Segmentation with Self-RoI Rebalancing,/paper/recursively-refined-r-cnn-instance
+114,RPDet ,44.8,,,,,,,RepPoints: Point Set Representation for Object Detection,/paper/reppoints-point-set-representation-for-object
+115,RetinaNet ,44.7,,47.6,29.9,48.0,58.1,,Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding,/paper/2103-15358
+116,Cascade R-CNN ,44.6,62.7,48.7,26.3,48.1,58.5,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+117,CenterMask+VoVNetV2-57 ,44.6,,,27.7,48.3,,,CenterMask : Real-Time Anchor-Free Instance Segmentation,/paper/centermask-real-time-anchor-free-instance-1
+118,Sparse R-CNN ,44.5,63.4,48.2,26.9,47.2,59.5,,Sparse R-CNN: End-to-End Object Detection with Learnable Proposals,/paper/sparse-r-cnn-end-to-end-object-detection-with
+119,GFL ,44.5,63.0,48.3,,,,,Deep Residual Learning for Image Recognition,/paper/deep-residual-learning-for-image-recognition
+120,RPDet ,44.5,,,,,,,RepPoints: Point Set Representation for Object Detection,/paper/reppoints-point-set-representation-for-object
+121,CenterMask+X101-32x8d ,44.4,,,26.7,,57.1,,CenterMask : Real-Time Anchor-Free Instance Segmentation,/paper/centermask-real-time-anchor-free-instance-1
+122,RetinaNet ,44.3,65.5,47.1,28.9,47.9,58.3,,Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding,/paper/2103-15358
+123,R3-CNN ,44.3,64.1,48.4,27.0,47.1,58.9,,Recursively Refined R-CNN: Instance Segmentation with Self-RoI Rebalancing,/paper/recursively-refined-r-cnn-instance
+124,Faster RCNN-R101-FPN+,44.0,63.9,47.8,27.2,48.1,56.0,,End-to-End Object Detection with Transformers,/paper/end-to-end-object-detection-with-transformers
+125,Cascade R-CNN ,43.7,61.7,47.7,25.6,46.5,57.4,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+126,Sparse R-CNN ,43.5,62.1,47.2,26.1,46.3,59.7,,Sparse R-CNN: End-to-End Object Detection with Learnable Proposals,/paper/sparse-r-cnn-end-to-end-object-detection-with
+127,ATSS ,43.5,61.9,47.0,,,,,Deep Residual Learning for Image Recognition,/paper/deep-residual-learning-for-image-recognition
+128,PVT-Large ,43.4,63.6,46.1,26.1,46.0,59.5,,Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions,/paper/pyramid-vision-transformer-a-versatile
+129,ExtremeNet ,43.3,59.6,46.8,25.7,46.6,59.4,,Bottom-up Object Detection by Grouping Extreme and Center Points,/paper/bottom-up-object-detection-by-grouping
+130,Pix2seq ,43.2,61.0,46.1,26.6,47.0,58.6,,Pix2seq: A Language Modeling Framework for Object Detection,/paper/pix2seq-a-language-modeling-framework-for
+131,HTC ,43.2,59.4,40.7,20.3,40.9,52.3,,Hybrid Task Cascade for Instance Segmentation,/paper/hybrid-task-cascade-for-instance-segmentation
+132,Mask R-CNN-FPN ,43.12,64.15,47.11,25.49,47.19,56.39,,Micro-Batch Training with Batch-Channel Normalization and Weight Standardization,/paper/weight-standardization
+133,HTC ,43.1,,,26.6,46.0,,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+134,Mask R-CNN ,43.1,,,,,,,"Deformable ConvNets v2: More Deformable, Better Results",/paper/deformable-convnets-v2-more-deformable-better
+135,HoughNet ,43.0,62.2,46.9,25.5,47.6,55.8,,HoughNet: Integrating near and long-range evidence for bottom-up object detection,/paper/houghnet-integrating-near-and-long-range
+136,Faster R-CNN ,42.8,64.0,46.4,26.9,46.0,55.0,,X-volution: On the unification of convolution and self-attention,/paper/x-volution-on-the-unification-of-convolution
+137,Cascade R-CNN ,42.7,61.6,46.6,23.8,46.2,57.4,,Cascade R-CNN: Delving into High Quality Object Detection,/paper/cascade-r-cnn-delving-into-high-quality
+138,PVT-Large ,42.6,63.7,45.4,25.8,46.0,58.4,,Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions,/paper/pyramid-vision-transformer-a-versatile
+139,CornerNet-Saccade ,42.6,,,25.5,44.3,58.4,,CornerNet-Lite: Efficient Keypoint Based Object Detection,/paper/190408900
+140,Pix2seq ,42.6,,,,,,,Pix2seq: A Language Modeling Framework for Object Detection,/paper/pix2seq-a-language-modeling-framework-for
+141,Mask R-CNN ,42.3,62.8,46.2,,,,,Group Normalization,/paper/group-normalization
+142,Sparse R-CNN ,42.3,61.2,45.7,26.7,44.6,57.6,,Sparse R-CNN: End-to-End Object Detection with Learnable Proposals,/paper/sparse-r-cnn-end-to-end-object-detection-with
+143,Mask R-CNN ,42.3,,,25.0,45.4,,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+144,DETR-ResNet50 with iRPE-K ,42.3,,,,,,,Rethinking and Improving Relative Position Encoding for Vision Transformer,/paper/rethinking-and-improving-relative-position
+145,TridentNet ,42.0,63.5,45.5,24.9,47.0,56.9,,Scale-Aware Trident Networks for Object Detection,/paper/scale-aware-trident-networks-for-object
+146,R3-CNN ,42.0,61.0,46.3,24.5,45.2,55.7,,Recursively Refined R-CNN: Instance Segmentation with Self-RoI Rebalancing,/paper/recursively-refined-r-cnn-instance
+147,Faster R-CNN ,41.8,62.8,45.9,,44.7,54.6,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+148,Faster R-CNN ,41.7,63.6,45.6,25.2,45.8,,,LIP: Local Importance-based Pooling,/paper/lip-local-importance-based-pooling
+149,Faster R-CNN ,41.7,,,22.2,45.8,58.7,,"Deformable ConvNets v2: More Deformable, Better Results",/paper/deformable-convnets-v2-more-deformable-better
+150,FSAF ,41.6,62.4,,,,,,Feature Selective Anchor-Free Module for Single-Shot Object Detection,/paper/feature-selective-anchor-free-module-for
+151,CornerNet-Saccade ,41.4,,,23.8,43.5,57.1,,CornerNet-Lite: Efficient Keypoint Based Object Detection,/paper/190408900
+152,Grid R-CNN ,41.3,60.3,44.4,23.4,45.8,54.1,,Grid R-CNN,/paper/grid-r-cnn
+153,Cascade R-CNN ,41.3,59.2,44.9,23.7,44.2,54.1,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+154,CenterNet511 ,41.3,59.2,43.9,23.6,43.8,55.8,,CenterNet: Keypoint Triplets for Object Detection,/paper/centernet-object-detection-with-keypoint
+155,RetinaMask ,41.1,60.2,44.1,,,,,RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free,/paper/retinamask-learning-to-predict-masks-improves
+156,PoolFormer-S36 ,41.0,63.1,44.8,,,,,MetaFormer Is Actually What You Need for Vision,/paper/metaformer-is-actually-what-you-need-for
+157,Faster R-CNN ,40.9,61.8,44.8,24.4,43.7,53.3,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+158,VirTex Mask R-CNN ,40.9,,,,,,,VirTex: Learning Visual Representations from Textual Annotations,/paper/virtex-learning-visual-representations-from
+159,Mask R-CNN ,40.8,63.1,44.5,,,,,Non-local Neural Networks,/paper/non-local-neural-networks
+160,Mask R-CNN ,40.8,61.6,44.4,,,,,Group Normalization,/paper/group-normalization
+161,RPDet ,40.8,,,,,,,RepPoints: Point Set Representation for Object Detection,/paper/reppoints-point-set-representation-for-object
+162,DETR-ResNet50 with iRPE-K ,40.8,,,,,,,Rethinking and Improving Relative Position Encoding for Vision Transformer,/paper/rethinking-and-improving-relative-position
+163,Faster R-CNN+aLRP Loss ,40.7,60.7,43.3,,,,,"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection",/paper/a-ranking-based-balanced-loss-function
+164,PPDet ,40.5,59.5,44.2,25.4,44.7,52.3,,Reducing Label Noise in Anchor-Free Object Detection,/paper/reducing-label-noise-in-anchor-free-object
+165,GCnet ,40.3,62.4,44.0,24.2,44.4,52.5,,GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond,/paper/gcnet-non-local-networks-meet-squeeze
+166,Mask R-CNN ,40.3,61.0,44.0,,,,,Group Normalization,/paper/group-normalization
+167,Cascade R-CNN ,40.3,59.4,43.7,22.9,43.7,54.1,,Cascade R-CNN: Delving into High Quality Object Detection,/paper/cascade-r-cnn-delving-into-high-quality
+168,ExtremeNet ,40.3,55.1,43.7,21.6,44.0,56.1,,Bottom-up Object Detection by Grouping Extreme and Center Points,/paper/bottom-up-object-detection-by-grouping
+169,RPDet ,40.3,,,,,,,RepPoints: Point Set Representation for Object Detection,/paper/reppoints-point-set-representation-for-object
+170,RetinaNet+aLRP Loss ,40.2,60.3,42.3,,,,,"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection",/paper/a-ranking-based-balanced-loss-function
+171,Mask R-CNN ,40.0,,,,,,,Mask R-CNN,/paper/mask-r-cnn
+172,FPN+,39.8,61.3,43.3,22.9,43.3,52.6,,Feature Pyramid Networks for Object Detection,/paper/feature-pyramid-networks-for-object-detection
+173,FoveaBox+aLRP Loss ,39.7,58.8,41.5,,,,,"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection",/paper/a-ranking-based-balanced-loss-function
+174,Grid R-CNN ,39.6,58.3,42.4,22.6,43.8,51.5,,Grid R-CNN,/paper/grid-r-cnn
+175,Mask R-CNN ,39.5,,,,,,,Adaptively Connected Neural Networks,/paper/adaptively-connected-neural-networks
+176,FSAF ,39.3,59.2,,,,,,Feature Selective Anchor-Free Module for Single-Shot Object Detection,/paper/feature-selective-anchor-free-module-for
+177,Mask R-CNN ,39.2,,,,41.7,51.0,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+178,Mask R-CNN ,39.0,61.1,41.9,,,,,Non-local Neural Networks,/paper/non-local-neural-networks
+179,FoveaBox ,38.9,58.4,41.5,22.3,43.5,51.7,,FoveaBox: Beyond Anchor-based Object Detector,/paper/foveabox-beyond-anchor-based-object-detector
+180,FCOS ,38.6,57.4,41.4,22.3,42.5,49.8,,FCOS: Fully Convolutional One-Stage Object Detection,/paper/fcos-fully-convolutional-one-stage-object
+181,RPDet ,38.6,,,,,,,RepPoints: Point Set Representation for Object Detection,/paper/reppoints-point-set-representation-for-object
+182,Libra R-CNN ,38.5,59.3,42.0,22.9,42.1,50.5,,Libra R-CNN: Towards Balanced Learning for Object Detection,/paper/libra-r-cnn-towards-balanced-learning-for
+183,Mask R-CNN ,38.4,59.9,41.7,22.9,42.1,49.7,,A novel Region of Interest Extraction Layer for Instance Segmentation,/paper/a-novel-region-of-interest-extraction-layer
+184,CornerNet511 ,38.4,53.8,40.9,18.6,40.5,51.8,,CornerNet: Detecting Objects as Paired Keypoints,/paper/cornernet-detecting-objects-as-paired
+185,FoveaBox+Retina ,38.1,57.8,40.5,,,,,FoveaBox: Beyond Anchor-based Object Detector,/paper/foveabox-beyond-anchor-based-object-detector
+186,Faster R-CNN ,38.0,58.9,41.5,22.6,40.8,49.6,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+187,FoveaBox ,38.0,57.8,40.2,19.5,42.2,52.7,,FoveaBox: Beyond Anchor-based Object Detector,/paper/foveabox-beyond-anchor-based-object-detector
+188,FSAF ,37.9,58.0,,,,,,Feature Selective Anchor-Free Module for Single-Shot Object Detection,/paper/feature-selective-anchor-free-module-for
+189,Mask R-CNN ,37.7,,,,,,,Mask R-CNN,/paper/mask-r-cnn
+190,Faster R-CNN ,37.5,59.2,40.6,22.3,41.5,47.8,,A novel Region of Interest Extraction Layer for Instance Segmentation,/paper/a-novel-region-of-interest-extraction-layer
+191,Mask R-CNN ,36.7,59.5,38.9,,,,,Mask R-CNN,/paper/mask-r-cnn
+192,FoveaBox ,36.0,55.2,37.9,18.6,39.4,50.5,,FoveaBox: Beyond Anchor-based Object Detector,/paper/foveabox-beyond-anchor-based-object-detector
+193,FSAF ,35.9,55.0,37.9,19.8,39.6,48.2,,Feature Selective Anchor-Free Module for Single-Shot Object Detection,/paper/feature-selective-anchor-free-module-for
+194,GHM-C + GHM-R ,35.8,55.5,38.1,19.6,39.6,46.7,,Gradient Harmonized Single-stage Detector,/paper/gradient-harmonized-single-stage-detector
+195,Online Fg Bal. Sampling+Hard Negative Mining ,35.6,55.3,,,,,,Generating Positive Bounding Boxes for Balanced Training of Object Detectors,/paper/190909777
+196,M2Det ,34.1,53.7,,15.9,39.5,49.3,,M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network,/paper/m2det-a-single-shot-object-detector-based-on
+197,Faster R-CNN ,33.7,53.6,,14.0,38.3,51.1,,Res2Net: A New Multi-scale Backbone Architecture,/paper/res2net-a-new-multi-scale-backbone
+198,M2Det ,33.2,52.2,,15.0,38.2,49.1,,M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network,/paper/m2det-a-single-shot-object-detector-based-on
+199,SOLQ ,,74.9,61.3,,,71.9,,SOLQ: Segmenting Objects by Learning Queries,/paper/solq-segmenting-objects-by-learning-queries
+200,YOLOR-D6 ,,73.5,60.6,40.4,60.1,68.7,,You Only Learn One Representation: Unified Network for Multiple Tasks,/paper/you-only-learn-one-representation-unified
+201,EfficientDet-D7x ,,73.4,59.0,40.0,58.0,67.9,,EfficientDet: Scalable and Efficient Object Detection,/paper/efficientdet-scalable-and-efficient-object
+202,YOLOR-P6 ,,70.6,57.4,37.4,57.3,65.2,,You Only Learn One Representation: Unified Network for Multiple Tasks,/paper/you-only-learn-one-representation-unified
+203,FocalNet-T ,,70.1,55.8,,,,,Focal Modulation Networks,/paper/focal-modulation-networks
+204,R3-CNN ,,61.2,45.6,24.4,,,,Recursively Refined R-CNN: Instance Segmentation with Self-RoI Rebalancing,/paper/recursively-refined-r-cnn-instance
+205,Mask R-CNN ,,,,26.1,47.9,,,Deep High-Resolution Representation Learning for Visual Recognition,/paper/190807919
+206,Shift-T,,,,,42.3,,,When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism,/paper/when-shift-operation-meets-vision-transformer
+207,DyHead ,,,,,,66.3,,Dynamic Head: Unifying Object Detection Heads with Attentions,/paper/dynamic-head-unifying-object-detection-heads

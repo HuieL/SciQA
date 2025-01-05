@@ -1,0 +1,36 @@
+Rank,Model,Accuracy,Paper Title,Paper URL
+1,PT+MAP+SF+SOT ,95.8,The Self-Optimal-Transport Feature Transform,/paper/the-self-optimal-transport-feature-transform
+2,CAML [Laion-2b],95.8,Context-Aware Meta-Learning,/paper/context-aware-meta-learning
+3,PT+MAP+SF ,95.48,Few-Shot Learning by Integrating Spatial and Frequency Representation,/paper/few-shot-learning-by-integrating-spatial-and
+4,PEMnE-BMS*,94.78,Squeezing Backbone Feature Distributions to the Max for Efficient Few-Shot Learning,/paper/squeezing-backbone-feature-distributions-to
+5,Illumination Augmentation,94.73,Sill-Net: Feature Augmentation with Separated Illumination Representation,/paper/sill-net-feature-augmentation-with-separated
+6,LST+MAP,91.68,Transfer learning based few-shot classification using optimal transport mapping from preprocessed latent space of backbone neural network,/paper/transfer-learning-based-few-shot
+7,PT+MAP,91.55,Leveraging the Feature Distribution in Transfer-based Few-Shot Learning,/paper/leveraging-the-feature-distribution-in
+8,EASY 3xResNet12 ,90.56,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+9,EASY 4xResNet12 ,90.5,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+10,BAVARDAGE,90.42,Adaptive Dimension Reduction and Variational Inference for Transductive Few-Shot Classification,/paper/adaptive-dimension-reduction-and-variational
+11,ICI,89.58,Instance Credibility Inference for Few-Shot Learning,/paper/instance-credibility-inference-for-few-shot
+12,Transfer+SGC,88.35,Graph-based Interpolation of Feature Vectors for Accurate Few-Shot Classification,/paper/exploiting-unsupervised-inputs-for-accurate
+13,ESPT,85.45,ESPT: A Self-Supervised Episodic Spatial Pretext Task for Improving Few-Shot Learning,/paper/espt-a-self-supervised-episodic-spatial
+14,TDM,84.36,Task Discrepancy Maximization for Fine-grained Few-Shot Classification,/paper/task-discrepancy-maximization-for-fine-1
+15,BD-CSPN + ESFR ,82.68,Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classification,/paper/unsupervised-embedding-adaptation-via-early
+16,TIM-GD,82.2,Transductive Information Maximization For Few-Shot Learning,/paper/transductive-information-maximization-for-few
+17,LaplacianShot,80.96,Laplacian Regularized Few-Shot Learning,/paper/laplacian-regularized-few-shot-learning
+18,S2M2R,80.68,Charting the Right Manifold: Manifold Mixup for Few-shot Learning,/paper/charting-the-right-manifold-manifold-mixup
+19,RENet,79.49,Relational Embedding for Few-Shot Classification,/paper/relational-embedding-for-few-shot
+20,Ours,79.12,Variational Feature Disentangling for Fine-Grained Few-Shot Classification,/paper/variational-transfer-learning-for-fine
+21,EASY 3xResNet12 ,78.56,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+22,EASY 4xResNet12 ,77.97,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+23,AmdimNet,77.09,Self-Supervised Learning For Few-Shot Image Classification,/paper/self-supervised-learning-for-few-shot-image
+24,MergedNet-Max,75.34,MergedNET: A simple approach for one-shot learning in siamese networks based on similarity layers,/paper/mergednet-a-simple-approach-for-one-shot
+25,Neg-Margin,72.66,Negative Margin Matters: Understanding Margin in Few-shot Classification,/paper/negative-margin-matters-understanding-margin
+26,DKT + BNCosSim,72.27,Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels,/paper/deep-kernel-transfer-in-gaussian-processes
+27,Self-Critique and Adapt + High-End MAML++,70.46,Learning to learn via Self-Critique,/paper/learning-to-learn-by-self-critique
+28,Delta-encoder,69.8,Delta-encoder: an effective sample synthesis method for few-shot object recognition,/paper/delta-encoder-an-effective-sample-synthesis
+29,feat ,68.65,Few-Shot Learning via Embedding Adaptation with Set-to-Set Functions,/paper/learning-embedding-adaptation-for-few-shot
+30,High-End MAML++,67.48,Learning to learn via Self-Critique,/paper/learning-to-learn-by-self-critique
+31,HyperShot,66.13,HyperShot: Few-Shot Learning by Kernel HyperNetworks,/paper/hypershot-few-shot-learning-by-kernel
+32,RS-FSL,65.66,Rich Semantics Improve Few-shot Learning,/paper/rich-semantics-improve-few-shot-learning
+33,Hyperbolic ProtoNet,60.52,Hyperbolic Image Embeddings,/paper/hyperbolic-image-embeddings
+34,DN4-DA ,53.15,Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning,/paper/revisiting-local-descriptor-based-image-to
+35,Relation Net,50.44,Learning to Compare: Relation Network for Few-Shot Learning,/paper/learning-to-compare-relation-network-for-few

@@ -1,0 +1,38 @@
+Rank,Model,Average Accuracy,Paper Title,Paper URL
+1,PMTrans,95.3,Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective,/paper/patch-mix-transformer-for-unsupervised-domain
+2,CMKD,94.4,Unsupervised Domain Adaption Harnessing Vision-Language Pre-training,/paper/unsupervised-domain-adaption-harnessing
+3,CDTrans,92.6,CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation,/paper/cdtrans-cross-domain-transformer-for
+4,CoVi,91.8,Contrastive Vicinal Space for Unsupervised Domain Adaptation,/paper/contrastive-vicinal-space-for-unsupervised
+5,GSDE,91.7,Gradual Source Domain Expansion for Unsupervised Domain Adaptation,/paper/gradual-source-domain-expansion-for
+6,FixBi,91.4,FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation,/paper/fixbi-bridging-domain-spaces-for-unsupervised
+7,Contrastive Adaptation Network,90.6,Contrastive Adaptation Network for Unsupervised Domain Adaptation,/paper/contrastive-adaptation-network-for
+8,BIWAA,90.5,Backprop Induced Feature Weighting for Adversarial Domain Adaptation with Iterative Label Distribution Alignment,/paper/backprop-induced-feature-weighting-for
+9,DALN,90.4,Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation,/paper/reusing-the-task-specific-classifier-as-a
+10,ELS,90.4,Free Lunch for Domain Adversarial Training: Environment Label Smoothing,/paper/free-lunch-for-domain-adversarial-training-1
+11,dSNE,90.01,d-SNE: Domain Adaptation Using Stochastic Neighborhood Embedding,/paper/d-sne-domain-adaptation-using-stochastic
+12,ASAN,90.0,Bridging Adversarial and Statistical Domain Transfer via Spectral Adaptation Networks,/paper/bridging-adversarial-and-statistical-domain
+13,CPGA,89.9,Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation,/paper/source-free-domain-adaptation-via-avatar
+14,SFDA2,89.9,SF(DA)$^2$: Source-free Domain Adaptation Through the Lens of Data Augmentation,/paper/sf-da-2-source-free-domain-adaptation-through
+15,MDAIR,89.8,Modified Distribution Alignment for Domain Adaptation with Pre-trained Inception ResNet,/paper/modified-distribution-alignment-for-domain
+16,SPL,89.6,Unsupervised Domain Adaptation via Structured Prediction Based Selective Pseudo-Labeling,/paper/unsupervised-domain-adaptation-via-structured
+17,CADA-P,89.5,Attending to Discriminative Certainty for Domain Adaptation,/paper/attending-to-discriminative-certainty-for-1
+18,MEDM,89.2,Entropy Minimization vs. Diversity Maximization for Domain Adaptation,/paper/entropy-minimization-vs-diversity
+19,DADA,89.0,Discriminative Adversarial Domain Adaptation,/paper/discriminative-adversarial-domain-adaptation
+20,SHOT,88.6,Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation,/paper/do-we-really-need-to-access-the-source-data
+21,DADA,88.0,Dual Adversarial Domain Adaptation,/paper/dual-adversarial-domain-adaptation
+22,IAFN+ENT,87.1,Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation,/paper/unsupervised-domain-adaptation-an-adaptive
+23,MRKLD + LRENT,86.8,Confidence Regularized Self-Training,/paper/confidence-regularized-self-training
+24,GTA,86.5,Generate To Adapt: Aligning Domains using Generative Adversarial Networks,/paper/generate-to-adapt-aligning-domains-using
+25,MEDA ,85.7,Transfer Learning with Dynamic Distribution Adaptation,/paper/transfer-learning-with-dynamic-distribution
+26,DAOD,85.4,Open Set Domain Adaptation: Theoretical Bound and Algorithm,/paper/open-set-domain-adaptation-theoretical-bound
+27,MADA,85.2,Multi-Adversarial Domain Adaptation,/paper/multi-adversarial-domain-adaptation
+28,DAGE-LDA,82.77,Supervised Domain Adaptation: A Graph Embedding Perspective and a Rectified Experimental Protocol,/paper/supervised-domain-adaptation-were-we-doing
+29,CCSA,82.17,Supervised Domain Adaptation: A Graph Embedding Perspective and a Rectified Experimental Protocol,/paper/supervised-domain-adaptation-were-we-doing
+30,d-SNE,81.63,Supervised Domain Adaptation: A Graph Embedding Perspective and a Rectified Experimental Protocol,/paper/supervised-domain-adaptation-were-we-doing
+31,rRevGrad+CAT,80.1,Cluster Alignment with a Teacher for Unsupervised Domain Adaptation,/paper/cluster-alignment-with-a-teacher-for
+32,CD3A,79.5,Curriculum based Dropout Discriminator for Domain Adaptation,/paper/curriculum-based-dropout-discriminator-for
+33,IDDA,78.5,Looking back at Labels: A Class based Domain Adaptation Technique,/paper/looking-back-at-labels-a-class-based-domain
+34,IDDA ,78.5,Looking back at Labels: A Class based Domain Adaptation Technique,/paper/looking-back-at-labels-a-class-based-domain
+35,CAADA,78.3,Correlation-aware Adversarial Domain Adaptation and Generalization,/paper/correlation-aware-adversarial-domain
+36,ResNet-50,76.1,Deep Residual Learning for Image Recognition,/paper/deep-residual-learning-for-image-recognition
+37,SRDA ,73.5,Learning Smooth Representation for Unsupervised Domain Adaptation,/paper/190510748

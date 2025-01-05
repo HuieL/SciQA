@@ -1,0 +1,37 @@
+Rank,Model,PQ,PQst,PQth,mIoU,AP,Paper Title,Paper URL
+1,OneFormer ,70.1,74.1,64.6,84.6,48.7,OneFormer: One Transformer to Rule Universal Image Segmentation,/paper/oneformer-one-transformer-to-rule-universal
+2,Panoptic-DeepLab ,69.6,,,85.3,46.8,Scaling Wide Residual Networks for Panoptic Segmentation,/paper/scaling-wide-residual-networks-for-panoptic
+3,OneFormer ,68.51,,,83.0,46.5,OneFormer: One Transformer to Rule Universal Image Segmentation,/paper/oneformer-one-transformer-to-rule-universal
+4,Axial-DeepLab-XL ,68.5,,,84.6,44.2,Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation,/paper/axial-deeplab-stand-alone-axial-attention-for
+5,Panoptic-DeepLab ,68.5,,,84.6,42.8,Scaling Wide Residual Networks for Panoptic Segmentation,/paper/scaling-wide-residual-networks-for-panoptic
+6,OneFormer ,68.4,,,83.6,46.7,OneFormer: One Transformer to Rule Universal Image Segmentation,/paper/oneformer-one-transformer-to-rule-universal
+7,kMaX-DeepLab ,68.4,,,83.5,44.0,kMaX-DeepLab: k-means Mask Transformer,/paper/k-means-mask-transformer
+8,AFF-Base ,67.7,71.5,62.5,83.0,46.2,AutoFocusFormer: Image Segmentation off the Grid,/paper/autofocusformer-image-segmentation-off-the
+9,OneFormer ,67.6,,,83.1,45.6,OneFormer: One Transformer to Rule Universal Image Segmentation,/paper/oneformer-one-transformer-to-rule-universal
+10,EfficientPS,67.5,70.3,63.2,82.1,43.5,EfficientPS: Efficient Panoptic Segmentation,/paper/efficientps-efficient-panoptic-segmentation
+11,DiNAT-L ,67.2,,,83.4,44.5,Dilated Neighborhood Attention Transformer,/paper/dilated-neighborhood-attention-transformer
+12,OneFormer ,67.2,,,83.0,45.6,OneFormer: One Transformer to Rule Universal Image Segmentation,/paper/oneformer-one-transformer-to-rule-universal
+13,AFF-Small ,66.9,70.8,61.5,82.2,44.2,AutoFocusFormer: Image Segmentation off the Grid,/paper/autofocusformer-image-segmentation-off-the
+14,Mask2Former ,66.6,,,82.9,43.6,Masked-attention Mask Transformer for Universal Image Segmentation,/paper/masked-attention-mask-transformer-for
+15,EfficientPS ,64.9,67.7,61.0,90.3,39.1,EfficientPS: Efficient Panoptic Segmentation,/paper/efficientps-efficient-panoptic-segmentation
+16,CMT-DeepLab ,64.6,,,81.4,,CMT-DeepLab: Clustering Mask Transformers for Panoptic Segmentation,/paper/cmt-deeplab-clustering-mask-transformers-for-1
+17,Panoptic-DeepLab ,64.1,,,81.5,38.5,"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation",/paper/panoptic-deeplab-a-simple-strong-and-fast
+18,Mask2Former + Intra-Batch Supervision ,62.4,67.3,54.7,,,Intra-Batch Supervision for Panoptic Segmentation on High-Resolution Images,/paper/intra-batch-supervision-for-panoptic-1
+19,COPS ,62.1,67.2,55.1,79.3,34.1,Combinatorial Optimization for Panoptic Segmentation: A Fully Differentiable Approach,/paper/combinatorial-optimization-for-panoptic
+20,AdaptIS ,62.0,64.4,58.7,79.2,36.3,AdaptIS: Adaptive Instance Selection Network,/paper/adaptis-adaptive-instance-selection-network
+21,UPSNet ,61.8,64.8,57.6,79.2,39.0,UPSNet: A Unified Panoptic Segmentation Network,/paper/upsnet-a-unified-panoptic-segmentation
+22,Panoptic FCN* ,61.4,,54.8,,,Fully Convolutional Networks for Panoptic Segmentation,/paper/fully-convolutional-networks-for-panoptic
+23,MRCNN + PSPNet ,61.2,66.4,54.0,,36.4,Panoptic Segmentation,/paper/panoptic-segmentation
+24,AdaptIS ,60.6,62.9,57.5,77.2,33.9,AdaptIS: Adaptive Instance Selection Network,/paper/adaptis-adaptive-instance-selection-network
+25,UPSNet ,60.5,63.0,57.0,77.8,37.8,UPSNet: A Unified Panoptic Segmentation Network,/paper/upsnet-a-unified-panoptic-segmentation
+26,TASCNet ,60.4,63.3,56.1,78.0,39.0,Learning to Fuse Things and Stuff,/paper/learning-to-fuse-things-and-stuff
+27,UPSNet ,59.3,62.7,54.6,75.2,33.3,UPSNet: A Unified Panoptic Segmentation Network,/paper/upsnet-a-unified-panoptic-segmentation
+28,TASCNet ,59.2,61.5,56.0,77.8,37.6,Learning to Fuse Things and Stuff,/paper/learning-to-fuse-things-and-stuff
+29,AUNet ,59.0,62.1,54.8,75.6,34.4,Attention-guided Unified Network for Panoptic Segmentation,/paper/attention-guided-unified-network-for-panoptic
+30,AdaptIS ,59.0,61.3,55.8,75.3,32.3,AdaptIS: Adaptive Instance Selection Network,/paper/adaptis-adaptive-instance-selection-network
+31,Panoptic FPN ,58.1,62.5,52.0,75.7,33.0,Panoptic Feature Pyramid Networks,/paper/panoptic-feature-pyramid-networks
+32,DeeperLab ,56.5,,,,,DeeperLab: Single-Shot Image Parser,/paper/deeperlab-single-shot-image-parser
+33,Dynamically Instantiated Network ,53.8,62.1,42.5,79.8,28.6,Weakly- and Semi-Supervised Panoptic Segmentation,/paper/weakly-and-semi-supervised-panoptic
+34,Panoptic FCN* ,,70.6,59.5,,,Fully Convolutional Networks for Panoptic Segmentation,/paper/fully-convolutional-networks-for-panoptic
+35,Panoptic FCN* ,,66.6,,,,Fully Convolutional Networks for Panoptic Segmentation,/paper/fully-convolutional-networks-for-panoptic
+36,Mask R-CNN+COCO,,,54.0,,,Mask R-CNN,/paper/mask-r-cnn

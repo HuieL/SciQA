@@ -1,0 +1,35 @@
+Rank,Model,AUROC,Paper Title,Paper URL
+1,CLIP ,99.6,"Exposing Outlier Exposure: What Can Be Learned From Few, One, and Zero Outlier Images",/paper/exposing-outlier-exposure-what-can-be-learned
+2,Fake It Till You Make It,99.1,Fake It Till You Make It: Towards Accurate Near-Distribution Novelty Detection,/paper/fake-it-till-you-make-it-near-distribution
+3,PANDA-OE,98.9,PANDA: Adapting Pretrained Features for Anomaly Detection and Segmentation,/paper/panda-adapting-pretrained-features-for
+4,Mean-Shifted Contrastive Loss,98.6,Mean-Shifted Contrastive Loss for Anomaly Detection,/paper/mean-shifted-contrastive-loss-for-anomaly
+5,CLIP ,98.5,"Exposing Outlier Exposure: What Can Be Learned From Few, One, and Zero Outlier Images",/paper/exposing-outlier-exposure-what-can-be-learned
+6,DINO-FT,98.4,Anomaly Detection Requires Better Representations,/paper/anomaly-detection-requires-better
+7,Transformaly,98.3,Transformaly -- Two (Feature Spaces) Are Better Than One,/paper/transformaly-two-feature-spaces-are-better
+8,CAP,97.0,Constrained Adaptive Projection with Pretrained Features for Anomaly Detection,/paper/simple-adaptive-projection-with-pretrained
+9,PANDA,96.2,PANDA: Adapting Pretrained Features for Anomaly Detection and Segmentation,/paper/panda-adapting-pretrained-features-for
+10,CSI,94.3,CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances,/paper/csi-novelty-detection-via-contrastive
+11,DUIAD,92.6,Deep Unsupervised Image Anomaly Detection: An Information Theoretic Framework,/paper/deep-unsupervised-image-anomaly-detection-an
+12,DN2,92.5,Deep Nearest Neighbor Anomaly Detection,/paper/deep-nearest-neighbor-anomaly-detection
+13,DisAug CLR,92.5,Learning and Evaluating Representations for Deep One-class Classification,/paper/learning-and-evaluating-representations-for-1
+14,FCDD,92.0,Explainable Deep One-Class Classification,/paper/explainable-deep-one-class-classification
+15,IGD ,91.25,Deep One-Class Classification via Interpolated Gaussian Descriptor,/paper/unsupervised-anomaly-detection-and
+16,GAN based Anomaly Detection in Imbalance Problems,90.6,GAN-based Anomaly Detection in Imbalance Problems,/paper/gan-based-anomaly-detection-in-imbalance
+17,SSOOD,90.1,Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty,/paper/using-self-supervised-learning-can-improve
+18,SSD,90.0,SSD: A Unified Framework for Self-Supervised Outlier Detection,/paper/ssd-a-unified-framework-for-self-supervised-1
+19,UTAD,88.4,Unsupervised Two-Stage Anomaly Detection,/paper/unsupervised-two-stage-anomaly-detection
+20,GOAD,88.2,Classification-Based Anomaly Detection for General Data,/paper/classification-based-anomaly-detection-for-1
+21,ARNET,86.6,Attribute Restoration Framework for Anomaly Detection,/paper/inverse-transform-autoencoder-for-anomaly
+22,Reverse Distillation,86.5,Anomaly Detection via Reverse Distillation from One-Class Embedding,/paper/anomaly-detection-via-reverse-distillation
+23,ADT,86.0,Deep Anomaly Detection Using Geometric Transformations,/paper/deep-anomaly-detection-using-geometric
+24,IGD ,83.68,Deep One-Class Classification via Interpolated Gaussian Descriptor,/paper/unsupervised-anomaly-detection-and
+25,ESAD,83.3,ESAD: End-to-end Deep Semi-supervised Anomaly Detection,/paper/esad-end-to-end-deep-semi-supervised-anomaly
+26,IGD ,74.33,Deep One-Class Classification via Interpolated Gaussian Descriptor,/paper/unsupervised-anomaly-detection-and
+27,P-KDGAN,73.05,P-KDGAN: Progressive Knowledge Distillation with GANs for One-class Novelty Detection,/paper/p-kdgan-progressive-knowledge-distillation
+28,OLED,67.1,OLED: One-Class Learned Encoder-Decoder Network with Adversarial Context Masking for Novelty Detection,/paper/oled-one-class-learned-encoder-decoder
+29,OCGAN,66.83,OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations,/paper/ocgan-one-class-novelty-detection-using-gans
+30,FastFlow,66.7,FastFlow: Unsupervised Anomaly Detection and Localization via 2D Normalizing Flows,/paper/fastflow-unsupervised-anomaly-detection-and
+31,DASVDD,66.5,DASVDD: Deep Autoencoding Support Vector Data Descriptor for Anomaly Detection,/paper/dasvdd-deep-autoencoding-support-vector-data
+32,Deep SVDD,65.7,Deep One-Class Classification,/paper/deep-one-class-classification
+33,Self-Supervised DeepSVDD,64.8,PANDA: Adapting Pretrained Features for Anomaly Detection and Segmentation,/paper/panda-adapting-pretrained-features-for
+34,"Self-Supervised One-class SVM, RBF kernel",64.7,PANDA: Adapting Pretrained Features for Anomaly Detection and Segmentation,/paper/panda-adapting-pretrained-features-for

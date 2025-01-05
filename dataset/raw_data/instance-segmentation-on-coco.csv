@@ -1,0 +1,111 @@
+Rank,Model,mask AP,AP50,AP75,APS,APM,APL,Paper Title,Paper URL
+1,EVA,55.5,80.0,,36.3,58.0,72.4,EVA: Exploring the Limits of Masked Visual Representation Learning at Scale,/paper/eva-exploring-the-limits-of-masked-visual
+2,FD-SwinV2-G,55.4,,,,,,Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation,/paper/contrastive-learning-rivals-masked-image
+3,Mask Frozen-DETR,55.3,79.3,61.4,37.8,58.4,70.4,Mask Frozen-DETR: High Quality Instance Segmentation with One GPU,/paper/mask-frozen-detr-high-quality-instance
+4,BEiT-3,54.8,,,,,,Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks,/paper/image-as-a-foreign-language-beit-pretraining
+5,MasK DINO ,54.7,,,,,,Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation,/paper/mask-dino-towards-a-unified-transformer-based-1
+6,ViT-Adapter-L ,54.5,,,,,,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+7,GLEE-Pro,54.5,,,,,,General Object Foundation Model for Images and Videos at Scale,/paper/general-object-foundation-model-for-images
+8,SwinV2-G ,54.4,,,,,,Swin Transformer V2: Scaling Up Capacity and Resolution,/paper/swin-transformer-v2-scaling-up-capacity-and
+9,GLEE-Plus,53.3,,,,,,General Object Foundation Model for Images and Videos at Scale,/paper/general-object-foundation-model-for-images
+10,Soft Teacher + Swin-L ,53.0,,,,,,End-to-End Semi-Supervised Object Detection with Soft Teacher,/paper/end-to-end-semi-supervised-object-detection
+11,ViT-Adapter-L ,53.0,,,,,,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+12,Mask DINO ,52.8,,,,,,Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation,/paper/mask-dino-towards-a-unified-transformer-based-1
+13,ViT-Adapter-L ,52.5,,,,,,Vision Transformer Adapter for Dense Predictions,/paper/vision-transformer-adapter-for-dense
+14,CBNetV2 ,52.3,,,,,,CBNet: A Composite Backbone Network Architecture for Object Detection,/paper/cbnetv2-a-composite-backbone-network
+15,UNINEXT-H,51.8,76.2,56.7,33.3,55.9,67.5,Universal Instance Perception as Object Discovery and Retrieval,/paper/universal-instance-perception-as-object
+16,CBNetV2 ,51.6,,,,,,CBNet: A Composite Backbone Network Architecture for Object Detection,/paper/cbnetv2-a-composite-backbone-network
+17,Focal-L ,51.3,75.4,56.5,35.6,,64.2,Focal Self-attention for Local-Global Interactions in Vision Transformers,/paper/focal-self-attention-for-local-global
+18,Swin-L ,51.1,,,,,,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,/paper/swin-transformer-hierarchical-vision
+19,Mask2Former ,50.5,74.9,54.9,29.1,53.8,71.2,Masked-attention Mask Transformer for Universal Image Segmentation,/paper/masked-attention-mask-transformer-for
+20,Swin-L ,50.2,,,,,,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,/paper/swin-transformer-hierarchical-vision
+21,ISTR-SMT ,49.7,,,,,,ISTR: End-to-End Instance Segmentation with Transformers,/paper/istr-end-to-end-instance-segmentation-with
+22,QueryInst ,49.1,74.2,53.8,31.5,51.8,63.2,Instances as Queries,/paper/queryinst-parallelly-supervised-mask-query
+23,Cascade Eff-B7 NAS-FPN ,49.1,,,,,,Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation,/paper/simple-copy-paste-is-a-strong-data
+24,dBOT ViT-L ,48.8,,,,,,Exploring Target Representations for Masked Autoencoders,/paper/exploring-target-representations-for-masked
+25,MogaNet-XL ,48.8,,,,,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+26,DetectoRS ,48.5,72.0,53.3,31.6,50.9,61.5,DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution,/paper/detectors-detecting-objects-with-recursive-1
+27,dBOT ViT-L,48.3,,,,,,Exploring Target Representations for Masked Autoencoders,/paper/exploring-target-representations-for-masked
+28,DiffusionInst-SwinL,48.3,,,,,,DiffusionInst: Diffusion Model for Instance Segmentation,/paper/diffusioninst-diffusion-model-for-instance
+29,GLEE-Lite,48.3,,,,,,General Object Foundation Model for Images and Videos at Scale,/paper/general-object-foundation-model-for-images
+30,DiffusionInst-SwinB,47.6,,,,,,DiffusionInst: Diffusion Model for Instance Segmentation,/paper/diffusioninst-diffusion-model-for-instance
+31,DetectoRS ,47.1,71.1,51.6,30.3,49.5,59.6,DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution,/paper/detectors-detecting-objects-with-recursive-1
+32,Cascade Eff-B7 NAS-FPN ,46.9,,,,,,Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation,/paper/simple-copy-paste-is-a-strong-data
+33,SOLQ ,46.7,,,,,,SOLQ: Segmenting Objects by Learning Queries,/paper/solq-segmenting-objects-by-learning-queries
+34,dBOT ViT-B,46.3,,,,,,Exploring Target Representations for Masked Autoencoders,/paper/exploring-target-representations-for-masked
+35,dBOT ViT-B ,46.2,,,,,,Exploring Target Representations for Masked Autoencoders,/paper/exploring-target-representations-for-masked
+36,Mask R-CNN ,46.1,,,,,,SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization,/paper/spinenet-learning-scale-permuted-backbone-for
+37,MogaNet-L ,46.1,,,,,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+38,MogaNet-B ,46.0,,,,,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+39,Swin-B + Cascade Mask R-CNN ,45.9,,,,,,A Tri-Layer Plugin to Improve Occluded Detection,/paper/a-tri-layer-plugin-to-improve-occluded
+40,GCNet ,45.4,68.9,49.6,,,,Global Context Networks,/paper/global-context-networks
+41,MogaNet-S ,45.1,,,,,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+42,gSwin-S,45.03,,,,,,gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window,/paper/gswin-gated-mlp-vision-model-with
+43,iBOT ,44.2,,,,,,iBOT: Image BERT Pre-Training with Online Tokenizer,/paper/ibot-image-bert-pre-training-with-online
+44,gSwin-T,44.16,,,,,,gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window,/paper/gswin-gated-mlp-vision-model-with
+45,MogaNet-L ,44.1,,,,,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+46,A2MIM ,43.5,,,,,,Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN,/paper/architecture-agnostic-masked-image-modeling
+47,Cascade Mask R-CNN ,43.3,,,,,,CBNet: A Novel Composite Backbone Network Architecture for Object Detection,/paper/cbnet-a-novel-composite-backbone-network
+48,MogaNet-B ,43.2,,,,,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+49,ResNeSt101,43.0,,,,,,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+50,gSwin-VT,42.87,,,,,,gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window,/paper/gswin-gated-mlp-vision-model-with
+51,iBOT ,42.6,,,,,,iBOT: Image BERT Pre-Training with Online Tokenizer,/paper/ibot-image-bert-pre-training-with-online
+52,Mask Transfiner,42.2,,,,,,Mask Transfiner for High-Quality Instance Segmentation,/paper/mask-transfiner-for-high-quality-instance
+53,MogaNet-S ,42.2,,,,,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+54,PANet,42.0,,,,,,Path Aggregation Network for Instance Segmentation,/paper/path-aggregation-network-for-instance
+55,CenterMask + VoVNet99,41.8,,,24.4,44.4,54.3,CenterMask : Real-Time Anchor-Free Instance Segmentation,/paper/centermask-real-time-anchor-free-instance-1
+56,SOLOv2,41.7,63.2,45.1,18.0,45.0,61.6,SOLOv2: Dynamic and Fast Instance Segmentation,/paper/solov2-dynamic-faster-and-stronger
+57,BCNet,41.7,,,,,,Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers,/paper/deep-occlusion-aware-instance-segmentation
+58,GCNet ,41.5,,,,,,GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond,/paper/gcnet-non-local-networks-meet-squeeze
+59,DiffusionInst-ResNet101,41.5,,,,,,DiffusionInst: Diffusion Model for Instance Segmentation,/paper/diffusioninst-diffusion-model-for-instance
+60,BlendMask ,41.3,63.1,44.6,22.7,44.1,54.5,BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation,/paper/blendmask-top-down-meets-bottom-up-for
+61,HTC + ResNeXt-101-FPN + DCN,41.2,,,,,,Hybrid Task Cascade for Instance Segmentation,/paper/hybrid-task-cascade-for-instance-segmentation
+62,HTC + ResNeXt-101-FPN,41.2,,,,,,Hybrid Task Cascade for Instance Segmentation,/paper/hybrid-task-cascade-for-instance-segmentation
+63,SOLQ ,40.9,,,,,,SOLQ: Segmenting Objects by Learning Queries,/paper/solq-segmenting-objects-by-learning-queries
+64,VoVNetV1-57,40.8,,,,,,An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection,/paper/an-energy-and-gpu-computation-efficient
+65,K-Net-N256 ,40.6,63.3,,18.8,43.3,59.0,K-Net: Towards Unified Image Segmentation,/paper/k-net-towards-unified-image-segmentation
+66,CenterMask + VoVNetV2-99 ,40.6,62.3,44.1,20.1,42.8,57.0,CenterMask : Real-Time Anchor-Free Instance Segmentation,/paper/centermask-real-time-anchor-free-instance-1
+67,SOLO,40.4,62.7,43.3,17.6,43.3,58.9,SOLO: Segmenting Objects by Locations,/paper/solo-segmenting-objects-by-locations
+68,SOLO ,40.4,62.7,43.3,17.6,43.3,58.9,SOLO: Segmenting Objects by Locations,/paper/solo-segmenting-objects-by-locations
+69,D2Det ,40.2,61.5,43.7,21.7,43.0,54.0,D2Det: Towards High Quality Object Detection and Instance Segmentation,/paper/d2det-towards-high-quality-object-detection
+70,K-Net ,40.1,62.8,,18.7,42.7,58.8,K-Net: Towards Unified Image Segmentation,/paper/k-net-towards-unified-image-segmentation
+71,ISTR ,39.9,,,22.8,41.9,52.3,ISTR: End-to-End Instance Segmentation with Transformers,/paper/istr-end-to-end-instance-segmentation-with
+72,BCNet,39.8,61.5,43.1,22.7,42.4,51.1,Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers,/paper/deep-occlusion-aware-instance-segmentation
+73,VoVNetV1-39,39.7,,,,,,An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection,/paper/an-energy-and-gpu-computation-efficient
+74,SOLQ ,39.7,,,,,,SOLQ: Segmenting Objects by Learning Queries,/paper/solq-segmenting-objects-by-learning-queries
+75,CenterMask + X101-32x8d ,39.6,61.2,42.9,19.7,,,CenterMask : Real-Time Anchor-Free Instance Segmentation,/paper/centermask-real-time-anchor-free-instance-1
+76,BCNet,39.6,61.2,42.7,22.3,42.3,51.0,Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers,/paper/deep-occlusion-aware-instance-segmentation
+77,MS R-CNN + ResNet-101 DCN + FPN ,39.6,,,,,,Mask Scoring R-CNN,/paper/mask-scoring-r-cnn
+78,Cascade R-CNN ,39.5,61.4,42.9,21.2,42.5,52.1,InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting,/paper/instaboost-boosting-instance-segmentation-via
+79,CPMask,39.2,60.8,42.2,22.2,41.8,50.1,Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation,/paper/commonality-parsing-network-across-shape-and
+80,MogaNet-T ,39.1,,,,,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+81,PolarMask++ ,38.7,64.1,40.0,22.2,40.2,52.0,PolarMask++: Enhanced Polar Representation for Single-Shot Instance Segmentation and Beyond,/paper/polarmask-enhanced-polar-representation-for
+82,ISDA ,38.7,62.0,41.1,17.0,41.2,,ISDA: Position-Aware Instance Segmentation with Deformable Attention,/paper/isda-position-aware-instance-segmentation
+83,ISTR ,38.6,,,22.1,40.4,50.6,ISTR: End-to-End Instance Segmentation with Transformers,/paper/istr-end-to-end-instance-segmentation-with
+84,CenterMask + ResNet-101-FPN,38.3,,,,,,CenterMask : Real-Time Anchor-Free Instance Segmentation,/paper/centermask-real-time-anchor-free-instance-1
+85,SipMask ,38.1,60.2,40.8,17.8,40.8,54.3,SipMask: Spatial Information Preservation for Fast Image and Video Instance Segmentation,/paper/sipmask-spatial-information-preservation-for
+86,MaskLab+ ,38.1,,,,,,MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features,/paper/masklab-instance-segmentation-by-refining
+87,EmbedMask ,37.7,59.1,40.3,17.9,40.4,53.0,EmbedMask: Embedding Coupling for One-stage Instance Segmentation,/paper/embedmask-embedding-coupling-for-one-stage
+88,EmbedMask,37.7,59.1,40.3,17.9,40.4,,EmbedMask: Embedding Coupling for One-stage Instance Segmentation,/paper/embedmask-embedding-coupling-for-one-stage
+89,MogaNet-XT,37.6,,,,,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+90,TensorMask ,37.3,,,,,,TensorMask: A Foundation for Dense Object Segmentation,/paper/tensormask-a-foundation-for-dense-object
+91,Mask R-CNN ,37.1,60.0,39.4,16.9,39.9,53.5,Mask R-CNN,/paper/mask-r-cnn
+92,DiffusionInst-ResNet50,37.1,,,,,,DiffusionInst: Diffusion Model for Instance Segmentation,/paper/diffusioninst-diffusion-model-for-instance
+93,VirTex Mask R-CNN ,36.9,58.4,39.7,,,,VirTex: Learning Visual Representations from Textual Annotations,/paper/virtex-learning-visual-representations-from
+94,RDSNet ,36.4,57.9,39.0,16.4,39.5,51.6,RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation,/paper/rdsnet-a-new-deep-architecture-for-reciprocal
+95,MogaNet-T,35.8,,,,,,MogaNet: Multi-order Gated Aggregation Network,/paper/efficient-multi-order-gated-aggregation
+96,A2MIM ,34.9,,,,,,Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN,/paper/architecture-agnostic-masked-image-modeling
+97,E2EC DLA-34,33.8,52.9,35.9,,,,E2EC: An End-to-End Contour-based Method for High-Quality High-Speed Instance Segmentation,/paper/e2ec-an-end-to-end-contour-based-method-for
+98,FCIS+++  +OHEM,33.6,54.5,,,,,Fully Convolutional Instance-aware Semantic Segmentation,/paper/fully-convolutional-instance-aware-semantic
+99,Mask R-CNN ,33.6,,,,,,"torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation",/paper/torchdistill-a-modular-configuration-driven
+100,PolarMask ,32.9,55.4,33.8,15.5,35.1,46.3,PolarMask: Single Shot Instance Segmentation with Polar Representation,/paper/polarmask-single-shot-instance-segmentation
+101,PolarMask ,30.4,51.9,31.0,13.4,32.4,42.8,PolarMask: Single Shot Instance Segmentation with Polar Representation,/paper/polarmask-single-shot-instance-segmentation
+102,YOLACT ,29.8,,,,,,YOLACT: Real-time Instance Segmentation,/paper/yolact-real-time-instance-segmentation
+103,FCIS  +OHEM,29.2,49.5,,7.1,31.3,50.0,Fully Convolutional Instance-aware Semantic Segmentation,/paper/fully-convolutional-instance-aware-semantic
+104,MultiPath Network,25.0,,,,,,A MultiPath Network for Object Detection,/paper/a-multipath-network-for-object-detection
+105,InternImage-H,,80.8,62.2,41.0,58.9,70.3,InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions,/paper/internimage-exploring-large-scale-vision
+106,ResNeSt-200 ,,70.2,51.5,30.0,49.6,60.6,ResNeSt: Split-Attention Networks,/paper/resnest-split-attention-networks
+107,CenterMask + VoVNetV2-99 ,,66.2,47.4,27.2,,,CenterMask : Real-Time Anchor-Free Instance Segmentation,/paper/centermask-real-time-anchor-free-instance-1
+108,CenterMask + VoVNetV2-57 ,,60.8,,19.4,41.7,,CenterMask : Real-Time Anchor-Free Instance Segmentation,/paper/centermask-real-time-anchor-free-instance-1
+109,MNC,,44.3,,,,,Instance-aware Semantic Segmentation via Multi-task Network Cascades,/paper/instance-aware-semantic-segmentation-via
+110,ISDA ,,,,,,55.7,ISDA: Position-Aware Instance Segmentation with Deformable Attention,/paper/isda-position-aware-instance-segmentation

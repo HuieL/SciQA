@@ -1,0 +1,33 @@
+Rank,Model,AP,Paper Title,Paper URL
+1,CD-ViTO,35.3,Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector,/paper/cross-domain-few-shot-object-detection-via
+2,DE-ViT,34.0,Detect Everything with Few Examples,/paper/detect-every-thing-with-few-examples
+3,BIOT,26.3,Balanced ID-OOD tradeoff transfer makes query based detectors good few shot learners,/paper/balanced-id-ood-tradeoff-transfer-makes-query
+4,RISF ,25.5,Re-Scoring Using Image-Language Similarity for Few-Shot Object Detection,/paper/re-scoring-using-image-language-similarity
+5,DETReg-ft-full DDETR,25.0,DETReg: Unsupervised Pretraining with Region Priors for Object Detection,/paper/detreg-unsupervised-pretraining-with-region
+6,imTED+ViT-B,22.5,Integrally Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection,/paper/integral-migrating-pre-trained-transformer
+7,hANMCL,22.4,Hierarchical Attention Network for Few-Shot Object Detection via Meta-Contrastive Learning,/paper/hierarchical-attention-network-for-few-shot
+8,RISF ,21.9,Re-Scoring Using Image-Language Similarity for Few-Shot Object Detection,/paper/re-scoring-using-image-language-similarity
+9,DCFS,19.5,Decoupling Classifier for Boosting Few-shot Object Detection and Instance Segmentation,/paper/decoupling-classifier-for-boosting-few-shot
+10,CFA-DeFRCN,19.1,CFA: Constraint-based Finetuning Approach for Generalized Few-Shot Object Detection,/paper/cfa-constraint-based-finetuning-approach-for
+11,DAnA-FasterRCNN,18.6,Dual-Awareness Attention for Few-Shot Object Detection,/paper/should-i-look-at-the-head-or-the-tail-dual
+12,DeFRCN,18.5,DeFRCN: Decoupled Faster R-CNN for Few-Shot Object Detection,/paper/defrcn-decoupled-faster-r-cnn-for-few-shot
+13,Meta-DETR ,17.8,Meta-DETR: Image-Level Few-Shot Object Detection with Inter-Class Correlation Exploitation,/paper/meta-detr-few-shot-object-detection-via
+14,Meta-DETR ,16.7,Meta-DETR: Image-Level Few-Shot Object Detection with Inter-Class Correlation Exploitation,/paper/meta-detr-few-shot-object-detection-via
+15,FSRN ,15.8,Towards Discriminative and Transferable One-Stage Few-Shot Object Detectors,/paper/towards-discriminative-and-transferable-one
+16,CME,15.1,Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object Detection,/paper/beyond-max-margin-class-margin-equilibrium
+17,imTED+ViT-S,15.0,Integrally Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection,/paper/integral-migrating-pre-trained-transformer
+18,FSDetView + PSP,13.4,Few-Shot Object Detection by Attending to Per-Sample-Prototype,/paper/few-shot-object-detection-by-attending-to-per
+19,PnP-FSOD + CT,13.3,Instant Response Few-shot Object Detection with Meta Strategy and Explicit Localization Inference,/paper/plug-and-play-few-shot-object-detection-with
+20,FSDetView,12.5,Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild,/paper/few-shot-object-detection-and-viewpoint
+21,PnP-FSOD,12.5,Instant Response Few-shot Object Detection with Meta Strategy and Explicit Localization Inference,/paper/plug-and-play-few-shot-object-detection-with
+22,SSR-FSD,11.3,Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection,/paper/semantic-relation-reasoning-for-shot-stable
+23,FSOD,11.1,Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector,/paper/few-shot-object-detection-with-attention-rpn
+24,FSCE,11.1,FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding,/paper/fsce-few-shot-object-detection-via
+25,FSOD,11.0,Universal-Prototype Enhancing for Few-Shot Object Detection,/paper/universal-prototype-augmentation-for-few-shot
+26,TFA,10.0,Frustratingly Simple Few-Shot Object Detection,/paper/frustratingly-simple-few-shot-object
+27,TFA,10.0,Frustratingly Simple Few-Shot Object Detection,/paper/frustratingly-simple-few-shot-object
+28,MPSR,9.8,Multi-Scale Positive Sample Refinement for Few-Shot Object Detection,/paper/multi-scale-positive-sample-refinement-for
+29,Meta R-CNN,8.7,Meta R-CNN: Towards General Solver for Instance-Level Low-Shot Learning,/paper/meta-r-cnn-towards-general-solver-for-1
+30,MetaDet,7.1,Meta-Learning to Detect Rare Objects,/paper/meta-learning-to-detect-rare-objects
+31,MetaYOLO,5.6,Few-shot Object Detection via Feature Reweighting,/paper/few-shot-object-detection-via-feature
+32,LSTD ,3.2,LSTD: A Low-Shot Transfer Detector for Object Detection,/paper/lstd-a-low-shot-transfer-detector-for-object

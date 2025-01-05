@@ -1,0 +1,59 @@
+Rank,Model,Accuracy,Params,Top 1 Accuracy,Number of params,Paper Title,Paper URL
+1,Baseline ,91.78,,,,Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time,/paper/model-soups-averaging-weights-of-multiple
+2,"ViTAE-H
+",91.2,644000000.0,,,ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond,/paper/vitaev2-vision-transformer-advanced-by
+3,Model soups ,91.2,1843000000.0,,,Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time,/paper/model-soups-averaging-weights-of-multiple
+4,Meta Pseudo Labels ,91.12,,,,Meta Pseudo Labels,/paper/meta-pseudo-labels
+5,MAWS ,91.1,,,,The effectiveness of MAE pre-pretraining for billion-scale pretraining,/paper/the-effectiveness-of-mae-pre-pretraining-for
+6,TokenLearner L/8 ,91.05,460000000.0,,,TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?,/paper/tokenlearner-what-can-8-learned-tokens-do-for
+7,Model soups ,91.03,2440000000.0,,,Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time,/paper/model-soups-averaging-weights-of-multiple
+8,Meta Pseudo Labels ,91.02,,,,Meta Pseudo Labels,/paper/meta-pseudo-labels
+9,MAWS ,90.9,,,,The effectiveness of MAE pre-pretraining for billion-scale pretraining,/paper/the-effectiveness-of-mae-pre-pretraining-for
+10,FixEfficientNet-L2,90.9,480000000.0,,,Fixing the train-test resolution discrepancy: FixEfficientNet,/paper/fixing-the-train-test-resolution-discrepancy-2
+11,ViT-G/14,90.81,,,,Scaling Vision Transformers,/paper/scaling-vision-transformers
+12,MAWS ,90.8,,,,The effectiveness of MAE pre-pretraining for billion-scale pretraining,/paper/the-effectiveness-of-mae-pre-pretraining-for
+13,SWAG ,90.7,,,,Revisiting Weakly Supervised Pre-Training of Visual Perception Models,/paper/revisiting-weakly-supervised-pre-training-of
+14,CvT-W24 ,90.6,,87.7,277000000.0,CvT: Introducing Convolutions to Vision Transformers,/paper/cvt-introducing-convolutions-to-vision
+15,VOLO-D5,90.6,,,,VOLO: Vision Outlooker for Visual Recognition,/paper/volo-vision-outlooker-for-visual-recognition
+16,EfficientNet-L2,90.55,480000000.0,,,Self-training with Noisy Student improves ImageNet classification,/paper/self-training-with-noisy-student-improves
+17,BiT-L,90.54,928000000.0,,,Big Transfer (BiT): General Visual Representation Learning,/paper/large-scale-learning-of-general-visual
+18,VOLO-D4,90.5,,,,VOLO: Vision Outlooker for Visual Recognition,/paper/volo-vision-outlooker-for-visual-recognition
+19,CAIT-M36-448,90.2,,,,Going deeper with Image Transformers,/paper/going-deeper-with-image-transformers
+20,Mixer-H/14- 448 ,90.18,409000000.0,,,MLP-Mixer: An all-MLP Architecture for Vision,/paper/mlp-mixer-an-all-mlp-architecture-for-vision
+21,FixEfficientNet-B8,90.0,87000000.0,,,Fixing the train-test resolution discrepancy: FixEfficientNet,/paper/fixing-the-train-test-resolution-discrepancy-2
+22,SEER ,89.8,10000000000.0,,,Vision Models Are More Robust And Fair When Pretrained On Uncurated Images Without Supervision,/paper/vision-models-are-more-robust-and-fair-when
+23,FixResNeXt-101 32x48d,89.73,829000000.0,,,Fixing the train-test resolution discrepancy,/paper/fixing-the-train-test-resolution-discrepancy
+24,DeiT-B-384,89.3,86000000.0,,,Training data-efficient image transformers & distillation through attention,/paper/training-data-efficient-image-transformers
+25,BiT-M,89.02,,,,Big Transfer (BiT): General Visual Representation Learning,/paper/large-scale-learning-of-general-visual
+26,DeiT-B,88.7,86000000.0,,,Training data-efficient image transformers & distillation through attention,/paper/training-data-efficient-image-transformers
+27,Assemble-ResNet152,88.65,,,,Compounding the Performance Improvements of Assembled Techniques in a Convolutional Neural Network,/paper/compounding-the-performance-improvements-of
+28,CeiT-S ,88.1,,,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+29,Sequencer2D-L,87.9,,,,Sequencer: Deep LSTM for Image Classification,/paper/sequencer-deep-lstm-for-image-classification
+30,Mixer-H/14 ,87.86,409000000.0,,,MLP-Mixer: An all-MLP Architecture for Vision,/paper/mlp-mixer-an-all-mlp-architecture-for-vision
+31,Assemble ResNet-50,87.82,,,,Compounding the Performance Improvements of Assembled Techniques in a Convolutional Neural Network,/paper/compounding-the-performance-improvements-of
+32,NASNet-A Large,87.56,,,,Learning Transferable Architectures for Scalable Image Recognition,/paper/learning-transferable-architectures-for
+33,LeViT-384,87.5,,,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+34,CeiT-S,87.3,,,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+35,LeViT-256,86.9,,,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+36,DeiT-S,86.8,22000000.0,,,Training data-efficient image transformers & distillation through attention,/paper/training-data-efficient-image-transformers
+37,ResNet-152x2-SAM,86.4,,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+38,LeViT-192,85.8,,,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+39,ResNet50 ,85.7,25000000.0,,,ResNet strikes back: An improved training procedure in timm,/paper/resnet-strikes-back-an-improved-training
+40,LeViT-128,85.6,,,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+41,ResMLP-36,85.6,45000000.0,,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+42,ResMLP-24,85.3,30000000.0,,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+43,ViT-B/16-SAM,85.2,,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+44,ResMLP-12,84.6,15000000.0,,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image
+45,Mixer-B/8-SAM,84.4,,,,When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations,/paper/when-vision-transformers-outperform-resnets
+46,kNN-CLIP,84.0,,,,Revisiting a kNN-based Image Classification System with High-capacity Storage,/paper/revisiting-a-knn-based-image-classification
+47,CeiT-T,83.6,,,,Incorporating Convolution Designs into Visual Transformers,/paper/incorporating-convolution-designs-into-visual
+48,LeViT-128S,82.6,,,,LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference,/paper/levit-a-vision-transformer-in-convnet-s
+49,DeiT-Ti,82.1,5000000.0,,,Training data-efficient image transformers & distillation through attention,/paper/training-data-efficient-image-transformers
+50,NASNet-A Mobile,81.15,,,,Learning Transferable Architectures for Scalable Image Recognition,/paper/learning-transferable-architectures-for
+51,VGG-16 BN,80.6,,,,Very Deep Convolutional Networks for Large-Scale Image Recognition,/paper/very-deep-convolutional-networks-for-large
+52,VGG-16,79.01,,,,Very Deep Convolutional Networks for Large-Scale Image Recognition,/paper/very-deep-convolutional-networks-for-large
+53,AlexNet,62.88,,,,ImageNet Classification with Deep Convolutional Neural Networks,/paper/imagenet-classification-with-deep
+54,ViT-L @384 ,,,87.7,304000000.0,DeiT III: Revenge of the ViT,/paper/deit-iii-revenge-of-the-vit
+55,ViT-H @224 ,,,87.2,632000000.0,DeiT III: Revenge of the ViT,/paper/deit-iii-revenge-of-the-vit
+56,ViT-L @224 ,,,87.0,,DeiT III: Revenge of the ViT,/paper/deit-iii-revenge-of-the-vit
+57,ResMLP-B24/8 ,,,84.4,,ResMLP: Feedforward networks for image classification with data-efficient training,/paper/resmlp-feedforward-networks-for-image

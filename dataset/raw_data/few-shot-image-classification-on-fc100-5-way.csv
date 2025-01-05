@@ -1,0 +1,22 @@
+Rank,Model,Accuracy,Paper Title,Paper URL
+1,BAVARDAGE,57.27,Adaptive Dimension Reduction and Variational Inference for Transductive Few-Shot Classification,/paper/adaptive-dimension-reduction-and-variational
+2,EASY 2xResNet12 1/√2 ,54.47,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+3,EASY 3xResNet12 ,54.13,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+4,R2-D2+Task Aug,51.35,Task Augmentation by Rotating for Meta-Learning,/paper/task-augmentation-by-rotating-for-meta
+5,pseudo-shots,50.57,Extended Few-Shot Learning: Exploiting Existing Resources for Novel Tasks,/paper/pseudo-shots-few-shot-learning-with-auxiliary
+6,MetaOptNet-SVM+Task Aug,49.77,Task Augmentation by Rotating for Meta-Learning,/paper/task-augmentation-by-rotating-for-meta
+7,HCTransformers,48.27,Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning,/paper/attribute-surrogates-learning-and-spectral
+8,EASY 3xResNet12 ,48.07,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+9,EASY 2xResNet12 1/√2 ,47.94,EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients,/paper/easy-ensemble-augmented-shot-y-shaped
+10,Invariance-Equivariance,47.76,Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning,/paper/exploring-complementary-strengths-of
+11,FewTURE,47.68,Rethinking Generalization in Few-Shot Classification,/paper/rethinking-generalization-in-few-shot-1
+12,MetaOptNet-SVM-trainval,47.2,Meta-Learning with Differentiable Convex Optimization,/paper/meta-learning-with-differentiable-convex
+13,SKD,46.5,Self-supervised Knowledge Distillation for Few-shot Learning,/paper/self-supervised-knowledge-distillation-for
+14,MTL,45.1,Meta-Transfer Learning for Few-Shot Learning,/paper/meta-transfer-learning-for-few-shot-learning
+15,ConstellationNets,43.8,Constellation Nets for Few-Shot Learning,/paper/constellation-nets-for-few-shot-learning
+16,SSFormers,43.72,Sparse Spatial Transformers for Few-Shot Learning,/paper/sparse-spatial-transformers-for-few-shot
+17,Multi-Task Learning,42.4,Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation,/paper/bridging-multi-task-learning-and-meta
+18,ACC + Amphibian,41.6,Generalized Adaptation for Few-Shot Learning,/paper/fast-and-generalized-adaptation-for-few-shot
+19,MCRNet-SVM,41.0,Complementing Representation Deficiency in Few-shot Image Classification: A Meta-Learning Approach,/paper/complementing-representation-deficiency-in
+20,MCRNet-RR,40.7,Complementing Representation Deficiency in Few-shot Image Classification: A Meta-Learning Approach,/paper/complementing-representation-deficiency-in
+21,TADAM,40.1,TADAM: Task dependent adaptive metric for improved few-shot learning,/paper/tadam-task-dependent-adaptive-metric-for

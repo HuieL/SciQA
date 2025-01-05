@@ -1,0 +1,231 @@
+Rank,Model,FID,FD,NFE,Inception score,bits/dimension,Recall,Precision,Paper Title,Paper URL
+1,StyleSAN-XL,1.36,,1.0,,,,,SAN: Inducing Metrizability of GAN with Discriminative Normalized Linear Layer,/paper/adversarially-slicing-generative-networks
+2,PFGM++ + CS,1.5,,,,,,,Compensation Sampling for Improved Convergence in Diffusion Models,/paper/compensation-sampling-for-improved
+3,GDD-I,1.54,,1.0,10.1,,,,Diffusion Models Are Innate One-Step Generators,/paper/diffusion-models-are-innate-one-step
+4,CTM,1.63,,2.0,,2.43,,,Consistency Trajectory Models: Learning Probability Flow ODE Trajectory of Diffusion,/paper/consistency-trajectory-models-learning
+5,Discriminator Guidance,1.64,,35.0,,,,,Refining Generative Process with Discriminator Guidance in Score-based Diffusion Models,/paper/refining-generative-process-with
+6,GDD,1.66,,1.0,10.11,,,,Diffusion Models Are Innate One-Step Generators,/paper/diffusion-models-are-innate-one-step
+7,SiD ,1.71,,1.0,,,,,Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation,/paper/score-identity-distillation-exponentially
+8,CTM ,1.73,,1.0,,,,,Consistency Trajectory Models: Learning Probability Flow ODE Trajectory of Diffusion,/paper/consistency-trajectory-models-learning
+9,EDM-AOT,1.73,,29.0,,,,,Improving Diffusion-Based Generative Models via Approximated Optimal Transport,/paper/improving-diffusion-based-generative-models
+10,PFGM++,1.74,141.65,35.0,,,,,PFGM++: Unlocking the Potential of Physics-Inspired Generative Models,/paper/pfgm-unlocking-the-potential-of-physics
+11,SciRE-Solver ,1.76,,,,,,,SciRE-Solver: Accelerating Diffusion Models Sampling by Score-integrand Solver with Recursive Difference,/paper/scire-solver-efficient-sampling-of-diffusion
+12,Discriminator Guidance ,1.77,,35.0,,2.55,,,Refining Generative Process with Discriminator Guidance in Score-based Diffusion Models,/paper/refining-generative-process-with
+13,EDM-ES,1.8,,35.0,,,,,Elucidating the Exposure Bias in Diffusion Models,/paper/elucidating-the-exposure-bias-in-diffusion
+14,StyleGAN-XL,1.85,,,,,,,StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets,/paper/stylegan-xl-scaling-stylegan-to-large-diverse
+15,EDM-AOT ,1.88,,27.0,,,,,Improving Diffusion-Based Generative Models via Approximated Optimal Transport,/paper/improving-diffusion-based-generative-models
+16,STF ,1.9,,,,,,,Stable Target Field for Reduced Variance Score Estimation in Diffusion Models,/paper/stable-target-field-for-reduced-variance
+17,SiD ,1.92,,1.0,,,,,Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation,/paper/score-identity-distillation-exponentially
+18,Easy Consistency Tuning ,1.94,128.63,2.0,,,,,Consistency Models Made Easy,/paper/consistency-models-made-easy
+19,LSGM-G++ ,1.94,,138.0,,3.42,,,Refining Generative Process with Discriminator Guidance in Score-based Diffusion Models,/paper/refining-generative-process-with
+20,DiffiT,1.95,,,,,,,DiffiT: Diffusion Vision Transformers for Image Generation,/paper/diffit-diffusion-vision-transformers-for
+21,DDIM+CS,2.01,,,,,,,Compensation Sampling for Improved Convergence in Diffusion Models,/paper/compensation-sampling-for-improved
+22,PSLD ,2.1,,,9.93,,,,A Complete Recipe for Diffusion Generative Models,/paper/generative-diffusions-in-augmented-spaces-a
+23,LSGM ,2.1,,,,3.43,,,Score-based Generative Modeling in Latent Space,/paper/score-based-generative-modeling-in-latent
+24,ADM-ES,2.17,,100.0,,,,,Elucidating the Exposure Bias in Diffusion Models,/paper/elucidating-the-exposure-bias-in-diffusion
+25,Subspace Diffusion ,2.17,,,9.99,,,,Subspace Diffusion Generative Models,/paper/subspace-diffusion-generative-models
+26,LSGM ,2.17,,,,2.95,,,Score-based Generative Modeling in Latent Space,/paper/score-based-generative-modeling-in-latent
+27,NCSN++,2.2,,,9.73,,,,Score-Based Generative Modeling through Stochastic Differential Equations,/paper/score-based-generative-modeling-through-1
+28,PSLD ,2.21,,,,,,,A Complete Recipe for Diffusion Generative Models,/paper/generative-diffusions-in-augmented-spaces-a
+29,CLD-SGM ,2.23,,,,,,,Score-Based Generative Modeling with Critically-Damped Langevin Diffusion,/paper/score-based-generative-modeling-with-1
+30,StyleGAN2 + DiffAugment + D2D-CE,2.236,,,,,,,Rebooting ACGAN: Auxiliary Classifier GANs with Stable Training,/paper/rebooting-acgan-auxiliary-classifier-gans
+31,CLD-SGM ,2.25,,,,3.31,,,Score-Based Generative Modeling with Critically-Damped Langevin Diffusion,/paper/score-based-generative-modeling-with-1
+32,INDM ,2.28,,,,3.09,,,Maximum Likelihood Training of Implicit Nonlinear Diffusion Models,/paper/maximum-likelihood-training-of-implicit
+33,StyleGAN2 + ADA,2.316,,,,,,,Rebooting ACGAN: Auxiliary Classifier GANs with Stable Training,/paper/rebooting-acgan-auxiliary-classifier-gans
+34,StyleGAN2 + ADA+ D2D-CE,2.325,,,,,,,Rebooting ACGAN: Auxiliary Classifier GANs with Stable Training,/paper/rebooting-acgan-auxiliary-classifier-gans
+35,UDM ,2.33,,,,3.04,,,Soft Truncation: A Universal Training Technique of Score-based Diffusion Model for High Precision Score Estimation,/paper/score-matching-model-for-unbounded-data-score-1
+36,PFGM,2.35,,,9.68,3.19,,,Poisson Flow Generative Models,/paper/poisson-flow-generative-models
+37,BDDM,2.38,,,,,,,BDDM: Bilateral Denoising Diffusion Models for Fast and High-Quality Speech Synthesis,/paper/bddm-bilateral-denoising-diffusion-models-for-1
+38,BIGRoC ,2.41,,,10.07,,,,BIGRoC: Boosting Image Generation via a Robust Classifier,/paper/bigroc-boosting-image-generation-via-a-robust
+39,DDPM++ cont. ,2.41,,,9.83,,,,Score-Based Generative Modeling through Stochastic Differential Equations,/paper/score-based-generative-modeling-through-1
+40,DDPM++ ,2.47,,,9.78,2.91,,,Soft Truncation: A Universal Training Technique of Score-based Diffusion Model for High Precision Score Estimation,/paper/score-matching-model-for-unbounded-data-score-1
+41,LeCAM ,2.47,,,,,,,Regularizing Generative Adversarial Networks under Limited Data,/paper/regularizing-generative-adversarial-networks
+42,PD ,2.57,,8.0,,,,,Progressive Distillation for Fast Sampling of Diffusion Models,/paper/progressive-distillation-for-fast-sampling-of-1
+43,DiffuseVAE-72M,2.62,,,,,,,"DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents",/paper/diffusevae-efficient-controllable-and-high
+44,Diffusion StyleGAN2 + ADA,2.67,,,,,,,Diffusion-GAN: Training GANs with Diffusion,/paper/diffusion-gan-training-gans-with-diffusion
+45,Styleformer,2.82,,,9.94,,,,Styleformer: Transformer based Generative Adversarial Networks with Style Vector,/paper/styleformer-transformer-based-generative
+46,TDPM+ ,2.83,,100.0,,,0.58,,Truncated Diffusion Probabilistic Models and Diffusion-based Adversarial Auto-Encoders,/paper/truncated-diffusion-probabilistic-models
+47,CD ,2.93,,2.0,9.75,,,,Consistency Models,/paper/consistency-models
+48,PD ,3.0,,4.0,,,,,Progressive Distillation for Fast Sampling of Diffusion Models,/paper/progressive-distillation-for-fast-sampling-of-1
+49,SB-FBSDE,3.01,,,,2.96,,,Likelihood Training of Schrödinger Bridge using Forward-Backward SDEs Theory,/paper/likelihood-training-of-schrodinger-bridge-1
+50,Denoising Diffusion,3.17,,,9.46,3.75,,,Denoising Diffusion Probabilistic Models,/paper/denoising-diffusion-probabilistic-models
+51,Diffusion StyleGAN2,3.19,,,,,,,Diffusion-GAN: Training GANs with Diffusion,/paper/diffusion-gan-training-gans-with-diffusion
+52,INDM ,3.25,,,,3.01,,,Maximum Likelihood Training of Implicit Nonlinear Diffusion Models,/paper/maximum-likelihood-training-of-implicit
+53,PNDM,3.26,,,,,,,Pseudo Numerical Methods for Diffusion Models on Manifolds,/paper/pseudo-numerical-methods-for-diffusion-models-1
+54,Improved DDPM,3.27,,,,2.94,,,Improved Denoising Diffusion Probabilistic Models,/paper/improved-denoising-diffusion-probabilistic-1
+55,DDPM++ ,3.45,,,9.17,2.88,,,Soft Truncation: A Universal Training Technique of Score-based Diffusion Model for High Precision Score Estimation,/paper/score-matching-model-for-unbounded-data-score-1
+56,RDGAN,3.53,,,,,0.56,,Robust Diffusion GAN using Semi-Unbalanced Optimal Transport,/paper/robust-diffusion-gan-using-semi-unbalanced
+57,CD ,3.55,,1.0,9.48,,,,Consistency Models,/paper/consistency-models
+58,GENIE ,3.64,,,,,,,GENIE: Higher-Order Denoising Diffusion Solvers,/paper/genie-higher-order-denoising-diffusion
+59,DSM-ALS,3.65,,,,,,,Adversarial score matching and improved sampling for image generation,/paper/adversarial-score-matching-and-improved
+60,GENIE ,3.67,,,,,,,GENIE: Higher-Order Denoising Diffusion Solvers,/paper/genie-higher-order-denoising-diffusion
+61,DDGAN,3.75,,,9.63,,,,Tackling the Generative Learning Trilemma with Denoising Diffusion GANs,/paper/tackling-the-generative-learning-trilemma-1
+62,DiffuseVAE,3.77,,,,,,,"DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents",/paper/diffusevae-efficient-controllable-and-high
+63,GENIE ,3.94,,,,,,,GENIE: Higher-Order Denoising Diffusion Solvers,/paper/genie-higher-order-denoising-diffusion
+64,GENIE ,3.94,,,,,,,GENIE: Higher-Order Denoising Diffusion Solvers,/paper/genie-higher-order-denoising-diffusion
+65,VDM ,4.0,,,,,,,Variational Diffusion Models,/paper/variational-diffusion-models
+66,WaveDiff,4.01,,4.0,,,0.55,,Wavelet Diffusion Models are fast and scalable Image Generators,/paper/wavelet-diffusion-models-are-fast-and
+67,MHGAN,4.22,,,,,,,,
+68,DiffAugment-CR-BigGAN,4.3,,,9.17,,,,Differentiable Augmentation for Data-Efficient GAN Training,/paper/differentiable-augmentation-for-data
+69,ReACGAN,4.4,,,,,,,,
+70,GENIE ,4.49,,,,,,,GENIE: Higher-Order Denoising Diffusion Solvers,/paper/genie-higher-order-denoising-diffusion
+71,GENIE ,4.49,,,,,,,GENIE: Higher-Order Denoising Diffusion Solvers,/paper/genie-higher-order-denoising-diffusion
+72,PD ,4.51,,2.0,,,,,Progressive Distillation for Fast Sampling of Diffusion Models,/paper/progressive-distillation-for-fast-sampling-of-1
+73,ViTGAN with StyleGAN2,4.57,,,9.89,,,,ViTGAN: Training GANs with Vision Transformers,/paper/vitgan-training-gans-with-vision-transformers
+74,Blackout Diffusion,4.58,,,,,,,Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces,/paper/blackout-diffusion-generative-diffusion
+75,DiffAugment-BigGAN,4.61,,,9.16,,,,Differentiable Augmentation for Data-Efficient GAN Training,/paper/differentiable-augmentation-for-data
+76,INDM ,4.79,,,,2.97,,,Maximum Likelihood Training of Implicit Nonlinear Diffusion Models,/paper/maximum-likelihood-training-of-implicit
+77,GENIE ,5.28,,,,,,,GENIE: Higher-Order Denoising Diffusion Solvers,/paper/genie-higher-order-denoising-diffusion
+78,DiffAugment-StyleGAN2,5.79,,,9.4,,,,Differentiable Augmentation for Data-Efficient GAN Training,/paper/differentiable-augmentation-for-data
+79,CT ,5.83,,2.0,8.85,,,,Consistency Models,/paper/consistency-models
+80,GENIE ,5.97,,,,,,,GENIE: Higher-Order Denoising Diffusion Solvers,/paper/genie-higher-order-denoising-diffusion
+81,ViTGAN,6.66,,,9.3,,,,ViTGAN: Training GANs with Vision Transformers,/paper/vitgan-training-gans-with-vision-transformers
+82,LSGM ,6.89,,,,2.87,,,Score-based Generative Modeling in Latent Space,/paper/score-based-generative-modeling-in-latent
+83,MIX-BigGAN,8.17,,,9.67,,,,Lessons Learned from the Training of GANs on Artificial Datasets,/paper/lessons-learned-from-the-training-of-gans-on
+84,LeCAM ,8.46,,,,,,,Regularizing Generative Adversarial Networks under Limited Data,/paper/regularizing-generative-adversarial-networks
+85,CT ,8.7,,1.0,8.49,,,,Consistency Models,/paper/consistency-models
+86,PGMGAN,8.93,,,8.81,,,,Partition-Guided GANs,/paper/partition-guided-gans
+87,Diffusion-JEBM,8.93,,,,,,,Learning Latent Space Hierarchical EBM Diffusion Models,/paper/learning-latent-space-hierarchical-ebm
+88,BigGAN-OBRS,8.98,,,,,0.7,0.8,Optimal Budgeted Rejection Sampling for Generative Models,/paper/optimal-budgeted-rejection-sampling-for
+89,PD ,9.12,,1.0,,,,,Progressive Distillation for Fast Sampling of Diffusion Models,/paper/progressive-distillation-for-fast-sampling-of-1
+90,TransGAN,9.26,,,9.02,,,,"TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up",/paper/transgan-two-transformers-can-make-one-strong
+91,Dual-MCMC EBM,9.26,,,,,,,Learning Energy-based Model via Dual-MCMC Teaching,/paper/learning-energy-based-model-via-dual-mcmc-1
+92,Denoising Student,9.36,,,8.36,,,,Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed,/paper/knowledge-distillation-in-iterative
+93,EBM-DRL ,9.6,,,8.58,,,,Learning Energy-Based Models by Diffusion Recovery Likelihood,/paper/learning-energy-based-models-by-diffusion-1
+94,SNGAN + DGflow,9.62,,,9.35,,,,Refining Deep Generative Models via Discriminator Gradient Flow,/paper/refining-deep-generative-models-via-1
+95,CR +LT-BigGAN,9.8,,,,,,,LT-GAN: Self-Supervised GAN with Latent Transformation Detection,/paper/lt-gan-self-supervised-gan-with-latent
+96,EAGAN ,9.91,,,8.81,,,,EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs,/paper/eagan-efficient-two-stage-evolutionary
+97,EAGAN ,10.14,,,,,,,EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs,/paper/eagan-efficient-two-stage-evolutionary
+98,PPOGAN,10.7,,,8.69,,,,Improving GAN Training with Probability Ratio Clipping and Sample Reweighting,/paper/improving-gan-training-with-probability-ratio
+99,NCSNv2,10.87,,,8.4,,,,Improved Techniques for Training Score-Based Generative Models,/paper/improved-techniques-for-training-score-based
+100,StyleGAN V2,11.07,,,9.18,,,,Differentiable Augmentation for Data-Efficient GAN Training,/paper/differentiable-augmentation-for-data
+101,GENIE ,11.2,,,,,,,GENIE: Higher-Order Denoising Diffusion Solvers,/paper/genie-higher-order-denoising-diffusion
+102,E2GAN,11.26,,,8.51,,,,Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search,/paper/off-policy-reinforcement-learning-for
+103,Joint-EBM,11.34,,,8.99,,,,Learning Joint Latent Space EBM Prior Model for Multi-layer Generator,/paper/learning-joint-latent-space-ebm-prior-model-1
+104,MSGAN,11.4,,,,,,,Self-supervised GAN: Analysis and Improvement with Multi-class Minimax Game,/paper/self-supervised-gan-analysis-and-improvement-1
+105,PR-BigGAN - Recall,11.62,,,,,0.75,0.82,,
+106,aw-AutoGAN,11.82,,,9.01,,,,Adaptive Weighted Discriminator for Training Generative Adversarial Networks,/paper/adaptive-weighted-discriminator-for-training
+107,DEGAS,12.01,,,8.37,,,,DEGAS: Differentiable Efficient Generator Search,/paper/degas-differentiable-efficient-generator
+108,VAEBM w/ persistent chain,12.19,,,8.43,,,,VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models,/paper/vaebm-a-symbiosis-between-variational
+109,VAEBM w/o persistent chain,12.26,,,8.21,,,,VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models,/paper/vaebm-a-symbiosis-between-variational
+110,aw-SN-GAN,12.32,,,8.53,,,,Adaptive Weighted Discriminator for Training Generative Adversarial Networks,/paper/adaptive-weighted-discriminator-for-training
+111,AutoGAN,12.42,,,8.55,,,,AutoGAN: Neural Architecture Search for Generative Adversarial Networks,/paper/autogan-neural-architecture-search-for
+112,NDA,12.61,,,,,,,Negative Data Augmentation,/paper/negative-data-augmentation-1
+113,WGAN-ALP,12.96,,,8.34,,,,Adversarial Lipschitz Regularization,/paper/virtual-adversarial-lipschitz-regularization
+114,DDPM ,13.51,,,,3.7,,,Denoising Diffusion Probabilistic Models,/paper/denoising-diffusion-probabilistic-models
+115,GENIE ,13.9,,,,,,,GENIE: Higher-Order Denoising Diffusion Solvers,/paper/genie-higher-order-denoising-diffusion
+116,CuGAN,14.41,,,8.51,,,,Image Difficulty Curriculum for Generative Adversarial Networks (CuGAN),/paper/image-difficulty-curriculum-for-generative
+117,CR-GAN ,14.56,,,8.4,,,,Consistency Regularization for Generative Adversarial Networks,/paper/consistency-regularization-for-generative-1
+118,BigGAN,14.73,,,9.22,,,,Large Scale GAN Training for High Fidelity Natural Image Synthesis,/paper/large-scale-gan-training-for-high-fidelity
+119,SS-GAN ,15.65,,,,,,,Self-Supervised GANs via Auxiliary Rotation Loss,/paper/self-supervised-generative-adversarial
+120,PA-GAN,16.1,,,,,,,Progressive Augmentation of GANs,/paper/pa-gan-improving-gan-training-by-progressive
+121,MMD-GAN-rep,16.21,,,8.29,,,,Improving MMD-GAN Training with Repulsive Loss Function,/paper/improving-mmd-gan-training-with-repulsive
+122,SNGAN-DCD ,16.24,,,9.11,,,,Discriminator Contrastive Divergence: Semi-Amortized Generative Modeling by Exploring Energy of the Discriminator,/paper/discriminator-contrastive-divergence-semi
+123,Pi-net,16.79,,,8.49,,,,$Π-$nets: Deep Polynomial Neural Networks,/paper/-nets-deep-polynomial-neural-networks
+124,ProdPoly,16.79,,,8.49,,,,Deep Polynomial Neural Networks,/paper/deep-polynomial-neural-networks
+125,Dist-GAN,17.61,,,,,,,Dist-GAN: An Improved GAN using Distance Constraints,/paper/dist-gan-an-improved-gan-using-distance
+126,LOGAN,17.87,,,,,,,,
+127,DC-VAE,17.9,,,8.2,,,,Dual Contradistinctive Generative Autoencoder,/paper/dual-contradistinctive-generative-autoencoder-1
+128,NK-CA,18.27,,,,,,,Learning Stationary Markov Processes with Contrastive Adjustment,/paper/learning-stationary-markov-processes-with
+129,CoProGAN,19.66,,,7.71,,,,Contextual Convolutional Neural Networks,/paper/contextual-convolutional-neural-networks
+130,SRN-GANs,19.83,,,8.53,,,,Stable Rank Normalization for Improved Generalization in Neural Networks and GANs,/paper/stable-rank-normalization-for-improved
+131,PeerGAN,21.55,,,7.45,,,,DuelGAN: A Duel Between Two Discriminators Stabilizes the GAN Training,/paper/peergan-generative-adversarial-networks-with
+132,SNGAN-DCD ,21.67,,,8.54,,,,Discriminator Contrastive Divergence: Semi-Amortized Generative Modeling by Exploring Energy of the Discriminator,/paper/discriminator-contrastive-divergence-semi
+133,SN-GANs,21.7,,,8.22,,,,Spectral Normalization for Generative Adversarial Networks,/paper/spectral-normalization-for-generative
+134,NCP-VAE,24.08,,,,,,,A Contrastive Learning Approach for Training Variational Autoencoder Priors,/paper/ncp-vae-variational-autoencoders-with-noise-1
+135,WGAN-GP + TT Update Rule,24.8,,,,,,,GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium,/paper/gans-trained-by-a-two-time-scale-update-rule
+136,SN-SMMDGAN,25.0,,,7.3,,,,On gradient regularizers for MMD GANs,/paper/on-gradient-regularizers-for-mmd-gans
+137,NCSN,25.32,,,8.87,,,,Generative Modeling by Estimating Gradients of the Data Distribution,/paper/generative-modeling-by-estimating-gradients
+138,RSGAN-GP,25.6,,,,,,,The relativistic discriminator: a key element missing from standard GAN,/paper/the-relativistic-discriminator-a-key-element
+139,HingeGAN,27.12,,,,,,,Gradient penalty from a maximum margin perspective,/paper/connections-between-support-vector-machines
+140,FOGAN,27.4,,,,,,,First Order Generative Adversarial Networks,/paper/first-order-generative-adversarial-networks
+141,MSGAN,28.73,,,,,,,Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis,/paper/mode-seeking-generative-adversarial-networks
+142,WGAN-GP,29.3,,,7.86,,,,Improved Training of Wasserstein GANs,/paper/improved-training-of-wasserstein-gans
+143,QSNGAN,31.966,,,4.7128,,,,Quaternion Generative Adversarial Networks,/paper/quaternion-generative-adversarial-networks
+144,NVAE w/ flow,32.53,,,,2.91,,,NVAE: A Deep Hierarchical Variational Autoencoder,/paper/nvae-a-deep-hierarchical-variational
+145,DenseFlow-74-10,34.9,,,,2.98,,,Densely connected normalizing flows,/paper/densely-connected-normalizing-flows
+146,ACGAN,35.47,,,,,,,,
+147,ProdPoly no activation functions,40.45,,,6.95,,,,Deep Polynomial Neural Networks,/paper/deep-polynomial-neural-networks
+148,GLF+perceptual loss ,44.6,,,,,,,Generative Latent Flow,/paper/generative-latent-flow-a-framework-for-non
+149,Residual Flow,46.37,,,,3.28,,,Residual Flows for Invertible Generative Modeling,/paper/residual-flows-for-invertible-generative
+150,RESFLOW,48.29,,,,,,,,
+151,PresGAN,52.202,,,,,,,Prescribed Generative Adversarial Networks,/paper/prescribed-generative-adversarial-networks
+152,PR-BigGAN - Precision,67.03,,,,,0.22,0.9,,
+153,Feature Alignment,69.89,,,,,,,Feature Alignment as a Generative Process,/paper/feature-alignment-for-approximated
+154,LSGM ,,148.27,138.0,,,,,Score-based Generative Modeling in Latent Space,/paper/score-based-generative-modeling-in-latent
+155,StyleGAN-XL ,,204.6,1.0,,,,,StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets,/paper/stylegan-xl-scaling-stylegan-to-large-diverse
+156,Improved DDPM ,,212.3,,,,,,Improved Denoising Diffusion Probabilistic Models,/paper/improved-denoising-diffusion-probabilistic-1
+157,StyleGAN2 + ADA ,,305.92,1.0,,,,,Rebooting ACGAN: Auxiliary Classifier GANs with Stable Training,/paper/rebooting-acgan-auxiliary-classifier-gans
+158,BigGAN ,,326.66,1.0,,,,,Large Scale GAN Training for High Fidelity Natural Image Synthesis,/paper/large-scale-gan-training-for-high-fidelity
+159,ReACGAN ,,353.25,,,,,,,
+160,MHGAN ,,358.07,,,,,,,
+161,LOGAN ,,881.73,,,,,,,
+162,NVAE w/ flow ,,921.34,,,,,,NVAE: A Deep Hierarchical Variational Autoencoder,/paper/nvae-a-deep-hierarchical-variational
+163,WGAN-GP ,,1088.56,,,,,,Improved Training of Wasserstein GANs,/paper/improved-training-of-wasserstein-gans
+164,ACGAN ,,1208.26,,,,,,,
+165,RESFLOW ,,1301.38,,,,,,,
+166,Reflected Diffusion,,,,10.42,2.68,,,Reflected Diffusion Models,/paper/reflected-diffusion-models
+167,UNCSN++ ,,,,10.11,,,,Soft Truncation: A Universal Training Technique of Score-based Diffusion Model for High Precision Score Estimation,/paper/score-matching-model-for-unbounded-data-score-1
+168,VE ,,,,9.87,,,,Gotta Go Fast When Generating Data with Score-Based Models,/paper/gotta-go-fast-when-generating-data-with-score
+169,PGGAN,,,,8.8,,,,"Progressive Growing of GANs for Improved Quality, Stability, and Variation",/paper/progressive-growing-of-gans-for-improved
+170,CLC-GAN,,,,8.54,,,,Understanding and Stabilizing GANs' Training Dynamics with Control Theory,/paper/understanding-and-stabilizing-gans-training
+171,MSG-ProGAN,,,,7.92,,,,MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks,/paper/msg-gan-multi-scale-gradients-gan-for-more
+172,Splitting GAN,,,,7.9,,,,Class-Splitting Generative Adversarial Networks,/paper/class-splitting-generative-adversarial
+173,Single Classifier,,,,7.5,,,,Image Synthesis with a Single (Robust) Classifier,/paper/computer-vision-with-a-single-robust
+174,LR-GAN,,,,7.17,,,,LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation,/paper/lr-gan-layered-recursive-generative
+175,CEGAN-Ent-VI,,,,7.07,,,,Calibrating Energy-based Generative Adversarial Networks,/paper/calibrating-energy-based-generative
+176,Improved GAN,,,,6.86,,,,Improved Techniques for Training GANs,/paper/improved-techniques-for-training-gans
+177,GMAN,,,,6.0,,,,Generative Multi-Adversarial Networks,/paper/generative-multi-adversarial-networks
+178,BEGAN,,,,5.62,,,,BEGAN: Boundary Equilibrium Generative Adversarial Networks,/paper/began-boundary-equilibrium-generative
+179,ALI,,,,5.34,,,,Adversarially Learned Inference,/paper/adversarially-learned-inference
+180,i-DODE,,,,,2.42,,,Improved Techniques for Maximum Likelihood Estimation for Diffusion ODEs,/paper/improved-techniques-for-maximum-likelihood
+181,VDM,,,,,2.49,,,Variational Diffusion Models,/paper/variational-diffusion-models
+182,CR-NVAE,,,,,2.51,,,Consistency Regularization for Variational Auto-Encoders,/paper/consistency-regularization-for-variational
+183,DistAug-Sparse Transformer 152M,,,,,2.53,,,,
+184,DistAug-Sparse Transformer 58M,,,,,2.62,,,,
+185,ARDM-Upscale 4,,,,,2.64,,,Autoregressive Diffusion Models,/paper/autoregressive-diffusion-models
+186,BFN,,,,,2.66,,,Bayesian Flow Networks,/paper/bayesian-flow-networks
+187,Combiner-Axial,,,,,2.77,,,Combiner: Full Attention Transformer with Sparse Computation Cost,/paper/combiner-full-attention-transformer-with
+188,Transformer+SSA,,,,,2.774,,,The Information Pathways Hypothesis: Transformers are Dynamic Self-Ensembles,/paper/the-information-pathways-hypothesis
+189,Sparse Transformer 59M ,,,,,2.8,,,Generating Long Sequences with Sparse Transformers,/paper/190410509
+190,δ-VAE,,,,,2.83,,,Preventing Posterior Collapse with delta-VAEs,/paper/preventing-posterior-collapse-with-delta-vaes
+191,Very Deep VAE,,,,,2.87,,,Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images,/paper/very-deep-vaes-generalize-autoregressive-1
+192,Efficient-VDVAE,,,,,2.87,,,Efficient-VDVAE: Less is more,/paper/efficient-vdvae-less-is-more
+193,Combiner-Mixture,,,,,2.885,,,Combiner: Full Attention Transformer with Sparse Computation Cost,/paper/combiner-full-attention-transformer-with
+194,Image Transformer,,,,,2.89,,,Image Transformer,/paper/image-transformer
+195,"Locally Masked PixelCNN, 8 orders",,,,,2.89,,,Locally Masked Convolution for Autoregressive Models,/paper/locally-masked-convolution-for-autoregressive
+196,PixelVAE++ Sadeghi et al. ,,,,,2.9,,,PixelVAE++: Improved PixelVAE with Discrete Prior,/paper/pixelvae-improved-pixelvae-with-discrete
+197,Routing Transformer ,,,,,2.95,,,Efficient Content-Based Sparse Attention with Routing Transformers,/paper/efficient-content-based-sparse-attention-with-1
+198,VFlow,,,,,2.98,,,VFlow: More Expressive Generative Flows with Variational Data Augmentation,/paper/vflow-more-expressive-generative-flows-with
+199,PixelRNN,,,,,3.0,,,Pixel Recurrent Neural Networks,/paper/pixel-recurrent-neural-networks
+200,Gated PixelCNN,,,,,3.03,,,Conditional Image Generation with PixelCNN Decoders,/paper/conditional-image-generation-with-pixelcnn
+201,ANF Huang et al. ,,,,,3.05,,,Augmented Normalizing Flows: Bridging the Gap Between Generative Flows and Latent Variable Models,/paper/augmented-normalizing-flows-bridging-the-gap
+202,Flow++,,,,,3.08,,,Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design,/paper/flow-improving-flow-based-generative-models
+203,BIVA Maaloe et al. ,,,,,3.08,,,BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling,/paper/biva-a-very-deep-hierarchy-of-latent
+204,VAE with IAF,,,,,3.1,,,Improved Variational Inference with Inverse Autoregressive Flow,/paper/improved-variational-inference-with-inverse
+205,PixelCNN,,,,,3.14,,,Pixel Recurrent Neural Networks,/paper/pixel-recurrent-neural-networks
+206,MaCow ,,,,,3.16,,,MaCow: Masked Convolutional Generative Flow,/paper/macow-masked-convolutional-generative-flow
+207,EBM-DRL ,,,,,3.18,,,Learning Energy-Based Models by Diffusion Recovery Likelihood,/paper/learning-energy-based-models-by-diffusion-1
+208,MALI,,,,,3.27,,,MALI: A memory efficient and reverse accurate integrator for Neural ODEs,/paper/mali-a-memory-efficient-and-reverse-accurate-1
+209,Glow with resampled base distribution,,,,,3.282,,,Resampling Base Distributions of Normalizing Flows,/paper/resampling-base-distributions-of-normalizing
+210,Performer ,,,,,3.31,,,Rethinking Attention with Performers,/paper/rethinking-attention-with-performers
+211,MintNet,,,,,3.32,,,MintNet: Building Invertible Neural Networks with Masked Convolutions,/paper/mintnet-building-invertible-neural-networks
+212,Performer ,,,,,3.335,,,Rethinking Attention with Performers,/paper/rethinking-attention-with-performers
+213,Glow ,,,,,3.35,,,Glow: Generative Flow with Invertible 1x1 Convolutions,/paper/glow-generative-flow-with-invertible-1x1
+214,DVAE++ Vahdat et al. ,,,,,3.38,,,DVAE++: Discrete Variational Autoencoders with Overlapping Transformations,/paper/dvae-discrete-variational-autoencoders-with-1
+215,RNODE,,,,,3.38,,,How to train your neural ODE: the world of Jacobian and kinetic regularization,/paper/how-to-train-your-neural-ode
+216,FFJORD,,,,,3.4,,,FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models,/paper/ffjord-free-form-continuous-dynamics-for
+217,i-ResNet,,,,,3.45,,,Invertible Residual Networks,/paper/invertible-residual-networks
+218,RIDE,,,,,3.47,,,Generative Image Modeling Using Spatial LSTMs,/paper/generative-image-modeling-using-spatial-lstms
+219,Real NVP ,,,,,3.49,,,Density estimation using Real NVP,/paper/density-estimation-using-real-nvp
+220,Real NVP,,,,,3.5,,,Density estimation using Real NVP,/paper/density-estimation-using-real-nvp
+221,VAE+RealNVP,,,,,3.51,,,Super-resolution Variational Auto-Encoders,/paper/super-resolution-variational-auto-encoders
+222,MRCNF,,,,,3.54,,,Multi-Resolution Continuous Normalizing Flows,/paper/multi-resolution-continuous-normalizing-flows
+223,Conv DRAW,,,,,3.58,,,Towards Conceptual Compression,/paper/towards-conceptual-compression
+224,srVAE,,,,,3.65,,,Super-resolution Variational Auto-Encoders,/paper/super-resolution-variational-auto-encoders
+225,Axial Transformer ,,,,,3.666,,,Axial Attention in Multidimensional Transformers,/paper/axial-attention-in-multidimensional-1
+226,Deep GMM,,,,,4.0,,,Factoring Variations in Natural Images with Deep Gaussian Mixture Models,/paper/factoring-variations-in-natural-images-with
+227,DRAW,,,,,4.1,,,DRAW: A Recurrent Neural Network For Image Generation,/paper/draw-a-recurrent-neural-network-for-image
+228,Logsparse ,,,,,4.253,,,Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting,/paper/enhancing-the-locality-and-breaking-the
+229,NICE,,,,,4.48,,,Pixel Recurrent Neural Networks,/paper/pixel-recurrent-neural-networks
+230,NICE,,,,,4.5,,,NICE: Non-linear Independent Components Estimation,/paper/nice-non-linear-independent-components
